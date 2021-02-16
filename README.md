@@ -23,3 +23,6 @@ The purpose of this toolkit is to provide country governments and UN-affiliated 
 9. **Scalability**: What are factors to consider in a DPG for a government to understand its scalability? What other specific operational efforts are needed from the government in order to scale a DPG according to the Principles of Digital Development, including partnerships, engaging citizens, and leveraging existing resources? 
 
  
+## Background:  
+
+This toolkit is a project of the Digital Public Goods Alliance, launched with the aim of accelerating attainment of the Sustainable Development Goals in low- and middle-income countries by facilitating the discovery, development, use of, and investment in digital public goods. The Alliance, supported by the UN Secretary’s Roadmap for Digital Cooperation, defines digital public goods as: “open source software, open data, open AI models, open standards and open content that adhere to privacy and other applicable best practices, do no harm and are of high relevance for attainment of the UN’s 2030 Sustainable Development Goals (SDGs).” 
