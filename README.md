@@ -29,20 +29,25 @@ This toolkit is a project of the Digital Public Goods Alliance, launched with th
 
 ## About the Toolkit: 
 
-    1. It builds on and refers to existing tools as much as possible (vs creating new elements) 
-    2. It consists of individual modules that could act as stand-alone documents including: 
-        * A higher-level introduction to DPGs and success cases:
-             * The potential benefits that Open-Source technologies will bring citing relevant evidence 
-             * Case Studies of Successful DPGs implemented in countries and why they were successful 
-        * A toolkit of resources that guide in the operations of deploying DPGs including:
-             * Guides and recommendations for creating a policy environment and structures needed for deploying and scaling open-source solutions, including cybersecurity,  data privacy and protection 
-             * Frameworks and Tools for evaluating the value and costs of digital public goods, including frameworks to estimate the value of a DPG such as “social return on investment”, frameworks to evaluate both the development and ongoing costs of a DPG 
-             * Readiness for a digital public good to be adopted at the country-level 
-             * Recommendations for structuring a procurement process that is suitable for open source solutions 
-             * Options for financing digital pubic goods as well as the related pros and cons
-             * Guidance and frameworks for governments on developing relevant internal capacity within in order to scale DPGs, including the need to maintain quality 
-             * A “government adoptability” tool for governments to assess the maturity and readiness for a digital public good to be adopted at the country-level 
-    3. It is action oriented and references theory and evidence for further review  
-    4. It is written in an accessible language directed at governments, UN counterparts and other relevant agencies 
-    5. It is formatted  in a way such that it could be transformed into modular, interactive online website that will be user-friendly and easy to navigate.  
-    6. It is made open source and/or published under Creative Commons – Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) where possible and unless otherwise specified 
+1. It builds on and refers to existing tools as much as possible (vs creating new elements) 
+
+2. It consists of individual modules that could act as stand-alone documents including: 
+    * A higher-level introduction to DPGs and success cases:
+        * The potential benefits that Open-Source technologies will bring citing relevant evidence 
+        * Case Studies of Successful DPGs implemented in countries and why they were successful 
+    * A toolkit of resources that guide in the operations of deploying DPGs including:
+        * Guides and recommendations for creating a policy environment and structures needed for deploying and scaling open-source solutions, including cybersecurity,  data privacy and protection 
+        * Frameworks and Tools for evaluating the value and costs of digital public goods, including frameworks to estimate the value of a DPG such as “social return on investment”, frameworks to evaluate both the development and ongoing costs of a DPG 
+        * Readiness for a digital public good to be adopted at the country-level 
+        * Recommendations for structuring a procurement process that is suitable for open source solutions 
+        * Options for financing digital pubic goods as well as the related pros and cons
+        * Guidance and frameworks for governments on developing relevant internal capacity within in order to scale DPGs, including the need to maintain quality 
+        * A “government adoptability” tool for governments to assess the maturity and readiness for a digital public good to be adopted at the country-level 
+
+3. It is action oriented and references theory and evidence for further review  
+
+4. It is written in an accessible language directed at governments, UN counterparts and other relevant agencies 
+
+5. It is formatted  in a way such that it could be transformed into modular, interactive online website that will be user-friendly and easy to navigate.  
+
+6. It is made open source and/or published under Creative Commons – Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) where possible and unless otherwise specified 
