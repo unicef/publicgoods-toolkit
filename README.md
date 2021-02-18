@@ -22,6 +22,8 @@ The purpose of this toolkit is to provide country governments and UN-affiliated 
 
 9. **Scalability**: What are factors to consider in a DPG for a government to understand its scalability? What other specific operational efforts are needed from the government in order to scale a DPG according to the Principles of Digital Development, including partnerships, engaging citizens, and leveraging existing resources? 
 
+*Refer to the [Resources](resources.md) page for a backlog list of potential resources that may be included in the toolkit.* 
+ 
  
 ## Background: 
 
