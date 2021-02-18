@@ -27,8 +27,8 @@ The following is a list of resources gathered that may be referenced in the tool
   
 ## Guidance and frameworks for governments on developing relevant internal capacity within in order to scale DPGs
 
-  * *SDG Digital Investment Framework: A Whole-of-Government Approach to Investing in Digital Technologies to Achieve the SDGs* 
-  * *Building and Reusing Open Source Tools for Government*. (New America) - A Best Practices Guide for Building and Reusing OS in Government
+  * [SDG Digital Investment Framework: A Whole-of-Government Approach to Investing in Digital Technologies to Achieve the SDGs](https://digitalimpactalliance.org/research/sdg-digital-investment-framework/) 
+  * [Building and Reusing Open Source Tools for Government](https://www.newamerica.org/digital-impact-governance-initiative/reports/building-and-reusing-open-source-tools-government/). (New America) - A Best Practices Guide for Building and Reusing OS in Government
   * [10 Principles for Building a Digital Government Stack](https://www.newamerica.org/digital-impact-governance-initiative/reports/digital-government-mapping-project/10-principles-for-building-a-digital-government-stack)
   * [Organizational Guide to ICT4D: Leveraging Technology for International Development]( https://www.crs.org/our-work-overseas/research-publications/organizational-guide-ict4d): This guide is designed to help organizations adopt processes, build knowledge, and ultimately develop solutions that are guided by the Principles for Digital Development. TOC includes: Transformative Power of ICT, Organizational Change, Knowledge Exchange, Build a Portfolio, Manage Processes, Develop an Advisory Service.
   * [Toolkit: Digital Government Urgency, Readiness and Maturity Assessment](https://oecd-opsi.org/toolkits/digital-government-urgency-readiness-and-maturity-assessment/), Observatory of Public Sector Innovation, OECD.  The *Toolkit: Digital Government Urgency, Readiness and Maturity Assessment* helps public sector entities assess urgency for digital transformation and evaluate their organizational readiness and maturity.
