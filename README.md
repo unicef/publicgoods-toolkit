@@ -1,4 +1,4 @@
-# Operational Toolkit
+# Digital Public Goods Toolkit
 
 [![CC BY-SA 4.0][cc-by-sa-shield]](LICENSE)
 
