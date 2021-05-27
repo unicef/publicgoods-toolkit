@@ -1,11 +1,11 @@
 * Introduction
-  - A Brief History of Open
+  - A Brief History of Open Licensing
   - Types of Digital Public Goods
-    + Software
-    + Standards
-    + Media Content
-    + User-Generated Data
-    + Machine-Learning Models
+    + Open-source software
+    + Open standards
+    + Open content
+    + Open data
+    + Open AI models
   - Major Software Licenses and License Categories
 
 * Community And Ecosystem
