@@ -1,6 +1,6 @@
 # Digital Public Goods Toolkit
 
-[![CC BY-SA 4.0][cc-by-sa-shield]](LICENSE)
+[![CC BY-SA 4.0][cc-by-sa-shield]](LICENSE.md)
 
 
 The [UNICEF Office of Innovation](https://www.unicef.org/innovation/) will be working with a research consultancy firm to research and synthesize resources to produce an “Operational Toolkit” including detailed and evidence based recommendations for implementing [Digital Public Goods](https://github.com/unicef/publicgoods-candidates) (DPGs) at the country level. 
@@ -60,9 +60,9 @@ This toolkit is the work of the [UNICEF Office of Innovation](https://www.unicef
 
 ## :memo: License
 
-This repository is primarily content, and it is licensed under a [Creative Commons Attribution ShareAlike 4.0 International License](LICENSE).
+This repository is primarily content, and it is licensed under a [Creative Commons Attribution ShareAlike 4.0 International License](LICENSE.md).
 
-[![CC BY-SA 4.0][cc-by-sa-image]](LICENSE)
+[![CC BY-SA 4.0][cc-by-sa-image]](LICENSE.md)
 
 > This is a human-readable summary of (and not a substitute for) the license.
 > 
