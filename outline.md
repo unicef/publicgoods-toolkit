@@ -41,12 +41,12 @@
 
 * Procurement
   - Finding Existing DPGs
-  - Minimum Requirements for DPG-enabled Procurement
   - Modular Contracting
   - IP Contract Terms
   - Open Source Quality Assurance
   - Staffing
   - Open Source Solicitation
+  - Procurement Recommendations Checklist
 
 * Adoptability Assessment
   - Security
@@ -60,6 +60,7 @@
     + Third-party and after-market documentation
   - Commercial Support Availability
   - Non-Commercial Support Availability
+  - Internal Capacity Assessment
   - Influence, Participation, and Investment
   - Landscape Analysis / Mapping Technical Capacity and Gaps
   - Evaluation Checklist
