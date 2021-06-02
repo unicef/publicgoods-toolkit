@@ -40,6 +40,8 @@
   - Climbing The Readiness Curve
 
 * Procurement
+  - Finding Existing DPGs
+  - Minimum Requirements for DPG-enabled Procurement
   - Modular Contracting
   - IP Contract Terms
   - Open Source Quality Assurance
@@ -59,4 +61,5 @@
   - Commercial Support Availability
   - Non-Commercial Support Availability
   - Influence, Participation, and Investment
+  - Landscape Analysis / Mapping Technical Capacity and Gaps
   - Evaluation Checklist
