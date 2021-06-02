@@ -38,6 +38,7 @@
       - Licensing
       - Technical
   - Climbing The Readiness Curve
+  - DPGs and Inter-Agency Communication
 
 * Procurement
   - Finding Existing DPGs
