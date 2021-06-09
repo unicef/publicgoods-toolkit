@@ -33,20 +33,26 @@ specific projecst.
 
 There are several readiness models that go by various names.
 Practitioners often describe climbing the "readiness ladder."
-Microsoft's Jeff McAffer sees common patterns in an "engagement
-model."  GitHub has sketched a "maturity model" as the start of a
-discussion on readiness (https://github.com/github/maturity-model).
-Similarly, Wikipedia reproduces an interesting model from Qalipso
-(https://en.wikipedia.org/wiki/OpenSource_Maturity_Model).  Another
-commentator, Stephen Walli, depicts the readiness journey as one of
-maturation toward adulthood
-(https://opensource.com/life/15/4/what-does-an-adult-look-like-in-an-open-source-community)
-There are a number of such models, and it is often worth considering
-more than one when examining an organization.  Of the published
-models, we find McAffer's in particular is useful because it includes
-strategic components.  It accounts for realistic failure modes, and
-understands that open source readiness will be unevenly distributed in
-any agency large enough to have multiple teams.
+
+ * [TODO Group model](https://github.com/todogroup/ospo101/blob/main/module2/README.md#climbing-the-open-source-ladder)
+
+ * [Jeff McAffer's Engagement Model](https://mcaffer.com/2019/02/Open-source-engagement)
+
+ * [GitHub's Maturity Model](https://github.com/github/maturity-model)
+
+ * [Qalipso's Model](https://en.wikipedia.org/wiki/OpenSource_Maturity_Model)
+
+ * [Stephen Walli's Maturation Toward Adulthood](https://opensource.com/life/15/4/what-does-an-adult-look-like-in-an-open-source-community)
+
+ * [FinOS Open Source Ladder](https://www.finos.org/hubfs/FINOS/website/pages/community/Open%20Source%20Readiness%20Roadmap%20-%203.10.2018.png)
+
+As you can see, there are a number of such models.  It is often worth
+considering more than one when examining an organization or a
+particular team.  Of the published models, we find McAffer's in
+particular is useful because it includes strategic components.  It
+accounts for realistic failure modes, and understands that open source
+readiness will be unevenly distributed in any agency large enough to
+have multiple teams.
 
 
 FURTHER READING Microsoft Senior Director Jeff McAffer has published a
@@ -132,8 +138,8 @@ fail.  In some agencies, some might even sabotage open source projects
 for policy or political reasons.
 
 McAffer sees this phase as one of hype, and perhaps that's because
-it's also when an organization embraces open source without quite
-being ready to execute.  Firms in this phase tend to engage FOSS in
+it's also when an agnecy embraces open source without quite being
+ready to execute.  Agencies in this phase tend to engage FOSS in
 shallow, unsophisticated ways simply because they don't yet have the
 experience to make better strategic use of open source opportunities.
 The way to move past this stage is not to reduce the hype (though that
@@ -152,9 +158,24 @@ compensation guidance as both skills and performance evaluation
 criteria shift.  Building internal systems that provide all of those
 pieces is how agencies gain proficiency.  Adding skills, process, and
 policy is how that happens, and it requires management approval and
-resources.  Organizations that fail to provide this support from
-fairly high in the organization tend to level off at this level of
-readiness.
+resources.  Agencies that fail to provide this support from fairly
+high in the organization tend to level off at this level of readiness.
+
+Another consideration for agencies climbing the readiness ladder is
+that the need for skilled open source practitioners will almost always
+exceed the supply.  The demand for open source skills is growing so
+fast, the world does not have enough experienced open source
+strategists and developers to keep up.  A number of companies and
+universities have decided to address this problem by centralizing much
+of their open source expertise in an Open Source Programs Office
+(OSPO).  The OSPO's job is to use that collected expertise to improve
+open source readiness and efficacy across the entire organization.  We
+are not aware of any agencies that have an OSPO, but governments
+should consider focusing open source readiness efforts on one agency
+or department that can then help others.  In the United States, the
+federal government did this with 18F, which, after reaching relatively
+high levels of open source capability and knowledge, has developed
+guidance for other agencies approaching open source.
 
 All of the above describes a path from the very beginning toward
 eventual mastery of open source.  In this section, the discussion
