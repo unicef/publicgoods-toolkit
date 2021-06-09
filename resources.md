@@ -12,7 +12,7 @@ The following is a list of resources gathered that may be referenced in the tool
   * [Open Source in the Field: Two Cases from Open Data Kit](https://digitalimpactalliance.org/open-source-field-two-case-studies-open-data-kit-odk/) 
   * [DHIS2: The Tool to Improve Health Data Demand and Use in Kenya](https://www.researchgate.net/publication/269871629_DHIS2_The_Tool_to_Improve_Health_Data_Demand_and_Use_in_Kenya) 
   * [Open Source Software Finds its Sweet Spot in the Public Sector](https://www.publicsectorexecutive.com/Public-sector-focus/open-source-software-finds-its-sweet-spot-in-the-public-sector-) 
-  * [Successful investment strategy of GeoNode](https://opendri.org/wp-content/uploads/2017/03/OpenDRI-and-GeoNode-a-Case-Study-on-Institutional-Investments-in-Open-Source.pdf)
+  * [OpenDRI & GeoNode: A Case Study on Institutional Investments in Open Source](https://opendri.org/wp-content/uploads/2017/03/OpenDRI-and-GeoNode-a-Case-Study-on-Institutional-Investments-in-Open-Source.pdf)
   * **Accelerated Digitalization: Estonian e-Government Ecosystem. Foundation, applications, outcomes.** Kristjan Vassil. Institute of Government and Politics. University of Tartu (June 2015). The purpose of this report is to analyze how and which policies, institutions, technologies and other factors have contributed to the development of a vibrant e- government ecosystem in Estonia; Understand which e-services have attracted the widest usage and render highest fiscal returns as well as efficiency to the government; Investigate the impact of top e-services on the digital development of the country, as well as individual level behavior.
   
 ## Policy Environment
