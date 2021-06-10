@@ -1,14 +1,66 @@
 # Introduction
 
-## A Brief History of Open Licensing
+## A Brief History of Open Source Collaboration
 
-## Types of Digital Public Goods
+Software has always been shared.  Few significant software development
+efforts have ever been solo acts.  Early programmers tended to be
+quite free with their code.  And in a time when a computer weighed
+more than a car and cost more than a truck, nobody worried too much
+about restricting the instructions necessary to drive them.  Copyright
+existed, but historical evidence suggests that nobody paid much
+attention to it except the lawyers.
 
-### Open Source Software
-### Open standards
-### Open content
-### Open data
-### Open AI models
+All of this early sharing contained the seeds of open source, but the
+specific type of distributed collaboration we recognize today didn't
+quite exist yet.  Sharing and improvements were ad-hoc.  Process was
+idiosyncratic.  We simply didn't have the technology to share software
+and collaboration as fluidly as we do now.  Software wasn't as
+portable.  It was often tied quite closely to the machine on which it
+was written.  We didn't have the internet, websites, bug trackers,
+distributed version control.  By today's standards, software
+collaboration was relatively inefficient and unreliable.
+
+Over time, that began to change.  Much software became portable across
+architectures, which made it more valuable.  More to the point, it
+sometimes made one company's software valuable to its competitors.  To
+manage this situation, companies began to get serious about their
+copyrights.  Suddenly, the software that had been the subject of so
+much free (though clunky) collaboration became more difficult to work
+on because of copyright.
+
+In order to restore that previous collaborative dynamic, some
+developers began to share software under a new type of license that
+encouraged sharing instead of discouraging it.  Later, people wrote
+more licenses in the same vein.  They also developed technology and
+practices that made it easier to collaborate across distance,
+boundaries, and time.
+
+At some point, those collaborative practices and the licenses designed
+for sharing became known as "Free" or "Open Source".  In the decades
+since, software made with these methods has taken over the world.
+Every major consumer electronics product has at least some open source
+software inside it.  It is increasingly rare to find any electronic
+device of significant complexity that is wholly proprietary.
+
+As open open source software spreads through the technology world
+sector by sector, it has inspired open movements in adjacent fields
+and even distant domains.  In this set of modules, we will focus on
+open source software and related "digital public goods".  These are
+digital products that are freely shared in ways that invite
+permissionless copying and collaboration.
+
+The focus on DPGs necessarily excludes a variety of sectors that have
+also seen "open" progress.  Open hardware, open government, and open
+organizations are all interesting applications of the original open
+source vision.  Any government agency interested in DPGs might also be
+interested in those topics.  They are not DPGs, though, so this set of
+modules will not cover them.  Instead, we focus on:
+
+ * Open Source Software
+ * Open standards
+ * Open content
+ * Open data
+ * Open AI models
 
 ## Major Software Licenses and License Categories
 
