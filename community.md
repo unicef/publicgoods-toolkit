@@ -24,42 +24,59 @@ people who make up the project.
 
 ## Project Archetypes
 
-People sometimes expect all open source projects to operate in roughly
-the same way and to have similar non-technical priorities: e.g.,
-smoothly bringing new contributors on board, making decisions
-collectively, keeping APIs (TBD: ref the API appendix in
-'adoptability'; possibly move that appendix to somewhere else too)
-stable, having a regular release schedule, etc.
+One of the most important skills for agencies exploring open source is
+understanding existing ecosystems and their project's place within
+them.  In order to plan a project that builds on or collaborates with
+other open source efforts, agencies must know their own projects and
+also know what to expect from other community participants.
 
-In fact, however, open source projects operate in many different ways.
-You don't have to know all of those ways intimately to be able to
-interact well with a given open source project, or to use a DPG based
-on that project.  Just knowing how much projects can differ will help
-you stay alert to the possibility that the community behind one DPG
-may operate very differently from the community behind another.
+Open source projects operate in many different ways.  Experienced open
+source practitioners build nuanced open source strategies by
+pattern-matching against other open source projects.  They use those
+patterns to understand their own projects and also the other open
+source efforts around them.  Practitioners with a lot of experience
+have seen many different types of projects succeed and fail in all
+kinds of situations.  Less experienced practitioners pattern match
+against a smaller set, which is to say they might have only one or a
+small handful of open source approaches and find it difficult to
+perform nuanced analysis.
 
-We have identified a set of commonly-encountered "open source project
-archetypes", listed below.  This does not mean that a given project
-will fit perfectly and precisely into one of these archetypes, nor
-does it mean that a project reflects the same archetype(s) for its
-entire history -- transitions happen all the time.  But when you're
-trying to understand how a project works and what its participants'
-motivations are, familiarity with these archetypes may help you more
-quickly come to that understanding.
+Mozilla identified this experience gap as a general problem in open
+source, and developed a set of open source project archetypes to give
+practitioners more patterns to match against.  A given project won't
+necessarily fit perfectly into one of these archetypes, and a project
+might not reflect the same archetype(s) for its entire history --
+transitions happen all the time.  In some projects, one sees multiple
+archetypes at work or even different sets of participants pushing the
+project toward separate archetypal practices.  
 
-From [Open Source Archetypes: A Framework For Purposeful Open
-Source](https://opentechstrategies.com/archetypes) (and see also the
-quick-reference chart [Archetypes at a
-Glance](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2-quick-ref.pdf)):
+The purpose of the archetypes is to lead people away from generic open
+source thinking and toward considering in more detail the behaviors
+and dynamics their open source investment seeks to create.  Each
+archetype tends toward typical strategies, and categorizing projects
+by archetype can help in predicting behavior.  Similarly, where the
+strategies deviate, we can usually find deviation from the archetype
+too.  The more specific you are about what you want from open source
+in your particular context, the more you will be able to look for
+patterns and practices in successful open source projects that operate
+in similar contexts.
 
-* "Wide Open"
+A complete discussion of each archetype is available in Mozilla's
+report.  Below are just their names and brief descriptions, from which
+one might draw some ideas of pattern each one represents.  (The [full
+report is here](https://opentechstrategies.com/archetypes), and there
+is also a [quick-reference
+chart](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2-quick-ref.pdf)
+available.)
+
+* [Wide Open](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf#section*.13)
 
   The project intends large-scale collaboration and is willing to slow
   down certain aspects of development in order to scale up the number
   of contributors, increase the diversity of contribution sources, and
   take more points of view into account.
 
-* "Rocket Ship to Mars"
+* [Rocket Ship to Mars](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf#section*.10)
 
   The project is driven by a small, tightly-focused core team that
   knows exactly where it's going.  If you want to go there too, you
@@ -68,7 +85,7 @@ Glance](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v
   roadmaps, unplanned features, or unsolicited goals.  This archetype
   is often found in funded projects that are in their early stages.
 
-* "B2B Open Source"
+* [B2B Open Source](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf#section*.8)
 
   The project is sponsored and largely driven by a commercial
   organization, and is aimed at users who are also commercial
@@ -76,13 +93,13 @@ Glance](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v
   interest in a product based on the project, or may have a strategic
   interest (for example, undermining a competitor's product).
 
-* "Specialty Library"
+* [Specialty Library](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf#section*.15)
 
   The project's goal is to provide a high-quality solution to narrow
   and specific problem.  Meaningful participation requires familiarity
   with that problem and with the project's solution.
 
-* "Multi-Vendor Infrastructure"
+* [Multi-Vendor Infrastructure](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf#section*.9)
 
   When a number of commercial organizations share a common need, it
   makes sense for them to pool their resources into one open source
@@ -92,7 +109,7 @@ Glance](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v
   (See [Spot The Pattern:
   Commoditization](https://blog.opentechstrategies.com/2019/10/commoditization/).)
 
-* "Mass Market"
+* [Mass Market](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf#section*.14)
 
   An open source project aimed at very broad user adoption (for
   example, Mozilla Firefox).  Mass Market projects often have
@@ -102,7 +119,7 @@ Glance](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v
   the user base trying to file bug reports or send in improvements can
   be overwhelming if you have millions of users.
 
-* "Upstream Dependency"
+* [Upstream Dependency](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf#section*.17)
 
   A project that serves as a dependency to a wide variety of other
   projects.  Many of the common web-development Javascript libraries
@@ -112,7 +129,7 @@ Glance](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v
   decision-making, thus reducing the need for highly structured
   governance.
 
-* "Trusted Vendor"
+* [Trusted Vendor](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf#section*.16)
 
   A commercial organization with unique expertise may sometimes
   maintain an open source project that simultaneously serves to
@@ -121,7 +138,7 @@ Glance](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v
   projects is sometimes equivalent to interaction with that particular
   vendor.
 
-* "Controlled Ecosystem"
+* [Controlled Ecosystem](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf#section*.12)
 
   This is most often seen with highly extensible software: a dominant
   company maintains the core project (and a corresponding product from
@@ -136,7 +153,7 @@ Glance](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v
 
   (TBD: ref "Extensibility" section in Adoptability module.)
 
-* "Single Maintainer Houseplant"
+* [Single Maintainer Houseplant](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf#section*.11)
 
   A single person started the project, has maintained it all along,
   and either has not wanted to or has not been able to expand its
@@ -144,12 +161,91 @@ Glance](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v
   exists, it is perhaps overrepresented in writings and public
   discussion about open source.)
 
-* "Bathwater"
+* [Bathwater](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf#section*.18)
 
   A project whose source code has been published under an open source
   license, but which is now being ignored by its original authors.
   The code was thrown over the wall, as the saying goes, and it is
   there for anyone else to pick up if they want.
+
+(TBD: We could instead link to the briefer slide-presentation summary for each archetype.  For reference, those are
+* [Rocket Ship to Mars](https://opentechstrategies.com/files/presentations/2018-finos/finos-presentation.html\#(8))
+* [Wide Open](https://opentechstrategies.com/files/presentations/2018-finos/finos-presentation.html\#(3))
+* [B2B Open Source](https://opentechstrategies.com/files/presentations/2018-finos/finos-presentation.html\#(4))
+* [Specialty Library](https://opentechstrategies.com/files/presentations/2018-finos/finos-presentation.html\#(9))
+* [Multi-Vendor Infrastructure](https://opentechstrategies.com/files/presentations/2018-finos/finos-presentation.html\#(5))
+* [Mass Market](https://opentechstrategies.com/files/presentations/2018-finos/finos-presentation.html\#(10))
+* [Upstream Dependency](https://opentechstrategies.com/files/presentations/2018-finos/finos-presentation.html\#(6))
+* [Trusted Vendor](https://opentechstrategies.com/files/presentations/2018-finos/finos-presentation.html\#(11))
+* [Controlled Ecosystem](https://opentechstrategies.com/files/presentations/2018-finos/finos-presentation.html\#(7))
+* [Bathwater](https://opentechstrategies.com/files/presentations/2018-finos/finos-presentation.html\#(12))
+.)
+
+### Identifying Archetypes In Your Community
+
+The most common archetype we observe in the wild is the "Wide Open"
+project.  This is normally what people think of when they imagine an
+open source project.  Wide Open projects take all comers and try to
+gather as much dev momentum as they can.  They skew toward shared
+governance models and cultivate a welcoming, inclusive air.  This
+approach is popular for a reason--- it's a pretty good default
+starting point for a lot of projects, especially government-led open
+source.
+
+But not all projects fit that mold.  Sometimes you want to build an
+open source ecosystem and absolutely must retain a strong, controlling
+position to achieve the policy goals that drive your open source work.
+In industry, we see that, for example, with Google's Android work.
+There, one company makes the majority of the investment, and benefits
+by steering the majority of the mobile market to its products,
+services, and advertising network.
+
+In Android's case, the additive value of individual additional
+contributors to the ecosystem is fairly low.  It's not worth giving up
+control to gain those contributions.  A Wide Open approach doesn't fit
+Google's strategic need.  Instead, one can classify that project as
+B2B Open Source, which is a much less inviting model.
+
+Archetypes help us identify that Android is not like a stereotypical
+open source project.  They allow us to see its actual behavior.  That
+reveals something about Android's strategy and helps us form credible
+expectations about how the project will behave in the future.  It
+would be disastrous, for example, to build a product strategy that
+depends on being able to have any influence on Android's road map or
+feature set.  Anybody who misidentifies Google's strategy on that
+point (and there have been a few) is defeated before they write a
+single line of code.
+
+Although government agencies can expect to find the full range of
+archetypes among the projects it encounters, its own projects will
+tend to fall into just a few categories.  Most government projects
+lean toward "Wide Open" dynamics.  Less often one finds "Controlled
+Ecosystem," "Multi-Vendor Infrastructure," and "Trusted Vendor"
+archetypes.  All of these are candidates for projects lead by or
+originating in government agencies, depending on strategic and policy
+needs.
+
+There are other cases where archetypes help us understand the open
+source world around us.  In each case, the archetypes are a rough lens
+that leads us to clarify our view of a products position.  The
+archetypes, though, are just a starting point.  They are a shared
+vocabulary for a conversation that should eventually move beyond
+archetypal thinking.  After all, a project's success will come in
+details much finer than a few archetypes could possibly capture.
+
+It is always important to remember that ultimately each archetype is a
+simplification.  Every successful project grows because it is
+well-fitted to the particular needs of its contributors and users.  If
+you view the archetypes as a set of slightly-more-specific generic
+game plans, you lose most of their value.  They are a starting point
+for consideration.  As a project grows and adapts to its niche, its
+strategy and planning can and should move to a uniquely detailed view
+of its needs.  Archetypes are a useful start to analysis, but the
+conversation should never end there.
+
+(TBD: There is more to say here of course, but this section is getting
+long, so let's leave off for the moment and not go deeper than we
+need.)
 
 ## Community Diversity
 
