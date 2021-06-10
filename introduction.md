@@ -36,9 +36,11 @@ practices that made it easier to collaborate across distance,
 boundaries, and time.
 
 At some point, those collaborative practices and the licenses designed
-for sharing became known as "Free" or "Open Source".  In the decades
-since, software made with these methods has taken over the world.
-Every major consumer electronics product has at least some open source
+for sharing became known as "Free" or "Open Source" and more
+specifically identified as licenses that respect the [Open Source
+Definition](https://opensource.org/osd).  In the decades since,
+software made with these methods has taken over the world.  Every
+major consumer electronics product has at least some open source
 software inside it.  It is increasingly rare to find any electronic
 device of significant complexity that is wholly proprietary.
 
@@ -57,10 +59,23 @@ interested in those topics.  They are not DPGs, though, so this set of
 modules will not cover them.  Instead, we focus on:
 
  * Open Source Software
- * Open standards
- * Open content
- * Open data
- * Open AI models
+
+ * Open Standards - these are standards that are freely available to
+   the general public.  Anybody can read them.  Typically, open
+   standards are made in ways that try to reduce or eliminate patent
+   license fees for implementors.
+
+ * Open Content - this is content in any media that may to some degree
+   be freely copied, displayed, modified or distributed, much like
+   open source software.  The most popular open content licenses are
+   the Creative Commons licenses.
+
+ * Open Data - these are datasets that may be freely copied and
+   shared.
+
+ * Open AI Models - these are machine learning models that may be
+   freely shared and are to some degree trained on open data sets and
+   based on algorithms implemented in open source software.
 
 ## Major Software Licenses and License Categories
 
