@@ -21,3 +21,8 @@ Our role here is to make these DPGs more effective for you and more concrete in 
 * What have you learned about domestic capacity to create and work
   with DPGs?  How easy or difficult is it to find open collaborators
   to help build DPGs?
+
+One sign of DPG success is collaboration and reuse.
+ * To what extent are your DPGs created in collaboration that crosses team or agency boundaries?
+ * Have you seen any reuse of your DPGs?
+ * Which of your DPGs is most susceptible to reuse?
