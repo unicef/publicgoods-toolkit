@@ -58,7 +58,8 @@ source vision.  Any government agency interested in DPGs might also be
 interested in those topics.  They are not DPGs, though, so this set of
 modules will not cover them.  Instead, we focus on:
 
- * Open Source Software
+ * Open Source Software - software that can be freely run, copied,
+   modified and distributed.
 
  * Open Standards - these are standards that are freely available to
    the general public.  Anybody can read them.  Typically, open
@@ -189,3 +190,33 @@ circumstances.  AGPL tries to correct for this by requiring that if a
 user interacts with the software over a network, that user is entitled
 to receive a copy of the software and all open source rights to run,
 copy, modify, and distribute it.
+
+## DPGs Are About Collaboration, Not Licenses
+
+This module contains a lot of material about licenses, and any
+discussion of open will eventually include mention of licensing.  It
+is in many ways foundational.  It is also true, though, that open
+source's tendency to focus on licensing is an artifact of history.
+There is a growing consensus among practitioners that open licensing
+works best when it recedes into the background.  In the most succesful
+open projects, licenses set some basic ground rules.  After that,
+collaboration ideally occurs according to norms and best practices
+designed to maximize shared benefits, not carefully track legal
+limits.
+
+In every sector where we examine DPGs, we find that licenses are a
+useful starting point but that improving collaborative process is
+always a greater factor in success than perfecting licensing terms.
+The key is to make DPGs and share them in ways that catalyze
+collaborative dynamics.  If the openness of a DPG creates new
+opportunities and is susceptible to improvement in open ways, we say
+it "behaves" in an open way.  That behavior is where the public
+benefits are.  It is where an agency's policy goals are met.  That
+behavior doesn't come from a license alone.
+
+As you consider these modules and apply them to your work, keep in
+mind what DPGs are best at: sharing costs, multiplying benefits,
+lowering barriers to entry, and enabling cooperation across
+boundaries.  DPGs are resources that enable entire communities to
+progress together.  Whenever government creates DPGs instead of
+proprietary resources, these are the policy goals it can create.
