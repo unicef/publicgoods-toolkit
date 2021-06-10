@@ -1,5 +1,9 @@
 # Introduction
 
+[Insert text on who this toolkit is for]
+
+[ Do we want to mention goal-setting and strategic approaches here? ]
+
 ## A Brief History of Open Source Collaboration
 
 Software has always been shared.  Few significant software development
