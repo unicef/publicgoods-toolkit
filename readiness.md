@@ -55,7 +55,7 @@ readiness will be unevenly distributed in any agency large enough to
 have multiple teams.
 
 
-FURTHER READING Microsoft Senior Director Jeff McAffer (now Senior Diretor at GitHub) has published a
+FURTHER READING Microsoft Senior Director Jeff McAffer (now Senior Director at GitHub) has published a
   useful readiness model at
   https://mcaffer.com/2019/02/Open-source-engagement
 
