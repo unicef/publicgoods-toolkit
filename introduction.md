@@ -52,11 +52,12 @@ digital products that are freely shared in ways that invite
 permissionless copying and collaboration.
 
 The focus on DPGs necessarily excludes a variety of sectors that have
-also seen "open" progress.  Open hardware, open government, and open
-organizations are all interesting applications of the original open
-source vision.  Any government agency interested in DPGs might also be
-interested in those topics.  They are not DPGs, though, so this set of
-modules will not cover them.  Instead, we focus on:
+also seen "open" progress.  Open hardware, open government, open
+science, and open organizations are all interesting applications of
+the original open source vision.  Any government agency interested in
+DPGs might also be interested in those topics.  They are not DPGs,
+though, so this set of modules will not cover them.  Instead, we focus
+on:
 
  * Open Source Software - software that can be freely run, copied,
    modified and distributed.
