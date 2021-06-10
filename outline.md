@@ -57,8 +57,6 @@
   - Programmatic Control (APIs)
   - Extensibility
   - Documentation
-    + Official documentation
-    + Third-party and after-market documentation
   - Commercial Support Availability
   - Non-Commercial Support Availability
   - Internal Capacity Assessment
