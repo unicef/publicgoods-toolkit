@@ -55,7 +55,7 @@ readiness will be unevenly distributed in any agency large enough to
 have multiple teams.
 
 
-FURTHER READING Microsoft Senior Director Jeff McAffer has published a
+FURTHER READING Microsoft Senior Director Jeff McAffer (now Senior Director at GitHub) has published a
   useful readiness model at
   https://mcaffer.com/2019/02/Open-source-engagement
 
@@ -175,7 +175,7 @@ should consider focusing open source readiness efforts on one agency
 or department that can then help others.  In the United States, the
 federal government did this with 18F, which, after reaching relatively
 high levels of open source capability and knowledge, has developed
-guidance for other agencies approaching open source.
+guidance for other agencies approaching open source. Code.gov has created a [toolkit](https://github.com/GSA/code-gov-open-source-toolkit) that goes in-depth for approaching open source
 
 All of the above describes a path from the very beginning toward
 eventual mastery of open source.  In this section, the discussion
