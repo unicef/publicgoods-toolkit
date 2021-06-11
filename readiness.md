@@ -29,7 +29,7 @@ executed by teams, and it is the capabilities of specific teams that
 matter most.  This module considers individual teams as the target for
 analysis because even agency-wide open source skills training will
 succeed or fail mostly at the level of specific teams working on
-specific projecst.
+specific projects.
 
 There are several readiness models that go by various names.
 Practitioners often describe climbing the "readiness ladder."
@@ -138,7 +138,7 @@ fail.  In some agencies, some might even sabotage open source projects
 for policy or political reasons.
 
 McAffer sees this phase as one of hype, and perhaps that's because
-it's also when an agnecy embraces open source without quite being
+it's also when an agency embraces open source without quite being
 ready to execute.  Agencies in this phase tend to engage FOSS in
 shallow, unsophisticated ways simply because they don't yet have the
 experience to make better strategic use of open source opportunities.
@@ -175,7 +175,7 @@ should consider focusing open source readiness efforts on one agency
 or department that can then help others.  In the United States, the
 federal government did this with 18F, which, after reaching relatively
 high levels of open source capability and knowledge, has developed
-guidance for other agencies approaching open source. Code.gov has created a [toolkit](https://github.com/GSA/code-gov-open-source-toolkit) that goes in-depth for approaching open source
+guidance for other agencies approaching open source. Code.gov has created a [toolkit](https://github.com/GSA/code-gov-open-source-toolkit) that goes in-depth for approaching open source.
 
 All of the above describes a path from the very beginning toward
 eventual mastery of open source.  In this section, the discussion
@@ -185,7 +185,7 @@ anything else. Organizations using open source fluently quickly find
 that the open approach is just their default process.  That culture
 shift is what lies at the top of the readiness learning curve.
 
-KEY RECOMMENDATION: Engage the team in frank discussion about open
+KEY RECOMMENDATION: Engage the team in a frank discussion about open
   source readiness.  Locate the team and the organization on McAffer's
   engagement model.  Identify three key steps the people in that
   discussion can take to improve readiness at the team level.
