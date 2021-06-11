@@ -66,7 +66,7 @@ and opportunities found in public agencies.
 
 One center of excellence in government development of FOSS software is
 18F, the digital service delivery arm of the United States General
-Services Adminisration.  They focus on technology procurement for
+Services Administration.  They focus on technology procurement for
 federal agencies, and their methodology typically begins with agile
 and open source approaches.  18F is generally considered a model
 agency when it comes to open source.  They advise federal projects to
@@ -325,8 +325,8 @@ source, or that resists open source dynamics, thus leaving the vendor
 as the sole practical source for that component in the government
 procurement marketplace.
 
-Whatever the reason for failure to participate in open source process,
-agencys must have ways to bring recalcitrant vendors into process
+Whatever the reason for failure to participate in an open source process,
+agencies must have ways to bring recalcitrant vendors into process
 compliance.  Otherwise, the project risks failure across multiple
 teams.  To prepare for such situations, we recommend instituting Open
 Source Quality Assurance ("OSQA") at the project management level.
@@ -382,7 +382,7 @@ followed in spirit as well as in letter, since lapses will be more
 readily apparent.
 
 
-KEY RECOMMENDATION: lient + " should participate directly in
+KEY RECOMMENDATION: client + " should participate directly in
   technical development, even if only to a small degree, in order to
   create credibility and connection with vendors and contractors and
   to contribute to maintaining a consistent open source culture.
@@ -393,7 +393,7 @@ ignore: it stands between vendors and reaching their contracted
 deliverables.  That is, it allows an agency to enforce open source
 process compliance as a condition of being paid on time.
 
-KEY RECOMMENDATION: lient + " should require acceptance of code
+KEY RECOMMENDATION: client + " should require acceptance of code
   into the open source repository as part of the definition of
   contractual delivery in software milestones.
 
@@ -416,13 +416,13 @@ KEY RECOMMENDATION: An agency should add OSQA elements to its
 
 OSQA has a track record of success in government agencies.  We have
 performed OSQA and seen it work well at several levels of government,
-from federal to local.  In one instance, OSQA was begin long after the
+from federal to local.  In one instance, OSQA was begun long after the
 primary development vendor had begun work, and it was too late to
 establish open source practices from day one.  Instead, the OSQA team
 worked with the vendor and the procuring agency to identify process
 failures and teach open source best practices.  Over time, vendor
 participants as well as agency staff began to reap the benefits of
-investing in process.  After some time, teams embraced the process
+investing in the process.  After some time, teams embraced the process
 because it paid visible dividends (eventually including independent
 deployment by another jurisdiction).  OSQA was able to back away,
 leaving the project to manage the process on its own.  In later
@@ -584,7 +584,7 @@ development, combine the maintenance with slowly tending to structure
 and paying down the "technical debt" that accumulates in projects and
 degrades them over time.
 
-KEY RECOMMENDATION: hile operation might be a separate line-item,
+KEY RECOMMENDATION: while operation might be a separate line-item,
   much of the maintenance work should be part of the ongoing, modular
   improvement that keeps software current and prevents an agency from
   having to start over.
