@@ -37,7 +37,7 @@ sometimes use the word "project".  They are closely related but
 emphasize different things.  The "product" is what you deploy and may
 also pay for: a packaged DPG, often accompanied by a support contract
 or at least by the potential availability of on-demand commercial
-support should you ever need it.  The "project", on the other Haydn, is
+support should you ever need it.  The "project", on the other hand, is
 the living software community, in which developers and organizations
 collaborate to produce the software that is the core of the product.
 
@@ -191,7 +191,7 @@ release cycles) -- it doesn't matter if the project formerly had
 stability issues, as long as they're fixed now, and anyway many
 projects had such issues when they were first getting started.
 (Remember that the number of tickets present in a project's bug tracker
-is proportional to the number of users the project has, not to the
+is proportional to the number of users the project has, and how many of those users are willing to file a ticket, not to the
 number of actual defects in the software.)
 
 Regarding (3): The existence of commercial support offerings is a
@@ -297,7 +297,7 @@ issuing commands to the system, and being able to read/send data
 from/to it.
 
 It is unfortunate that such a key concept is hidden behind the
-technical acronym ``API''.  If you aren't already familiar with what
+technical acronym ``API'' ( Application Programming Interface).  If you aren't already familiar with what
 APIs do, please take a moment to read the section "Appendix:
 Introduction to APIs for Non-Technical Readers" and then come back
 here.  (TBD: that reference needs to become a real reference)
