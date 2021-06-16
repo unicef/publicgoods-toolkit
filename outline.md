@@ -20,6 +20,7 @@
   - Copyright
   - Trademark
   - Patent
+  - Commercial Use
   - Security
   - Data Privacy
     + GDPR
