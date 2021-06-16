@@ -245,7 +245,9 @@ conversation should never end there.
 
 (TBD: There is more to say here of course, but this section is getting
 long, so let's leave off for the moment and not go deeper than we
-need.)
+need.  Note: Victor
+[suggests](https://github.com/unicef/publicgoods-toolkit/pull/12#discussion_r651325121)
+including a mapping/analysis of some existing DPGs to the archetypes.)
 
 ## Community Diversity
 
@@ -289,6 +291,10 @@ usually to look at activity over time in the bug tracker:
   responding?  Or is responsiveness well-distributed throughout the
   development team?
 
+(TBD: See [this
+discussion](https://github.com/unicef/publicgoods-toolkit/pull/12#discussion_r651329628)
+about the practicality of this advice for decision makers.)
+
 The rate at which bug reports are closed is actually not very
 important.  In a healthy project with an active user base, bug reports
 are sometimes filed faster than the development team can close them.
@@ -323,7 +329,9 @@ provide the needed services, of course -- in order to help equalize
 the balance of power between commercial actors in the project.  (TBD:
 But is that advice be realistic in a DPG context?  Would procurement
 rules often require choosing the lowest bidder, or involve some other
-decisive factor unrelated to community health concerns?)
+decisive factor unrelated to community health concerns?  See Victor's
+[answer](https://github.com/unicef/publicgoods-toolkit/pull/12#discussion_r651328070)
+to that question.)
 
 Note that many aspects of open source project community health are
 also discussed, implicitly and sometimes explicitly, in the
@@ -453,6 +461,9 @@ work may have to happen outside the current project community.  (TBD:
 We may need to have a section explain what a fork is -- a real fork,
 that is, not a GitHub so-called "fork" :-) -- and when they are
 appropriate.)
+
+(TBD: Victor
+[agrees](https://github.com/unicef/publicgoods-toolkit/pull/12#discussion_r651332349).)
 
 It is also not necessarily a mistake to adopt a DPG that is still in
 its early stages, when it is not completely stable and some of its
