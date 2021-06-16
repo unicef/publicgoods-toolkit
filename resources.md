@@ -2,6 +2,11 @@
 
 The following is a list of resources gathered that may be referenced in the toolkit: 
 
+## Digital Public Goods: Definitions and References
+
+  * [United Nations Secretary-General's Roadmap for Digital Cooperation](https://www.un.org/en/content/digital-cooperation-roadmap/)
+  * [Digital Public Goods Standard](https://digitalpublicgoods.net/standard/) (source text [here](https://github.com/DPGAlliance/DPG-Standard))
+
 ## Evidence for Benefits of Open Source
 
   * [Open Source for Global Public Goods](https://openknowledge.worldbank.org/handle/10986/33401). World Bank (2019). 
@@ -62,3 +67,4 @@ Indicators and tools for governments to assess the maturity and readiness for a 
   
 ## Other Sources   
   * [Open source for government resources](https://opensource.org/personas/government). Many local, regional, and national governments are engaged with open source software and communities. This site provides a few resources that may help departments and agencies understand the value of open source software and development communities within the public sector, as well as how public institutions can engage with, and implement similar initiatives to realize the greatest returns for their citizens and governments.  
+  * [iSPIRT (Indian Software Product Industry Round Table)](https://ispirt.in/) has [policy](https://ispirt.in/what-we-do/policy/) recommendations and other resources.
