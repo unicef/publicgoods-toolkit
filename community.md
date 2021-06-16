@@ -258,7 +258,7 @@ Does the project have diverse paths by which someone can contribute
 (e.g., coding, testing, documentation, bug ticket management, etc)?
 
 Any of these dimensions of diversity may be relevant for adoption of a
-DPG.  However, we especially urge consideration of diversity of funded
+DPG. Here, our focus on is making sure that a community's variety helps its' stability, which translates into a higher likelihood of longer term success. However, we especially urge consideration of diversity of funded
 participation -- i.e., employer diversity among the various
 contributors, and diversity among vendors offering support services --
 simply because these aspects of diversity are so often overlooked, and
@@ -431,7 +431,7 @@ this may be correlation rather than causation: longer-lived projects
 tend to become extensible, and innovation can continue to happen in
 the plugin ecosystem even after the software's core has remained
 stable for a long time.  But, perhaps with rare exceptions, most
-software projects that last long enough eventually reache a stable
+software projects that last long enough eventually reach a stable
 state: either they address their problem domain so well that no
 further improvement is needed, or they are overtaken by some newer,
 nimbler competitor that was able to learn from its predecessors'
