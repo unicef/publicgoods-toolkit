@@ -12,6 +12,23 @@ TBD: Things to cover in the introduction:
 
 TBD
 
+Copyright is well-covered by open source licenses.  It is their main
+concern, and most of the terms in the common open source licenses
+concern copyright permissions.
+
+It is likely that these open source licenses operate in standard ways,
+across most countries.  Copyright law is somewhat standardized among
+Berne Convention signatory countries, and most comentators treat open
+source licenses as having the same effect regardless of jurisdiction.
+At the same time, these licenses were written primarily with United
+States law in mind, and few licenses have been the subject of
+official, judicial interpretation.  The one exception is version 3 of
+both the GNU General Public License and the Affero GNU General Public
+License.  These were intentionally written to achieve the same result
+in every country.  The GPL family of licenses have also been the
+subject of litigation in multiple jurisdictions.
+
+
 ## Trademark
 
 TBD
