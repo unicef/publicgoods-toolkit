@@ -2,6 +2,11 @@
 
 The following is a list of resources gathered that may be referenced in the toolkit:
 
+## Digital Public Goods: Definitions and References
+
+  * [United Nations Secretary-General's Roadmap for Digital Cooperation](https://www.un.org/en/content/digital-cooperation-roadmap/)
+  * [Digital Public Goods Standard](https://digitalpublicgoods.net/standard/) (source text [here](https://github.com/DPGAlliance/DPG-Standard))
+
 ## Evidence for Benefits of Open Source
 
   * [Open Source for Global Public Goods](https://openknowledge.worldbank.org/handle/10986/33401). World Bank (2019).
@@ -59,9 +64,10 @@ Indicators and tools for governments to assess the maturity and readiness for a 
   * [Guidelines for Sustainable Open Source Communities in the Public Sector](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/guidelines-creating-sustainable-open-source-communities). DIGIT, European Commission (2020). Given the growing importance of open source software in public administrations, the European Commission’s Open Source Software Repository (OSOR) published dedicated Guidelines for Sustainable Open Source Communities in the Public Sector.
   * [Key success factors of sustainable Open Source Communities](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/guidelines-creating-sustainable-open-source-communities). DIGIT, European Commission (2020). The purpose of this study is to lay the foundation for the Guidelines (mentioned above) by analyzing what determines the sustainability of public sector open source communities. More specifically, the objective of this study is to identify the key success and failure factors behind the establishment of sustainable open source communities in the public sector as well as to select and analyze relevant case studies of such communities.
   * [5 Things Digital Public Good Software Projects Need to Scale](https://digitalimpactalliance.org/5-things-digital-public-good-software-projects-need-to-scale/), Digital Impact Alliance (2020).
-
-## Other Sources
-  * [Open source for government resources](https://opensource.org/personas/government). Many local, regional, and national governments are engaged with open source software and communities. This site provides a few resources that may help departments and agencies understand the value of open source software and development communities within the public sector, as well as how public institutions can engage with, and implement similar initiatives to realize the greatest returns for their citizens and governments. 
+  
+## Other Sources   
+  * [Open source for government resources](https://opensource.org/personas/government). Many local, regional, and national governments are engaged with open source software and communities. This site provides a few resources that may help departments and agencies understand the value of open source software and development communities within the public sector, as well as how public institutions can engage with, and implement similar initiatives to realize the greatest returns for their citizens and governments.  
+  * [iSPIRT (Indian Software Product Industry Round Table)](https://ispirt.in/) has [policy](https://ispirt.in/what-we-do/policy/) recommendations and other resources.
 
 ## Country-Specific Resources
   * [The State Of Free & Open Source Software In India](https://state-of-foss.in/the-state-of-foss-report.pdf).  A snapshot of FOSS in India and some suggestions on next steps and goals.
