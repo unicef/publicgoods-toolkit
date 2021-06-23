@@ -1,26 +1,58 @@
 # Community And Ecosystem
 
-Each open source software project runs on the collective motivations
-of all of its participants.  Some of those participants may be
-"volunteers" (in the sense of not being paid directly for their work
-in the project, although even then the project is often of economic
-interest to them because they use it in their jobs).  Other
-participants may be paid for their contributions by commercial
-entities that are interested in ensuring that the project is healthy
-and well-maintained.  Those commercial entities often also see an
-advantage to pooling their resources: there's no reason for any one
-firm to shoulder the entire burden of fixing bugs or developing new
-features when they all need the same bugs fixed and, for the most
-part, the same features developed.
+DPG efforts run on the collective motivations of all of their
+participants.  A healthy project often gathers around itself a diverse
+ecosystem in which many participants cooperate, each for their own
+reasons.  Those reasons need not be the same.  They might even be in
+tension or in outright competition with each other.  Open source
+processes excel at enabling many parties with divergent interests to
+cooperate.
 
-Thus, although it is certainly accurate to refer to this collective as
-a "community" -- it has social relations, cultural norms, status
+We can refer to the direct participants in an open project as the
+project's community.  In addition to that close community of
+cooperating participants, we find that successful projects gather a
+larger ecosystem around them.  This ecosystem is centered on the
+community, and also includes related open source efforts, users,
+integrators, clients, competitors, and stakeholders.  Anybody who has
+an interest in the project's output and operations is part of the
+ecosystem.
+
+Communities can contain governmental, commercial, or volunteer
+contributors, though the lines between these categories often blur.
+"Volunteer" contributors who aren't being paid directly for their work
+in a project often have a business interest in the output of the
+project.  Similarly, commercial vendors might be participating as part
+of a government contract.  Roles are fluid, and strictly labelling
+community participants can at times be reductionist.
+
+What everybody in the community has in common is that they gain an
+advantage to pooling their resources: there's no reason for any one
+agency or firm to shoulder the entire burden of fixing bugs or
+developing new features when they all need the same bugs fixed and,
+for the most part, the same features developed.  This common interest,
+built around a zone of cooperation, is the core of a project's
+community.
+
+Wider ecosystems can also contain a diversity of participants from
+many different sectors.  Even though most participants in the extended
+ecosystem of stakeholders do not directly contribute to a project,
+they help the project realize its value in the world.  They magnify
+the value of the investments made by direct participants.  And of
+course, the best place to recruit new community contributors is from
+that wider ecosystem.
+
+The import of all this value, investment, and mutual reliance is that
+DPG communities are usually built on mutual or collective benefit.
+Although it is certainly accurate to refer to this collective as a
+"community" -- it has social relations, cultural norms, status
 differentiation, informal debt relations, and all the other aspects of
 human communities -- it is not a community that runs on altruism.
-Understanding how to work with and participate in an open source
-project is not just a matter of understanding the software at a
-technical level; it also requires understanding the motivations of the
-people who make up the project.
+Even mission-driven participation is best understood as value-seeking
+(but not value-capturing) in open communities.  Thus, understanding
+how to work with and participate in an open source project is not just
+a matter of understanding the software at a technical level; it also
+requires understanding the motivations of the people who make up the
+project.
 
 ## Project Archetypes
 
@@ -48,7 +80,7 @@ necessarily fit perfectly into one of these archetypes, and a project
 might not reflect the same archetype(s) for its entire history --
 transitions happen all the time.  In some projects, one sees multiple
 archetypes at work or even different sets of participants pushing the
-project toward separate archetypal practices.  
+project toward separate archetypal practices.
 
 The purpose of the archetypes is to lead people away from generic open
 source thinking and toward considering in more detail the behaviors
@@ -96,7 +128,7 @@ available.)
 * [Specialty Library](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf#section*.15)
 
   The project's goal is to provide a high-quality solution to narrow
-  and specific problem.  Meaningful participation requires familiarity
+  and specific problem.  Meaningful participation requires familiarity and expertise
   with that problem and with the project's solution.
 
 * [Multi-Vendor Infrastructure](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf#section*.9)
@@ -168,18 +200,9 @@ available.)
   The code was thrown over the wall, as the saying goes, and it is
   there for anyone else to pick up if they want.
 
-(TBD: We could instead link to the briefer slide-presentation summary for each archetype.  For reference, those are
-* [Rocket Ship to Mars](https://opentechstrategies.com/files/presentations/2018-finos/finos-presentation.html\#(8))
-* [Wide Open](https://opentechstrategies.com/files/presentations/2018-finos/finos-presentation.html\#(3))
-* [B2B Open Source](https://opentechstrategies.com/files/presentations/2018-finos/finos-presentation.html\#(4))
-* [Specialty Library](https://opentechstrategies.com/files/presentations/2018-finos/finos-presentation.html\#(9))
-* [Multi-Vendor Infrastructure](https://opentechstrategies.com/files/presentations/2018-finos/finos-presentation.html\#(5))
-* [Mass Market](https://opentechstrategies.com/files/presentations/2018-finos/finos-presentation.html\#(10))
-* [Upstream Dependency](https://opentechstrategies.com/files/presentations/2018-finos/finos-presentation.html\#(6))
-* [Trusted Vendor](https://opentechstrategies.com/files/presentations/2018-finos/finos-presentation.html\#(11))
-* [Controlled Ecosystem](https://opentechstrategies.com/files/presentations/2018-finos/finos-presentation.html\#(7))
-* [Bathwater](https://opentechstrategies.com/files/presentations/2018-finos/finos-presentation.html\#(12))
-.)
+For a short encapsulation of this information, it might be useful to
+refer to this [2018 slide
+presentation of the archetypes](https://opentechstrategies.com/files/presentations/2018-finos/finos-presentation.html\#(3)).
 
 ### Identifying Archetypes In Your Community
 
@@ -206,20 +229,30 @@ control to gain those contributions.  A Wide Open approach doesn't fit
 Google's strategic need.  Instead, one can classify that project as
 B2B Open Source, which is a much less inviting model.
 
+In government, we see this type of cautious approach around crucial
+infrastructure.  Election infrastructure projects, for example, has a
+very high bar for participation and is only useful to government
+agencies and the vendors who serve them.  Such projects might try to
+be Wide Open, but will in practice tend toward a blend of the
+characteristics of multivendor infrastructure and specialty library.
+
 Archetypes help us identify that Android is not like a stereotypical
-open source project.  They allow us to see its actual behavior.  That
-reveals something about Android's strategy and helps us form credible
-expectations about how the project will behave in the future.  It
-would be disastrous, for example, to build a product strategy that
-depends on being able to have any influence on Android's road map or
-feature set.  Anybody who misidentifies Google's strategy on that
-point (and there have been a few) is defeated before they write a
-single line of code.
+open source project.  They help us predict the dynamics around open
+source election infrastructure. They allow us to see a project's
+actual behavior rather than the expected or stereotypical behavior.
+We can use archetypes to reveal something about a project's strategy
+and helps us form credible expectations about how the project will
+behave in the future.  It would be disastrous, for example, to build a
+product strategy that depends on being able to have any influence on
+Android's road map or feature set.  Anybody who misidentifies Google's
+strategy on that point (and there have been a few) is defeated before
+they write a single line of code.
 
 Although government agencies can expect to find the full range of
 archetypes among the projects it encounters, its own projects will
-tend to fall into just a few categories.  Most government projects
-lean toward "Wide Open" dynamics.  Less often one finds "Controlled
+tend to fall into just a few categories.  Many government projects
+lean toward "Wide Open" dynamics, and that archetype is a good default
+starting point for analysis.  Less often one finds "Controlled
 Ecosystem," "Multi-Vendor Infrastructure," and "Trusted Vendor"
 archetypes.  All of these are candidates for projects lead by or
 originating in government agencies, depending on strategic and policy
@@ -247,7 +280,8 @@ conversation should never end there.
 long, so let's leave off for the moment and not go deeper than we
 need.  Note: Victor
 [suggests](https://github.com/unicef/publicgoods-toolkit/pull/12#discussion_r651325121)
-including a mapping/analysis of some existing DPGs to the archetypes.)
+including a mapping/analysis of some existing DPGs to the archetypes.
+We can add that analysis after doing some interviews.)
 
 ## Community Diversity
 
@@ -260,16 +294,36 @@ Does the project have diverse paths by which someone can contribute
 (e.g., coding, testing, documentation, bug ticket management, etc)?
 
 Any of these dimensions of diversity may be relevant for adoption of a
-DPG.  However, we especially urge consideration of diversity of funded
-participation -- i.e., employer diversity among the various
-contributors, and diversity among vendors offering support services --
-simply because these aspects of diversity are so often overlooked, and
-yet are so important to the health and success of a DPG.
+DPG.  However, we especially urge consideration of diversity of
+investment -- i.e., employer diversity among the various contributors,
+and diversity among vendors offering support services -- simply
+because these aspects of diversity are so often overlooked, and yet
+are so important to the health and success of a DPG.
+
+In considering diversity, including diversity of investment sources,
+it is useful to recall that participants tend to exercise control over
+a project in rough proportion to investment and to a lesser degree to
+reliance and benefit.  Diversifying contributions will usually
+diversify the voices that dictate a project's direction.
+
+Conversely, projects that over-rely on one provider of resources often
+find themselves at risk of over-fitting their products to the needs of
+that resource-dominant participant.  This tends to depress
+contribution, which further concentrates investment.  As projects
+retreat from open collaboration, they become more vulnerable to their
+one, dominant participant leaving the project or shifting direction.
+
+This tendency for non-diversified projects to further centralize is
+often a risk for early-stage DPG projects.  At the start of most
+projects, communities are not usually diverse.  They haven't attracted
+enough participants to have diversity.  Projects in this situation
+often find they have to invest in outreach and make special efforts to
+attract new participants.
 
 ## Community Health
 
 An open source community's health depends ultimately on the presence
-of a user base that needs the software and is willing, directly or
+of a user base that needs the DPG and is willing, directly or
 indirectly, to invest in it.  New contributors come from either those
 users or from the organizations that service those users; useful
 feature direction for the project's roadmap comes likewise from those
@@ -277,7 +331,8 @@ users or their representatives; bug reports -- the lifeblood of an
 active open source project -- come ultimately from those users.
 
 The quickest way to check on the health of a project community is
-usually to look at activity over time in the bug tracker:
+usually to look at activity over time in the bug tracker and the
+record of changes:
 
 * What is the rate of ticket filings, and the approximate number of
   unique filers?  These two factors together are a proxy for the size
@@ -285,7 +340,8 @@ usually to look at activity over time in the bug tracker:
 
 * How often do project developers respond in bug tickets?  How well do
   they respond: are they constructive, both with users and with other
-  developers in the discussion?
+  developers in the discussion?  Do the responses result in changes to
+  the product itself?
 
 * Is it always the same developer, or small set of developers
   responding?  Or is responsiveness well-distributed throughout the
@@ -293,7 +349,10 @@ usually to look at activity over time in the bug tracker:
 
 (TBD: See [this
 discussion](https://github.com/unicef/publicgoods-toolkit/pull/12#discussion_r651329628)
-about the practicality of this advice for decision makers.)
+about the practicality of this advice for decision makers.  Automating
+this type of qualitative analysis is... hard.  Bitergia sells products
+that make it easier to pull info out, but we can't automate generating
+*meaning* from that data.)
 
 The rate at which bug reports are closed is actually not very
 important.  In a healthy project with an active user base, bug reports
@@ -318,6 +377,13 @@ developers in the project are employed by a single company, then if
 that company changes priorities, the project will be in immediate
 danger of folding.
 
+It is difficult to offer absolute numbers or base metrics that
+indicate whether a project is "healthy" or not.  All the data gleaned
+from a project's bug tracker must be considered in the wider context
+of the rest of the project.  Project metrics, especially as they
+change over time, are strong signals that add to the understanding of
+a project.  They are not, however, very informative on their own.
+
 Community health, as outlined above, matters to DPGs because community
 health is the key to sustainability.  Those who are investing in those
 DPGs should consider every action they take from a community health
@@ -339,40 +405,6 @@ Adoptability module (TBD reference).
 
 (TBD ref https://producingoss.com/en/evaluating-oss-projects.html, but
 note also present in Parking Lot of Adoptability module.)
-
-## Commercial Participants
-
-All open source licenses, by definition, allow commercial as well as
-non-commercial use of the software, and it is typical for open source
-projects to have both commercial and non-commercial participants.
-Some individuals may even represent both types at different times.
-
-Successful commercial participants tend to take a fairly long-term
-view of their participation.  They are in the project because it
-enables them to provide some product or service, and that means that
-their future (for that product or service) is tied to the project --
-which means that future is tied to the community, which means that
-their credibility with and relationships to others in the community
-have an economic value that goes beyond one day's bugfix or another
-day's feature request.
-
-This economic value is understood as such quite literally by those
-participants.  For example, when a company that is very active in an
-important open source project is the willing target of an acquisition,
-it works with the acquirer to place a monetary value -- a definite
-number -- on its relationship to and influence in that project.  That
-number is partly computed by looking at the individual employees at
-the target company who are active in the project, determining numbers
-for *their* participation in the project, and estimating their chances
-of staying on board after the acquisition.
-
-Interestingly, this does not mean that those employees, who are
-members of the project community, are viewed with suspicion by other
-members.  Everyone understands that each person is there for a reason,
-and commercial reasons are not thought of as better or worse than any
-other reason.  As long as people act with care for the project's
-long-term interest, and their quality of work is high, their
-motivations are their own business.  
 
 ## Non-Commercial Participants
 
@@ -424,14 +456,94 @@ their participation.  Even developers who work on the project
 full-time as their salaried job generally retain their community
 status in the project if they move from employer to employer.
 
+It is worth noting that some DPG communities might confine themselves
+to non-commercial participants.  Most DPG licenses allow commercial as
+a well as non-commercial use, but not all.  While it is rarely useful
+for governments to create communities with such restrictions, agencies
+might encounter non-commercial communities in the course of their
+work.
+
+The most frequent form of non-commercial DPG are creative works
+publised under a Creative Commons license "NC" license.  The "NC"
+stands for "non-commercial".  Not all Creative Commons work is
+restricted to non-commercial use, so agencies should be sure to look
+at *which* Creative Commons license applies to materials they use.
+
+In the case of open source software all commonly used licenses allow
+commerical use.  In fact, most community participants would classify
+software whose license disallows commercial use as "not open source".
+The Open Source Initiative offers what many community participants
+agree is an authoritative definition of "open source".  That
+definition excludes software that discriminates against commercial
+use.  All commonly-used open source licenses and most projects align
+on this point.
+
+At the same time, some open source community members are offering
+"Ethical Source" licenses.  These licenses restrict the use of DPGs
+when their use might contravene various social values.  Regardless of
+whether or not we call these licenses "open source", people working on
+DPGs in a government context might well come across DPGs that use
+these licenses.
+
+In considering commercial vs non-commercial communities, agencies
+should keep in mind that most jurisdictions have defined "commercial"
+in a clear way as it applies to open licensing.  While governmental
+use would seem to be quite clearly non-commercial, in some
+jurisdictions, it might be less clear when vendors work on DPGs on
+behalf of government clients.
+
+
+## Commercial Participants
+
+All open source software licenses, by the most common definition,
+allow commercial as well as non-commercial use of the software, and it
+is typical for open source projects to have both commercial and
+non-commercial participants.  Some individuals may even represent both
+types at different times.
+
+Successful commercial participants tend to take a fairly long-term
+view of their participation.  They are in the project because it
+enables them to provide some product or service, and that means that
+their future (for that product or service) is tied to the project --
+which means that future is tied to the community, which means that
+their credibility with and relationships to others in the community
+have an economic value that goes beyond one day's bugfix or another
+day's feature request.
+
+This economic value is understood as such quite literally by those
+participants.  For example, when a company that is very active in an
+important open source project is the willing target of an acquisition,
+it works with the acquirer to place a monetary value -- a definite
+number -- on its relationship to and influence in that project.  That
+number is partly computed by looking at the individual employees at
+the target company who are active in the project, determining numbers
+for *their* participation in the project, and estimating their chances
+of staying on board after the acquisition.
+
+Interestingly, this does not mean that those employees, who are
+members of the project community, are viewed with suspicion by other
+members.  Everyone understands that each person is there for a reason,
+and commercial reasons are not thought of as better or worse than any
+other reason.  As long as people act with care for the project's
+long-term interest, and their quality of work is high, their
+motivations might be useful context but are largely their own
+business.
+
+Some DPG projects go even a step further.  As a way to spur further
+investment by commercial participants, they undertake to create
+commercial opportunities for participants.  Sometimes these
+opportunities tend to reward more active project participants.  So
+long as these opportunities do not start to create monopolizable
+advantages, they can be effective ways to promote sustainability for
+some DPG efforts.
+
 ## Sustainability, Longevity, and Lifecycle
 
-All software projects -- not just open source software projects --
-have a lifecycle.  That lifecycle may not be knowable in advance, but
-it will eventually become apparent.  As a project matures, its rate of
-user acquisition slows down, the rate at which new contributors come
-in likewise slows down, and, in the long run, the rate of new feature
-development slows as well.
+All DPGs have a lifecycle.  That lifecycle may not be knowable in
+advance, but it will eventually become apparent.  As a project
+matures, its rate of user acquisition slows down, the rate at which
+new contributors come in likewise slows down, and, in the long run,
+the rate of new feature development slows as well.
 
 Projects that have an extensible design (TBD: ref "Extensibility"
 section in Adoptability module.) often have a longer lifecycle, though
@@ -465,12 +577,23 @@ appropriate.)
 (TBD: Victor
 [agrees](https://github.com/unicef/publicgoods-toolkit/pull/12#discussion_r651332349).)
 
-It is also not necessarily a mistake to adopt a DPG that is still in
-its early stages, when it is not completely stable and some of its
-basic feature set may even be in flux.  But in that case, one must be
-ready to make the investment -- either directly from one's
-organization or through a consultant or vendor -- necessary to have
-one's needs met within a certain period of time.  This can be a
+Similarly, conent DPGs and software DPGs have different lifecycle
+dynamics.  Software lends itself toward endless improvement.  There's
+always a feature to add, a new library to adopt, or a new platform to
+move to.  Some content sees high rates of reuse and longterm
+evolution, but a lot of content settles in to a final version and
+thereafter sees somewhat limited reuse.  An Creative Commons-licensed
+novel, for example might initially see revisions, a new edition, minor
+fixes to typos, but eventually the book is done.  Somebody might make
+a translation or undertake a second edition, but the original work is
+readily identifiable as a "finished" artifact.
+
+For software DPGs, it is also not necessarily a mistake to adopt a DPG
+that is still in its early stages, when it is not completely stable
+and some of its basic feature set may even be in flux.  But in that
+case, one must be ready to make the investment -- either directly from
+one's organization or through a consultant or vendor -- necessary to
+have one's needs met within a certain period of time.  This can be a
 "virtuous circle" in some cases: other entities, on seeing a clear
 signal of investment, become more willing themselves to invest.
 
@@ -485,4 +608,3 @@ http://blog.ieeesoftware.org/2016/04/dissecting-myth-that-open-source.html
 https://blog.opentechstrategies.com/2019/06/ecosystem-mapping/
 
 https://opentechstrategies.com/archetypes
-
