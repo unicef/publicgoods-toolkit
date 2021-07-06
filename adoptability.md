@@ -1,6 +1,6 @@
 # Adoptability Assessment
 
-To evaluate an open source product for adoption, you need to look at
+To evaluate an open-source product for adoption, you need to look at
 it from several different perspectives:
 
 1. **Functionality.** Whether it has the functionality you need,
@@ -29,7 +29,7 @@ it from several different perspectives:
    project's development community?
 
 The sections that follow form a kind of checklist that you can use to
-evaluating an open source product for adoption as a DPG.  Each item in
+evaluating an open-source product for adoption as a DPG.  Each item in
 the checklist involves one or more of the above perspectives.
 
 Throughout this module we will sometimes use the word "product" and
@@ -74,7 +74,7 @@ that distinction is important we will note it.
   until after the vulnerability is fixed and a new release of the
   product has been made.  (This means that such reports are not
   normal, publicly-posted bug tickets -- a rare exception to the rule
-  that information in an open source project is all publicly visible.)
+  that information in an open-source project is all publicly visible.)
 
   HOWTO: Look at the project's web site or documentation to see what
   it says about reporting security vulnerabilities, and, if
@@ -125,7 +125,7 @@ HOWTO: [Search the CVE
   database.
 
 FURTHER READING: For a particularly clear exposition of how one large
-  open source project uses CVE numbers, see
+  open-source project uses CVE numbers, see
   [debian.org/security/cve-compatibility](https://www.debian.org/security/cve-compatibility)
   For a more detailed explanation of how CVE numbers are acquired,
   used, and evaluated, see
@@ -142,7 +142,7 @@ FURTHER READING: For a particularly clear exposition of how one large
 
 * Has the project had a professional security audit performed?
 
-  While it's not common for open source projects to have professional
+  While it's not common for open-source projects to have professional
   security audits conducted, because such audits are expensive.
   However, it happens sometimes, and when it does happen that's a very
   good sign.  The results of the audit should be publicly available
@@ -357,7 +357,7 @@ system is even extensible in more than one programming language,
 though often there is a primary supported language that most users
 prefer and that is supported best.
 
-Some well-known and widely-used open source systems owe much of their
+Some well-known and widely-used open-source systems owe much of their
 success and growth to being easily extensible in this fashion: for
 example, [WordPress](https://wordpress.org/),
 [Drupal](https://www.drupal.org/),
@@ -365,7 +365,7 @@ example, [WordPress](https://wordpress.org/),
 [MediaWiki](https://www.mediawiki.org/),
 [Firefox](https://www.mozilla.org/firefox/new/), and
 [Chromium](https://www.chromium.org/).  Extensibility has a long
-history and is not confined to open source software, however: for
+history and is not confined to open-source software, however: for
 example, AutoCAD, a system for computer-aided drafting, has had an
 extension language since the mid-1980s, and Microsoft's Visual Studio
 development environment has a rich extension community primarily
@@ -417,7 +417,7 @@ has been designed properly."
 
 ## Documentation
 
-Most open source software systems come with at least some
+Most open-source software systems come with at least some
 documentation -- that is, documentation that is officially maintained
 by the project itself, and published together with the software.  In
 many cases, there is also a wealth of scattered and heterogeneous
@@ -483,7 +483,7 @@ page), the vendor should be on that list.
 
 ## Non-Commercial Support Availability
 
-Open source projects often have quite responsive user support forums:
+Open-source projects often have quite responsive user support forums:
 places where anyone who has deployed or who uses the software can ask
 a question and get answers from experienced users.  The people who are
 subscribed to these forums are there for a variety of reasons.
@@ -575,7 +575,7 @@ vendor(s) to show where their past attempts to influence have been
 successful and how.  You can also do it directly, with a little more
 effort, by looking at the project's governance, and at the discussions
 that lead to new features and roadmap decisions.  Although any form of
-open source project governance can, in principle, be amenable to
+open-source project governance can, in principle, be amenable to
 influence, in practice projects that are run by committee are more
 reliably amenable to influence, because you have the possibility of
 being on that committee -- or, rather, of being represented on the

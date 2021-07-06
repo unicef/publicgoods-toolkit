@@ -4,7 +4,7 @@
 
 [ Do we want to mention goal-setting and strategic approaches here? ]
 
-## A Brief History of Open Source Collaboration
+## A Brief History of Open-Source Collaboration
 
 Software has always been shared.  Few significant software development
 efforts have ever been solo acts.  Early programmers tended to be
@@ -44,26 +44,26 @@ for sharing became known as "Free" or "Open Source" and more
 specifically identified as licenses that respect the [Open Source
 Definition](https://opensource.org/osd).  In the decades since,
 software made with these methods has taken over the world.  Every
-major consumer electronics product has at least some open source
+major consumer electronics product has at least some open-source
 software inside it.  It is increasingly rare to find any electronic
 device of significant complexity that is wholly proprietary.
 
-As open open source software spreads through the technology world
+As open-source software spreads through the technology world
 sector by sector, it has inspired open movements in adjacent fields
 and even distant domains.  In this set of modules, we will focus on
-open source software and related "digital public goods".  These are
+open-source software and related "digital public goods".  These are
 digital products that are freely shared in ways that invite
 permissionless copying and collaboration.
 
 The focus on DPGs necessarily excludes a variety of sectors that have
 also seen "open" progress.  Open hardware, open government, open
 science, and open organizations are all interesting applications of
-the original open source vision.  Any government agency interested in
+the original open-source vision.  Any government agency interested in
 DPGs might also be interested in those topics.  They are not DPGs,
 though, so this set of modules will not cover them.  Instead, we focus
 on:
 
- * Open Source Software - software that can be freely run, copied,
+ * Open-Source Software - software that can be freely run, copied,
    modified and distributed.
 
  * Open Standards - these are standards that are freely available to
@@ -73,7 +73,7 @@ on:
 
  * Open Content - this is content in any media that may to some degree
    be freely copied, displayed, modified or distributed, much like
-   open source software.  The most popular open content licenses are
+   open-source software.  The most popular open content licenses are
    the Creative Commons licenses.
 
  * Open Data - these are datasets that may be freely copied and
@@ -81,7 +81,7 @@ on:
 
  * Open AI Models - these are machine learning models that may be
    freely shared and are to some degree trained on open data sets and
-   based on algorithms implemented in open source software.
+   based on algorithms implemented in open-source software.
 
 <a name="foss-licensing"></a>
 ## Major Software Licenses and License Categories
@@ -100,7 +100,7 @@ the broadest range of conditions.  The more restrictive licenses are
 still quite permissive but they condition those permissions on
 compliance with certain requirements.  Among the commonly used
 licenses, those requirements concern "copyleft", which is the
-requirement that when you distribute software, open source permissions
+requirement that when you distribute software, open-source permissions
 attach to some or all of your improvements.  We usually distinguish
 between "weak" and "strong" copyleft as a way to categorize licenses
 by how strict their copyleft requirements are.
@@ -126,8 +126,8 @@ no significant restrictions.  Compliance with these licenses is
 bureaucratic, and shouldn't ever affect the substance of a project.
 For the purposes of this discussion, the key takeaway is that
 permissive licenses allow you to make *proprietary* copies.  They
-allow you to take open source code and make things that themselves are
-not open source.
+allow you to take open-source code and make things that themselves are
+not open-source.
 
 The Apache Software License is similarly permissive and similarly
 bureaucratic.  Its primary differences from the other permissive
@@ -141,8 +141,8 @@ Beyond those permissive licenses, we start to see copyleft clauses.
 "Copyleft" is a play on words.  Whereas copyright is typically used to
 prevent people from sharing software, copyleft requires that
 permission to share attach to at least some of what you build.
-Copyleft restricts your ability to make non-open source software from
-open source ingredients.  This is a bargain designed to nurture a
+Copyleft restricts your ability to make non-open-source software from
+open-source ingredients.  This is a bargain designed to nurture a
 commons of shared software-- when you distribute software that is
 built on code from the commons, sometimes that newly made software
 must join the commons too.
@@ -174,7 +174,7 @@ original.  That means that it applies not just to software that
 contains literal copies of the original but also to software that
 links to the original.  Its theory is that when you link software
 together you create a new work, and the license requires that this
-entire work be open source and carry forward the copyleft
+entire work be open-source and carry forward the copyleft
 requirements.
 
 There are two strong copyleft licenses in common use:
@@ -186,7 +186,7 @@ The AGPL differs from the GPL in one major respect.  Typically,
 copyleft rights flow through distribution.  When you transfer a copy
 of the software, copyleft requires that you give the recipient rights
 to that software.  It requires that the recipient can treat the
-software they receive as open source.  This is true for both weak and
+software they receive as open-source.  This is true for both weak and
 strong copyleft licenses.
 
 AGPL takes this one step further.  It recognizes that a lot of
@@ -194,7 +194,7 @@ software runs on servers and that most of the people who interact with
 that software will not receive a copy of it under normal
 circumstances.  AGPL tries to correct for this by requiring that if a
 user interacts with the software over a network, that user is entitled
-to receive a copy of the software and all open source rights to run,
+to receive a copy of the software and all open-source rights to run,
 copy, modify, and distribute it.
 
 ## DPGs Are About Collaboration, Not Licenses

@@ -1,6 +1,6 @@
 # Community And Ecosystem
 
-Each open source software project runs on the collective motivations
+Each open-source software project runs on the collective motivations
 of all of its participants.  Some of those participants may be
 "volunteers" (in the sense of not being paid directly for their work
 in the project, although even then the project is often of economic
@@ -17,7 +17,7 @@ Thus, although it is certainly accurate to refer to this collective as
 a "community" -- it has social relations, cultural norms, status
 differentiation, informal debt relations, and all the other aspects of
 human communities -- it is not a community that runs on altruism.
-Understanding how to work with and participate in an open source
+Understanding how to work with and participate in an open-source
 project is not just a matter of understanding the software at a
 technical level; it also requires understanding the motivations of the
 people who make up the project.
@@ -27,22 +27,22 @@ people who make up the project.
 One of the most important skills for agencies exploring open source is
 understanding existing ecosystems and their project's place within
 them.  In order to plan a project that builds on or collaborates with
-other open source efforts, agencies must know their own projects and
+other open-source efforts, agencies must know their own projects and
 also know what to expect from other community participants.
 
-Open source projects operate in many different ways.  Experienced open
-source practitioners build nuanced open source strategies by
-pattern-matching against other open source projects.  They use those
-patterns to understand their own projects and also the other open
-source efforts around them.  Practitioners with a lot of experience
+Open-source projects operate in many different ways.  Experienced
+practitioners of open source build nuanced open-source strategies by
+pattern-matching against other open-source projects.  They use those
+patterns to understand their own projects and also the other open-source
+efforts around them.  Practitioners with a lot of experience
 have seen many different types of projects succeed and fail in all
 kinds of situations.  Less experienced practitioners pattern match
 against a smaller set, which is to say they might have only one or a
-small handful of open source approaches and find it difficult to
+small handful of open-source approaches and find it difficult to
 perform nuanced analysis.
 
 Mozilla identified this experience gap as a general problem in open
-source, and developed a set of open source project archetypes to give
+source, and developed a set of open-source project archetypes to give
 practitioners more patterns to match against.  A given project won't
 necessarily fit perfectly into one of these archetypes, and a project
 might not reflect the same archetype(s) for its entire history --
@@ -50,15 +50,15 @@ transitions happen all the time.  In some projects, one sees multiple
 archetypes at work or even different sets of participants pushing the
 project toward separate archetypal practices.  
 
-The purpose of the archetypes is to lead people away from generic open
-source thinking and toward considering in more detail the behaviors
-and dynamics their open source investment seeks to create.  Each
+The purpose of the archetypes is to lead people away from generic
+open-source thinking and toward considering in more detail the behaviors
+and dynamics their open-source investment seeks to create.  Each
 archetype tends toward typical strategies, and categorizing projects
 by archetype can help in predicting behavior.  Similarly, where the
 strategies deviate, we can usually find deviation from the archetype
 too.  The more specific you are about what you want from open source
 in your particular context, the more you will be able to look for
-patterns and practices in successful open source projects that operate
+patterns and practices in successful open-source projects that operate
 in similar contexts.
 
 A complete discussion of each archetype is available in Mozilla's
@@ -102,7 +102,7 @@ available.)
 * [Multi-Vendor Infrastructure](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf#section*.9)
 
   When a number of commercial organizations share a common need, it
-  makes sense for them to pool their resources into one open source
+  makes sense for them to pool their resources into one open-source
   project that meets that need, rather than each one developing their
   own separate but duplicative solution.
 
@@ -111,7 +111,7 @@ available.)
 
 * [Mass Market](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf#section*.14)
 
-  An open source project aimed at very broad user adoption (for
+  An open-source project aimed at very broad user adoption (for
   example, Mozilla Firefox).  Mass Market projects often have
   commercial sponsorship of some kind, and if they are successful they
   tend to have fairly elaborate mechanisms to help steer potential
@@ -132,7 +132,7 @@ available.)
 * [Trusted Vendor](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf#section*.16)
 
   A commercial organization with unique expertise may sometimes
-  maintain an open source project that simultaneously serves to
+  maintain an open-source project that simultaneously serves to
   advertise that expertise, to maintain it, and to provide leads on
   direct or indirect sources of revenue.  Interaction with these
   projects is sometimes equivalent to interaction with that particular
@@ -157,13 +157,13 @@ available.)
 
   A single person started the project, has maintained it all along,
   and either has not wanted to or has not been able to expand its
-  developer base. (While this kind of open source project definitely
+  developer base. (While this kind of open-source project definitely
   exists, it is perhaps overrepresented in writings and public
   discussion about open source.)
 
 * [Bathwater](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf#section*.18)
 
-  A project whose source code has been published under an open source
+  A project whose source code has been published under an open-source
   license, but which is now being ignored by its original authors.
   The code was thrown over the wall, as the saying goes, and it is
   there for anyone else to pick up if they want.
@@ -185,7 +185,7 @@ available.)
 
 The most common archetype we observe in the wild is the "Wide Open"
 project.  This is normally what people think of when they imagine an
-open source project.  Wide Open projects take all comers and try to
+open-source project.  Wide Open projects take all comers and try to
 gather as much dev momentum as they can.  They skew toward shared
 governance models and cultivate a welcoming, inclusive air.  This
 approach is popular for a reason--- it's a pretty good default
@@ -193,8 +193,8 @@ starting point for a lot of projects, especially government-led open
 source.
 
 But not all projects fit that mold.  Sometimes you want to build an
-open source ecosystem and absolutely must retain a strong, controlling
-position to achieve the policy goals that drive your open source work.
+open-source ecosystem and absolutely must retain a strong, controlling
+position to achieve the policy goals that drive your open-source work.
 In industry, we see that, for example, with Google's Android work.
 There, one company makes the majority of the investment, and benefits
 by steering the majority of the mobile market to its products,
@@ -207,7 +207,7 @@ Google's strategic need.  Instead, one can classify that project as
 B2B Open Source, which is a much less inviting model.
 
 Archetypes help us identify that Android is not like a stereotypical
-open source project.  They allow us to see its actual behavior.  That
+open-source project.  They allow us to see its actual behavior.  That
 reveals something about Android's strategy and helps us form credible
 expectations about how the project will behave in the future.  It
 would be disastrous, for example, to build a product strategy that
@@ -225,8 +225,8 @@ archetypes.  All of these are candidates for projects lead by or
 originating in government agencies, depending on strategic and policy
 needs.
 
-There are other cases where archetypes help us understand the open
-source world around us.  In each case, the archetypes are a rough lens
+There are other cases where archetypes help us understand the open-source
+world around us.  In each case, the archetypes are a rough lens
 that leads us to clarify our view of a products position.  The
 archetypes, though, are just a starting point.  They are a shared
 vocabulary for a conversation that should eventually move beyond
@@ -251,7 +251,7 @@ including a mapping/analysis of some existing DPGs to the archetypes.)
 
 ## Community Diversity
 
-There are many ways to think about the diversity of an open source
+There are many ways to think about the diversity of an open-source
 project community.  Do its contributors come from a wide variety of
 geographic or cultural origins?  Do they represent a wide variety of
 skill levels?  Do they represent a wide variety of usage patterns?  Do
@@ -268,13 +268,13 @@ yet are so important to the health and success of a DPG.
 
 ## Community Health
 
-An open source community's health depends ultimately on the presence
+An open-source community's health depends ultimately on the presence
 of a user base that needs the software and is willing, directly or
 indirectly, to invest in it.  New contributors come from either those
 users or from the organizations that service those users; useful
 feature direction for the project's roadmap comes likewise from those
 users or their representatives; bug reports -- the lifeblood of an
-active open source project -- come ultimately from those users.
+active open-source project -- come ultimately from those users.
 
 The quickest way to check on the health of a project community is
 usually to look at activity over time in the bug tracker:
@@ -310,7 +310,7 @@ developers to the least, tends to correlate with project health.
 
 Moving up to a higher level of consideration, a project community
 tends to be healthier the greater the number and variety of its
-commercial participants.  In fact, at least one open source
+commercial participants.  In fact, at least one open-source
 stewardship organization has a rule that it will only accept projects
 as members if there is a sufficient diversity of employers across the
 project's individual maintainers.  Their logic is that if most of the
@@ -333,7 +333,7 @@ decisive factor unrelated to community health concerns?  See Victor's
 [answer](https://github.com/unicef/publicgoods-toolkit/pull/12#discussion_r651328070)
 to that question.)
 
-Note that many aspects of open source project community health are
+Note that many aspects of open-source project community health are
 also discussed, implicitly and sometimes explicitly, in the
 Adoptability module (TBD reference).
 
@@ -342,8 +342,8 @@ note also present in Parking Lot of Adoptability module.)
 
 ## Commercial Participants
 
-All open source licenses, by definition, allow commercial as well as
-non-commercial use of the software, and it is typical for open source
+All open-source licenses, by definition, allow commercial as well as
+non-commercial use of the software, and it is typical for open-source
 projects to have both commercial and non-commercial participants.
 Some individuals may even represent both types at different times.
 
@@ -358,7 +358,7 @@ day's feature request.
 
 This economic value is understood as such quite literally by those
 participants.  For example, when a company that is very active in an
-important open source project is the willing target of an acquisition,
+important open-source project is the willing target of an acquisition,
 it works with the acquirer to place a monetary value -- a definite
 number -- on its relationship to and influence in that project.  That
 number is partly computed by looking at the individual employees at
@@ -376,7 +376,7 @@ motivations are their own business.
 
 ## Non-Commercial Participants
 
-Depending on the open source project, there may be fewer or more
+Depending on the open-source project, there may be fewer or more
 non-commercial participants than commercial ones; it varies from
 project to project.
 
@@ -402,7 +402,7 @@ vendors of course have a commercial interest as well.  In these cases,
 there can occasionally be conflicts between the two parties'
 motivations.  For example, the NGO client may want an API capability
 that the vendor is reluctant to add because the presence of that
-capability in the open source product would reduce the value of some
+capability in the open-source product would reduce the value of some
 proprietary offering of the vendor's.
 
 There is no general formula for avoiding nor for resolving such
@@ -426,7 +426,7 @@ status in the project if they move from employer to employer.
 
 ## Sustainability, Longevity, and Lifecycle
 
-All software projects -- not just open source software projects --
+All software projects -- not just open-source software projects --
 have a lifecycle.  That lifecycle may not be knowable in advance, but
 it will eventually become apparent.  As a project matures, its rate of
 user acquisition slows down, the rate at which new contributors come

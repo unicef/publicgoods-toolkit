@@ -49,14 +49,14 @@ law, which we discuss [elsewhere](#patent).)
 d'auteurs" aspect of copyright law that exists in some jurisdictions.
 That may or may not be a useful detail for DPG policy.)
 
-Thus open source licenses are simply formal statements by the
+Thus open-source licenses are simply formal statements by the
 copyright holder, granting explicit permission to copy and share
-without limitation, including sharing modified versions.  Open source
+without limitation, including sharing modified versions.  open-source
 licenses originated with software, and therefore the most mature body
 of legal texts related to open licensing is found there (the
 non-software "open content" licenses are somewhat more recent,
 although at this point the oldest ones have existed for more than a
-decade and they have, like open source software licenses, undergone
+decade and they have, like open-source software licenses, undergone
 some revisions).  Importantly, the permission to share modified
 versions has been present since the beginning.  With software, the
 modifications one usually wants to make are things like fixing bugs or
@@ -65,16 +65,16 @@ improvements in one's own copy of the code -- one must be able to
 share those improvements with others in order for the code to truly be
 a Digital *Public* Good.
 
-Copyright is the main concern of the common open source licenses, and
+Copyright is the main concern of the common open-source licenses, and
 most of the terms in them are about copyright permissions.  This is
 because in the absence of explicit permissions, copyright law would be
 an obstacle to sharing software source code.  In most jurisdictions,
 copyright prohibits permissionless sharing and re-use by default,
-whereas the point of open source licensing is to allow that sharing
+whereas the point of open-source licensing is to allow that sharing
 and re-use, that is, to create an environment with a different
 default.
 
-The specifics of open source licensing are discussed in [Major
+The specifics of open-source licensing are discussed in [Major
 Software Licenses and License
 Categories](introduction.md#foss-licensing).
 
@@ -83,7 +83,7 @@ Categories](introduction.md#foss-licensing).
 From a policy perspective, there are a few major points to keep in
 mind about copyright and DPGs:
 
-* Use only well-known open source or open content licenses.
+* Use only well-known open-source or open content licenses.
 
   When publishing a DPG, you should always publish it under a
   well-known and widely-used existing license.  Never make up your own
@@ -107,7 +107,7 @@ mind about copyright and DPGs:
 
 * Establish copyright ownership clearly.
 
-  Open source licenses are still copyright licenses, and therefore
+  open-source licenses are still copyright licenses, and therefore
   they assume that the licensed work has a copyright holder.  It does
   not always matter greatly who that holder is: in some circumstances,
   it might be most appropriate for the public agency responsible for a
@@ -130,14 +130,14 @@ mind about copyright and DPGs:
 * Avoid mixing proprietary materials into a DPG.
 
   It is easy to accidentally incorporate proprietary material -- that
-  is, any copyrighted material that is *not* under an open source or
+  is, any copyrighted material that is *not* under an open-source or
   open content license -- into a DPG.  Such incorporation most often
   happens through inattention: a resource is convenient and speeds up
   development of the DPG, and only long after it has been integrated
   does someone check the license and discover that the resource is not
   redistributable in a way that is compatible with DPGs.  There are
   also occasionally popular third-party code libraries that were
-  formerly open source but whose most recent releases are not open
+  formerly open-source but whose most recent releases are not open
   source; this is easy to find out by just checking the license, it's
   just that one must remember to do so.
 
@@ -148,10 +148,10 @@ mind about copyright and DPGs:
 
 ### Copyright and Jurisdiction
 
-It is likely that these open source licenses operate in standard ways,
+It is likely that these open-source licenses operate in standard ways,
 across most countries.  Copyright law is somewhat standardized among
-Berne Convention signatory countries, and most commentators treat open
-source licenses as having the same effect regardless of jurisdiction.
+Berne Convention signatory countries, and most commentators treat open-source
+licenses as having the same effect regardless of jurisdiction.
 At the same time, these licenses were written primarily with United
 States law in mind, and few licenses have been the subject of
 official, judicial interpretation.  The one exception is version 3 of
@@ -296,7 +296,7 @@ Whether a particular DPG should have trademarks associated with it,
 and if so what the policy on ownership and enforcement of those
 trademarks should be, needs to be decided on a case-by-case basis.
 (TBD: We can point to some other resources here, such as example
-trademark policies from some existing DPGs / open source projects.
+trademark policies from some existing DPGs / open-source projects.
 https://producingoss.com/en/trademarks.html has pointers to some.)
 
 ## Commercial Use
@@ -309,7 +309,7 @@ whole, commercial investment in DPGs is usually beneficial, because
 commercial entities have more reasons to work collaboratively on the
 DPG than to try (and likely fail) to monopolize its value.
 
-The open source and open content licenses that govern DPG distribution
+The open-source and open content licenses that govern DPG distribution
 also set up an implicit economic structure that leans toward
 collaboration.  Because no entity can monopolize the DPG itself -- by
 definition, a DPG is available to all the public on equal terms -- any

@@ -1,14 +1,14 @@
-# Open Source Readiness
+# Open-Source Readiness
 
 Open source is a powerful tool that offers great benefits to agencies
 that make, maintain, or deploy software.  Agencies are increasingly
-aware that they need open source capabilities.  The hard part is
+aware that they need open-source capabilities.  The hard part is
 knowing where to start in adding skills.  In most cases, the most
 important consideration is building capability to know how and when to
 use FOSS strategies.
 
-Open source is all about execution.  Reaping the benefits of open
-source investment requires completing a series of difficult steps
+Open source is all about execution.  Reaping the benefits of open-source
+investment requires completing a series of difficult steps
 ranging from designing an initial strategy to building an appropriate
 community to leveraging the resulting dynamics for strategic
 advantage.  Most government procurement teams are not yet prepared to
@@ -22,12 +22,12 @@ To do that, we might locate current capabilities in a readiness model.
 This clarifies where an agency is in its journey to mastery and also
 suggests next steps and likely results.  Often, teams use these models
 to identify areas for potential growth.  They are most useful for
-those early in their open source progress, and this module focuses on
+those early in their open-source progress, and this module focuses on
 those beginning stages.  It is useful for an agency to consider its
 maturity on an organization wide basis, but open source is usually
 executed by teams, and it is the capabilities of specific teams that
 matter most.  This module considers individual teams as the target for
-analysis because even agency-wide open source skills training will
+analysis because even agency-wide open-source skills training will
 succeed or fail mostly at the level of specific teams working on
 specific projects.
 
@@ -50,7 +50,7 @@ As you can see, there are a number of such models.  It is often worth
 considering more than one when examining an organization or a
 particular team.  Of the published models, we find McAffer's in
 particular is useful because it includes strategic components.  It
-accounts for realistic failure modes, and understands that open source
+accounts for realistic failure modes, and understands that open-source
 readiness will be unevenly distributed in any agency large enough to
 have multiple teams.
 
@@ -59,21 +59,21 @@ FURTHER READING Microsoft Senior Director Jeff McAffer (now Senior Director at G
   useful readiness model at
   https://mcaffer.com/2019/02/Open-source-engagement
 
-On many teams, initial open source capabilities might be nascent.
+On many teams, initial open-source capabilities might be nascent.
 Most team members have not had significant (or perhaps even any)
-experience using open source strategies to create value.  The team
+experience using open-source strategies to create value.  The team
 works in an environment where FOSS investment is rare, and many do not
 see much reason to change that.  That lack of knowledge might
 translate in some quarters into hostility toward FOSS.  People will
 say "It can never work here" even as open source slowly seeps into
 more and more of the technology around them.
 
-At this stage, open source strategies will be difficult to execute.
+At this stage, open-source strategies will be difficult to execute.
 Internal political risks might be high.  Policies needed to engage
 open source productively might be missing.  Staff might not know how
-to begin working with external open source contributors.  Many people
-might lack even a basic understanding of what it means to do open
-source work.  Efforts to work in an open source mode suffer from an
+to begin working with external open-source contributors.  Many people
+might lack even a basic understanding of what it means to do open-source
+work.  Efforts to work in an open-source mode suffer from an
 increased risk of failure, and they might fail in ways that reinforce
 the belief that open source is not worth further consideration.
 
@@ -85,16 +85,16 @@ costs and risks of refusing to engage start to rise, pressure to
 engage open source will increase.
 
 Those costs might include the pain of maintaining internal forks of
-external open source projects. Or more commonly, the risks of not
+external open-source projects. Or more commonly, the risks of not
 maintaining all those forks.  Similarly, the benefits of making minor
-open source investments start to become clear, even if only because
+open-source investments start to become clear, even if only because
 other teams will begin to reap those benefits and your team gains
 good, internal examples to follow.
 
 However any specific team begins to adapt, climbing the learning curve
-is often an exercise in experimentation.  Most don't think of open
-source investment in those terms.  Instead, they cast initial open
-source forays as making small concessions to necessity.  Some see
+is often an exercise in experimentation.  Most don't think of open-source
+investment in those terms.  Instead, they cast initial open-source
+forays as making small concessions to necessity.  Some see
 these experiments as seizing unique, non-repeatable advantages.  Most
 don't think of those small, initial projects as the future direction
 of the team.  More teams should consider the possibility, though.
@@ -105,17 +105,17 @@ learning.  It gives permission to fail.  Those can be useful to teams
 seeking adaptability.  When considering McAffer's model, we might
 relabel his "tolerance" phase as "experimentation".
 
-KEY RECOMMENDATION: Look for the places where your lack of open source
+KEY RECOMMENDATION: Look for the places where your lack of open-source
   investment are causing problems that can be addressed by
   small-scale, low-risk, experimental engagement.  Start there.
 
 Experiments come in many forms, but the most common first experiment
-is using some outside open source code and engaging the open source
+is using some outside open-source code and engaging the open-source
 project.  That might involve filing bug reports, offering a
 contribution, or merely participating in project mailing lists and
 forums.  These are all relatively low-risk, low-investment ways to
 begin connecting a team to outside FOSS projects.  If your team's
-future plans include larger-scale open source engagement, building
+future plans include larger-scale open-source engagement, building
 skills through these kinds of small-scale experiments can be very
 productive.
 
@@ -132,16 +132,16 @@ and experience.  This is a pivotal, risky moment.  A large number of
 teams will still be in the initial phases.  Efforts to move internal
 culture toward open source will be perceived by some as a pointless
 shift toward the latest buzzword.  Those experimental skills will be
-unevenly distributed internally.  Many new open source projects will
+unevenly distributed internally.  Many new open-source projects will
 fail, and this will convince some that all open source is destined to
-fail.  In some agencies, some might even sabotage open source projects
+fail.  In some agencies, some might even sabotage open-source projects
 for policy or political reasons.
 
 McAffer sees this phase as one of hype, and perhaps that's because
 it's also when an agency embraces open source without quite being
 ready to execute.  Agencies in this phase tend to engage FOSS in
 shallow, unsophisticated ways simply because they don't yet have the
-experience to make better strategic use of open source opportunities.
+experience to make better strategic use of open-source opportunities.
 The way to move past this stage is not to reduce the hype (though that
 might help) but rather to increase readiness.
 
@@ -162,19 +162,19 @@ resources.  Agencies that fail to provide this support from fairly
 high in the organization tend to level off at this level of readiness.
 
 Another consideration for agencies climbing the readiness ladder is
-that the need for skilled open source practitioners will almost always
-exceed the supply.  The demand for open source skills is growing so
-fast, the world does not have enough experienced open source
+that the need for skilled open-source practitioners will almost always
+exceed the supply.  The demand for open-source skills is growing so
+fast, the world does not have enough experienced open-source
 strategists and developers to keep up.  A number of companies and
 universities have decided to address this problem by centralizing much
-of their open source expertise in an Open Source Programs Office
+of their open-source expertise in an Open Source Programs Office
 (OSPO).  The OSPO's job is to use that collected expertise to improve
-open source readiness and efficacy across the entire organization.  We
+open-source readiness and efficacy across the entire organization.  We
 are not aware of any agencies that have an OSPO, but governments
-should consider focusing open source readiness efforts on one agency
+should consider focusing open-source readiness efforts on one agency
 or department that can then help others.  In the United States, the
 federal government did this with 18F, which, after reaching relatively
-high levels of open source capability and knowledge, has developed
+high levels of open-source capability and knowledge, has developed
 guidance for other agencies approaching open source. Code.gov has created a [toolkit](https://github.com/GSA/code-gov-open-source-toolkit) that goes in-depth for approaching open source.
 
 All of the above describes a path from the very beginning toward
