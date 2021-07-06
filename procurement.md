@@ -1,4 +1,4 @@
-# FOSS Procurement For Government Agencies
+# FOSS Procurement For Government Agencies {#procurement}
 
 FOSS has rapidly become successful in the commercial sector.  Few
 modern enterprises can thrive without taking full advantage of open

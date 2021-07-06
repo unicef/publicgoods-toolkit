@@ -5,7 +5,7 @@ use and production of Digital Public Goods.  For the most part it
 discusses high-level policy considerations, while detailed policy
 recommendations are generally found in a module that is specific to
 the policy in question.  For example, procurement policies are in the
-[Procurement Module](procurement.md), and so on.
+[Procurement Module](#procurement), and so on.
 
 Many of these high-level policy considerations flow from the legal
 structures within which DPG usage and production takes place.  Among
@@ -75,8 +75,7 @@ and re-use, that is, to create an environment with a different
 default.
 
 The specifics of open source licensing are discussed in [Major
-Software Licenses and License
-Categories](introduction.md#foss-licensing).
+Software Licenses and License Categories](#foss-licensing).
 
 ### Copyright Policy
 
@@ -120,7 +119,7 @@ mind about copyright and DPGs:
 
   The question of which of these copyright ownership scenarios is best
   for a given DPG is discussed further in the [Procurement
-  Module](procurement.md).  (TBD: check Procurement to make sure we
+  Module](#procurement).  (TBD: check Procurement to make sure we
   cover this.)  The high-level policy point here is merely that the
   decision of copyright *ownership* -- which is independent from the
   choice of license -- should be made purposefully, not determined by
@@ -141,7 +140,7 @@ mind about copyright and DPGs:
   source; this is easy to find out by just checking the license, it's
   just that one must remember to do so.
 
-  As the [Procurement Module](procurement.md) discusses, it is good to
+  As the [Procurement Module](#procurement) discusses, it is good to
   write the no-proprietary-materials requirement into contracts with
   vendors, so that there is no ambiguity on the matter.  (TBD: again,
   make sure Procurement covers this.)
@@ -168,8 +167,7 @@ material should be moved here to Policy, and then the Introduction's
 coverage of that topic can be much briefer and can just point here to
 the Policy Module for details.)
 
-<a name="patent"></a>
-## Patent
+## Patent {#patent}
 
 A patent is also a monopoly right, like a copyright, but it is a
 monopoly on a method or a mechanism for doing something.  Like
@@ -208,7 +206,7 @@ However, one can at least take some steps when procuring a DPG to
 ensure that everyone involved in building it or in being an official
 distributor takes steps to avoid being a source of patent infringement
 claims themselves.  This is discussed further in the [Procurement
-Module](procurement.md).
+Module](#procurement).
 
 (TBD: link to appropriate material in Procurement Module.
 Essentially: we need to state that it's not enough to get a blessing
