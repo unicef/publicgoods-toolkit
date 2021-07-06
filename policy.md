@@ -17,6 +17,12 @@ discuss them in separate sections below, and each such section will
 start with a basic explanation of the concept and how it differs from
 the others two.
 
+TBD [@imahgoub
+says](https://github.com/unicef/publicgoods-toolkit/pull/24#discussion_r658086768):
+I would recommend an overview of the role policy plays in regulating
+government software and creating (or not) an enabling environment for
+leveraging DPGs
+
 ## Copyright
 
 Copyright grants someone a monopoly on distributing copies of a
@@ -335,6 +341,11 @@ cost/benefit analysis.  (But we need to distinguish what's discussed
 in this section from what's discussed in the "Security" subsection in
 Adoptability.)
 
+TBD [@imahgoub
+says](https://github.com/unicef/publicgoods-toolkit/pull/24#discussion_r658088078):
+I understand here we will include recommendations with examples on the
+policies that need to be enforced to maximize security
+
 ## Data Privacy
 
 TBD: Data privacy is complex.  Privacy *from* whom *for* whom.  Note
@@ -347,6 +358,12 @@ managed by a particular instance of that DPG.  Point out how this
 distinction is not always clear to high-level decision makers and
 elected officials, and how it may thus be incumbent on those promoting
 a DPG to clarify this important distinction.
+
+TBD [@imahgoub
+says](https://github.com/unicef/publicgoods-toolkit/pull/24#discussion_r658089490):
+The clearer we can be about the recommendations + examples we include,
+the easier it will be for DPG champions in the government (or the
+legislative arm) to advocate for these changes
 
 ### GDPR
 
