@@ -48,10 +48,10 @@ major consumer electronics product has at least some open-source
 software inside it.  It is increasingly rare to find any electronic
 device of significant complexity that is wholly proprietary.
 
-As open-source software spreads through the technology world sector by
-sector, it has inspired open movements in adjacent fields and even
-distant domains. In this set of modules, we will focus on open-source
-software and related "digital public goods" (DPGs). These are
+As open open source software spreads through the technology world
+sector by sector, it has inspired open movements in adjacent fields
+and even distant domains.  In this set of modules, we will focus on
+open source software and related "digital public goods" (DPGs).  These are
 digital products that are freely shared in ways that invite
 permissionless copying and collaboration.
 
@@ -93,7 +93,7 @@ collaborative commons and a shared pool of value.  For all that these
 licenses differ from each other, they are more alike than different.
 
 We broadly describe Free and Open Source Software ("FOSS") licenses as
-existing on a continuum from "permissive" to "protective".  
+existing on a continuum from "permissive" to "protective".
 The most permissive licenses have the
 fewest restrictions.  They allow the broadest range of activity under
 the broadest range of conditions.  The more protective licenses are
