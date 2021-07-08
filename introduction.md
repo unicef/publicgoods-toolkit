@@ -93,7 +93,8 @@ modify, and distribute the software.  They each try create a
 collaborative commons and a shared pool of value.  For all that these
 licenses differ from each other, they are more alike than different.
 
-We broadly describe FOSS licenses as existing on a continuum from
+We broadly describe Free and Open Source Software (FOSS) licenses as
+existing on a continuum from
 "permissive" to "restrictive".  The most permissive licenses have the
 fewest restrictions.  They allow the broadest range of activity under
 the broadest range of conditions.  The more restrictive licenses are
