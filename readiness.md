@@ -5,7 +5,7 @@ that make, maintain, or deploy software.  Agencies are increasingly
 aware that they need open source capabilities.  The hard part is
 knowing where to start in adding skills.  In most cases, the most
 important consideration is building capability to know how and when to
-use FOSS strategies.
+use Free and Open Source Software (FOSS) strategies.
 
 Open source is all about execution.  Reaping the benefits of open
 source investment requires completing a series of difficult steps
