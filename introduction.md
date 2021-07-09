@@ -44,14 +44,14 @@ for sharing became known as "Free" or "Open Source" and more
 specifically identified as licenses that respect the [Open Source
 Definition](https://opensource.org/osd).  In the decades since,
 software made with these methods has taken over the world.  Every
-major consumer electronics product has at least some open source
+major consumer electronics product has at least some open-source
 software inside it.  It is increasingly rare to find any electronic
 device of significant complexity that is wholly proprietary.
 
-As open open source software spreads through the technology world
-sector by sector, it has inspired open movements in adjacent fields
-and even distant domains.  In this set of modules, we will focus on
-open source software and related "digital public goods" (DPGs).  These are
+As open-source software spreads through the technology world sector by
+sector, it has inspired open movements in adjacent fields and even
+distant domains. In this set of modules, we will focus on open-source
+software and related "digital public goods" (DPGs). These are
 digital products that are freely shared in ways that invite
 permissionless copying and collaboration.
 
@@ -63,7 +63,7 @@ DPGs might also be interested in those topics.  They are not DPGs,
 though, so this set of modules will not cover them.  Instead, we focus
 on:
 
- * Open Source Software - software that can be freely run, copied,
+ * Open-Source Software - software that can be freely run, copied,
    modified and distributed.
 
  * Open Standards - these are standards that are freely available to
@@ -73,15 +73,15 @@ on:
 
  * Open Content - this is content in any media that may to some degree
    be freely copied, displayed, modified or distributed, much like
-   open source software.  The most popular open content licenses are
-   the Creative Commons licenses.
+   open-source software.  The most popular open content licenses are
+   the [Creative Commons licenses](https://creativecommons.org/licenses/).
 
  * Open Data - these are datasets that may be freely copied and
    shared.
 
  * Open AI Models - these are machine learning models that may be
-   freely shared and are to some degree trained on open data sets and
-   based on algorithms implemented in open source software.
+   freely shared and are trained on open data sets and
+   based on algorithms implemented in open-source software.
 
 <a name="foss-licensing"></a>
 ## Major Software Licenses and License Categories
@@ -89,15 +89,15 @@ on:
 At the most basic level, government agencies engaging with open source
 can start with basic knowledge of a handful of software licenses.  All
 of these licenses have in common the basic permissions to run, copy,
-modify, and distribute the software.  They each try create a
+modify, and distribute the software.  They each try to create a
 collaborative commons and a shared pool of value.  For all that these
 licenses differ from each other, they are more alike than different.
 
-We broadly describe Free and Open Source Software (FOSS) licenses as
-existing on a continuum from
-"permissive" to "restrictive".  The most permissive licenses have the
+We broadly describe Free and Open Source Software ("FOSS") licenses as
+existing on a continuum from "permissive" to "protective".  
+The most permissive licenses have the
 fewest restrictions.  They allow the broadest range of activity under
-the broadest range of conditions.  The more restrictive licenses are
+the broadest range of conditions.  The more protective licenses are
 still quite permissive but they condition those permissions on
 compliance with certain requirements.  Among the commonly used
 licenses, those requirements concern "copyleft", which is the
@@ -195,7 +195,7 @@ software runs on servers and that most of the people who interact with
 that software will not receive a copy of it under normal
 circumstances.  AGPL tries to correct for this by requiring that if a
 user interacts with the software over a network, that user is entitled
-to receive a copy of the software and all open source rights to run,
+to receive a copy of the software and all open-source rights to run,
 copy, modify, and distribute it.
 
 ## DPGs Are About Collaboration, Not Licenses
