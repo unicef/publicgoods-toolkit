@@ -51,7 +51,7 @@ device of significant complexity that is wholly proprietary.
 As open open source software spreads through the technology world
 sector by sector, it has inspired open movements in adjacent fields
 and even distant domains.  In this set of modules, we will focus on
-open source software and related "digital public goods".  These are
+open source software and related "digital public goods" (DPGs).  These are
 digital products that are freely shared in ways that invite
 permissionless copying and collaboration.
 

@@ -1,7 +1,7 @@
 # Policy
 
 This module is about how to design public agency policies to encourage
-use and production of Digital Public Goods.  For the most part it
+use and production of Digital Public Goods (DPGs).  For the most part it
 discusses high-level policy considerations, while detailed policy
 recommendations are generally found in a module that is specific to
 the policy in question.  For example, procurement policies are in the
