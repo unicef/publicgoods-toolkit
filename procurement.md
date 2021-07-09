@@ -1,6 +1,7 @@
 # FOSS Procurement For Government Agencies
 
-FOSS has rapidly become successful in the commercial sector.  Few
+Free and Open Source Software (FOSS) has rapidly become successful 
+in the commercial sector.  Few
 modern enterprises can thrive without taking full advantage of open
 source antecedents to power a competitive business.  More and more
 sectors find themselves taken over by open source offerings that crowd

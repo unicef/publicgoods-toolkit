@@ -18,8 +18,9 @@
 
 * Policy
   - Copyright
-  - Trademark
   - Patent
+  - Trademark
+  - Commercial Use
   - Security
   - Data Privacy
     + GDPR
