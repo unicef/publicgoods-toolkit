@@ -293,6 +293,12 @@ trademarks and are uneven in their handling of patents.  Contracts
 must secure terms that prevent a vendor from encumbering further
 development and distribution on either trademark or patent grounds.
 
+## Patents
+
+Procurement should also consider that any patent issues should be resolved before publishing. While a vendor may be able to state that "government" or "public" use is allowed, this is not sufficient to protect against a patent infringement issue longer term. A promise not to make patent infringement claims on anyone* for their use of the patent as embodied in the DPG is what's required here.
+
+(TBD: An example of this beyond the Red Hat Patent Promise could be valuable here.)
+
 ## Open Source Quality Assurance
 
 In addition to intellectual property clauses, we recommend using

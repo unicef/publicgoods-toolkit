@@ -93,16 +93,20 @@ mind about copyright and DPGs:
   except when you have a specific and strong reason to prefer one of
   them.
 
-  (TBD: We could provide some specific license recommendations here,
-  and also point to places where others make such recommendations,
-  e.g., the "Popular Licenses" section of
-  https://opensource.org/licenses.)
+  Publishing under a widely used license also allows for future groups to contribute and update your work, and creates an open opportunity for someone else to become a collaborator.
 
-  (TBD: we perhaps should mention that using public domain DPGs is
-  fine, but one should prefer to publish under an explicit open
-  license, rather than into the public domain, when possible.
-  https://opensource.org/faq#public-domain has more context about
-  this.)
+  While it's possible to publish into the public domain, publishing under an open source license makes it clear that the content is intended to be distributed. Not all jurisdictions may have the expectation of public domain, and it's best to be clear and structured when publishing. https://opensource.org/faq#public-domain has more context for this.
+
+  Specifically, there are some commonly used licenses that you should be aware of:
+   * [Apache-2.0](https://opensource.org/licenses/Apache-2.0)
+   * [GPLv2](https://opensource.org/licenses/GPL-2.0)
+   * [MIT](https://opensource.org/licenses/MIT)
+
+  These are widely used licenses for software and may prove to be a good fit for your project. The "Popular Licenses" section of https://opensource.org/licenses has a more exhaustive list.
+
+  TBD: These are licenses really intended for software. Should we include CC-By-4.0 for text based projects, as Apache-2.0/etc get a little messy around things that aren't software directly?
+
+KEY RECOMMENDATION: Publish your DPG under a widely used and understood open source license.
 
 * Establish copyright ownership clearly.
 
@@ -142,8 +146,7 @@ mind about copyright and DPGs:
 
   As the [Procurement Module](#procurement) discusses, it is good to
   write the no-proprietary-materials requirement into contracts with
-  vendors, so that there is no ambiguity on the matter.  (TBD: again,
-  make sure Procurement covers this.)
+  vendors, so that there is no ambiguity on the matter.
 
 ### Copyright and Jurisdiction
 
@@ -165,7 +168,8 @@ they should be in the same place.  I'm not sure that the Introduction
 is the right place for that.  Maybe all the FOSS-licensing related
 material should be moved here to Policy, and then the Introduction's
 coverage of that topic can be much briefer and can just point here to
-the Policy Module for details.)
+the Policy Module for details.
+Followup: Given as the licensing is somewhat foundational, I'm inclined to leave into the introduction.)
 
 ## Patent {#patent}
 
@@ -273,9 +277,9 @@ simple:
 It is okay for an organization to have a trademark on the name or logo
 of a DPG (or of some aspect of a DPG).  In some cases it may even be
 desirable: while a DPG can be "forked" -- that is, anyone can make a
-divergent version with their own changes, perhaps even with changes
-that the original authors disagree with -- it may be beneficial to the
-public to force the fork to distinguish itself clearly from the
+divergent version with their own changes (like a fork in the road), perhaps even with changes
+that the original authors disagree with, there may be some considerations to this.
+It may be beneficial to the public to force the divergent version to distinguish itself clearly from the
 original, that is, to avoid being an impostor.
 
 Of course, it would be bad for trademarks associated with a DPG to be
@@ -293,9 +297,13 @@ force a change of the DPG's name.
 Whether a particular DPG should have trademarks associated with it,
 and if so what the policy on ownership and enforcement of those
 trademarks should be, needs to be decided on a case-by-case basis.
-(TBD: We can point to some other resources here, such as example
-trademark policies from some existing DPGs / open source projects.
-https://producingoss.com/en/trademarks.html has pointers to some.)
+Resources:
+ * [Trademarks in Producing Open Source](https://producingoss.com/en/trademarks.html)
+  This provides two case studies around open source and trademark enforcement.
+  *[Trademark Usage Guidelines and Enforcement Policies](https://google.github.io/opencasebook/trademarks/#trademark-usage-guidelines-and-enforcement-policies)
+  Part of the larger https://google.github.io/opencasebook/trademarks/, this provides some examples of trademark enforcement guidelines.
+
+(TBD: I'd really like to provide another generic resource in here as well)
 
 ## Commercial Use
 
@@ -327,10 +335,7 @@ depend in part on the DPG, and when they make a profit it will often
 be economically sensible for them to invest a portion of those profits
 back into improving the DPG.
 
-TBD: In the Procurement Module, we will probably have a subsection on
-the usefulness (in terms of project health, for active DPG projects)
-of using different vendors simultaneously.  When we have that section,
-we should link to it from here.
+For a more in-depth discussion on using different vendors simultaneously, the Procurement Module discusses this under [Modular Contracting](procurement.md##ModularContracting).
 
 ## Security
 
@@ -349,7 +354,7 @@ policies that need to be enforced to maximize security
 TBD: Data privacy is complex.  Privacy *from* whom *for* whom.  Note
 connections to security; all the policy in the world doesn't help you
 without technical security.  Note connection to vendor SLA (and to
-liability).  
+liability).
 
 TBD: Note the difference between the DPG itself and the data held and
 managed by a particular instance of that DPG.  Point out how this
@@ -365,7 +370,10 @@ legislative arm) to advocate for these changes
 
 ### GDPR
 
-TBD
+TBD: Defining GDPR, aligning the rough structure for what is useful and compelling about this. While it may not apply directly to a DPG, choosing to be compliant with GDPR will be an effective foundation and structure.
+* Defining data processing under the GDPR
+* Defining controller
+* Outlining what else a DPG should consider around privacy
 
 ## Aligning FOSS Policy With National/Legal Policy
 

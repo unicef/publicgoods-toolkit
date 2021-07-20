@@ -1,6 +1,6 @@
 * Introduction
   - A Brief History of Open Licensing
-  - Types of Digital Public Goods
+  - Types of digital public goods
     + Open-source software
     + Open standards
     + Open content
