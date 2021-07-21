@@ -106,7 +106,8 @@ mind about copyright and DPGs:
 
   TBD: These are licenses really intended for software. Should we include CC-By-4.0 for text based projects, as Apache-2.0/etc get a little messy around things that aren't software directly?
 
-KEY RECOMMENDATION: Publish your DPG under a widely used and understood open source license.
+KEY RECOMMENDATION: 
+Publish your DPG under a widely used and understood open source license.
 
 * Establish copyright ownership clearly.
 
