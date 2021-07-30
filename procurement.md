@@ -1,4 +1,4 @@
-# FOSS Procurement For Government Agencies
+# FOSS Procurement For Government Agencies {#procurement}
 
 Free and Open Source Software (FOSS) has rapidly become successful 
 in the commercial sector.  Few

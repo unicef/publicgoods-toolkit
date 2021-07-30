@@ -83,8 +83,7 @@ on:
    freely shared and are trained on open data sets and
    based on algorithms implemented in open-source software.
 
-<a name="foss-licensing"></a>
-## Major Software Licenses and License Categories
+## Major Software Licenses and License Categories {#foss-licensing}
 
 At the most basic level, government agencies engaging with open source
 can start with basic knowledge of a handful of software licenses.  All
