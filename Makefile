@@ -1,8 +1,5 @@
 # Run 'make' to generate a single PDF of the current Public Goods Toolkit.
 
-# The version number is what follows the word "version" in the title.
-VERSION := `grep -o -E "version ([0-9a-zA-Z.]+)" pdf-preamble.yaml | cut -d " " -f 2`
-
 # We name the sources explicitly, instead of just saying *.md, because
 # there are some Markdown files that shouldn't be included.
 SOURCES := introduction.md community.md policy.md readiness.md procurement.md adoptability.md
@@ -11,6 +8,19 @@ all: pdf
 
 html: $(SOURCES)
 	@echo "HTML output is not yet implemented."
+
+# The version number is what follows the word "version" in the title.
+VERSION := "0.0"
+
+# The rule is "pdf-preamble" not "pdf-preamble.yaml" because we don't
+# want it to refuse to rebuild the .yaml file when that file appears
+# to be up-to-date relative to "pdf-preamble.yaml.in" -- we're more
+# likely to update rule inputs in this Makefile than in the .in file.
+# Also, yes, there is a 'sed' command in the 'sed' command below :-).
+pdf-preamble: pdf-preamble.yaml.in
+	@cat pdf-preamble.yaml.in  | sed -e "s/__DATE__/`date +'%d %B %Y' | sed -e 's/^0//g'`/" > pdf-preamble.yaml.tmp
+	@cat pdf-preamble.yaml.tmp | sed -e "s/__VERSION__/$(VERSION)/" > pdf-preamble.yaml
+	@rm pdf-preamble.yaml.tmp
 
 # There are three ways we control the PDF output: 
 # 
@@ -25,7 +35,7 @@ html: $(SOURCES)
 #   - https://jdhao.github.io/2019/05/30/markdown2pdf_pandoc/
 #   - https://steemit.com/linux/@karaagac/\
 #     markdown-document-as-pdf-with-title-page-and-table-of-contents
-pdf: pdf-preamble.yaml $(SOURCES)
+pdf: pdf-preamble $(SOURCES)
 	@rm -f .everything.md
 	@for name in pdf-preamble.yaml $(SOURCES); do                     \
           cat $${name} >> .everything.md;                                 \
