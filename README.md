@@ -3,7 +3,7 @@
 [![CC BY-SA 4.0][cc-by-sa-shield]](LICENSE.md)
 
 
-The [UNICEF Office of Innovation](https://www.unicef.org/innovation/) will be working with a research consultancy firm to research and synthesize resources to produce an “Operational Toolkit” including detailed and evidence based recommendations for implementing [Digital Public Goods](https://github.com/unicef/publicgoods-candidates) (DPGs) at the country level. 
+The [UNICEF Office of Innovation](https://www.unicef.org/innovation/) will be working with a research consultancy firm to research and synthesize resources to produce an “Operational Toolkit” including detailed and evidence based recommendations for implementing [digital public goods](https://github.com/unicef/publicgoods-candidates) (DPGs) at the country level. 
 
 The purpose of this toolkit is to provide country governments and UN-affiliated agencies with country and product specific best practices and frameworks for deploying DPGs, specifically on:  
 
@@ -46,7 +46,7 @@ This toolkit is the work of the [UNICEF Office of Innovation](https://www.unicef
         * Frameworks and Tools for evaluating the value and costs of digital public goods, including frameworks to estimate the value of a DPG such as “social return on investment”, frameworks to evaluate both the development and ongoing costs of a DPG 
         * Readiness for a digital public good to be adopted at the country-level 
         * Recommendations for structuring a procurement process that is suitable for open source solutions 
-        * Options for financing digital pubic goods as well as the related pros and cons
+        * Options for financing digital public goods as well as the related pros and cons
         * Guidance and frameworks for governments on developing relevant internal capacity within in order to scale DPGs, including the need to maintain quality 
         * A “government adoptability” tool for governments to assess the maturity and readiness for a digital public good to be adopted at the country-level 
 

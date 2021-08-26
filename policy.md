@@ -1,7 +1,7 @@
 # Policy
 
 This module is about how to design public agency policies to encourage
-use and production of Digital Public Goods (DPGs).  For the most part it
+use and production of digital public goods (DPGs).  For the most part it
 discusses high-level policy considerations, while detailed policy
 recommendations are generally found in a module that is specific to
 the policy in question.  For example, procurement policies are in the
@@ -63,7 +63,7 @@ modifications one usually wants to make are things like fixing bugs or
 adding new features, and of course it's not enough to just make these
 improvements in one's own copy of the code -- one must be able to
 share those improvements with others in order for the code to truly be
-a Digital *Public* Good.
+a digital *public* good.
 
 Copyright is the main concern of the common open source licenses, and
 most of the terms in them are about copyright permissions.  This is
