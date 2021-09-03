@@ -6,6 +6,28 @@ places to deepen understanding.
 
 ## EXAMPLES
 
+### Open Data and Standards: Open Refferal API
+
+One problem every government has is connecting individual citizens
+with the vast array of social services they might need.  Few people
+need help from just one program or agency.  We often rely on social
+work specialists to know all the options and help people navigate
+bureaucracies.  Those specialists need tools to help them keep track
+of those options-- often something as simple as knowing whether a
+program is taking new cases can be difficult.  [Open
+Referral](https://openreferral.org/) is a project that allows
+aggregators of such information to share it in common ways and to
+support such tools.
+
+They publish an API [Open Referral Human Services Data API
+(HSDA)](https://github.com/openreferral/api-specification) and related
+open source tools to support their mission.  More importantly, they've
+engaged in several years of advocacy to spur adoption into existing
+solutions and by a variety of governments and agencies.  Open Referral
+is a prime example of how open APIs mixed with a little technology and
+backed by policy engagement can power tools that ensure government
+services have impact.
+
 ### Product: Checkbook NYC
 
 The city of New York operates an open source financial transparency
