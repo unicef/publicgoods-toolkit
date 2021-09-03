@@ -106,7 +106,7 @@ mind about copyright and DPGs:
 
   TBD: These are licenses really intended for software. Should we include CC-By-4.0 for text based projects, as Apache-2.0/etc get a little messy around things that aren't software directly?
 
-KEY RECOMMENDATION: 
+KEY RECOMMENDATION:
 Publish your DPG under a widely used and understood open source license.
 
 * Establish copyright ownership clearly.
@@ -272,19 +272,32 @@ name.
 
 ### Trademark Policy
 
-The policy implications of trademarks for DPGs are actually fairly
-simple:
+As noted above, trademark and copyright are quite different in scope
+and purpose.  The whole point of DPG licenses is to establish a
+minimum set of copyright permissions to enable collaborative
+production of software and other materials.  Traditional trademark
+rules, though, often work just fine in an open source environment.
+And the ways different DPG efforts will want to deviate from
+traditional trademark will vary from project to project.  As a result,
+aside from clarifying that licensees may make very limited use of a
+project's name, open source licenses don't have much to say about
+trademark.
 
-It is okay for an organization to have a trademark on the name or logo
-of a DPG (or of some aspect of a DPG).  In some cases it may even be
-desirable: while a DPG can be "forked" -- that is, anyone can make a
-divergent version with their own changes (like a fork in the road), perhaps even with changes
-that the original authors disagree with, there may be some considerations to this.
-It may be beneficial to the public to force the divergent version to distinguish itself clearly from the
-original, that is, to avoid being an impostor.
+Despite licenses setting relatively few rules about trademark, every
+major DPG effort eventually finds itself making its own rules on how
+its marks should be used.  The starting point for this type or
+policy-making is fairly simple:
 
-Of course, it would be bad for trademarks associated with a DPG to be
-held by a company that intends to use them to squash competing
+There is nothing wrong with an organization having a trademark on the
+name or logo of a DPG (or of some aspect of a DPG).  In some cases it
+may even be desirable: while a DPG can be "forked" -- that is, anyone
+can make a divergent version with their own changes, perhaps even with
+changes that the original authors disagree with -- it may be
+beneficial to the public to force the fork to distinguish itself
+clearly from the original, that is, to avoid being an impostor.
+
+Of course, it would be bad for trademarks associated with a DPG to
+end up being held by a company that intends to use them to squash competing
 commercial activity.  But even then, there is a limit to how much
 damage such a company could do, because at most it can monopolize
 usage of those labels in commerce.  If the company's behavior annoys
@@ -306,6 +319,9 @@ Resources:
 
 (TBD: I'd really like to provide another generic resource in here as well)
 
+### Enforcement of Trademarks
+
+Any widely-used DPG that builds a vibrant commuinity of users and developers around it will eventually face some difficult questions about
 ## Commercial Use
 
 Policy makers are sometimes tempted to try to discourage commercial
