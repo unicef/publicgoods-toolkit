@@ -6,17 +6,75 @@ places to deepen understanding.
 
 ## EXAMPLES
 
+### Product: Checkbook NYC
+
+The city of New York operates an open source financial transparency
+application called [Checkbook
+NYC](https://www.checkbooknyc.com/spending_landing/yeartype/B/year/123).
+It allows citizens, journalists, and government contractors to see
+payments made by the city to vendors.  People use it to understand
+government spending, and also to collect data for analysis of
+opportunities for government contracts.  Subcontractors use it to know
+when their prime contractor has been paid, so they know when they are
+owed payment.  Journalists use it to root out corruption and write
+about policy.  Researchers use it to track government activity.
+
+A couple years after New York deployed its site, a Travis County,
+Texas, deployed Checkbook NYC to provide similar transparency to its
+citizens.  They've bundled it as a [Vendor Payment
+Details](https://financialtransparency.traviscountytx.gov/VPD)
+application into a broader financial transparency site.
+
+Checkbook NYC is a good example of how open source can take
+investments by larger jurisdictions and more-resources governments and
+create benefits that can be used by jurisdictions who might not take
+up tool-making on a large scale themselves.
+
+
 ### Product: OpenGeo
 
-When the World Bank
+When the World Bank considered its mission and the mapping tools
+available to support decision-making by governments, it realized there
+was a gap in the ecosystem.  Existing, entrenched vendors were not
+meeting all the mapping needs of civil society organizations.  Their
+tools were also prohibitively expensive.  World Bank kick-started an
+open source project to fill the gap and lower prices.  It successfully
+transitioned that effort to a community of organizations that took up
+development.  Vendors joined the ecosystem to support the product.
+Other open source efforts arose to interoperate
+(e.g. [QGIS](https://qgis.org/en/site/forusers/download.html).  The
+entire GIS sector enjoys much more open source support than it did
+before.
+
+Today, various tools from the original OpenGeo codebase have migrated
+to other projects, been integrated in proprietary tools from new
+vendors (chiefly BoundlessGeo), and are all available at significantly
+lower cost than before. Overall, World Bank's OpenGeo investment in
+open source is a realistic take of success at using open source to
+achieve goals in a sustainable way.  The work demonstrates that open
+source investment can create many different types of outcomes.
 
 
 ### Product: OpenHMIS
 
-Homeless Management Information System
+The United States' federal agency, Housing and Urban Development (HUD)
+operates a program called
+[HMIS](https://www.hudexchange.info/programs/hmis/), the Homeless
+Management Information System.  It is a data-collection effort used to
+inform policy at the state level.  States that receive federal support
+to address homelessness collect information to comply with funding
+program requirements.  The State of Georgia leads development of
+[OpenHMIS](http://openhmis.pcni.org/), an open source package that
+helps states efficientl collect this information.
 
-
-### Product: Checkbook 2.0
+OpenHMIS is an example of where open source can play a lead role in
+making government operations more efficient.  Because every state has
+to collect much the same data and submit it to HUD in much the same
+way, the software to support that data collection and submission has
+the same core requirements in every state.  Whenever that circumstance
+exists (and it exist quite often), there is an opportunity to develop
+an open source approach that eases the path to compliance for all
+states.
 
 ### OPEN SOURCE + THE POWER OF COLLABORATION : Canada’s Covid Exposure Notifications Mobile App
 
