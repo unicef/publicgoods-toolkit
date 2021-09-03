@@ -93,18 +93,29 @@ mind about copyright and DPGs:
   except when you have a specific and strong reason to prefer one of
   them.
 
-  Publishing under a widely used license also allows for future groups to contribute and update your work, and creates an open opportunity for someone else to become a collaborator.
+  Publishing under a widely used license also allows for future groups
+  to contribute and update your work, and creates an open opportunity
+  for someone else to become a collaborator.
 
-  While it's possible to publish into the public domain, publishing under an open source license makes it clear that the content is intended to be distributed. Not all jurisdictions may have the expectation of public domain, and it's best to be clear and structured when publishing. https://opensource.org/faq#public-domain has more context for this.
+  While it's possible to publish into the public domain, publishing
+  under an open source license makes it clear that the content is
+  intended to be distributed. Not all jurisdictions may have the
+  expectation of public domain, and it's best to be clear and
+  structured when publishing. https://opensource.org/faq#public-domain
+  has more context for this.
 
   Specifically, there are some commonly used licenses that you should be aware of:
    * [Apache-2.0](https://opensource.org/licenses/Apache-2.0)
    * [GPLv2](https://opensource.org/licenses/GPL-2.0)
    * [MIT](https://opensource.org/licenses/MIT)
 
-  These are widely used licenses for software and may prove to be a good fit for your project. The "Popular Licenses" section of https://opensource.org/licenses has a more exhaustive list.
+  These are widely used licenses for software and may prove to be a
+  good fit for your project. The "Popular Licenses" section of
+  https://opensource.org/licenses has a more exhaustive list.
 
-  TBD: These are licenses really intended for software. Should we include CC-By-4.0 for text based projects, as Apache-2.0/etc get a little messy around things that aren't software directly?
+  TBD: These are licenses really intended for software. Should we
+  include CC-By-4.0 for text based projects, as Apache-2.0/etc get a
+  little messy around things that aren't software directly?
 
 KEY RECOMMENDATION:
 Publish your DPG under a widely used and understood open source license.
@@ -296,10 +307,10 @@ changes that the original authors disagree with -- it may be
 beneficial to the public to force the fork to distinguish itself
 clearly from the original, that is, to avoid being an impostor.
 
-Of course, it would be bad for trademarks associated with a DPG to
-end up being held by a company that intends to use them to squash competing
-commercial activity.  But even then, there is a limit to how much
-damage such a company could do, because at most it can monopolize
+Of course, it would be bad for trademarks associated with a DPG to end
+up being held by a company that intends to use them to squash
+competing commercial activity.  But even then, there is a limit to how
+much damage such a company could do, because at most it can monopolize
 usage of those labels in commerce.  If the company's behavior annoys
 too many other users and distributors of the DPG, those others will
 eventually band together and start distributing the DPG under another
@@ -311,6 +322,7 @@ force a change of the DPG's name.
 Whether a particular DPG should have trademarks associated with it,
 and if so what the policy on ownership and enforcement of those
 trademarks should be, needs to be decided on a case-by-case basis.
+
 Resources:
  * [Trademarks in Producing Open Source](https://producingoss.com/en/trademarks.html)
   This provides two case studies around open source and trademark enforcement.
@@ -321,7 +333,10 @@ Resources:
 
 ### Enforcement of Trademarks
 
-Any widely-used DPG that builds a vibrant commuinity of users and developers around it will eventually face some difficult questions about
+Any widely-used DPG that builds a vibrant commuinity of users and
+developers around it will eventually face some difficult questions
+about
+
 ## Commercial Use
 
 Policy makers are sometimes tempted to try to discourage commercial
