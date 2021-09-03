@@ -2,7 +2,8 @@
 
 ## EXAMPLES
 
-**OPEN SOURCE + THE POWER OF COLLABORATION : Canada’s Covid Exposure Notifications Mobile App**
+
+### OPEN SOURCE + THE POWER OF COLLABORATION : Canada’s Covid Exposure Notifications Mobile App
 
 The Canadian Digital Service (CDS) is a centralized resource for the
 federal Canadian government that builds tools, technologies and
@@ -31,7 +32,7 @@ a privacy-preserving way. The Linux Foundation Public Health managed
 an open and public security audit.
 
 
-**POLICY : Estonia’s E-Government Services**
+### POLICY : Estonia’s E-Government Services
 
 Estonia is famous for its pioneering work in [digitizing almost all
 government services](https://e-estonia.com/) in order to build more
@@ -80,7 +81,7 @@ code repository, free to the public.** There are limited exceptions.
 [TODO: confirm licensing structure]
 
 
-**OPEN SOURCE READINESS : United States Web Design System**
+### OPEN SOURCE READINESS : United States Web Design System
 
 A recommendation in evaluating Open Source Readiness -- and in moving
 up the ‘readiness ladder’ -- is to **look for places where
