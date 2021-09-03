@@ -76,6 +76,10 @@ open source is a realistic take of success at using open source to
 achieve goals in a sustainable way.  The work demonstrates that open
 source investment can create many different types of outcomes.
 
+For an analysis of OpenGeo's open source work, please see [A Case
+Study On Institutional Investments In Open
+Source](https://opendri.org/wp-content/uploads/2017/03/OpenDRI-and-GeoNode-a-Case-Study-on-Institutional-Investments-in-Open-Source.pdf).
+
 
 ### Product: OpenHMIS
 
