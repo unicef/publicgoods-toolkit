@@ -1,7 +1,22 @@
 # Appendix: Examples, Additional Resources and Tools
 
+This appendix collects examples, additional resources, and tools.
+It's intended use is to direct readers to further information and
+places to deepen understanding.
+
 ## EXAMPLES
 
+### Product: OpenGeo
+
+When the World Bank
+
+
+### Product: OpenHMIS
+
+Homeless Management Information System
+
+
+### Product: Checkbook 2.0
 
 ### OPEN SOURCE + THE POWER OF COLLABORATION : Canada’s Covid Exposure Notifications Mobile App
 
