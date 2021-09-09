@@ -96,7 +96,7 @@ that distinction is important we will note it.
 
   A "Common Vulnerabilities and Exposures" (CVE) number is a globally
   recognized unique identifier for a specific vulnerability in a
-  specific piece of software.  
+  specific piece of software.
 
   A CVE number looks something like "CVE-2021-0160", where the first
   numeric part is the year, and the second is an increasing sequence
@@ -279,7 +279,7 @@ Even if you have a vendor supporting you, you should also search the
 Internet and the project's forums for reports from others about
 importing and exporting the data formats that matter for you.
 
-### Data Portability and Avoiding Vendor Lock-In 
+### Data Portability and Avoiding Vendor Lock-In
 
 Remember that import/export functionality can be important to your
 ability to switch *vendors*, not just to switch systems.  If you want
@@ -390,7 +390,7 @@ extensions.  For example, WordPress has the [WordPress
 Plugins](https://wordpress.org/plugins/) marketplace, Firefox has
 [Firefox Add-ons](https://addons.mozilla.org/firefox/), etc.  Look in
 the listing for a diversity of third parties offering extensions, and
-especially for commercial vendors involved in that ecosystem.  
+especially for commercial vendors involved in that ecosystem.
 
 The most promising sign of all is when you see multiple different
 extensions being offered that all do roughly the same thing.  That
@@ -747,20 +747,3 @@ You could get electricity from your wall socket without using a plug
 surface membrane that messages must negotiate their way through, in both
 directions, in order for someone to access the program's data and in
 order for responses to come back out in a predictable way.
-
-# Parking Lot
-
-https://producingoss.com/en/evaluating-oss-projects.html
-
-https://www.archesproject.org/wp-content/uploads/2018/01/guidelines_funding_OSS.pdf
-
-http://wiki.civiccommons.org/Open_Source_Development_Guidelines/
-
-https://www.mediawiki.org/wiki/Professional_development_and_consulting
-
-The GeoNode report (already listed in resources.md).
-
-Bernard Golden of Navica's maturity model might be useful here.  It
-assesses software on a range of fronts.  It is not an organizational
-maturity model, but one for a specific development effort and product.
-https://timreview.ca/article/145
