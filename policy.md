@@ -354,13 +354,17 @@ As an aside, policy makers, legislators, and other people far from the technical
 
 Many aspects of a DPG’s success rely on getting data privacy right, from building trust with end users to attracting funding. Data privacy is remarkably complex, but perhaps the most important recommendation is that protecting privacy requires continuous attention. Data privacy is not a “one and done” effort. It depends upon a close understanding of the full lifecycle of data within the DPG project, thinking through privacy *from* whom and *for* whom, and under what (possibly changing) circumstances. Recent controversy over the United Nations High Commissioner for Refugees and the Government of Bangladesh’s registration program for Rohingya refugees underscores the complexity and sensitivity. 
 
-[TO DO: try to find example of this being done right, a human-centered approach + success]
+[TODO: try to find example of this being done right, a human-centered approach + success]
+
+[ASP suggestion: X-Road runs under [MTÜ Nordic Institute for Interoperability Solutions (NIIS)](https://www.niis.org/procedure-for-use-of-data-and-data-processing) and while it's largely patterned off the requirements of GDPR, the inclusion of Google Analytics and YouTube are particularly thoughtful.] 
 
 **KEY RECOMMENDATION**: Protecting privacy requires continuous attention.
 
 Data privacy also depends on thoughtful design matched with appropriate end-to-end security support. The right privacy policies and design won’t help you without the right underpinnings of technical security. When evaluating vendors, thorough pre-engagement diligence is required to assess a vendor’s privacy and data security practices, policies and processes. This is the time to find out if the vendor has received an enforcement notice or faced any penalties or investigations or if they’ve been involved in a data breach. If the vendor is a leading contributor to an open source project, you can also check out if that project follows the security items outlined in [Section 6.1] and is keeping their own house in order. 
 
 [TO DO: Do we have a sample privacy and security questionnaire that we could include in Addendum? There’s Google’s but I couldn’t find anything from a gov’t agency]
+
+[ASP suggestion: I like https://www.w3.org/TR/security-privacy-questionnaire/ but it may be too heavy for what we're considering. It's drafted for an audience dealing in specification, so it's very technical. However, the reason why I like it: "This document contains a set of questions to be used when evaluating the security and privacy implications of web platform technologies." ]
 
 **KEY RECOMMENDATION**: Invest well in your pre-engagement diligence with vendors around privacy and security. Create standardized data privacy and security questions for these vendor assessments. 
 
