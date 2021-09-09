@@ -346,26 +346,85 @@ policies that need to be enforced to maximize security
 
 ## Data Privacy
 
-TBD: Data privacy is complex.  Privacy *from* whom *for* whom.  Note
-connections to security; all the policy in the world doesn't help you
-without technical security.  Note connection to vendor SLA (and to
-liability).  
+According to the United Nations Conference on Trade and Development (UNCTAD), most countries have at least some data privacy and protection laws in place around personally identifiable information ([128 out of 194 countries](https://unctad.org/page/data-protection-and-privacy-legislation-worldwide), as of February 2020). If you are building a DPG that will be deployed solely to people from one of the countries that does *not* regulate data privacy (and/or will be deployed from within that country), we still recommend that you build around global privacy principles and follow existing data privacy regulation. Although not explicitly called out in the SDG, privacy is a fundamental human right recognized in the UN Declaration of Human Rights, among other international and regional treaties. The EU’s General Data Protection Regulation (GDPR) is a great place to start, as it’s most established, well documented with best practices on adherence, has some enforcement history and is very familiar to most vendors. 
 
-TBD: Note the difference between the DPG itself and the data held and
-managed by a particular instance of that DPG.  Point out how this
-distinction is not always clear to high-level decision makers and
-elected officials, and how it may thus be incumbent on those promoting
-a DPG to clarify this important distinction.
+As an aside, policy makers, legislators, and other people far from the technical details are often fuzzy on the distinction between software and the data used by that software. As a result, when they learn that there’s a plan to use open source software to manage sensitive data, they may worry because they heard that open source means that anyone can "see the code" and therefore the data is exposed. 
 
-TBD [@imahgoub
-says](https://github.com/unicef/publicgoods-toolkit/pull/24#discussion_r658089490):
-The clearer we can be about the recommendations + examples we include,
-the easier it will be for DPG champions in the government (or the
-legislative arm) to advocate for these changes
+**KEY RECOMMENDATION**: Avoid misconceptions around open approaches and privacy by clarifying the distinction between the DPG itself and the data it holds and manages with high-level decision makers and elected officials.
+
+Many aspects of a DPG’s success rely on getting data privacy right, from building trust with end users to attracting funding. Data privacy is remarkably complex, but perhaps the most important recommendation is that protecting privacy requires continuous attention. Data privacy is not a “one and done” effort. It depends upon a close understanding of the full lifecycle of data within the DPG project, thinking through privacy *from* whom and *for* whom, and under what (possibly changing) circumstances. Recent controversy over the United Nations High Commissioner for Refugees and the Government of Bangladesh’s registration program for Rohingya refugees underscores the complexity and sensitivity. 
+
+[TO DO: try to find example of this being done right, a human-centered approach + success]
+
+**KEY RECOMMENDATION**: Protecting privacy requires continuous attention.
+
+Data privacy also depends on thoughtful design matched with appropriate end-to-end security support. The right privacy policies and design won’t help you without the right underpinnings of technical security. When evaluating vendors, thorough pre-engagement diligence is required to assess a vendor’s privacy and data security practices, policies and processes. This is the time to find out if the vendor has received an enforcement notice or faced any penalties or investigations or if they’ve been involved in a data breach. If the vendor is a leading contributor to an open source project, you can also check out if that project follows the security items outlined in [Section 6.1] and is keeping their own house in order. 
+
+[TO DO: Do we have a sample privacy and security questionnaire that we could include in Addendum? There’s Google’s but I couldn’t find anything from a gov’t agency]
+
+**KEY RECOMMENDATION**: Invest well in your pre-engagement diligence with vendors around privacy and security. Create standardized data privacy and security questions for these vendor assessments. 
+
+Your DPG will likely need to navigate data privacy and protection laws and regulations that occur at multiple levels. Domestic law and regulations -- which can be at the local, state and national levels -- are largely driven by protecting consumers and citizens, especially in areas of high sensitivity, such as personal health data. Regional initiatives are largely driven by the desire to harmonize privacy law with trade and development needs (for reference, see the United Nations Conference on Trade and Development’s report Data Protection Regulations and International Data Flows). Many countries are just beginning to enforce comprehensive data protection regulation (e.g. Brazil, South Africa), much of it influenced by the EU’s GDPR. Existing regulations across the globe are under revision as countries grapple with protecting individual rights and advancing the public good while addressing the fast pace of technology innovation and the alarming power of large technology platforms. 
+
+While this paper can’t review the nuances and implications of all data privacy and protection laws, see the Section 3.6.1 below for practical advice from our work with GDPR that we feel is applicable to all projects. 
+
+Data privacy regulations and laws are all based on the [OECD’s Privacy Principles](http://oecdprivacy.org) from the 1970s. In brief, they cover: 
+- Collection Limitation
+- Data Quality
+- Purpose Specification
+- Use Limitation
+- Security Safeguards
+- Openness
+- Individual Participation
+- Accountability
+
+There are well-tested, comprehensive design guides distilled from years of experience developing successful products that support the OECD’s Privacy Principles and its various derivations in national laws and regulations. The approach in these guides is described as “privacy by design.”
+
+**KEY RECOMMENDATION**: Following privacy by design guidelines can help you pay attention to the actual needs of your end users to create a successful DPG while also building for legal and regulatory compliance.
+
+The World Bank’s Identification for Development initiative summarizes a privacy by design approach as one that:
+- Develops proactive—not reactive—systems that take a preventative, not remedial, approach
+- Makes privacy the default setting, rather than requiring affirmative action
+- Embeds privacy into the technical design from the start rather than retrofitting it;
+- Views privacy in a positive-sum manner (“win-win”) and not as a zero-sum (“either/or”)
+- Develops end-to-end security with a view to full-lifecycle protection
+- Builds-in visibility and transparency and keeps systems open and accountable 
+- Keeps the system user-centric, with an eye to respecting user data privacy.
+
+[Estonia’s Citizen Portal](https://www.eesti.ee/et) is a great example of a DPG that has followed privacy by design guidelines, particularly in how it gives users visibility -- and control -- over their data. Estonia's Personal Data Usage Monitor service lets users see who’s accessed their personal data, control which data is shared with whom, monitor for unauthorized usage of their data, and question unsanctioned access. This transparency improves trust and accountabilityin the DPG, which is further underscored with real consequences for data privacy breaches, including the ability to fire public sector employees.
+
+The [Digital Impact Alliance’s Principles for Digital Development](https://digitalprinciples.org/principle/address-privacy-security) provides further practical guidance to implementing privacy by design at different stages of a project. During the design and develop phase, we suggest also considering how a prototype could improve alignment with privacy by design principles -- such as putting users first, especially those most vulnerable -- as well as help you to create and test a data management and security plan.
+
+**KEY RECOMMENDATION**: An early prototype that works with dummy or live data (but not data at scale) can help better align DPG to good data practices. Building and testing a prototype early in the development cycle helps surface problems and can better protect users and save resources down the line.  
+
+As you read through privacy by design guidelines, consider how the open aspects of your DPG project can help you better understand and build for privacy. Recall that areas of “openness” are all points of potential collaboration. For example, could collectively drafting documentation help you bring in meaningful participation from marginalized population groups? How might an open, user-focused development process pull these groups in more?  
+
+[TO DO: Find an example]
+
+**KEY RECOMMENDATION**: Pay attention to how the open aspects of the DPG project can strengthen its data privacy.				
+
+
 
 ### GDPR
 
-TBD
+The EU’s GDPR is a comprehensive set of data protection and privacy regulation that defends the privacy rights of approximately 446 million EU citizens and residents. GDPR replaced the conflicting and overlapping set of EU state-specific regulation and is centered in a long history of privacy and human rights law. It’s deeply influenced data privacy and protection laws in other countries, such as India and Brazil. It can also impact non-EU organizations.  
+
+**KEY RECOMMENDATION**: If you are offering goods and services to EU citizens or digitally monitoring their behavior in some way, there are few exceptions to the requirement to adhere to GDPR. Take advantage of the [GDPR guidance published by the EU](https://gdpr.eu/). 
+
+**KEY RECOMMENDATION**: The UK government, which still adheres to GDPR, publishes useful templates and guidance. We’ve found some of the most salient are the following: 
+- Standardized contracts, data protection addendums and managing ‘subprocessors’: One of the GDPR’s forward leaps is enforcing a clear contract-based framework of responsibility for data protection across any agency or business that handles personal data. To do this, GDPR requires that contracts with specific terms are in place between a controller (in essence, the agency that determines the purposes and means of the processing of personal data) and a processor (the agency or other body, such a vendor, that processes personal data on behalf of the controller) (See the [following EU guidance](https://www.gdpreu.org/the-regulation/key-concepts/data-controllers-and-processors) for a more detailed definition of controller and processor). In order to speed up the approval process and provide flexibility to change along with data protection laws and regulation, these terms are commonly put in a separate Data Protection Addendum, rather than in the main service agreement (see Section 5.1 Modular Contracting). Key points in a data protection addendum include requiring the vendor to adhere to security and privacy standards as well as to indemnify you for costs, damages and loss if the contract is breached. This [simple standardized contract checklist](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/contracts) is useful. Pay particular attention to the requirement that the controller - likely you - must authorize the use of any subcontractors to the main processor that will handle personal data from the DPG. 
+
+[TO DO: example]
+
+- Data Protection Impact Assessments (DPIA): Although GDPR requires such an assessment only in potential high risk situations, such as for an application that processes ‘special category’ sensitive data like sexual orientation or biometric data, we recommend that these be done for any DPG that relies on personal data or that uses any data in a way that could have significant impact on human life -- which is to say, all DPGs. This is a good practice that’s common across private industry, as it helps to educate everyone involved and shake out potential issues.  There are checklists around DPIAs, descriptions of the DPIA process, and sample templates [here](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-impact-assessments/). 
+- Data mapping, or understanding the flow of data through a DPG, is a first step in a DPIA. This [data mapping guide](https://www.itgovernance.co.uk/gdpr-data-mapping) from a UK-based consultant is useful. A data map, especially a simplified visual representation, can be very helpful in explaining the difference between a DPG and the data it handles to higher-level decision makers, as we recommended earlier. It’s also an essential tool in preparing for a data audit
+
+ [TO DO: is there a data mapping resource from a more authoritative source?]
+
+- [Data audits](https://ico.org.uk/media/for-organisations/documents/2787/guide-to-data-protection-audits.pdf) should be performed on a regular basis. How regular depends on the sensitivity of the data being processed and the threat assessment. A DPG that helps refugees find health services in a neighboring country might have a higher threat assessment than a DPG that helps students collaborate in online learning.  
+
+
+[TO DO: Figure out how to cover cross-border data transfers in a simple way. Gov’t collection of personal data is under particular scrutiny, and I think this bears calling out - surveillance concerns, Max Schrems case also causing more complexity with cross-border transfers, although I’m unsure if that’s being felt around the globe or is just something ppl are watching. Someone with a real privacy background might be able to more quickly identify a useful recommendation here. I couldn’t do this simply. Resources: https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en, https://edpb.europa.eu/sites/default/files/consultation/edpb_recommendations_202001_supplementarymeasurestransferstools_en.pdf]
 
 ## Aligning FOSS Policy With National/Legal Policy
 
