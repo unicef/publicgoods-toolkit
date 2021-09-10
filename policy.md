@@ -428,5 +428,14 @@ The EU’s GDPR is a comprehensive set of data protection and privacy regulation
 
 ## Aligning FOSS Policy With National/Legal Policy
 
-TBD Will this be covered already in the topic-specific sections of
-this module?
+[NOTE: I feel like we’ve covered enough Legal policy above, so I’d remove Legal from the subtitle here]
+
+If we take a broad view of the definition of policy to include investment as well as mandates and guiding strategies, there’s a lot to be gained by better aligning open source policies and national policies around education. This in turn relates to national policies around innovation.
+
+It’s one thing to adopt open source not for educational infrastructure, such as [Kerala, India has famously done](https://kite.kerala.gov.in/KITE/index.php/welcome/wedo/) but quite another to incorporate open source into curriculum and pedagogy. Only the latter will help address the lack of open source talent, which is an issue for DPGs. It’s hard to imagine long term sustainability of a DPG without a good local talent pool, as we point out in Section 6.10, Internal Capacity Assessment. Just as you want local vendors to help you create or adopt DPGs, you’ll want local vendors to help you maintain and scale your DPGs.
+
+Familiarity with open source will help students develop the critical foundational skills needed for success in our deeply uncertain future, such as teamwork, critical thinking and problem solving, and communication, along with higher level digital skills. And open source in education doesn’t have to be just in curriculum and teaching methods. Hackathons are fantastic ways to engage students in solving local problems that matter to them (and they’re great ways to engage students in your DPG!). 
+
+These efforts, especially as one moves further up in education towards the university level, can be combined with national policies to strengthen innovation (e.g. innovation hubs, R&D investments, support for open science, educational grants).
+
+**KEY RECOMMENDATION**: Think about your DPG and its ecosystem. Is there an opportunity to collaborate with a local university around open source? Changes at a national level often happen because of proof points at a local level. What proof point for the value of more alignment between open source and education and innovation policy might you create?
