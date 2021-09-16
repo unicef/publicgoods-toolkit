@@ -290,6 +290,24 @@ Their [approach to when code should be kept closed](https://www.gov.uk/governmen
 * Algorithms used to detect fraud
 * Unreleased policy should be kept closed.
 
+### Archetypes
+
+For each Archetype discussed in the module on Community, we provide an
+example of a project that fits this archetype.  These are not
+specifically examples of DPGs, but each one illustrates the model.
+
+ * Wide Open:  Rust, Apache HTTPD, Open Stack
+ * Rocket Ship To Mars: Meteor, Signal
+ * B2B: Android, Chromium
+ * Specialty Library: libssl, libmp4
+ * Multi-Vendor Infrastructure: Kubernetes, Open Stack
+ * Mass Market: Firefox, LibreOffice, MediaWiki (due to Wikipedia instance)
+ * Upstream Dependency: OpenSSL, WebKit, many small Javascript libraries
+ * Trusted Vendor: MongoDB, Hypothes.is, Coral
+ * Controlled Ecosystem: WordPress, Drupal
+ * Houseplant: most small modules in Ruby Gems, Python PyPi, npm, etc.
+ * Bathwater: TODO
+
 
 # Parking Lot
 
