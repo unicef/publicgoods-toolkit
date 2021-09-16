@@ -627,6 +627,17 @@ of what's intended here might differ in some subtle-but-important way
 from others' understanding.  I will check with the rest of the crew --
 in the meantime, comments welcome here of course.
 
+Ecosystem mapping can reveal gaps in the landscape. For example,
+"rocket ship" projects often struggle to provide user support.  If
+such support is important and the ecosystem does not provide it, you
+will have to find anther way to fill this gap.
+
+KEY RECOMMENDATION: with a simple ecosystem map as the background,
+consider what project archetypes might fit well within that ecosystem.
+Identify which ones might be missing and which ones you wouldn't
+expect to appear.
+
+
 ## Evaluation Checklist
 
 TBD: This will be a summarized, curated checklist based on the
