@@ -501,6 +501,20 @@ software in a setup similar to yours, and once you have found each
 other via the forum, you will be able to provide mutual support
 (hopefully still using the public forum!) from then on.
 
+The quality of non-commercial support can vary over time.  Some
+projects have a healthy, enduring culture and process to consistently
+maintain support.  Other projects overly depend on one or several
+individuals who take support upon themselves.  In assessing a
+project's ability to provide open source support, it can be useful to
+see who and how many people are providing that support over what time
+period.  The strongest signal of high-level support will be when help
+is provided in general by a community and there is a culture of
+reinforcing that community activity.  At the other end of the
+spectrum, one will find a project's lead developer heroically also
+playing the support role.  That often works, but is sometimes an
+indication that the project overly depends on one person who might
+move on or burn out.
+
 ## Internal Capacity Assessment
 
 An important part of any DPG evaluation is assessing your own
