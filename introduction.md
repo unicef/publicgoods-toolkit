@@ -197,6 +197,8 @@ user interacts with the software over a network, that user is entitled
 to receive a copy of the software and all open-source rights to run,
 copy, modify, and distribute it.
 
+[TODO: recommendations around licenses per what kind of/with whom collaborations you're aiming to create]
+
 ## DPGs Are About Collaboration, Not Licenses
 
 This module contains a lot of material about licenses, and any

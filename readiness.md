@@ -189,3 +189,6 @@ KEY RECOMMENDATION: Engage the team in a frank discussion about open
   source readiness.  Locate the team and the organization on McAffer's
   engagement model.  Identify three key steps the people in that
   discussion can take to improve readiness at the team level.
+
+
+[TODO: Include brief comments on valuation, which is a common request - distill brief insight from GeoNode - really, it's about did you meet measureable goals. should have impact on social and economic landscape of users, did DPG related business with local vendors expand, invovled local institutions of higher learning and will that involvement continue indepdently of your agency's involvement in the DPG, narrow to things adjacent to DPG/business impact]

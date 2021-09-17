@@ -291,6 +291,29 @@ Their [approach to when code should be kept closed](https://www.gov.uk/governmen
 * Unreleased policy should be kept closed.
 
 
+
+
+## ADDITIONAL RESOURCES AND TOOLS
+
+# Community
+The paper [Threats, Risks, and Mitigations in the Open Source Ecosystem](https://github.com/ossf/wg-identifying-security-threats/blob/main/publications/threats-risks-mitigations/v1.1/Threats%2C%20Risks%2C%20and%20Mitigations%20in%20the%20Open%20Source%20Ecosystem%20-%20v1.1.pdf)describes a less refined set of project archetypes with the intent of helping package consumers make better decisions around dependencies. The project archetypes we list here are helpful to such an assessment and more. 
+
+# Security
+We like David Wheeler's much noted [essay on security in open source versus closed source](https://dwheeler.com/secure-programs/Secure-Programs-HOWTO/open-source-security.html). Bruce Schneier, a renouned security expert, has also [written frequently on the topic](https://www.schneier.com/blog/archives/2020/12/open-source-does-not-equal-secure.html) 
+
+The Open Source Security Foundation publishes[free EdX courses](https://openssf.org/edx-courses) on best practices in developing secure software and hosts a [related open community](https://github.com/ossf/wg-best-practices-os-developer). The paper [Threats, Risks, and Mitigations in the Open Source Ecosystem](https://github.com/ossf/wg-identifying-security-threats/blob/main/publications/threats-risks-mitigations/v1.1/Threats%2C%20Risks%2C%20and%20Mitigations%20in%20the%20Open%20Source%20Ecosystem%20-%20v1.1.pdf) has a great overview of how to think about security from the perspective of an open source ecosystem (here, they use ecosystem to describe the set of things that comprise a specific open source project, such as developers, end users, technical architecture, and package libraries).
+
+Similar to the Principles for Digital Development on Privacy and Security](https://digitalprinciples.org/principle/address-privacy-security/), the Open Reference Architecture for Security and Privacy lists its own set of [key principles](https://security-and-privacy-reference-architecture.readthedocs.io/en/latest/08-security-principles.html) along with a list of FOSS security and privacy applications.(https://security-and-privacy-reference-architecture.readthedocs.io/en/latest/security-sbbs.html)
+
+Lastly, the [SAFETAG audit framework] (https://safetag.org) provides another template for security risk assessment that’s perhaps more ‘right sized’ for DPGs that are capacity limited. The framework outlines the steps SAFETAG would understake as part of a formal security audit. 
+ 
+
+ 
+
+
+
+
+
 # Parking Lot
 
 https://producingoss.com/en/evaluating-oss-projects.html

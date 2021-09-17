@@ -207,8 +207,7 @@ An important part of evaluating a DPG is to evaluate the investment
 your team must make to deploy the DPG *in a way that meets your
 requirements*.
 
-The more scalability you need, the more up-front investment you must
-make in configuring your deployment, as a general rule.
+**KEY RECOMMENDATION**: As a general rule, the more scalability you need, the more up-front investment you must make in configuring your deployment.
 
 For example, many systems typically come with a default
 ("out-of-the-box") configuration in which all parts of the system are
@@ -278,6 +277,8 @@ manipulation is required to get the end result that you need.
 Even if you have a vendor supporting you, you should also search the
 Internet and the project's forums for reports from others about
 importing and exporting the data formats that matter for you.
+
+[TODO: call out recommendation]
 
 ### Data Portability and Avoiding Vendor Lock-In 
 

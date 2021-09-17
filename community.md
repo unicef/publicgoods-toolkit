@@ -1,5 +1,7 @@
 # Community And Ecosystem
 
+[TODO: brief intro/signposting so this can better standalone; how this helps w/ evaluation of existing (e.g. be wary of relying on packages from 'bathwater' as well as v impt to creating your own os project. Reference DIAL ecosystem principle]
+
 DPG efforts run on the collective motivations of all of their
 participants.  A healthy project often gathers around itself a diverse
 ecosystem in which many participants cooperate, each for their own
@@ -48,11 +50,11 @@ Although it is certainly accurate to refer to this collective as a
 differentiation, informal debt relations, and all the other aspects of
 human communities -- it is not a community that runs on altruism.
 Even mission-driven participation is best understood as value-seeking
-(but not value-capturing) in open communities.  Thus, understanding
-how to work with and participate in an open source project is not just
-a matter of understanding the software at a technical level; it also
-requires understanding the motivations of the people who make up the
-project.
+(but not value-capturing) in open communities.  
+
+Understanding how to work with, participate in, and foster a successful open source project is not just a matter of understanding the software at a technical level; it also requires understanding the motivations of the people and organizations who do make up the project. 
+
+**KEY RECOMMENDATION**:Creating a [simple ecosystem map](https://blog.opentechstrategies.com/2019/06/ecosystem-mapping/), ideally as part of a group exercise with others involved in your DPG, is helpful to understanding who is in your ecosystem, how they relate to each other, and their motivations. With this shared understanding, you can think about what various changes might mean for your DPG and its goals: what if these motivations change over time in a certain way? What if you invested in developing a particular stakeholder group? 
 
 ## Project Archetypes
 
@@ -92,6 +94,10 @@ too.  The more specific you are about what you want from open source
 in your particular context, the more you will be able to look for
 patterns and practices in successful open source projects that operate
 in similar contexts.
+
+[TODO: Draft recommendation, something like: With simple ecosystem map as background, consider what project archetype might roughly fit, although keep in mind that this exercise isn’t an exact science and that’s fine. This understanding helps sets the right expectations and predictions around a project, including how to think about a project’s health. It can also help ensure you’re putting the right resources to the right problem, particularly in cases where you’re creating your own open source project. 
+ 
+For example, in evaluating an existing open source project, you wouldn’t expect a ‘rocket ship’ project to invest in providing supporting to contributors, while in creating and fostering your own multi-vendor infrastructure project, you’d want to select a code repository tool that’s most familiar to all participants.  
 
 A complete discussion of each archetype is available in Mozilla's
 report.  Below are just their names and brief descriptions, from which
@@ -320,6 +326,9 @@ enough participants to have diversity.  Projects in this situation
 often find they have to invest in outreach and make special efforts to
 attract new participants.
 
+[TODO: Recommendation about paying attention to diversity of investors. Example of GeoNode]
+ 
+
 ## Community Health
 
 An open source community's health depends ultimately on the presence
@@ -352,7 +361,7 @@ discussion](https://github.com/unicef/publicgoods-toolkit/pull/12#discussion_r65
 about the practicality of this advice for decision makers.  Automating
 this type of qualitative analysis is... hard.  Bitergia sells products
 that make it easier to pull info out, but we can't automate generating
-*meaning* from that data.)
+*meaning* from that data.) also noted in OpenSSF's great guidelines that we reference in Security Policy https://github.com/ossf/wg-identifying-security-threats/blob/main/publications/threats-risks-mitigations/v1.1/Threats%2C%20Risks%2C%20and%20Mitigations%20in%20the%20Open%20Source%20Ecosystem%20-%20v1.1.pdf
 
 The rate at which bug reports are closed is actually not very
 important.  In a healthy project with an active user base, bug reports
@@ -383,6 +392,8 @@ from a project's bug tracker must be considered in the wider context
 of the rest of the project.  Project metrics, especially as they
 change over time, are strong signals that add to the understanding of
 a project.  They are not, however, very informative on their own.
+
+[TODO: draft simplest recommendation of existing project  1) vibrancy -- look at bug tracker 2) diversity of developers and commercial participants; 3) maturity markers for sustainability (documentation, clear processes, support); 4) consider level of commercial participation. Also - actually talk to participants from as diverse backgrounds as possible so you get a sampling. What’s their insight?]
 
 Community health, as outlined above, matters to DPGs because community
 health is the key to sustainability.  Those who are investing in those
@@ -537,6 +548,8 @@ long as these opportunities do not start to create monopolizable
 advantages, they can be effective ways to promote sustainability for
 some DPG efforts.
 
+[TODO: Recommendation around paying attention to commercial in evaluation of existing, fostering commerical participation if you're creating your own new os project while paying attention to overdue influence]
+
 ## Sustainability, Longevity, and Lifecycle
 
 All DPGs have a lifecycle.  That lifecycle may not be knowable in
@@ -600,6 +613,8 @@ signal of investment, become more willing themselves to invest.
 (TBD: Still thinking about where to put "Sustainability" in the above
 material, partly because that topic overlaps with material covered in
 "Community Diversity" and "Community Health".  Stay tuned.)
+
+[TODO: This seems like best section in which to briefly cover financing with GeoNode as example.]
 
 ## Parking Lot
 

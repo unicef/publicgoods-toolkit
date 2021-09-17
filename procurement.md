@@ -33,7 +33,7 @@ development not only possible but practically inevitable, and it
 rewards companies for participating in the open source projects they
 depend on the most.
 
-KEY RECOMMENDATION: For a good introduction to modular architecture,
+FURTHER READING: For a good introduction to modular architecture,
   see this blog post, which is the first in a two-part series:
   https://medium.com/on-software-architecture/on-modular-architectures-53ec61f88ff4.
   Another useful resource is
@@ -520,6 +520,8 @@ provide tools and insights it can use to take care when structuring
 successive contract modules.  The disruption from small gaps can be
 larger than intended, but longer-term, planned staffing adjustments
 are always an available tool, even when issuing modular contracts.
+
+[TODO: Summarize recommendation]
 
 ### Maintenance and Operations
 
