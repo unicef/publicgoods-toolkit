@@ -2,17 +2,17 @@
 
 This module is about national and international policies that shape the environment in which digital public goods (DPGs) function as well as how to design public agency level policies to encourage use and production of DPGs. 
 
-Government policies impact every aspect of a DPG, directly and indirectly, from the ease of creating new private businesses and government procurement strategies to encourage specific directions in innovation and social welfare to eroding trust in vulnerable communities through tech surveillance. Government policies could encourage the creation of DPGs by linking early education investments in open source to fostering economic development (e.g. India), or they could discourage DPGs by objecting to open source encryption methods that could help protect vulnerable populations or to open data sharing to could help target services to those most in need. Government policies matter because they direct attention and funding, set boundaries for private business and investment, and shape a narrative around what matters and why.  
+Government policies impact every aspect of a DPG, directly and indirectly, from the ease of creating new businesses and government procurement to encourage specific directions in innovation and social welfare to surveillance in the name of national security that also erodes trust in vulnerable communities. Government policies could encourage the creation of DPGs by linking early education investments in open source to fostering economic development (e.g. India), or they could discourage DPGs by objecting to open source encryption methods that could help protect vulnerable populations, or to open data sharing to help direct services to those most in need. Government policies matter because they direct national attention and funding, set boundaries for private business and investment, and shape a narrative around what matters and why.  
 
 In this module, we narrow in on a few high-level policy considerations that DPGs are most likely to encounter and need to consider. Many of these policy considerations flow from the legal structures within which DPG usage and production takes place.  Among
 these structures, three of the most important are copyrights, patents,
 and trademarks.  Although these are sometimes lumped together under
-the term "intellectual property", it's usually helpful to think of
+the term intellectual property,' it's usually helpful to think of
 them separately, as they serve very different purposes. We will discuss these, along with commerical use, in separate sections below. Each such section starts with a basic explanation of the concept. 
 
-We also briefly review Security and Data Privacy policy and touch upon how FOSS policy can be better aligned with national education and innovation policies. 
+We also briefly review Security and Data Privacy policies and touch upon how FOSS policy can be better aligned with national education and innovation policies. 
 
-Detailed recommendations for putting some of these policy considerations into practice are generally found in the later modules on [Procurement](#procurement) and [Adoptability Assessment](#adoptability). For example, while we touch upon procurement policy as a national-level tool here, detailed procurement policy recommendations useful at a DPG level are in the Procurement Model, and assessing security when evaluating an open source project is in the [Adoptability] module(#adoptability). The exceptions to this are data privacy and cybersecurity policy at a national level, for which we cover detailed recommendations here. 
+Detailed recommendations for putting some of these policy considerations into practice are generally found in the later modules on [Procurement](#procurement) and [Adoptability Assessment](#adoptability). For example, while we touch upon procurement policy as a national-level tool here, detailed procurement policy recommendations useful at a DPG level are in the Procurement Model, and assessing security when evaluating an open source project is in the [Adoptability] module(#adoptability). The exceptions to this are data privacy and cybersecurity policy at a national level, for which we also cover detailed recommendations here. 
 
 TBD [@imahgoub
 says](https://github.com/unicef/publicgoods-toolkit/pull/24#discussion_r658086768):
@@ -44,7 +44,7 @@ law, which we discuss [elsewhere](#patent).)
 
 (TBD: Not sure whether it's worth mentioning the "droits moraux
 d'auteurs" aspect of copyright law that exists in some jurisdictions.
-That may or may not be a useful detail for DPG policy.)
+That may or may not be a useful detail for DPG policy.)<<- Susy question - do we have examples where this has been problematic or useful around open source, perhaps specifically to the global south, or is this more hypothetical? (I obviously don't know!) If it's more hypothetical, I'd avoid.>>
 
 Thus open source licenses are simply formal statements by the
 copyright holder, granting explicit permission to copy and share
@@ -71,7 +71,7 @@ whereas the point of open source licensing is to allow that sharing
 and re-use, that is, to create an environment with a different
 default.
 
-The specifics of open source licensing are discussed in [Major
+More specifics of different open source licensing approaches are discussed in [Major
 Software Licenses and License Categories](#foss-licensing).
 
 ### Copyright Policy
@@ -90,16 +90,8 @@ mind about copyright and DPGs:
   except when you have a specific and strong reason to prefer one of
   them.
 
-  (TBD: We could provide some specific license recommendations here,
-  and also point to places where others make such recommendations,
-  e.g., the "Popular Licenses" section of
-  https://opensource.org/licenses.)
+A note about public domain open source projects. They exist, and the descriptor sounds promising. However, using them is not desirable as they don't provide an explicit license, which is problematic for various reasons [See Appendix]. These reasons are why the [Digital Public Goods Alliance requires an Open Source Initiative approved license](https://digitalpublicgoods.net/standard/) for software.
 
-  (TBD: we perhaps should mention that using public domain DPGs is
-  fine, but one should prefer to publish under an explicit open
-  license, rather than into the public domain, when possible.
-  https://opensource.org/faq#public-domain has more context about
-  this.)
 
 * Establish copyright ownership clearly.
 
@@ -116,8 +108,7 @@ mind about copyright and DPGs:
 
   The question of which of these copyright ownership scenarios is best
   for a given DPG is discussed further in the [Procurement
-  Module](#procurement).  (TBD: check Procurement to make sure we
-  cover this.)  The high-level policy point here is merely that the
+  Module](#procurement). The high-level policy point here is merely that the
   decision of copyright *ownership* -- which is independent from the
   choice of license -- should be made purposefully, not determined by
   accident based on who drafted a contract or on some quirk of
@@ -206,12 +197,6 @@ distributor takes steps to avoid being a source of patent infringement
 claims themselves.  This is discussed further in the [Procurement
 Module](#procurement).
 
-(TBD: link to appropriate material in Procurement Module.
-Essentially: we need to state that it's not enough to get a blessing
-for governmental or "public" use -- what's needed is a promise to not
-make patent infringement claims on anyone* for their use of the patent
-as embodied in the DPG.)
-
 (TBD: Note that some FOSS licenses have patent-related provisions, but
 those provisions are usually fairly lightweight and it may not be
 worth discussing it in depth in this toolkit, except for the mention
@@ -274,7 +259,7 @@ desirable: while a DPG can be "forked" -- that is, anyone can make a
 divergent version with their own changes, perhaps even with changes
 that the original authors disagree with -- it may be beneficial to the
 public to force the fork to distinguish itself clearly from the
-original, that is, to avoid being an impostor.
+original, that is, to avoid being an impostor. Trademarks can be powerful tools for preventing abuse and thus protecting trust in a DPG's 'brand.' Indeed the technology industry has a [long history in using trademark protection of open source projects in this way](https://producingoss.com/en/trademarks.html). The Estonian Information System Authority maintains X-road related trademarks, even though its continued development is now done collaboratively through the Nordic Institute for Interoperabilty Solutions.
 
 Of course, it would be bad for trademarks associated with a DPG to be
 held by a company that intends to use them to squash competing
@@ -290,13 +275,13 @@ force a change of the DPG's name.
 
 Whether a particular DPG should have trademarks associated with it,
 and if so what the policy on ownership and enforcement of those
-trademarks should be, needs to be decided on a case-by-case basis.
+trademarks should be, needs to be decided early and on a case-by-case basis.
+
+
 (TBD: We can point to some other resources here, such as example
 trademark policies from some existing DPGs / open source projects.
-https://producingoss.com/en/trademarks.html has pointers to some.)
+ has pointers to some.)
 
-
-[TODO: Trademarks on case-by-case basis. Note power of trademark to protect brand and trust. See Estonia re: X-Road and Nordic Institute for Interoperability Solutions and the trademark held by NIIS too]
 
 ## Commercial Use
 
@@ -398,7 +383,7 @@ Lastly, DPGs should have a policy of requiring a **risk management plan** for al
 
 **KEY RECOMMENDATION**: Create standardized templates for threat modeling, security risk assessments, cost/benefit analyses and risk management plans to help meet security regulation and improve security in practice. This is an area where a DPG's open, collaborative approach is again helpful, and secrecy is not your friend. 
 
-These security templates and their confirmed use could help high-risk DPGs meet grant requirements and might even help attract additional funding and resources for security reviews. 
+These security templates and their confirmed use could help high-risk DPGs meet grant requirements and might even help attract additional funding and resources for security reviews. [This could be a recommendation if we can point to good resources, like https://www.opentech.fund/labs/red-team-lab/ (I know it's very specific in focus and things are messy there), the Linux Foundation's work too, but I am not in the know enough to know if these are well functioning and what's more on the intl scene]
 
 [NOTE: I am avoiding Common Criteria and open source b/c I’m unsure how applicable it is to DPGs, perhaps particularly those in non-Western countries]
 

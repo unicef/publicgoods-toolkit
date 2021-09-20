@@ -206,9 +206,7 @@ available.)
   The code was thrown over the wall, as the saying goes, and it is
   there for anyone else to pick up if they want.
 
-For a short encapsulation of this information, it might be useful to
-refer to this [2018 slide
-presentation of the archetypes](https://opentechstrategies.com/files/presentations/2018-finos/finos-presentation.html\#(3)).
+
 
 ### Identifying Archetypes In Your Community
 
@@ -287,7 +285,7 @@ long, so let's leave off for the moment and not go deeper than we
 need.  Note: Victor
 [suggests](https://github.com/unicef/publicgoods-toolkit/pull/12#discussion_r651325121)
 including a mapping/analysis of some existing DPGs to the archetypes.
-We can add that analysis after doing some interviews.)
+We can add that analysis after doing some interviews. From Susy -- we're not getting good insights from the interviews. I suggest we look at categorize two different DPGs as examples but otherwise link to not-necessarily-DPGs for the archetypes, as done in the original paper)
 
 ## Community Diversity
 
@@ -362,6 +360,7 @@ about the practicality of this advice for decision makers.  Automating
 this type of qualitative analysis is... hard.  Bitergia sells products
 that make it easier to pull info out, but we can't automate generating
 *meaning* from that data.) also noted in OpenSSF's great guidelines that we reference in Security Policy https://github.com/ossf/wg-identifying-security-threats/blob/main/publications/threats-risks-mitigations/v1.1/Threats%2C%20Risks%2C%20and%20Mitigations%20in%20the%20Open%20Source%20Ecosystem%20-%20v1.1.pdf
+
 
 The rate at which bug reports are closed is actually not very
 important.  In a healthy project with an active user base, bug reports

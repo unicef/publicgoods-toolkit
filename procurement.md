@@ -22,10 +22,9 @@ everything else break, because clear module boundaries have been
 defined.  These boundaries often reflect organizational divisions as
 much as technical ones.
 
-FURTHER READING: The US Government Accountability Office published a
-  guide in 2012 that is a useful resource for government agencies
-  engaged in agile development:
-  https://www.gao.gov/assets/600/593091.pdf
+**FURTHER READING**: The [US Government Accountability Office published a
+  guide in 2012](https://www.gao.gov/assets/600/593091.pdf) that is a useful resource for government agencies engaged in agile development
+  
 
 This style of development is closely connected to open source: the
 availability of swappable open source components makes modular
@@ -33,11 +32,11 @@ development not only possible but practically inevitable, and it
 rewards companies for participating in the open source projects they
 depend on the most.
 
-FURTHER READING: For a good introduction to modular architecture,
-  see this blog post, which is the first in a two-part series:
-  https://medium.com/on-software-architecture/on-modular-architectures-53ec61f88ff4.
-  Another useful resource is
-  https://blog.fedecarg.com/2008/06/28/a-modular-approach-to-web-development/,
+**FURTHER READING**: For a good introduction to modular architecture,
+  see this [blog post](https://medium.com/on-software-architecture/on-modular-architectures-53ec61f88ff4), which is the first in a two-part series:
+  .
+  Another useful resource is this [blog post]
+  (https://blog.fedecarg.com/2008/06/28/a-modular-approach-to-web-development),
   which focuses on web development.
 
 Generally speaking, though, government has lagged behind.  While
@@ -77,7 +76,7 @@ are procured via a set of small contracts, each to the vendor most
 suited for a particular task.  This is a good starting point for state
 and local technology procurement as well. (18F addresses non-federal
 modular contracting at
-https://18f.gsa.gov/2016/11/15/modular-procurement-state-local-government/.)
+https://18f.gsa.gov/2016/11/15/modular-procurement-state-local-government.)
 
 This approach has several benefits, beginning most importantly with
 breaking vendor lock-in.  At any point, a well-procured effort should
@@ -159,8 +158,7 @@ enforce the technical boundaries that keep open source process
 functioning. Another approach to enforcing modular separation is
 through OSQA, described below.
 
-KEY RECOMMENDATION: Modular contracting works best with agile,
-  open source development and modular technical design.
+**KEY RECOMMENDATION**: Modular contracting can help to better connect the right vendor to the right task, break vendor lock-in and reduce risks associated with any one vendor. It works best with agile, open source development and modular technical design.
 
 One aspect of modular contracting that is sometimes overlooked is that
 it can be costly to conduct many smaller rounds of procurement.  Even
@@ -192,9 +190,11 @@ larger contract modules, especially as the project grows in scope.
 One might also allocate these larger modules among its existing set of
 vendors as a way to balance risk management with cost management.
 
+**KEY RECOMMENDATION**: Agencies using modular contracting should place these smaller contracts within larger Master Service Agreements in order to make procurement more efficient and flexible.  
 
-FURTHER_READING: For a comprehensive view into modular contracting,
-  there is a 2012 guide produced by the Obama administration:
+
+**FURTHER_READING**: For a comprehensive view into modular contracting,
+ the Obama administration produced a very useful guide in 2012:
   https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/guidance/modular-approaches-for-information-technology.pdf
 
 ## Intellectual Property Contract Terms
@@ -218,7 +218,7 @@ Perhaps more importantly, government procurement agents today have more
 options in the marketplace.  There is a growing number of experienced
 vendors capable of delivering world-class software who don't require
 exclusive legal rights to exploit the codebase at the end of the
-contract.  Open source is competitive, and is driving wholly proprietary
+contract.  Open source is competitive and is driving wholly proprietary
 approaches out of the market.
 
 There are three classes of software delivered in a typical procurement
@@ -227,7 +227,7 @@ vendor-created software, and code custom-written by the vendor for the
 current project.  Notice this list does not include any third-party
 proprietary software.
 
-KEY RECOMMENDATION: Contracts should expressly forbid satisfying
+**KEY RECOMMENDATION**: Contracts should expressly forbid satisfying
   any deliverable with software that includes any proprietary
   component.
 
@@ -239,9 +239,9 @@ plans and never needs to secure a vendor's permission to operate,
 improve, or hire other parties to work on the software.  This is the
 key point.
 
-KEY RECOMMENDATION: No matter what happens with intellectual
+**KEY RECOMMENDATION**: No matter what happens with intellectual
   property rights at the contracting stage, " + client + " must have
-  the ability to deploy, distribute, and modify the software under a
+  the ability to deploy, (re)distribute, and modify the software under a
   suitable open source license.
 
 For third-party open source software, this means that an agency must
@@ -267,7 +267,7 @@ relicensing so they can resell that software to other clients or in
 other markets.  A vendor might even enjoy a period of exclusivity in
 its ability to make proprietary use of the software.  Specific
 arrangements will vary, but there is no harm in them so long as a) the
-terms serve a larger goal of fostering a multi-vendor ecosystem, and
+terms serve a larger goal of fostering a multi-vendor ecosystem, and, as noted above,
 b) the agency always has full rights, including redistribution rights,
 under the desired outbound open source license.
 
@@ -287,11 +287,15 @@ participants to join the effort.  Other public-spirited projects in
 which a primary vendor predominates have either considered or adopted
 similar arrangements.
 
-It is worth making one final point about rights.  Open source licenses
+It is worth making one final point about rights. As we touched upon earlier in the Introduction [LINK] and Policy modules [LINK], open source licenses
 commonly deal with copyrights.  They do not adequately address
 trademarks and are uneven in their handling of patents.  Contracts
 must secure terms that prevent a vendor from encumbering further
-development and distribution on either trademark or patent grounds.
+development and distribution on either trademark or patent grounds. It's not enough to get a blessing for governmental or "public" use. What's needed is a promise to not
+make patent infringement claims on anyone* for their use of the patent
+as embodied in the DPG.
+
+**KEY RECOMMENDATION**:  Contracts terms must prevent a vendor from encumbering further development and distribution on either trademark or patent grounds.
 
 ## Open Source Quality Assurance
 
@@ -345,6 +349,8 @@ dependency and lock-in.  By the time these failures are obvious to the
 procuring agency, the final product will struggle as it experiences
 all the complexity of modular contracting without the benefits.
 
+[TODO: better define OSQA for laymen. Do you mean automated testing and continuous integration tools? What does practice mean here and is there an actual guide to which we can point?]
+
 There are a variety of OSQA techniques one can introduce.  OSQA "sits
 on the tree" and enforces standards at the pull request stage.  This
 means OSQA approval is needed before source code changes can be
@@ -383,7 +389,7 @@ followed in spirit as well as in letter, since lapses will be more
 readily apparent.
 
 
-KEY RECOMMENDATION: client + " should participate directly in
+**KEY RECOMMENDATION**: client + " should participate directly in
   technical development, even if only to a small degree, in order to
   create credibility and connection with vendors and contractors and
   to contribute to maintaining a consistent open source culture.
@@ -394,7 +400,7 @@ ignore: it stands between vendors and reaching their contracted
 deliverables.  That is, it allows an agency to enforce open source
 process compliance as a condition of being paid on time.
 
-KEY RECOMMENDATION: client + " should require acceptance of code
+**KEY RECOMMENDATION**: client + " should require acceptance of code
   into the open source repository as part of the definition of
   contractual delivery in software milestones.
 
@@ -409,11 +415,11 @@ module, but the point here is not that an agency should master all
 these techniques, just that it should identify and implement at least
 some approaches.
 
-KEY RECOMMENDATION: An agency should add OSQA elements to its
+**KEY RECOMMENDATION**: An agency should add OSQA elements to its
   requirements list when considering project roles.  If it does not
   plan to do OSQA in-house, it should consider contracting for it.
   For a fuller description of what this element entails, please see a
-  sample OSQA statement of work in [[ TODO: Add sample ]].
+  sample OSQA statement of work in the Appendix [LINK].
 
 OSQA has a track record of success in government agencies.  We have
 performed OSQA and seen it work well at several levels of government,

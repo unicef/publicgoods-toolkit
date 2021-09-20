@@ -83,14 +83,44 @@ on:
    freely shared and are trained on open data sets and
    based on algorithms implemented in open-source software.
 
+   ## DPGs Are About Collaboration, Not Licenses
+
+This module contains material about licenses, as any
+discussion of open will eventually include mention of licensing.  It
+is in many ways foundational.  It is also true, though, that open
+source's tendency to focus on licensing is an artifact of history.
+There is a growing consensus among practitioners that open licensing
+works best when it recedes into the background.  In the most succesful
+open projects, licenses set some basic ground rules.  After that,
+collaboration ideally occurs according to norms and best practices
+designed to maximize shared benefits, not carefully track legal
+limits.
+
+In every sector where we examine DPGs, we find that licenses are a
+useful starting point but that improving collaborative process is
+always a greater factor in success than perfecting licensing terms.
+The key is to make DPGs and share them in ways that catalyze
+collaborative dynamics.  If the openness of a DPG creates new
+opportunities and is susceptible to improvement in open ways, we say
+it "behaves" in an open way.  That behavior is where the public
+benefits are.  It is where an agency's policy goals are met.  That
+behavior doesn't come from a license alone.
+
+As you consider these modules and apply them to your work, keep in
+mind what DPGs are best at: sharing costs, multiplying benefits,
+lowering barriers to entry, and enabling cooperation across
+boundaries.  DPGs are resources that enable entire communities to
+progress together.  Whenever government creates DPGs instead of
+proprietary resources, these are the policy goals it can create.
+
 ## Major Software Licenses and License Categories {#foss-licensing}
 
 At the most basic level, government agencies engaging with open source
 can start with basic knowledge of a handful of software licenses.  All
-of these licenses have in common the basic permissions to run, copy,
+of these open source licenses have in common the basic permissions to run, copy,
 modify, and distribute the software.  They each try to create a
 collaborative commons and a shared pool of value.  For all that these
-licenses differ from each other, they are more alike than different.
+licenses differ from each other, they are more alike than different. Note that they all permit commerical implementations, that is, they permit complanies to use the software to make money. Where their differences have the most impact is in how they might restrict options for mixing software with different licenses and for revenue generation. This *might* matter for your plans, and it *might* matter if you have plans nurture commerical implementations. 
 
 We broadly describe Free and Open Source Software ("FOSS") licenses as
 existing on a continuum from "permissive" to "protective".  
@@ -142,10 +172,10 @@ Beyond those permissive licenses, we start to see copyleft clauses.
 prevent people from sharing software, copyleft requires that
 permission to share attach to at least some of what you build.
 Copyleft restricts your ability to make non-open source software from
-open source ingredients.  This is a bargain designed to nurture a
+open source ingredients. It also means that companies using the copyleft software would have to find revenue streams outside of controlling access to the source code. This isn’t inherently a bad thing! There are plenty of revenue opportunities aside from such rent-based control, and there are good reasons to use copyleft licensing to change incentive structures and investments downstream. This is a bargain designed to nurture a
 commons of shared software-- when you distribute software that is
 built on code from the commons, sometimes that newly made software
-must join the commons too.
+must join the commons too.  
 
 We tend to describe copyleft as "weak" if a license only attaches
 copyleft requirements to changes you make to the specific code bearing
@@ -180,7 +210,7 @@ requirements.
 There are two strong copyleft licenses in common use:
 
  * GNU General Public License
- * GNU Affero General Public License
+ * GNU Affero General Public License (AGPL)
 
 The AGPL differs from the GPL in one major respect.  Typically,
 copyleft rights flow through distribution.  When you transfer a copy
@@ -197,34 +227,9 @@ user interacts with the software over a network, that user is entitled
 to receive a copy of the software and all open-source rights to run,
 copy, modify, and distribute it.
 
-[TODO: recommendations around licenses per what kind of/with whom collaborations you're aiming to create]
+The [Open Source Initiative](https://opensource.org/licenses) provide overviews of their approved licenses, along with a good [FAQ]( https://opensource.org/licenses). 
 
-## DPGs Are About Collaboration, Not Licenses
+**KEY RECOMMENDATION**: The processes, culture and practices that support open source collaboration ultimately matter more to success than the particular open source license. However, the license you choose can affect potential downstream business models. This isn’t inherently a bad thing - indeed, these limitations were created in order to encourage the growth of a softare commons -- but are to be considered. Mapping out your DPG's ecosystem (see Community and Ecosystem LINK) is a helpful exercise here.
 
-This module contains a lot of material about licenses, and any
-discussion of open will eventually include mention of licensing.  It
-is in many ways foundational.  It is also true, though, that open
-source's tendency to focus on licensing is an artifact of history.
-There is a growing consensus among practitioners that open licensing
-works best when it recedes into the background.  In the most succesful
-open projects, licenses set some basic ground rules.  After that,
-collaboration ideally occurs according to norms and best practices
-designed to maximize shared benefits, not carefully track legal
-limits.
+The module on Policy[LINK]delves more deeply into recommended agency level policies on copyright, patent and trademarks for DPGs, while the Procurement module [LINK]provides a few practical recommendations for managing licensing and usage concerns in working with vendors. 
 
-In every sector where we examine DPGs, we find that licenses are a
-useful starting point but that improving collaborative process is
-always a greater factor in success than perfecting licensing terms.
-The key is to make DPGs and share them in ways that catalyze
-collaborative dynamics.  If the openness of a DPG creates new
-opportunities and is susceptible to improvement in open ways, we say
-it "behaves" in an open way.  That behavior is where the public
-benefits are.  It is where an agency's policy goals are met.  That
-behavior doesn't come from a license alone.
-
-As you consider these modules and apply them to your work, keep in
-mind what DPGs are best at: sharing costs, multiplying benefits,
-lowering barriers to entry, and enabling cooperation across
-boundaries.  DPGs are resources that enable entire communities to
-progress together.  Whenever government creates DPGs instead of
-proprietary resources, these are the policy goals it can create.

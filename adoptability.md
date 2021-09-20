@@ -504,9 +504,24 @@ other via the forum, you will be able to provide mutual support
 
 ## Internal Capacity Assessment
 
-An important part of any DPG evaluation is assessing your own
-organization's internal capacity to use the DPG for your intended
-purposes.
+[TODO: Finish section] 
+
+When evaluating an open source project for adoption, it’s also imperative to consider your own team’s capacity and abilities. This section outlines the pragmatic, specific things you’ll need to leverage the open source project as intended as well as to follow through on many of our recommendations. In this way, it differs from the more generalized organizational readiness models referenced in the Open Source Readiness [LINK] module. 
+
+Want to build base of knowledge and a community of practice 
+
+https://digitalimpactalliance.org/5-things-digital-public-good-software-projects-need-to-scale/
+
+Seems like the following categories are likely and might be good for thinking through recommendations 
+
+Skills + capabilities - external relationships + partnerships (Mozilla as failure example with mobile OS), running audits; legal + regulatory compliance 
+Resources
+Culture
+Processes + policies - general org health things of course, like strategy formation, clear decision making, accountability etc 
+Tools -- https://todogroup.org/guides/management-tools/#why-you-need-special-tools-for-open-source-program-management
+Tech capacity 
+
+
 
 TBD: Plan for this section is to collect the relevant points from all
 the other sections and examine what specific internal capacities would
