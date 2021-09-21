@@ -37,7 +37,7 @@ sometimes use the word "project".  They are closely related but
 emphasize different things.  The "product" is what you deploy and may
 also pay for: a packaged DPG, often accompanied by a support contract
 or at least by the potential availability of on-demand commercial
-support should you ever need it.  The "project", on the other Haydn, is
+support should you ever need it.  The "project", on the other hand, is
 the living software community, in which developers and organizations
 collaborate to produce the software that is the core of the product.
 
@@ -158,7 +158,7 @@ FURTHER READING: For a particularly clear exposition of how one large
 
 ## Stability and Reliability
 
-You can make a reasonably accurate estimate a product's stability and
+You can make a reasonably accurate estimate of a product's stability and
 reliability by looking at two things:
 
 1) "The word on the street" -- that is, look at what people who
@@ -174,7 +174,7 @@ Taking them in order:
 Regarding (1): Software fortunately does not suffer very much from
 the "fake reviews" problem found on non-technical retail/consumer
 review sites (e.g., Yelp, Amazon, etc).  Most of what you see will
-honestly reflect people's actual experience.  Therefore, your just to
+honestly reflect people's actual experience.  Therefore, your job is just to
 find the places where people whose needs and capabilities are similar
 to yours are posting their comments.  Standard web search engines will
 get you pretty far, and may be all you need.  You can also search
@@ -190,9 +190,13 @@ and focus on recent reports (e.g., from within the last one or two
 release cycles) -- it doesn't matter if the project formerly had
 stability issues, as long as they're fixed now, and anyway many
 projects had such issues when they were first getting started.
-(Remember that the number of tickets present in a project's bug tracker
-is proportional to the number of users the project has, not to the
-number of actual defects in the software.)
+
+Do not worry about the overall number of open tickets in the bug
+tracker.  The rate of incoming bug reports is proportional to the
+number of users, not to the number of actual defects in the software,
+so a large number of tickets is actually a good sign.  What you're
+looking at here is something narrower: the number of recent tickets
+that are specifically about stability issues.
 
 Regarding (3): The existence of commercial support offerings is a
 *very* good sign -- in general, really, but especially for the
@@ -266,7 +270,7 @@ import/export, be sure to make those questions as specific and precise
 as possible.  For example, don't ask "Can the system export its data?"
 The answer will almost always be "Yes!"  Instead, ask something like
 "Can the system export all of its data in standard format FOO such
-that it can be imported by <some competing program> without any
+that it can be imported by Some Competing Program without any
 information being lost or miscategorized?", where "FOO" is the name of
 some actual format, and you've identified the particular competing
 program.  Then you'll likely get a more nuanced and complicated
@@ -523,7 +527,7 @@ Investment".
 
 Procuring a DPG is very different from buying a physical good like a
 truck or a desk.  You do not, realistically, have much opportunity to
-influence the truck manufacturer, nor collaborate them to improve the
+influence the truck manufacturer, nor to collaborate with them to improve the
 trucks that will be coming to the market next year.  But with DPGs
 that possibility very much exists, and this should be taken into
 account when evaluating both a particular DPG and your own current
