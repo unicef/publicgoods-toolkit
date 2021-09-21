@@ -602,16 +602,113 @@ appropriate to undertake it after you have already been using the DPG
 for some period of time, and have some confidence that deeper
 investment is likely to pay off for your organization.
 
-## Landscape Analysis / Mapping Technical Capacity and Gaps
+## Ecosystem Mapping for Adoptability
 
-TBD: If this section is about Ecosystem Analysis, then we have a
-pretty good idea of what to put here (drawing in part on [this
+(**TBD**: The original title of this section was "Landscape Analysis /
+Mapping Technical Capacity and Gaps".  One possible interpretation of
+that original title is that it meant situating a given DPG in the
+landscape of other competing DPGs that have overlapping functionality,
+and comparing technical capabilities, support availability, etc
+between them all.  But I didn't choose that interpretation here,
+because I think it would be unrealistic to expect most DPG deployers
+to have the capacity to conduct that kind of broad competitive
+landscape analysis.  Furthermore, that kind of analysis is not really
+about adoptability per se, but rather is antecedent to adoptability
+evaluation.  Therefore I changed the title to better match what I
+thought was the other possible interpretation: that this section is
+about mapping the landscape, or the "ecosystem" (see [this
 post](https://blog.opentechstrategies.com/2019/06/ecosystem-mapping/)),
-I think.  However, the alternate section title "Mapping Technical
-Capacity and Gaps" above makes me (Karl) suspect that my understanding
-of what's intended here might differ in some subtle-but-important way
-from others' understanding.  I will check with the rest of the crew --
-in the meantime, comments welcome here of course.
+surrounding a particular DPG, in ways that are relevant to the DPG's
+adoptability.  One could argue that this section now really belongs in
+`community.md`, and maybe we should move it and just refer to it from
+this module.  However, as the material is also quite relevant to
+adoptability, I've kept it here for now just tried to emphasize that
+aspect in how it's presented.  Anyway, if my guess was wrong and what
+we really need here is the other interpretation, the material below
+might still be useful as a new section in `community.md`.  -Karl)
+
+The adoptability of a DPG depends on the the overall landscape of
+users, deployers, and technical investors in which that DPG is
+situated.  In the sections above, we have discussed some elements of
+this landscape a bit already: sources of commercial and non-commercial
+support, the possibility of technical involvement from your in-house
+IT staff or from a vendor contracted for the purpose, etc.  However,
+it's also useful to look at that landscape as a whole -- as an
+ecosystem of stakeholders and, where applicable, relationships between
+them.
+
+When you're about to make an investment in a DPG, such as by deploying
+it for sustained use, it can be very helpful to take a step back and
+explicitly map out that ecosystem, in a quick, lightweight exercise.
+
+Making such a map can reveal both gaps and opportunities.  For
+example, an ecosystem map might reveal a gap by showing that the main
+sources of commercial support are effectively serving one large
+primary customer -- meaning that your needs might take second place to
+that customer's needs, so you might want to try to stimulate a new
+company to make its own support offering.  Or an ecosystem map might
+reveal an opportunity by showing that there is another public agency
+already using the DPG and who that agency's sources of support are.
+
+There are many ways to produce an ecosystem map, and you should not
+worry too much about procedure or completeness.  It's better to do it
+quickly and easily, so that you don't delay the exercise.  Take what's
+immediately visible to you in the DPG's discussion forums, bug
+tracker, and other easily accessible online sources.  If you know
+someone who's involved in the project in some way, call them up and
+ask them some questions about who else is using the DPG, where sources
+of support are, and anything else they might know.  You're looking for
+information about deployers, contributors, service and support
+providers, integrators, and competing or adjacent efforts.
+
+Then draw a map of what you've found out, doing it as a group exercise
+if possible so that you draw on everyone's knowledge.  The drawing
+should be messy and quick -- a year from now it will probably be out
+of date, and that's okay.  Just hand-draw it on paper or on a
+whiteboard.
+
+Here is a map drawn to identify stakeholders in the [Arches
+Project](https://archesproject.org/) -- the original was hand-drawn,
+but we cleaned up a bit for publication:
+
+![Ecosystem map for the Arches Project (https://archesproject.org/).](images/example-ecosystem-map-768x550.png)
+
+Because we were interested in uncovering information about geographic
+distribution of support sources, this map includes regional groupings
+that might not be necessary on your map.  Conversely, your map might
+show relationships (e.g., contractual relationships) between certain
+stakeholders that we did not bother to show here.  This map did not
+focus on relationships because its purpose was to help us understand
+where the project was succeeding geographically and how to support
+participants spreading the project into new communities.  But if
+you're drawing a map to help assess a DPG's adoptability, you should
+include the elements and relationships that matter most for your
+circumstances.
+
+While there is no one right way to draw an ecosystem map, there are
+some pitfalls to watch out for -- signs that the map might be missing
+important information:
+
+* If the map looks like a star, with all the connections radiating out
+  of one central entity, then the map is probably not capturing the
+  true complexity and topology of relationships.
+
+* If it is more of a cloud than a map, then it might not be grouping
+  entities in useful ways, e.g., it might be failing to separate them
+  by the function they perform in the ecosystem
+
+* If the map tries to answer too many questions at once, it will be
+  incomprehensible.  It's better to focus on a few interrelated
+  questions, such as who the deployers and support providers are and
+  what the relationships are between them.
+
+Once you have the map in front of you, factors relevant to
+adoptability that might not have been apparent before can suddenly
+become obvious.  For example, you might notice that every other known
+deployer has deep in-house IT capability.  If your organization does
+not have that kind of in-house IT capacity, that wouldn't necessarily
+mean that you shouldn't use the DPG, but it would at least indicate
+that a closer look at the deployment requirements may be in order.
 
 ## Evaluation Checklist
 

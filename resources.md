@@ -57,6 +57,8 @@ The following is a list of resources gathered that may be referenced in the tool
 
 Indicators and tools for governments to assess the maturity and readiness for a digital public good to be adopted at the country-level.
 
+  * [Ecosystem Mapping](https://blog.opentechstrategies.com/2019/06/ecosystem-mapping/)
+
 ## Making DPGs Scalable
 
   * Enhanced Youth Engagement: Anushah Hossain’s research on the participation of FOSS communities in Bangladesh which found that non-code contributions are critical in making software available to diverse, global populations. Her findings revealed that university students largely drove communities around technology projects and that participants are motivated to seek opportunities for “socialization, leadership, and technical skills-training, and reputation building.”
