@@ -37,7 +37,7 @@ sometimes use the word "project".  They are closely related but
 emphasize different things.  The "product" is what you deploy and may
 also pay for: a packaged DPG, often accompanied by a support contract
 or at least by the potential availability of on-demand commercial
-support should you ever need it.  The "project", on the other Haydn, is
+support should you ever need it.  The "project", on the other hand, is
 the living software community, in which developers and organizations
 collaborate to produce the software that is the core of the product.
 
