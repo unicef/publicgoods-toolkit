@@ -62,5 +62,5 @@
   - Non-Commercial Support Availability
   - Internal Capacity Assessment
   - Influence, Participation, and Investment
-  - Landscape Analysis / Mapping Technical Capacity and Gaps
+  - Ecosystem Mapping for Adoptability
   - Evaluation Checklist
