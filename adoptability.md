@@ -505,6 +505,20 @@ software in a setup similar to yours, and once you have found each
 other via the forum, you will be able to provide mutual support
 (hopefully still using the public forum!) from then on.
 
+The quality of non-commercial support can vary over time.  Some
+projects have a healthy, enduring culture and process to consistently
+maintain support.  Other projects overly depend on one or several
+individuals who take support upon themselves.  In assessing a
+project's ability to provide open source support, it can be useful to
+see who and how many people are providing that support over what time
+period.  The strongest signal of high-level support will be when help
+is provided in general by a community and there is a culture of
+reinforcing that community activity.  At the other end of the
+spectrum, one will find a project's lead developer heroically also
+playing the support role.  That often works, but is sometimes an
+indication that the project overly depends on one person who might
+move on or burn out.
+
 ## Internal Capacity Assessment
 
 An important part of any DPG evaluation is assessing your own
@@ -690,6 +704,17 @@ deployer has deep in-house IT capability.  If your organization does
 not have that kind of in-house IT capacity, that wouldn't necessarily
 mean that you shouldn't use the DPG, but it would at least indicate
 that a closer look at the deployment requirements may be in order.
+
+Ecosystem mapping can reveal gaps in the landscape. For example,
+"rocket ship" projects often struggle to provide user support.  If
+such support is important and the ecosystem does not provide it, you
+will have to find anther way to fill this gap.
+
+KEY RECOMMENDATION: with a simple ecosystem map as the background,
+consider what project archetypes might fit well within that ecosystem.
+Identify which ones might be missing and which ones you wouldn't
+expect to appear.
+
 
 ## Evaluation Checklist
 
