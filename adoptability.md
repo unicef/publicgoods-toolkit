@@ -604,29 +604,6 @@ investment is likely to pay off for your organization.
 
 ## Ecosystem Mapping for Adoptability
 
-(**TBD**: The original title of this section was "Landscape Analysis /
-Mapping Technical Capacity and Gaps".  One possible interpretation of
-that original title is that it meant situating a given DPG in the
-landscape of other competing DPGs that have overlapping functionality,
-and comparing technical capabilities, support availability, etc
-between them all.  But I didn't choose that interpretation here,
-because I think it would be unrealistic to expect most DPG deployers
-to have the capacity to conduct that kind of broad competitive
-landscape analysis.  Furthermore, that kind of analysis is not really
-about adoptability per se, but rather is antecedent to adoptability
-evaluation.  Therefore I changed the title to better match what I
-thought was the other possible interpretation: that this section is
-about mapping the landscape, or the "ecosystem" (see [this
-post](https://blog.opentechstrategies.com/2019/06/ecosystem-mapping/)),
-surrounding a particular DPG, in ways that are relevant to the DPG's
-adoptability.  One could argue that this section now really belongs in
-`community.md`, and maybe we should move it and just refer to it from
-this module.  However, as the material is also quite relevant to
-adoptability, I've kept it here for now just tried to emphasize that
-aspect in how it's presented.  Anyway, if my guess was wrong and what
-we really need here is the other interpretation, the material below
-might still be useful as a new section in `community.md`.  -Karl)
-
 The adoptability of a DPG depends on the the overall landscape of
 users, deployers, and technical investors in which that DPG is
 situated.  In the sections above, we have discussed some elements of
