@@ -1,21 +1,66 @@
 # Adoptability Assessment
 
+
+  **KEY RECOMMENDATION**: Functionality, technical quality, support and a project's sustainability and responsiveness are areas to review in evaluating an open source product for adoption. 
+  
+  **KEY RECOMMENDATION**: Look at the project's web site or documentation to see what
+  it says about reporting security vulnerabilities, and, if
+  applicable, ask the vendor.
+
+  **KEY RECOMMENDATION**: Look at the project's
+  release history and see if there are any security patch releases, which would indicate that the project is handling security vulnerabilities at least at a base level of competency. 
+
+  **KEY RECOMMENDATION**: [Search the CVE
+  list](https://cve.mitre.org/find/search_tips.html) to see how
+  well-represented the product you're considering is in the CVE
+  database.
+
+  **KEY RECOMMENDATION**:Confirm that third-party dependencies are updated. 
+
+  **KEY RECOMMENDATION**:See if any security audits are publicly available.  
+
+  **KEY RECOMMENDATION**: Looking through public reviews and a project's bug report database will give you an idea of a product's stability and reliability. The existence of vendors providing commercial support for the product is practically a guarantee that the product is as stable and reliable as possible. 
+
+  **KEY RECOMMENDATION**: As a general rule, the more scalability you need, the more up-front investment you must make in configuring your deployment. Take this into account in your resource planning. 
+
+  **KEY RECOMMENDATION**: Be sure to get a detailed understanding the product's ability to import/export data. Even if you have a vendor supporting you, search the
+Internet and the project's forums for reports from others about
+importing and exporting the data formats that matter to you. This will help you plan for needed resources and project scheduling as well as be better prepared should you need to switch vendor support at some point. 
+
+**KEY RECOMMENDATION**: Having a documented API as part of a service is very important to supporting a full range of the functionality you'll likely need. Check documentation and search for examples on the Internet of people using that API to accomplish real-world tasks. Lack of published APIs isn't uncommon for early stage open source products, but this situation (or lack of a roadmap) is unacceptable for products intended to work with data at scale. 
+
+**KEY RECOMMENDATION**: An open source product's extensibility is often a sign of maturity, as it's developed enough to have a stable foundation and pushes flexibility through extensions that can change more often to meet more specific, and varied, user needs. When you are evaluating vendors for an extensible system, look for vendors that have demonstrated experience writing extensions.
+
+
+**KEY RECOMMENDATION**: Look at the products's installation and initial configuration documentation.  If this deployment documentation is missing, or is obviously incomplete, that is a warning sign about the entire product. When working with vendors, beware of those who try to steer you to their proprietary documentation for functionality that is part of the
+public product.
+
+**KEY RECOMMENDATIONS**: It's a good sign if an open source product has commercial support around it, such as consulting and development companies. If you are considering working with one of these vendors, you should find solid public evidence of their contributions and engagement. 
+
+**KEY RECOMMENDATION**: User support forums are useful resources in your evaluation. Don't hesistate to ask questions. 
+
+
+**KEY RECOMMENDATION**: Open source projects have lifecycles, and the maturity level of a project will generally dictate your ability to influence and level/type of investment needed. 
+
+
+A lot of open source is available as commercial-off-the-shelf solutions or as open source products that require little customization and integration. This modules outlines key points to consider in assessing such solutions for adoption suitability. 
+
 To evaluate an open source product for adoption, you need to look at
 it from several different perspectives:
 
 1. **Functionality.** Whether it has the functionality you need,
    either right now or plausibly planned on a roadmap (a roadmap that
-   you may, in some cases, decide to influence or help accelerate).
+   you may, in some cases, decide to influence or help accelerate). Does it provide Application Programming Interfaces (APIs)? Robust data portability? Is it extensible?
 
 2. **Technical quality.** This is just the technical quality of the
    implementation: how well did they do what they meant to do?  Is the
    software stable and reliable?  Will it scale to the number of users
-   you need?  Etc.
+   you need?  Does the project follow good security practices? 
 
 3. **Sustainability.** The long-term sustainability of the project: is
    there just one lone developer working in her spare time, or, at the
    other extreme, are there multiple companies paying developers to
-   collaborate on maintaining and extending the project?
+   collaborate on maintaining and extending the project? (See also the [Community and Ecosystem module](/unicef/publicgoods-toolkit/community) for more on this topic)
 
 4. **Responsiveness.** Historically, how responsive is the project to
    its users?  Do bug reports get processed in a timely fashion?  Are
@@ -28,16 +73,15 @@ it from several different perspectives:
    hire, and if so, are they constructively integrated into the
    project's development community?
 
-The sections that follow form a kind of checklist that you can use to
-evaluating an open source product for adoption as a DPG.  Each item in
-the checklist involves one or more of the above perspectives.
+The sections that follow elaborate on some of the areas above and form a kind of checklist that you can use to
+evaluating an open source product for adoption as a DPG.  
 
 Throughout this module we will sometimes use the word "product" and
 sometimes use the word "project".  They are closely related but
 emphasize different things.  The "product" is what you deploy and may
 also pay for: a packaged DPG, often accompanied by a support contract
 or at least by the potential availability of on-demand commercial
-support should you ever need it.  The "project", on the other Haydn, is
+support should you ever need it.  The "project", on the other hand, is
 the living software community, in which developers and organizations
 collaborate to produce the software that is the core of the product.
 
@@ -52,7 +96,7 @@ security.  Even the largest companies and the most careful, thorough
 government agencies still get hacked from time to time.  Adding a new
 software system to your existing portfolio only increases risk -- to
 use the language of computer security, you've expanded your "attack
-surface".
+surface."
 
 However, at the point when you are still evaluating a product, there
 are some steps you can take to lower that risk.  For the most part,
@@ -74,9 +118,9 @@ that distinction is important we will note it.
   until after the vulnerability is fixed and a new release of the
   product has been made.  (This means that such reports are not
   normal, publicly-posted bug tickets -- a rare exception to the rule
-  that information in an open source project is all publicly visible.)
+  that information in an open source project is all publicly visible.) A good example of a [clearly documented process is from the Fedora Project](https://fedoraproject.org/wiki/Security_Bugs), whose Fedora Linux is part of the DPG Resources collection. 
 
-  HOWTO: Look at the project's web site or documentation to see what
+  **KEY RECOMMENDATION**: Look at the project's web site or documentation to see what
   it says about reporting security vulnerabilities, and, if
   applicable, ask the vendor.
 
@@ -89,8 +133,8 @@ that distinction is important we will note it.
   increases the likelihood that the project is handling security
   vulnerabilities competently in general.
 
-  HOWTO: The way you would evaluate this is to look at the project's
-  release history and see if there are any security patch releases.
+  **KEY RECOMMENDATION**: Look at the project's
+  release history and see if there are any security patch releases, which would indicate that the project is handling security vulnerabilities at least at a base level of competency. 
 
 * Does the project acquire CVE numbers for security problems?
 
@@ -119,17 +163,17 @@ that distinction is important we will note it.
   very seriously, and therefore obtains CVE numbers even for small,
   trivial security problems that don't really put user data at risk.
 
-HOWTO: [Search the CVE
+**KEY RECOMMENDATION**: [Search the CVE
   list](https://cve.mitre.org/find/search_tips.html) to see how
   well-represented the product you're considering is in the CVE
   database.
 
-FURTHER READING: For a particularly clear exposition of how one large
+**FURTHER READING**: For a particularly clear exposition of how one large
   open source project uses CVE numbers, see
   [debian.org/security/cve-compatibility](https://www.debian.org/security/cve-compatibility)
   For a more detailed explanation of how CVE numbers are acquired,
   used, and evaluated, see
-  [producingoss.com/en/publicity.html#security](https://producingoss.com/en/publicity.html#security).
+  [producingoss.com/en/publicity.html#security](https://producingoss.com/en/publicity.html#security). [Mozilla's security web site](https://www.mozilla.org/en-US/security/) is another example of how a commercial company that fosters numerous open source projects communicates around security issues. 
 
 * Are the project's dependencies up-to-date?
 
@@ -139,6 +183,8 @@ FURTHER READING: For a particularly clear exposition of how one large
   capacity to browse the dependency (for the latest version of the
   project) see how up-to-date those dependencies are, that can shed
   some light on how highly the project prioritizes security concerns.
+
+  **KEY RECOMMENDATION**:Confirm that third-party dependencies are updated. 
 
 * Has the project had a professional security audit performed?
 
@@ -156,10 +202,12 @@ FURTHER READING: For a particularly clear exposition of how one large
   requests; typically, that would just be via their normal security
   reporting channels.
 
+  **KEY RECOMMENDATION**:See if any security audits are publicly available.  
+
 ## Stability and Reliability
 
 You can make a reasonably accurate estimate a product's stability and
-reliability by looking at two things:
+reliability by looking at three things:
 
 1) "The word on the street" -- that is, look at what people who
    already use that product are saying about it on the Internet.
@@ -180,7 +228,7 @@ to yours are posting their comments.  Standard web search engines will
 get you pretty far, and may be all you need.  You can also search
 directly in sites that focus on the system administrator audience; the
 best known of these is probably [Server
-Fault](https://serverfault.com/).
+Fault](https://serverfault.com).
 
 Regarding (2): If someone with even a little bit of technical
 knowledge spends about half an hour wandering through a project's bug
@@ -189,7 +237,7 @@ project suffers from stability and reliability problem.  Sort by date
 and focus on recent reports (e.g., from within the last one or two
 release cycles) -- it doesn't matter if the project formerly had
 stability issues, as long as they're fixed now, and anyway many
-projects had such issues when they were first getting started.
+projects have such issues when they were first getting started.
 (Remember that the number of tickets present in a project's bug tracker
 is proportional to the number of users the project has, not to the
 number of actual defects in the software.)
@@ -200,6 +248,8 @@ stability and reliability of the project.  Commercial support vendors
 have a very strong interest in the software's stability: unstable
 software costs them money, because it requires their staff to do more
 interrupt-driven work.
+
+**KEY RECOMMENDATION**: Looking through public reviews and a project's bug report database will give you an idea of a product's stability and reliability. The existence of vendors providing commercial support for the product is practically a guarantee that the product is as stable and reliable as possible. 
 
 ## Scalability and Deployment Investment
 
@@ -255,8 +305,8 @@ you will want to import into the system, even if you don't know at the
 time of the evaluation and procurement that that legacy data exists.
 And there are many reasons why you might be interested in exporting
 data even if you are not migrating away from the system to something
-else (see the section "Programmatic Control (APIs)" for more about
-these).
+else (see the section "Programmatic Control (APIs)" [Programmatic Control (APIs)](/unicef/publicgoods-toolkit/adoptability##Programmatic-Control-(APIs)) for more about
+these). Moreover, open projects must ensure they [support extraction or importation of non-PII data in a non-proprietary format](https://digitalpublicgoods.net/standard/) in order to qualify as a formal DPG, which circles back to the importance of [open standards](https://digitalpublicgoods.net/standard/), another essential part to the definition of a DPG.  
 
 Data portability is one area where vendors sometimes give unreliable
 information, or at least may quietly leave out certain exceptions and
@@ -278,7 +328,6 @@ Even if you have a vendor supporting you, you should also search the
 Internet and the project's forums for reports from others about
 importing and exporting the data formats that matter for you.
 
-[TODO: call out recommendation]
 
 ### Data Portability and Avoiding Vendor Lock-In 
 
@@ -291,17 +340,21 @@ will often want to deploy their own copy of the system, using a
 deployment configuration that they are accustomed to, and move your
 data from the old system to the new system.
 
+**KEY RECOMMENDATION**: Be sure to get a detailed understanding the product's ability to import/export data. Even if you have a vendor supporting you, search the
+Internet and the project's forums for reports from others about
+importing and exporting the data formats that matter to you. This will help you plan for needed resources and project scheduling as well as be better prepared should you need to switch vendor support at some point. 
+
+
 ## Programmatic Control (APIs)
 
 Interacting with a system programmatically means other programs
-issuing commands to the system, and being able to read/send data
+issuing commands to the system and being able to read/send data
 from/to it.
 
 It is unfortunate that such a key concept is hidden behind the
-technical acronym ``API''.  If you aren't already familiar with what
-APIs do, please take a moment to read the section "Appendix:
-Introduction to APIs for Non-Technical Readers" and then come back
-here.  (TBD: that reference needs to become a real reference)
+technical acronym 'API.'  If you aren't already familiar with what
+APIs do, please take a moment to read the Introduction to APIs for Non-Technical Readers section in the [Appendix](/unicef/publicgoods-toolkit/appendix-apis) as well as the example of Open Referral, also in the [Appedix](/unicef/publicgoods-toolkit/appendix-examples), then come back
+here. 
 
 Having a documented API as part of a service is very important.  APIs
 make many things possible.  The read-only side of an API enables
@@ -311,7 +364,7 @@ system's data in ways beyond what the regular user interface allows.
 If the data in the system matters at all, eventually someone will want
 to work with that data in a programmatic way, and the only way to do
 that effectively at scale is through an API.  (See also the section
-"Extensibility" (TBD: make that a real reference) for how APIs are
+"Extensibility" below (TBD: make that a real reference)[LINK] for how APIs are
 commonly used to develop extension modules.)
 
 In some cases, the API could be as simple as an "export" button,
@@ -344,6 +397,8 @@ there is some reasonable explanation for the omission, the lack of an
 API should be considered a serious point against enterprise-wide
 adoption of the system.
 
+**KEY RECOMMENDATION**: Having a documented API as part of a service is very important to supporting a full range of the functionality you'll likely need. Check documentation and search for examples on the Internet of people using that API to accomplish real-world tasks. Lack of published APIs isn't uncommon for early stage open source products, but this situation (or lack of a roadmap) is unacceptable for products intended to work with data at scale. 
+
 ## Extensibility
 
 Software system extensibility can come under many different names:
@@ -353,21 +408,20 @@ modules" are the most common, though sometimes "components" is
 
 All of these things refer to the same basic idea: the ability to
 extend the system's functionality by adding new code from the outside
-in certain well-defined ways (TBD: ref "APIs" above).  Sometimes a
+in certain well-defined ways (see [Programmatic Control (APIs)](/unicef/publicgoods-toolkit/adoptability#Programmatic-Control-(APIs)) above).  Sometimes a
 system is even extensible in more than one programming language,
 though often there is a primary supported language that most users
-prefer and that is supported best.
+prefer and that is supported best. A system based on a modular architecture (see [Procurement](/unicef/publicgoods-toolkit/procurement), with loosely coupled software components, is one that's more easily extensible. 
 
 Some well-known and widely-used open source systems owe much of their
-success and growth to being easily extensible in this fashion: for
-example, [WordPress](https://wordpress.org/),
+success and growth to being easily extensible in this fashion, for
+example: [WordPress](https://wordpress.org/),
 [Drupal](https://www.drupal.org/),
 [Django](https://www.djangoproject.com/),
 [MediaWiki](https://www.mediawiki.org/),
 [Firefox](https://www.mozilla.org/firefox/new/), and
 [Chromium](https://www.chromium.org/).  Extensibility has a long
-history and is not confined to open source software, however: for
-example, AutoCAD, a system for computer-aided drafting, has had an
+history and is not confined to open source software, however. AutoCAD, a system for computer-aided drafting, has had an
 extension language since the mid-1980s, and Microsoft's Visual Studio
 development environment has a rich extension community primarily
 writing extensions in the Visual Basic programming language.
@@ -404,9 +458,9 @@ prefer vendors that have demonstrated experience writing extensions,
 especially vendors who are well-represented in the public marketplace
 (if any exists) of extensions that may be used with the system.
 
-TBD: This could be a footnote, if we have footnotes:
+**KEY RECOMMENDATION**: An open source product's extensibility is often a sign of maturity, as it's developed enough to have a stable foundation and pushes flexibility through extensions that can change more often to meet more specific, and varied, user needs. When you are evaluating vendors for an extensible system, look for vendors that have demonstrated experience writing extensions.
 
-The peak of extensibility is when extensions are where most new
+(As a side note, the peak of extensibility is when extensions are where most new
 functionality is created.  Veteran software architect Jim Blandy
 writes, in the book "Beautiful Architecture" (O'Reilly Media, 2009),
 that "[there is a] question we can ask of any extension language we
@@ -414,20 +468,20 @@ encounter: is the extension language the preferred way to implement
 most new features for the application?"  When an application "places
 its extension language at the heart of its architecture, [that is] a
 strong argument that the language's relationship with the application
-has been designed properly."
+has been designed properly.")
 
 ## Documentation
 
 Most open source software systems come with at least some
 documentation -- that is, documentation that is officially maintained
-by the project itself, and published together with the software.  In
+by the project itself and published together with the software.  In
 many cases, there is also a wealth of scattered and heterogeneous
 third-party documentation: "HOWTO" blog posts, answers posted on sites
 like [Stack Overflow](https://stackoverflow.com/), etc.
 
 The best way to evaluate all this documentation is through a limited
 set of shallow, task-oriented queries.  Reading it all would be too
-time-consuming, and pointless, because much of the documentation may
+time-consuming and pointless, because much of the documentation may
 be about features you will never use.  Instead, pick a few questions
 that you can guess are likely to come up, and see how quickly you can
 find areas of documentation -- in both the official documentation and
@@ -451,11 +505,16 @@ focus on improving the project's documentation rather than maintaining
 a separate, non-open-source set of documentation that's just for their
 customers.
 
+TODO - relationship to https://digitalpublicgoods.net/standard/
+
+**KEY RECOMMENDATION**: Look at the products's installation and initial configuration documentation.  If this deployment documentation is missing, or is obviously incomplete, that is a warning sign about the entire product. When working with vendors, beware of those who try to steer you to their proprietary documentation for functionality that is part of the
+public product.
+
 ## Commercial Support Availability
 
 The existence of commercial support offerings for a system, ideally
 from multiple vendors, is something to look for in an evaluation.  The
-presence of commercial support means that someone else -- the vendor
+presence of commercial support means that someone else -- that vendor
 -- has *already* done an evaluation of the system and found it
 sufficiently useful and stable to invest money in training staff and
 creating a support offering.
@@ -482,6 +541,8 @@ If the project has a vendor listing page (see, for example,
 consulting](https://www.mediawiki.org/wiki/Professional_development_and_consulting)
 page), the vendor should be on that list.
 
+**KEY RECOMMENDATIONS**: It's a good sign if an open source product has commercial support around it, such as consulting and development companies. If you are considering working with one of these vendors, you should find solid public evidence of their contributions and engagement. 
+
 ## Non-Commercial Support Availability
 
 Open source projects often have quite responsive user support forums:
@@ -502,48 +563,66 @@ software in a setup similar to yours, and once you have found each
 other via the forum, you will be able to provide mutual support
 (hopefully still using the public forum!) from then on.
 
-## Internal Capacity Assessment
+**KEY RECOMMENDATION**: User support forums are useful resources in your evaluation. Don't hesistate to ask questions. 
 
-[TODO: Finish section] 
-
-When evaluating an open source project for adoption, it’s also imperative to consider your own team’s capacity and abilities. This section outlines the pragmatic, specific things you’ll need to leverage the open source project as intended as well as to follow through on many of our recommendations. In this way, it differs from the more generalized organizational readiness models referenced in the Open Source Readiness [LINK] module. 
-
-Want to build base of knowledge and a community of practice 
-
-https://digitalimpactalliance.org/5-things-digital-public-good-software-projects-need-to-scale/
-
-Seems like the following categories are likely and might be good for thinking through recommendations 
-
-Skills + capabilities - external relationships + partnerships (Mozilla as failure example with mobile OS), running audits; legal + regulatory compliance 
-Resources
-Culture
-Processes + policies - general org health things of course, like strategy formation, clear decision making, accountability etc 
-Tools -- https://todogroup.org/guides/management-tools/#why-you-need-special-tools-for-open-source-program-management
-Tech capacity 
-
-
-
-TBD: Plan for this section is to collect the relevant points from all
-the other sections and examine what specific internal capacities would
-be needed to take advantage of or implement the advice given in those
-points.  I'm leaving this basically blank for now because the mental
-"trawl mode" required to do that is very different from the "building
-structure and adding material" mode required for writing everything
-else.  I can't really mix those modes, so it's much more efficient to
-just come back and do this after the first draft of everything else is
-complete.  Note: Internal capacity might be most important considered
-in relation to the next section, "Influence, Participation, and
-Investment".
-
-## Influence, Participation, and Investment
+## Influence and Participation
 
 Procuring a DPG is very different from buying a physical good like a
 truck or a desk.  You do not, realistically, have much opportunity to
-influence the truck manufacturer, nor collaborate them to improve the
-trucks that will be coming to the market next year.  But with DPGs
+influence the truck manufacturer, nor collaborate with them to improve the
+trucks that will be coming to the market next year.  But with DPGs,
 that possibility very much exists, and this should be taken into
 account when evaluating both a particular DPG and your own current
-capacity for taking advantage of that opportunity.
+capacity for taking advantage of that opportunity (for more on the latter point, refer to the next section [Internal Capacity Assessment](/unicef/publicgoods-toolkit/adoptability##internal-capacity-assessment).
+
+The evaluative question being asked here is: "What
+routes does the project have for us to convert our own usage, and
+potentially some financial support, into useful inputs for the
+sustainability and direction of the project, thus gaining increased return on our
+own investment in choosing the product in the first place?"
+
+When you are first evaluating a DPG for initial deployment, this kind
+of long-term investment analysis is usually premature.  It is more
+appropriate to undertake it after you have already been using the DPG
+for some period of time and have some confidence that deeper
+investment is likely to pay off for your organization.
+
+Most often, routes for influence go through vendors.  Commercial vendors are often the
+organizations that have the greatest motivation to maintain a long-term
+contributor relationship with the project and that have the experience
+in the project's technical culture to know what goals can be
+accomplished in what periods of time.  This is why evaluating the
+vendor's relationship with the project (as discussed in [Commercial Support Availability](/unicef/publicgoods-toolkit/adoptability##commercial-support-availability as well as [Community](/unicef/publicgoods-toolkit/community) is so important:
+the vendor can influence the project on your behalf.
+
+It's also important to evaluate the project to make sure it has routes
+of influence available.  You can do this indirectly, by asking your
+vendor(s) to show where their past attempts to influence have been
+successful and how.  You can also do it directly, with a little more
+effort, by looking at the project's governance and at the discussions
+that lead to new features and roadmap decisions.  Although any form of
+open source project governance can, in principle, be amenable to
+influence, in practice projects that are run by committee are more
+reliably amenable to influence, because you have the possibility of
+being on that committee -- or, rather, of being represented on the
+committee by an existing member. Recall too that open source projects later in their lifecycle are often less open to influence, as they will generally prioritize stability. This is usually true for modular projects as well, although their exensibility does give you a path for influence (see [Community](/unicef/publicgoods-toolkit/community).
+
+Project governance documents
+are useful insofar as they describe the formal structure of how
+decisions are made.  However, the way decisions are made in practice
+can sometimes diverge from this official method: as long as everyone
+in the project is happy, there is no reason for anyone to cite the
+rule book -- thus gradual drift from the rules can happen.  As a
+newcomer evaluating the project, therefore, if you look only at the
+rule book you will only get part of the picture.  You have to also
+look at some of the conversations in the development forums and see
+how decisions are made in practice.  This knowledge, combined with
+input from your technical staff (if available) and vendors (if
+available) will allow you to make rough guesses about the possibility
+and usefulness of having long-term influence in the project and about
+what sort of commitment of resources that influence might require.
+
+**KEY RECOMMENDATION**: Open source projects have lifecycles, and the maturity level of a project will generally dictate your ability to influence and level/type of investment needed. 
 
 If your own staff has the technical expertise to participate directly
 in the DPG's development community, that is an investment that may be
@@ -570,53 +649,45 @@ technical way.  Presence in those forums is a good way to stay in
 touch with the project's currents and to develop expertise that can be
 very useful to have in-house, even if you also have a support vendor.)
 
-At a high level, the evaluative question being asked here is: "What
-routes does the project have for us to convert our own usage, and
-potentially some financial support, into useful inputs for the
-sustainability of the project, thus gaining increased return on our
-own investment in choosing the product in the first place?"
+## Internal Capacity Assessment
 
-Most often, those routes go through vendors.  The vendors are the
-organizations who have the greatest motivation to maintain a long-term
-contributor relationship with the project, and who have the experience
-in the project's technical culture to know what goals can be
-accomplished in what periods of time.  This is why evaluating the
-vendor's relationship with the project (as discussed in "Commercial
-Support Availability" TBD make that a real reference) is so important:
-the vendor can influence the project on your behalf.
 
-It's also important to evaluate the project to make sure it has routes
-of influence available.  You can do this indirectly, by asking your
-vendor(s) to show where their past attempts to influence have been
-successful and how.  You can also do it directly, with a little more
-effort, by looking at the project's governance, and at the discussions
-that lead to new features and roadmap decisions.  Although any form of
-open source project governance can, in principle, be amenable to
-influence, in practice projects that are run by committee are more
-reliably amenable to influence, because you have the possibility of
-being on that committee -- or, rather, of being represented on the
-committee by an existing member.
+TBD: Plan for this section is to collect the relevant points from all
+the other sections and examine what specific internal capacities would
+be needed to take advantage of or implement the advice given in those
+points.]
 
-Projects often document their governance publicly.  Those documents
-are useful insofar as they describe the formal structure of how
-decisions are made.  However, the way decisions are made in practice
-can sometimes diverge from this official method: as long as everyone
-in the project is happy, there is no reason for anyone to cite the
-rule book -- thus gradual drift from the rules can happen.  As a
-newcomer evaluating the project, therefore, if you look only at the
-rule book you will only get part of the picture.  You have to also
-look at some of the conversations in the development forums and see
-how decisions are made in practice.  This knowledge, combined with
-input from your technical staff (if available) and vendors (if
-available) will allow you to make rough guesses about the possibility
-and usefulness of having long-term influence in the project, and about
-what sort of commitment of resources that influence might require.
 
-When you are first evaluating a DPG for initial deployment, this kind
-of long-term investment analysis is usually premature.  It is more
-appropriate to undertake it after you have already been using the DPG
-for some period of time, and have some confidence that deeper
-investment is likely to pay off for your organization.
+(draft categories)
+
+-Skills + capabilities (personnel resources)
+--Want to build base of knowledge and a community of practice, open source skills in personnel  
+--https://producingoss.com/en/producingoss.html#funding-non-programming
+
+--Don't forget phasing of project and skills you might need at different times. investing for influence can build up over time. staffing and vendors + modular contracts, see Procurement, also thoughts on budget for ongoing maintenance and operations
+
+--external relationships + partnerships (Mozilla as failure example with mobile OS) are ideally run in-house
+
+--running privacy and security audits 
+
+--legal + regulatory compliance - specialized. don't surprise them https://producingoss.com/en/contracting.html#rfi-rfp-contract-language; [Everything a government attorney needs to know about open source software licensing](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/). The purpose of the document is to provide government legal counsel with a brief primer (not legal advice) on open source licenses.
+
+--resources to support scalability (see above section)
+
+- OSQA project roles, if don't have this internal should plan for this from vendor
+
+
+
+-Culture
+George quote:"You can tackle infrastructure, but the cultural issues are the harder ones." 
+appendix re: culture and coding in the open 
+
+-Processes + policies - general org health things of course, like strategy formation, clear decision making, accountability etc ; also eventually building open source related processes and policies. Templates to follow in license reviews, 
+
+-Tools -- this concern is more if you are creating an entirely new open source community. start w/ communicatoins tools, source code management, issue tracker. Point to existing resources here. OSQA related tools? https://producingoss.com/en/technical-infrastructure.html;  https://todogroup.org/guides/management-tools/#why-you-need-special-tools-for-open-source-program-management
+
+
+
 
 ## Landscape Analysis / Mapping Technical Capacity and Gaps
 
@@ -640,129 +711,6 @@ we'll wait until the module has been through some review and settles
 down a bit more before making this summarized checklist.  See also
 previous TBD note re "trawl mode".
 
-## Appendix: Introduction to APIs for Non-Technical Readers
-
-An "Application Programming Interface" (API) is essentially a
-*contract* -- an agreement between two computer programs, perhaps
-running on different machines across a network, about how they will
-exchange data.
-
-That may seem a bit abstract, so as an analogy let's use something
-concrete: electrical sockets.  You expect that when you plug a lamp
-into a wall socket, the plug and the socket will match each other in
-terms of size and shape, and that electricity will flow at a certain
-rate into the lamp so the light turns on.  You could say that when you
-plug in a lamp you invoke the "charge" functionality of the "socket"
-API.  Even though the manufacturers of the plug and socket are
-different organizations, you can be confident that when you buy a new
-lamp with a new plug you will still be able to plug it into your
-existing sockets.  This is because manufacturers have agreed on a
-standard way to work together.
-
-Creators of computer programs try to do the same thing, by documenting
-their APIs.  The documentation is crucial: it spells out what the
-agreement is.  When you travel to another part of the world, you bring
-an adapter to allow your plugs to fit into different sockets, because
-those sockets use a different API than the ones you're accustomed to.
-API documentation is what allows manufacturers to create all those
-different adapters that can translate from one API to another, so you
-can plug your lamp into a different kind of socket.  There is also
-documentation telling lamp makers in each country how to shape their
-plugs to receive electricity from the sockets.
-
-For a computer program, the plug and socket are exchanging
-information, not electricity, but the concept is similar.  The
-contract specifies that questions sent in an agreed-on format (plugs
-shaped a certain way) will receive answers also in an agreed-on format
-(electricity flowing safely).
-
-From here, it gets a bit more complex than lamp plugs and wall sockets,
-because the socket API is very simple: all the lamp can ask is "Please
-send electricity," to which the socket replies by doing so.  With a
-more complicated API, like those found in most computer programs, the
-conversation can go further than that.  For example, if one program
-sends this:
-
-      { MY_QUESTION, MY_RETURN_ADDRESS }
-
-then the other might respond with:
-
-      { FIRST_ANSWER, NUMBER_OF_REMAINING_ANSWERS, CONVERSATION_ID }
-
-(The `CONVERSATION_ID` is a unique number, generated by the responder,
-that allows it to track where it is in this conversation --- because
-it might be having similar conversations with many other programs
-simultaneously.)
-
-A response like the one above allows the asker to plan its next moves.
-If the number of remaining answers is 0, then the asker knows it is
-done: there is nothing more the responder can say in this conversation.
-
-If the number is greater than zero, the asker can examine the content
-of the first answer.  The asker can also, for example, consider how
-long it took for the first answer to come back and decide whether it
-wants to request the next answer in the series.
-
-If the asker does request the next answer, it might send something
-like this:
-
-    { PLEASE_SEND_NEXT_ANSWER, CONVERSATION_ID, MY_RETURN_ADDRESS }
-
-The responder, seeing the same `CONVERSATION_ID`, now knows to send
-the second answer in the series, because it remembers that the asker
-has already received the first answer.
-
-This is, of course, a simplified example of an API exchange.  Real
-APIs are more complex and are specified in much greater detail, but
-the basic idea is the same: programs ask each other questions using a
-restricted and very carefully defined language.  Human programmers
-learn these languages too, in order to write programs that can talk to
-each other.  Programmers are the people shaping the lamp plugs so that
-they can receive electricity from the wall socket, or building the
-adapter so that it can take electricity from one kind of socket to a
-non-matching plug.
-
-An API is the proper way, really the only way, to request a large
-amount of data from a service.  The programs that people work with in
-daily life have user interfaces -- i.e., they react to keyboard
-presses and mouse clicks, and display things on the screen.  But when
-one needs to request from a data server, say, 15,000 records that meet
-complicated criteria, it makes no sense to try to point, click, and
-type one's way repeatedly through the corresponding interface screens.
-A human's shoulder and wrists would give out long before the task were
-done, and besides, the physical speed at which a human can make those
-moves is far too slow to scale to that number of records.
-
-Instead, the way to fetch those 15,000 records is to have a program do
-it.  Therefore, most programs are designed to have a way to respond to
-other programs.  In fact, many programs work *only* this way, and
-don't have a user interface at all: their only interface is a
-programmatic interface -- an API.
-
-For example, while your web browser is a program that responds to key
-presses and mouse clicks coming from you, it translates them into API
-messages that travel over the network to a web site, and that web site
-is a computer running a program known as a "web server".  The web
-server *only* responds to API messages.  It has no user interface of
-its own.  When it receives a well-formed API message, it crafts a
-reply and sends that back over the network.  Your browser receives
-that reply and translates it into the appropriate human-visible
-browser action: draw a web page, or update a page element to indicate
-that that part of the page has been submitted, etc.
-
-(When a web server receives a non-well-formed API message, or is
-unable to comply with a request, it simply sends back an error message
-of some kind.  Your browser understands these error replies as well,
-and you have probably seen them displayed occasionally in place of the
-information you wanted.)
-
-A common phrase among programmers is that a program's API "wraps" that
-program's functionality and the data that the program has access to.
-You could get electricity from your wall socket without using a plug
-(without calling the API), but it would be difficult.  The API is the
-surface membrane that messages must negotiate their way through, in both
-directions, in order for someone to access the program's data and in
-order for responses to come back out in a predictable way.
 
 # Parking Lot
 
@@ -772,11 +720,6 @@ https://www.archesproject.org/wp-content/uploads/2018/01/guidelines_funding_OSS.
 
 http://wiki.civiccommons.org/Open_Source_Development_Guidelines/
 
-https://www.mediawiki.org/wiki/Professional_development_and_consulting
+https://www.mediawiki.org/wiki/Professional_development_and_consulting)
 
-The GeoNode report (already listed in resources.md).
 
-Bernard Golden of Navica's maturity model might be useful here.  It
-assesses software on a range of fronts.  It is not an organizational
-maturity model, but one for a specific development effort and product.
-https://timreview.ca/article/145

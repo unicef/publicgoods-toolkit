@@ -1,11 +1,27 @@
 # Open Source Readiness
 
+**KEY RECOMMENDATION**: Look for the places where your lack of open source
+  investment are causing problems that can be addressed by
+  small-scale, low-risk, experimental engagement.  Start there, being sure to label these experiments as skill-building exercises. Think about how you can engage your larger team or organization as you develop, making the learning relevant to their own needs and goals and bringing them along as allies. 
+
+  **KEY RECOMMENDATION**: Look for the places where your lack of open source
+  investment are causing problems that can be addressed by
+  small-scale, low-risk, experimental engagement.  Start there, being sure to label these experiments as skill-building exercises. Think about how you can engage your larger team or organization as you develop, making the learning relevant to their own needs and goals and bringing them along as allies. 
+
+  **KEY RECOMMENDATION**: If you've been tracking your team's growth in execution capabilities and bringing others along on your learning journey, you should have a good *shared* understanding of what skills, processes and policies you need to execute successfully, along with proof points of the value such investments will bring. (Remember that these skills can come from external vendors and the need to build local talent, as mentioned throughout this paper). This will help you present a strong recommendation to your organization's leadership and help you move from the Hype to Proficient stage in McAffer's readiness model.
+
+  **KEY RECOMMENDATION** At the organizational level, Open Source Program Offices can help teams work more effectively and efficiently in open source. As you move up the readiness ladder, consider if such a centralized operational function would help your organization to execute better. 
+
+  **KEY RECOMMENDATION**: Cost/benefit analyses and valuation frameworks are useful and necessary tools, but remember that they don’t capture the full value of open source investments. Be sure to include areas of 'adjacent value' when assessing the overall value of your DPG. These can be multipliers to your project's valuation.
+
 Open source is all about execution.  Reaping the benefits of open
 source investment requires completing a series of difficult steps
 ranging from designing an initial strategy to building an appropriate
 community to leveraging the resulting dynamics for strategic
-advantage.  Most government teams are not yet prepared to
-travel that path and reap those rewards at scale.  They lag in their ability to execute, largely because they don't have enough experience, particularly as compared to private industry. But governments can learn quickly from what's been tried and tested by others as they've built their organizational capacity to use open source development to its full potential.  
+advantage. This module presents a somewhat abstract but experiential based view of organizational readiness, including models to consider referencing, and practical advice for how to move your team along the path to masterful open source execution. The Adoptability module [LINK] delves more deeply into specific open source capabilities you'll need to effectively adopt or build an open source product. 
+
+Most government teams are not yet prepared to
+travel this capability path and reap those rewards at scale.  They lag in their ability to execute, largely because they don't have enough experience, particularly as compared to private industry. But governments can learn quickly from what's been tried and tested by others as they've built their organizational capacity to use open source development to its full potential.  
 
 As an agency starts to climb the learning curve, it can be helpful to assess current abilities as a form of organizational readiness and to describe the journey to
 mastery as one of gaining capability. To do that, we might locate current capabilities in a readiness model. These clarify where an agency is in its journey to mastery and 
@@ -98,7 +114,7 @@ relabel his "tolerance" phase as "experimentation".
 
 **KEY RECOMMENDATION**: Look for the places where your lack of open source
   investment are causing problems that can be addressed by
-  small-scale, low-risk, experimental engagement.  Start there, being sure to label these experiments as skill-building exercises. Think about how you can engage your larger team or organization as you develop, making the learning relevant to their own needs and goals and bringing them along as allies. 
+  small-scale, low-risk, experimental engagement (see Appendix for an example)[LINK].  Start there, being sure to label these experiments as skill-building exercises. Think about how you can engage your larger team or organization as you develop, making the learning relevant to their own needs and goals and bringing them along as allies. 
 
 Experiments come in many forms, but the most common first experiment
 is using some outside open source code and engaging the open source
@@ -151,7 +167,7 @@ policy is how that happens, and it requires management approval and
 resources.  Agencies that fail to provide this support from fairly
 high in the organization tend to level off at this level of readiness.
 
-**KEY RECOMMENDATION**: If you've been tracking your team's growth in execution capabilities and bringing others along on your learning journey, you should have a good *shared* understanding of what skills, processes and policies you need to execute successfully, along with proof points of the value such investments will bring. (Remember that these skills can come from external vendors and the need to build local talent, as mentioned throughout this paper). This will help you present  a strong recommendation to your organization's leadership and help you move from the Hype to Proficient stage in McAffer's readiness model.
+**KEY RECOMMENDATION**: If you've been tracking your team's growth in execution capabilities and bringing others along on your learning journey, you should have a good *shared* understanding of what skills, processes and policies you need to execute successfully, along with proof points of the value such investments will bring. (Remember that these skills can come from external vendors and the need to build local talent, as mentioned throughout this paper). This will help you present a strong recommendation to your organization's leadership and help you move from the Hype to Proficient stage in McAffer's readiness model.
 
 Another consideration for agencies climbing the readiness ladder is
 that the need for skilled open source practitioners will almost always
@@ -174,18 +190,21 @@ guidance for other agencies approaching open source. GSA's Code.gov has created 
 
 A final note on understanding and communicating the value of open source. Gaining a more sophisticated understanding of this value - and having that understanding more broadly shared across an organization - is both a prerequisite to and a marker of moving along these readiness models. 
 
-Ultimately, the value of your DPG will depend upon how well you’ve met your goals: a qualitative and quantitative assessment of the DPG’s positive impact on people’s lives. How you’ll measure that should have been established along with goal setting. But organizational decision makers will want to know the cost/benefit ratio of their investment and might also want to compare the approach taken with alternatives.
+Ultimately, the value of your DPG will depend upon how well you’ve met your goals: a qualitative and quantitative assessment of the DPG’s positive impact on people’s lives. Measuring social impact is complex, and how you’ll measure that should be established along with goal setting. Still, organizational decision makers will want to know the cost/benefit ratio of their investment and might also want to compare the approach taken with alternatives.
 
-There are tools out there that can help you make some determinations, and it’s likely that some combination of these will be needed. The Digital Impact Alliance publishes a great overview of five different ways of valuing the impact of ICT investments that includes guidance on which might be most fitting, depending on factors such as available resources, skills and data [A Valuing Impact Toolkit for ICT Investment](https://digitalimpactalliance.org/wp-content/uploads/2020/10/ICT4D-toolkit.pdf To get deeper into the cost assessment side, USAID has also published Software Global Goods Valuation Framework (with a Spreadsheet) to assess cumulative development costs by an analysis of retrospective and ongoing costs. Although aimed at digital health products, it fits other types as well. Perhaps most interesting to this model is its inclusion of a method for analyzing the cost of code, called Constructive Cost Model (COCOMO 81). 
+There are tools out there that can help you make some determinations, and it’s likely that some combination of these will be needed. The Digital Impact Alliance publishes a great overview of five different ways of valuing the impact of ICT investments that includes guidance on which might be most fitting, depending on factors such as available resources, skills and data [A Valuing Impact Toolkit for ICT Investment](https://digitalimpactalliance.org/wp-content/uploads/2020/10/ICT4D-toolkit.pdf) To get deeper into the cost assessment side, USAID has also published Software Global Goods Valuation Framework (with a Spreadsheet) to assess cumulative development costs by an analysis of retrospective and ongoing costs. Although aimed at digital health products, it fits other types as well. Perhaps most interesting to this model is its inclusion of a method for analyzing the cost of code, called Constructive Cost Model (COCOMO 81). 
 
 However, none of the models quantify and incorporate the value of what can sometimes be more intangible benefits of open source development very well, although their costs are generally captured in terms of FTE investment. 
 
-The World Bank’s [Open Data for Resilience Initiative & GeoNode:A Case Study in Institutional Investments in Open Source](https://opendri.org/wp-content/uploads/2017/03/OpenDRI-and-GeoNode-a-Case-Study-on-Institutional-Investments-in-Open-Source.pdf ) tries to address this gap. Although it’s hard to distill the approach taken in the paper into a formal framework, it can be described as paying attention to areas of adjacent value. This approach falls out pretty naturally from thinking of an open source project as part of an ecosystem. 
+For an example of how the World Bank measured the fiscal impact of Estonia's X-road(™) project (a post facto measure), see [Estonian e-Government
+Ecosystem: Foundation,
+Applications, Outcomes](https://thedocs.worldbank.org/en/doc/165711456838073531-0050022016/original/WDR16BPEstonianeGovecosystemVassil.pdf), which extrapolates a narrow view of fiscal value from the number of queries made to the system.
+
+The World Bank’s [Open Data for Resilience Initiative & GeoNode:A Case Study in Institutional Investments in Open Source](https://opendri.org/wp-content/uploads/2017/03/OpenDRI-and-GeoNode-a-Case-Study-on-Institutional-Investments-in-Open-Source.pdf ) also tries addresses valuation in a broader yet still effective way. Although it’s hard to distill the approach taken in the paper into a formal framework, it can be described as paying attention to areas of adjacent value. This approach falls out pretty naturally from thinking of an open source project as part of an ecosystem. 
 
 Looking only at the cost of writing code themselves versus the value received from sharing costs with partners, it’s estimated that the GeoNode project brought around a 200% return on investment (as of 2017). But the real value of open source development to Global Facility for Disaster Reduction and Recovery (GFDRR), the leading organization behind GeoNode, was the self-sustaining open source GeoNode community that emerged and the benefits that community continues to deliver. For example, a consortium of U.S. government agencies quickly picked up core development work -- valued at over $1 million USD -- which permitted GFDRR to tune its investments to features it specifically needed. Companies began providing commercial support, helping to grow further investment in GeoNode. A growing user base made it easier to identify and prioritize areas for improvement. These are several of many aspects of GeoNode's community and ecosystem that prove theres's greater value in open source than what's captured in these valuation frameworks.
 
 **KEY RECOMMENDATION**: Cost/benefit analyses and valuation frameworks are useful and necessary tools, but remember that they don’t capture the full value of open source investments. Be sure to include areas of 'adjacent value' when assessing the overall value of your DPG. These can be multipliers to your project's valuation.
-
 
 All of the above describes a path from the very beginning toward
 eventual mastery of open source.  Our discussion
