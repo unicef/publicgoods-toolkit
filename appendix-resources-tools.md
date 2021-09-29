@@ -2,42 +2,50 @@ Additional resources and tools are listed by topical module.
 
 ### **Introduction**
 
-[TODO: add a few resources for networking]
+[TODO: add a few resources for networking  -- hoping OTS can think of this quickly. Maybe think about this from a topic viewpoitn (open source, open data, AI)
 
-- Open Source
-- Data
-- AI Models 
-
-https://joinup.ec.europa.eu/collection/open-source-observatory-osor/about
+OECD policy-focused AI Policy Observatory https://www.oecd.ai/
+Open Data Handbook from the Open Knowledge Foundation  https://opendatahandbook.org/
+ as well as regional:
+Europe lists some, many useful globally too - https://joinup.ec.europa.eu/collection/open-source-observatory-osor/about
 Africa regions
 South America
 India 
 
-Although the above resources are also helpful for insights more at the implementation level, you might also start by connecting with your local university, especially if there's a computer science or data science program. Open source and open data are also heavily relied upon in other disciplines, like physics and public policy programs and business schools. You're also likely to find talent and support at any sort of commercial start-up accelerator or incubator, which if not physically local might still be accessible and helpful to you online.
+The [Open Source Initiative](https://opensource.org/community) is a good resource and hosts several mailing lists. 
 
-Collaborated with Mifos.org (foss volunteers) as well. We turn to the community for advice and contributions too.
-
-Academic institutions and their national and intl networks (https://digitalpublicgoods.net/blog/the-transformative-role-of-academia-digital-public-goods/)
+You might also start by connecting with your local university, especially if there's a computer science or data science program. Open source and open data are also heavily relied upon in other disciplines, like physics and public policy programs and business schools. [DHIS2's early focus on building academic and regional networks]( https://digitalpublicgoods.net/blog/the-transformative-role-of-academia-digital-public-goods/) is a great example here. Academic institutions are another source of useflu national and international networks. You're also likely to find talent and support at any sort of commercial start-up accelerator or incubator, which if not physically local might still be accessible and helpful to you online. 
 
 
-[Stack Overflow](https://stackoverflow.com) is often a fanastic resource for all things programming, data science and open source. 
-
-
-Benefits of Open Source
+**Benefits of Open Source**
 - The World Bank report [Open Source for Global Public Goods](https://openknowledge.worldbank.org/handle/10986/33401) (2019) provides an overview of the benefits of open source along with sensible operational advice, especially for resource-constrained environments, and a few case studies of Identification for Development (ID4D)  esp in resource-constrained environments. More on It reiterates many of the same points we note here, such the benefits of open APIs and a modular architecture. 
 
 - [Open Source Software Finds its Sweet Spot in the Public Sector](https://www.publicsectorexecutive.com/Public-sector-focus/open-source-software-finds-its-sweet-spot-in-the-public-sector-)
 
-General How-To Guides with Emphasis on Creating and Managing Your Own Open Source Project 
+General How-To Guides with Emphasis on Creating and Managing Your Own Open Source or Open Data Project 
 - The [Standard for Public Code](https://standard.publiccode.net), listed as a DPG itself, "gives public organizations a model for building their own open source solutions to enable successful future reuse by similar public organizations in other places. It includes guidance for policy makers, city administrators, developers and vendors."
 
 - [Federal Source Code Toolkit](https://github.com/GSA/code-gov-open-source-toolkit): This is a government-wide project facilitated by the Code.gov team to produce "how to" documentation pertaining to federal source code and open source software (OSS). It provides guidance to agencies for creating and maintaining federal source code inventories and open source repositories.
+
+- RedHat's [Guidebook for open source community management: The Open Source Way 2.0](https://www.redhat.com/en/blog/guidebook-open-source-community-management-open-source-way-20). The Mozilla Foundation also created an [Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/) that includes some useful tips on building contributor communities. 
+
+- Unfortunately, participants in online communities exhibit the same destructive behavior we see in the real world, and marginalized, vulnerable community members are most frequently targeted. Clear community participation guidelines can help fend off some of these behaviors, and their *enforcement* builds trust within a community. [Mozilla's Community Participation Guideline (CPG)]( https://www.mozilla.org/en-US/about/governance/policies/participation/) is a great model to consider copying for your own open source project. Mozilla's CPG is based on existing best practices and a good amount of hands-on experience and research into creating more inclusive contributor communities. Note that it includes a clear structure for reporting problematic community behavior and what to expect as part of this process. [Mozilla's 2020 analysis of its contributor communities](https://report.mozilla.community/assets/report/Mozilla-Rebel-Alliance-Report-2020.pdf) provides more insight into how to support diversity and inclusion. 
 
 https://producingoss.com/en/index.html
 
 https://opensource.guide/leadership-and-governance/
 
-https://www.newamerica.org/digital-impact-governance-initiative/reports/building-and-reusing-open-source-tools-government/ - maybe not include, repetitive 
+Crowdsourcing data collection -- particularly through volunteers -- can also require attention to community development and management (e.g. [Lacuna Fund's RFP requirements here](https://s31207.pcdn.co/wp-content/uploads/sites/11/2020/09/RFP-Language_23-Sept-1.pdf)). 
+
+The open source and open data project Common Voice [published a ['community playbook'](https://common-voice.github.io/community-playbook/)to foster new, independent communities to form around collecting voice data different languages. This guidance helps Mozilla track data collection around the globe and ensure high quality while letting local efforts grow without much centralized control. 
+
+However, don't be put off by the more thorough guides we cite above and feel encouraging and managing an open source project requires significant investment in community development and governance. Deep investment isn't necessary for every project type. For those where it makes sense, you should approach community development in phases and 'right size' investment to what's needed. For example, the DPG [AI Agro's machine learning algorithms](https://github.com/RentadroneCL/AI-Agro) are available on GitHub, with a simple overview of their project on  that makes it clear what they plan to work on, how to contribute, and how to join the community discussion on Discourse. If we had to peg this as an archetype, it's probably most akin to a Speciality Library. They're open to anyone participating, but they're likely to only attract those who have the skills and expertise to contribute and don't need to build for a broader audience. The DPG Primero created a [global inter-agency governance structure](https://www.unicef.org/evaluation/media/946/file/Primero.pdf) only when the platform had matured enough to merit such formalized oversight. 
+
+For those projects that would benefit from a community manager, note that a community manager's role can be more broadly defined to include adjacent work like documentation, running trainings, and managing key partners, as well as typical community management tasks like   . For an example, see a [recent job posting for a community managaer](https://www.kobotoolbox.org/join-our-team/project-community-engagement-coordinator.html) from the the team behind the Kobo Toolbox DPG (accessed Sept. 2021). 
+
+
+
+ 
 
 
 ### **COMMUNITY** 
@@ -58,7 +66,13 @@ There's a rich set of online materials about how to create and nurture a thrivin
 https://opensource.guide/building-community/
 producingoss
 
+https://www.contributor-covenant.org/
+
+The OpenSRP project publishes a very readable, straightforward [overview of how its governance, contribution process and community management work](https://smartregister.org/governance-structure/). 
+
 Regarding external financing of projects, the [Guidelines for Funding Open Source Software Development](https://www.archesproject.org/wp-content/uploads/2018/01/guidelines_funding_OSS.pdf]) was written with an audience of public and private foundations in mind and will give you a good sense of what many funders are likely to look for in a proposal that includes open source software development. Many of the points in these guidelines also show up in practical recommendations in this paper, but you might still benefit from glancing at this as you plan for your DPG. 
+
+Code of conduct - https://wiki.openmrs.org/display/RES/OpenMRS+Code+of+Conduct
 
 
 
@@ -83,7 +97,10 @@ A few **security questionnaires** we've come across that you might find useful a
 - [This security questionnaire](https://www.nj.gov/labor/assets/PDFs/rfq/SoNJ%20Third-Party%20Information%20Security%20Questionnaire%20v1.0.pdf) is from the state of New Jersey in the United States. It's extremely comprehensive and does reference local and national laws in the United States, yet it's still a useful model. 
 - [Google publishes several security questionnaires](https://vsaq-demo.withgoogle.com) that are also supported by an adaptable [interactive questionnaire application](https://github.com/google/vsaq)
 
-The [SAFETAG audit framework] (https://safetag.org) provides another template for security risk assessment that’s perhaps more ‘right sized’ for DPGs that are capacity limited. The framework outlines the steps SAFETAG would understake as part of a formal security audit. 
+The United States National Institute for Standards and Techology (NIST) publishes a [security testing technical guide](https://www.nist.gov/publications/technical-guide-information-security-testing-and-assessment) that gives an "overview of key elements of technical security testing and examination, with an emphasis on specific technical techniques, the benefits and limitations of each, and recommendations for their use."
+
+The [SAFETAG](https://safetag.org) is a security auditing framework and evaluation template aimed at advocacy groups that might be more ‘right sized’ for capacity limited DPGs.
+
 
 Lastly, some thoughts on **cultural and security considerations when coding in the open**. 
 

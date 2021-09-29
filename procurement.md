@@ -98,7 +98,7 @@ development not only possible but practically inevitable, and it
 rewards companies for participating in the open source projects they
 depend on the most. George Gelaga-King of Sierra Leone [TODO: is there a better title related to his project work? A name for this project?] described how his agency built an open, composable infrastructure platform that any ministry needing a data warehouse/analytics/visualization solution can plug into. Initial funding was to build this for a Geographical Informations Systems (GIS) application, but their modular approach means the investment is useful in other domains, thus amplifying the effect of the work and helping other ministries move more quickly on their own data-intensive projects.
 
-Time will tell, but the open source, open standards based modular approach might also make DPGs particularly attractive to funders, as one investment can reap a significantly compounded return as that module gets adapted and re-used. 
+Time will tell, but the open source, open standards based modular approach might also make DPGs particularly attractive to funders, as one investment can reap a significantly compounded return as that module gets adapted and re-used. OpenAPIs and a modular architecture can also help bring in funding for specific use cases, as was the case for DHIS2 and philanthropic funding for [integrating DHIS2 with Microsoft BI](https://wiki.digitalsquare.io/index.php/Digital_Square_Investments_in_Global_Goods#Notice_B_Investments) -- an activity led not by core DHIS2 members but by a non-profit organization and their commercial partner.
 
 **FURTHER READING**: For a good introduction to modular architecture,
   see this [blog post](https://medium.com/on-software-architecture/on-modular-architectures-53ec61f88ff4), which is the first in a two-part series. Another useful resource is this [blog post](https://blog.fedecarg.com/2008/06/28/a-modular-approach-to-web-development),
@@ -107,8 +107,7 @@ Time will tell, but the open source, open standards based modular approach might
 Generally speaking, though, government has lagged behind.  While
 governments have begun to embrace open source approaches, actual open
 source successes are much more rare in government than in the private
-sector.  There are a lot of [reasons why this is the case](https://producingoss.com/en/producingoss.html\#governments-and-open-source),
- but none of them is that open source
+sector.  There are a lot of [reasons why this is the case](https://producingoss.com/en/producingoss.html\#governments-and-open-source), but none of them is that open source
 is somehow unsuited for government use.  Rather, government has not
 yet spent a decade honing open source practices that take into account
 the particular needs of government software development.
@@ -226,6 +225,8 @@ enforce the technical boundaries that keep open source process
 functioning. Another approach to enforcing modular separation is
 through OSQA, described below.
 
+Should there be a significant set of particular local needs for your DPG, modular contracting (and a modular architecture) provides flexibility to accomodate customizations and better support local business and talent development. As an example, [UNICEF contracted with a commercial software develoment vendor](https://www.unicef.org/evaluation/media/946/file/Primero.pdf) to create the open source Primero platform. Deploying agencies can find their own vendors to design and build Primero forms and workflows, but if the project is complicated or the deploying agency is unable to source additional development and funds locally, UNICEF entered long-term agreements with four IT service providers to help.
+
 Finally, we note that modular contracting aligns perfectly with the [Open Contracting Data Standard DPG](https://standard.open-contracting.org/latest/en/).
 
 **KEY RECOMMENDATION**: Modular contracting can help to better connect the right vendor to the right task, break vendor lock-in and reduce risks associated with any one vendor. It works best with an agile development model and modular technical design.
@@ -276,7 +277,7 @@ case, it will need to operate a formal RFP process.  This section contains
 information on open source concerns that should be considered during
 that process but many points are also relevant in non-RFP requiring situations.
 
-First, it's essential to include the requirement for open source development and final product in the RFP stage. As George Gelaga-King [TITLE] noted, "You have to inject this into the RFP stage, rather than layer open source in later."
+First, it's essential to include the requirement for open source development and final product in the RFP stage. As George Gelaga-King [proper TITLE] noted, "You have to inject this into the RFP stage, rather than layer open source in later."
 
 A common pitfall in procurement is beginning an RFI and RFP
 process with high hopes for attracting vendors eager to provide agile,
@@ -299,7 +300,7 @@ government procurement systems.  Many open source development
 companies, especially smaller and less traditional ones, do not have
 procedures that let them discover open source opportunities at early
 stages.  If government is to succeed at open source, it needs to
-expand the pool of RFP respondents.
+expand the pool of RFP respondents. This might mean dropping requiring a vendor to have experience and references around past government projects. 
 
 **KEY RECOMMENDATION**: It is more important to attract bids from
   vendors who are experienced at open source development than to
@@ -324,7 +325,7 @@ vendors (in alignment with your agency's ethics and procurement rules).
 
 Second, it is important to be clear in describing project requirements
 and emphasizing the need for open source deliverables, process, and
-experience (see Open Source Quality Assurance below for more on this [LINK]).  The phrase "open source" applies in contexts other than
+experience (see Open Source Quality Assurance below for more on this [LINK]; text in the Appendix [LINK] can be copied as merited for the RFP as well).  The phrase "open source" applies in contexts other than
 software (e.g., open source intelligence), so be sure to spell out the
 full phrase "open source software" for vendors searching the web or
 databases for opportunities.  The types of vendors an agency hopes to

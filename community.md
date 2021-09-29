@@ -72,8 +72,6 @@ Even mission-driven participation is best understood as value-seeking
 
 ## Project Archetypes
 
-[TODO: consider adding more indepth analysis of two DPGs and ther models as examples and otherwise adding examples of non-DPGs for each]
-
 One of the most important skills for agencies exploring open source is
 understanding existing ecosystems and their project's place within
 them.  In order to plan a project that builds on or collaborates with
@@ -126,7 +124,7 @@ available.)
   The project intends large-scale collaboration and is willing to slow
   down certain aspects of development in order to scale up the number
   of contributors, increase the diversity of contribution sources, and
-  take more points of view into account.
+  take more points of view into account. An example would be the [Apache HTTP Server project](https://httpd.apache.org/). 
 
 * [Rocket Ship to Mars](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf#section*.10)
 
@@ -135,7 +133,7 @@ available.)
   can get on board the rocket ship, but right now the project is not
   looking for (and will not stop for) discussions about alternative
   roadmaps, unplanned features, or unsolicited goals.  This archetype
-  is often found in funded projects that are in their early stages.
+  is often found in funded projects that are in their early stages. An example might be the [Signal messaging application](https://signal.org/en/), along with the DPG [AIAgro](https://rentadrone.cl/developers/ai-agro/). 
 
 * [B2B Open Source](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf#section*.8)
 
@@ -143,33 +141,32 @@ available.)
   organization, and is aimed at users who are also commercial
   organizations.  The sponsoring organization may have a direct revnue
   interest in a product based on the project, or may have a strategic
-  interest (for example, undermining a competitor's product).
+  interest (for example, undermining a competitor's product). Google's [Android operating system](https://source.android.com/) is a great example here. 
 
 * [Specialty Library](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf#section*.15)
 
-  The project's goal is to provide a high-quality solution to narrow
+  The project's goal is to provide a high-quality solution to a narrow
   and specific problem.  Meaningful participation requires familiarity and expertise
-  with that problem and with the project's solution.
+  with that problem and with the project's solution. The [libmp4](https://sourceforge.net/projects/libmp4/) software library to handle MP4 files is an example. 
 
 * [Multi-Vendor Infrastructure](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf#section*.9)
 
   When a number of commercial organizations share a common need, it
   makes sense for them to pool their resources into one open source
   project that meets that need, rather than each one developing their
-  own separate but duplicative solution.
+  own separate but duplicative solution. For example:[Kubernetes](https://kubernetes.io/), an open-source system for automating deployment, scaling, and management of containerized applications. [X-Road's distributed data exchange](https://x-road.global/x-road-technology-overview) is a DPG example here. 
 
   (See [Spot The Pattern:
   Commoditization](https://blog.opentechstrategies.com/2019/10/commoditization/).)
 
 * [Mass Market](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf#section*.14)
 
-  An open source project aimed at very broad user adoption (for
-  example, Mozilla Firefox).  Mass Market projects often have
+  An open source project aimed at very broad user adoption.  Mass Market projects often have
   commercial sponsorship of some kind, and if they are successful they
   tend to have fairly elaborate mechanisms to help steer potential
   contributors to the right place -- because even a tiny fraction of
   the user base trying to file bug reports or send in improvements can
-  be overwhelming if you have millions of users.
+  be overwhelming if you have millions of users. The [LibreOffice](https://www.libreoffice.org/) open source office suite is an example here, as is [Mozilla's Firefox browser](https://www.mozilla.org/en-US/firefox/). 
 
 * [Upstream Dependency](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf#section*.17)
 
@@ -188,7 +185,7 @@ available.)
   advertise that expertise, to maintain it, and to provide leads on
   direct or indirect sources of revenue.  Interaction with these
   projects is sometimes equivalent to interaction with that particular
-  vendor.
+  vendor. The [Coral web site commenting and community building platform](https://coralproject.net/) is such an example, with Vox Media supporting the open source project and making money through hosting, training and implementation help. 
 
 * [Controlled Ecosystem](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf#section*.12)
 
@@ -201,7 +198,8 @@ available.)
   dominated by the founding company, the extensions market place has
   often served as an incubator for other vendors who provide support,
   so the presence of the dominant player does not usually imply a
-  monopoly on support availability.
+  monopoly on support availability. The open source [WordPress web site builder](https://wordpress.com/) is an example, where WordPress invests the most in developing the core platform but supports a range of indepdendent extension developers and professional services. You could categorize Estonia's DPG X-road (now managed by the Nordic Institute for Interoperability Solutions (NIIS)) here too, as it [supports extension development]() 
+  https://x-road.global/xroad-technology-partners-companies). The DPG [Primero](https://www.primero.org/) could also fit here. 
 
   Assessing software extensibility is also covered in the Adoptability module [LINK].
 
@@ -649,7 +647,10 @@ Social impact investment funds take varied shapes and can function like venture 
 A tax or a precentage of revenue from the sale of public assets, such as from bandwidth allocation, could fund DPGs. So could a tax on private development projects, like the [‘percent for art’ programs](https://en.unesco.org/creativity/policy-monitoring-platform/percent-art-scheme) that require private developers to allocate a certain percentage of the project’s budget to creating and maintaining public art. For some countries, creating a new tax on a company's IPO value could ensure capital gains help to pay for existing (and future) public infrastructure that created the conditions for the company's existence. 
  
 Direct crowdfunding and sponsorship might also be a viable financing option in some cases. GitHub recently launched [GitHub Sponsors](https://github.com/sponsors) to let individuals and companies donate directly to GitHub hosted open source projects. And there are surely other options we haven’t come across or considered here. 
+
+Lastly, charging for use might be an option as well. For example, the DPG [ODK](https://getodk.org/) is free as a self-hosted solution for offline data collection, but the organization also provides cloud-based hosting at different pricing tiers](https://getodk.org/#odk-cloud).
+
+
+The most important take-away is to think about your DPG’s financial sustainability from a project lifecycle viewpoint.  Early design and feasibility work might be funded through research grants to a partner academic institute. Seed funding might be at a low enough threshold for your agency to cover, as it was for GFDDR with GeoNode, or you might complement your investment in an external vendor with funding from a social impact investor. Philanthropic funds might help you pilot the project in particular locations, as was the case with the DHIS2, or for scaling, as was the case with [OpenSRP](https://wiki.digitalsquare.io/index.php/Digital_Square_Investments_in_Global_Goods#Notice_B_Investments) The DPG [Primero](https://www.primero.org/resources) is a collaborative effort across aid organizations and agencies that started with initial seed funding of $1.5 million from the United States Agency for International Development’s (USAID) Office of Foreign Disaster Assistance (OFDA) and the United States Center for Disease Control (CDC). [Ongoing platform development costs are funded by UNICEF, while countries fund the costs for customizing the platform to their specific requirements](https://www.unicef.org/evaluation/media/946/file/Primero.pdf).
  
-The most important take-away is to think about your DPG’s financial sustainability from a project lifecycle viewpoint.  Early design and feasibility work might be funded through research grants to a partner academic institute. Seed funding might be at a low enough threshold for your agency to cover, as it was for GFDDR with GeoNode, or you might complement your investment in an external vendor with funding from a social impact investor. Philanthropic funds might help you pilot the project in particular locations, as was the case with the DHIS2. 
- 
-**KEY RECOMMENDATION**: For you own DPG, consider how you might approach financial sustainability differently across the project's stages. Monolithic funding isn't necessarily the answer. The types and sources of available funding options might change as a project progresses.
+**KEY RECOMMENDATION**: Consider how you might approach financial sustainability differently across your DPG's project stages. Monolithic funding isn't necessarily the answer. The types and sources of available funding options might change as a project progresses. This is true for projects with relatively low funding needs as well. 

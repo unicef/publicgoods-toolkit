@@ -66,7 +66,7 @@ it from several different perspectives:
    its users?  Do bug reports get processed in a timely fashion?  Are
    contributions welcomed?  Is there a way to influence the roadmap?
    When security vulnerabilities arise, does the project handle them
-   promptly and competently?  Etc.
+   promptly and competently?  Are there community participation guidelines? Etc.
 
 5. **Support.** Is there up-to-date documentation?  Are there active
    user forums?  Are commercial support providers available for you to
@@ -191,18 +191,18 @@ that distinction is important we will note it.
   While it's not common for open source projects to have professional
   security audits conducted, because such audits are expensive.
   However, it happens sometimes, and when it does happen that's a very
-  good sign.  The results of the audit should be publicly available
+  good sign.  The results of the audit, which review security issues at a particular point in time, should be publicly available
   from the project's home site (after any important issues found by
   the audit have been fixed and released, of course).
 
   If you are seriously considering using a product for especially
   sensitive data, then you might commission a security audit if you
-  have the resources to do so, and offer to make the results available
+  have the resources to do so and offer to make the results available
   to the project.  You would send those results in however the project
   requests; typically, that would just be via their normal security
-  reporting channels.
+  reporting channels. [Security audits funded by Mozilla](https://wiki.mozilla.org/MOSS/Secure_Open_Source/Completed), such as for the open source Thunderbird email product, are publicly posted.
 
-  **KEY RECOMMENDATION**:See if any security audits are publicly available.  
+  **KEY RECOMMENDATION**: See if any security audits are publicly available.  
 
 ## Stability and Reliability
 
@@ -363,7 +363,7 @@ read-write side opens up the possibility of interacting with the
 system's data in ways beyond what the regular user interface allows.
 If the data in the system matters at all, eventually someone will want
 to work with that data in a programmatic way, and the only way to do
-that effectively at scale is through an API.  (See also the section
+that effectively at scale is through an API. As an example, the non-profit Population Services International (PSI) learned that many health ministries and other non-profits were  using DHIS2 with Microsoft PowerBI for data visualizations, but the process for moving data from DHIS into the popular PowerBI product was cumbersome. DHIS's well documented API enabled PSI to partner with BAO Systems to create [better connectivity to Microsoft PowerBI](https://community.dhis2.org/t/dhis2-to-powerbi-connector-is-ready-check-out-the-video-test-it-use-it-and-give-us-feedback/37043) (See also the section
 "Extensibility" below (TBD: make that a real reference)[LINK] for how APIs are
 commonly used to develop extension modules.)
 
@@ -474,7 +474,7 @@ has been designed properly.")
 
 Most open source software systems come with at least some
 documentation -- that is, documentation that is officially maintained
-by the project itself and published together with the software.  In
+by the project itself and published together with the software. Such documentation is actually a [DPG requirement](https://digitalpublicgoods.net/standard/). In
 many cases, there is also a wealth of scattered and heterogeneous
 third-party documentation: "HOWTO" blog posts, answers posted on sites
 like [Stack Overflow](https://stackoverflow.com/), etc.
