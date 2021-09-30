@@ -33,6 +33,19 @@ they choose to support Covid-positive users in sharing their status in
 a privacy-preserving way. **The [Linux Foundation Public Health](https://www.lfph.io/) managed
 an open and public security audit.**
 
+### SORMAS
+
+Developed by a consortium of German and Nigerian public health
+research institutions, [SORMAS](https://sormas.org/) is software for
+managing and controlling epidemic outbreaks.  It is used extensively
+in response to Ebola outbreaks in multiple countries.
+
+### VITAM
+
+[VITAM](https://www.programmevitam.fr/) is an open source project used
+throughout France by jurisdictions and private companies to manage
+archiving of government documents.
+
 ### Open Data and Standards: Open Referral API
 
 Every government struggles to connect individual citizens
