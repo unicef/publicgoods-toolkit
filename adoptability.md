@@ -76,6 +76,8 @@ it from several different perspectives:
 The sections that follow elaborate on some of the areas above and form a kind of checklist that you can use to
 evaluating an open source product for adoption as a DPG.  
 
+[TODO: do we want to say anything about software maturity models, or is that too in the weeds? Readers might be familiar with the Global Goods Maturity Model https://wiki.digitalsquare.io/index.php/Global_Goods_Maturity]
+
 Throughout this module we will sometimes use the word "product" and
 sometimes use the word "project".  They are closely related but
 emphasize different things.  The "product" is what you deploy and may
@@ -118,7 +120,7 @@ that distinction is important we will note it.
   until after the vulnerability is fixed and a new release of the
   product has been made.  (This means that such reports are not
   normal, publicly-posted bug tickets -- a rare exception to the rule
-  that information in an open source project is all publicly visible.) A good example of a [clearly documented process is from the Fedora Project](https://fedoraproject.org/wiki/Security_Bugs), whose Fedora Linux is part of the DPG Resources collection. 
+  that information in an open source project is all publicly visible.) A good example of a [clearly documented process is from the Fedora Project](https://fedoraproject.org/wiki/Security_Bugs), whose Fedora Linux is part of the DPG Resources collection. [Security vulnerability reporting]((https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=91554327) is usaully a very straightforward process, as the Finerac financial services DP. 
 
   **KEY RECOMMENDATION**: Look at the project's web site or documentation to see what
   it says about reporting security vulnerabilities, and, if
@@ -152,10 +154,10 @@ that distinction is important we will note it.
   problem, and a central place to go to find out more information.
 
   This may sound surprising, but if a project has a history of
-  obtaining CVE numbers for vulnerabilities, that's actually a *good*
+  obtaining CVE numbers for vulnerabilities, such as the DPG Apache Finerac (https://www.cvedetails.com/vulnerability-list/vendor_id-45/product_id-42731/Apache-Fineract.html), that's actually a *good*
   sign: it means the project is integrated into the wider community of
   global computer security response, and is following the standard
-  procedures.
+  procedures. 
 
   Note that if a project has many CVE numbers associated with it, that
   does not necessarily signify inattention to security problems.
@@ -263,7 +265,7 @@ For example, many systems typically come with a default
 ("out-of-the-box") configuration in which all parts of the system are
 installed on one server machine, because that way is simplest to
 maintain.  But if your intended usage needs to scale to millions of
-users, or to millions of some other kind of data item, then you will
+users (or to [1.25 billion citizens](https://media.un.org/en/asset/k17/k17a9bg6o8), as is the case with India's open source digital ID, Aadhaar), or to millions of some other kind of data item, then you will
 likely need a more complex configuration, with the database portion of
 the software running on one more more separate servers, various kinds
 of monitoring and automated health checks in place, etc.  Such
@@ -363,7 +365,7 @@ read-write side opens up the possibility of interacting with the
 system's data in ways beyond what the regular user interface allows.
 If the data in the system matters at all, eventually someone will want
 to work with that data in a programmatic way, and the only way to do
-that effectively at scale is through an API. As an example, the non-profit Population Services International (PSI) learned that many health ministries and other non-profits were  using DHIS2 with Microsoft PowerBI for data visualizations, but the process for moving data from DHIS into the popular PowerBI product was cumbersome. DHIS's well documented API enabled PSI to partner with BAO Systems to create [better connectivity to Microsoft PowerBI](https://community.dhis2.org/t/dhis2-to-powerbi-connector-is-ready-check-out-the-video-test-it-use-it-and-give-us-feedback/37043) (See also the section
+that effectively at scale is through an API. The non-profit Population Services International (PSI) learned that many health ministries and other non-profits were using DHIS2 with Microsoft PowerBI for data visualizations, but the process for moving data from DHIS into the popular PowerBI product was cumbersome. DHIS's well documented API enabled PSI to partner with BAO Systems to create [programmatic connectivity to Microsoft PowerBI](https://community.dhis2.org/t/dhis2-to-powerbi-connector-is-ready-check-out-the-video-test-it-use-it-and-give-us-feedback/37043) APIs from Finerac and Mifos X enabled those inclusive financial inclusion DPGs to scale to support numerous use cases -- from traditional banks to digital-first neo banks and wallet/payment providers -- from over 400 institutions in 40 countries.  (See also the section
 "Extensibility" below (TBD: make that a real reference)[LINK] for how APIs are
 commonly used to develop extension modules.)
 

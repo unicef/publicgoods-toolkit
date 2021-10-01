@@ -40,7 +40,17 @@ Vasil, Kristjan. Estonian e-Government Ecosystem: Foundation, Applications, Outc
 
 World Bank Group. Privacy By Design: Current Practices in Estonia, India, and Austria. Jun 1, 2020. id4africakhub.org/post/privacy-by-design-current-practices-in-estonia-india-and-austria 
 
+World Bank. 2019. Open Source for Global Public Goods. Identification for Development;. World Bank, Washington, DC. © World Bank. https://openknowledge.worldbank.org/handle/10986/33401 License: CC BY 3.0 IGO
+
+https://digitalpublicgoods.net/DPGA_Financial-Inclusion-DPG-Technical-Assessment.pdf
+
+https://media.un.org/en/asset/k17/k17a9bg6o8
+
+https://www.pdpc.gov.sg/help-and-resources/2021/01/asean-data-management-framework-and-model-contractual-clauses-on-cross-border-data-flows
+
 https://www.oecd.org/cfe/leed/SIBs-State-Play-Lessons-Final.pdf
+
+https://wwwnc.cdc.gov/eid/article/26/2/19-1139_article
 
 https://opendri.org/wp-content/uploads/2017/03/OpenDRI-and-GeoNode-a-Case-Study-on-Institutional-Investments-in-Open-Source.pdf
 
