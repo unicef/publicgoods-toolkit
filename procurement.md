@@ -64,7 +64,7 @@ modules at once, each with different end dates; specify work in sets that fit un
 
 
 
-This module describes how a modular contracting approach to procurement can help you manage vendors to create a successful DPG. It includes tips for open source related Requests for Proposals (RFPs) and creating good open source focused contracts with vendors. 
+This module describes how a modular contracting approach to procurement can help you manage vendors to create a successful DPG. It includes tips for open source related Requests for Proposals (RFPs) and creating good open source focused contracts with vendors. The Policy module [LINK] includes points around security and data protection in vendor contracts, with some example language in the Appendix. [LINK]
 
 Free and Open Source Software (FOSS) has rapidly become successful 
 in the commercial sector.  Few
@@ -528,7 +528,10 @@ dependency and lock-in.  By the time these failures are obvious to the
 procuring agency, the final product will struggle as it experiences
 all the complexity of modular contracting without the benefits.
 
-**KEY RECOMMENDATION**: Integrating Open Source Quality Assurance (OSQA) practices into procurement, vendor management and your own planning helps ensure vendors follow-through on the open source development *process* as well as the product. Bringing up OSQA requirements early in vendor engagement signals your seriousness about open source success and puts vendors on notice, which is particularly helpful when relying on vendors that don't have much open source experience. For a fuller description of what OSQA entails, please see a sample OSQA statement of work in the Appendix [LINK].
+The Bill and Melinda Gates Foundation recognizes the importance of OSQA to successful open source projects. To ensure that code contribution to the DPG Mojaloop runs smoothly and always prioritizes development of open-loop, pro-poor digital financial systems, they [funded a community manager](https://appdevelopermagazine.com/the-gates-foundation-chats-about-mojaloop).
+
+
+**KEY RECOMMENDATION**: Integrating Open Source Quality Assurance (OSQA) practices into procurement, vendor management and your own planning helps ensure vendors follow-through on the open source development *process* as well as the product. Bringing up OSQA requirements early in vendor engagement signals your seriousness about open source success and puts vendors on notice, which is particularly helpful when relying on vendors that don't have much open source experience. For a fuller description of what OSQA entails, please see a samplestatement of work that includes OSQA in the Appendix [LINK].
 
 There are a variety of OSQA techniques one can introduce.  OSQA "sits
 on the tree" and enforces standards at the pull request stage.  This
@@ -625,6 +628,12 @@ agency in evaluating contractor decisions and proposals.  Ultimately,
 learning by example is how well-functioning open source projects set
 norms, and as project development finds its rhythm, one can also
 expect less-experienced open source vendors to learn from the others.
+
+## Data Protection and Security 
+
+implements adequate measures for ensuring the integrity, confidentiality and availability of data to mitigate security risks.
+
+data service agreements
 
 
 ## Vendor Staffing

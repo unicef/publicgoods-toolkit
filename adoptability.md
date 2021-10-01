@@ -204,6 +204,8 @@ that distinction is important we will note it.
   requests; typically, that would just be via their normal security
   reporting channels. [Security audits funded by Mozilla](https://wiki.mozilla.org/MOSS/Secure_Open_Source/Completed), such as for the open source Thunderbird email product, are publicly posted.
 
+  If the product has been implemented broadly, you might find public audit documentation that's specific to individual implementations. These are likely to cover processes and policies, such as adherence to national regulation, as well as the software itself, but they're still useful resources. The National Audit Office of Estonia [recently audited X-Road](https://eurosai-it.org/news/newsletter/1-2021/updates-from-itwg-members/estonia-x-road-and-audit) and found that implementing agencies weren't adhering to some of the security policies we recommend in the Policy module [LINK] 
+
   **KEY RECOMMENDATION**: See if any security audits are publicly available.  
 
 ## Stability and Reliability
@@ -359,15 +361,16 @@ APIs do, please take a moment to read the Introduction to APIs for Non-Technical
 here. 
 
 Having a documented API as part of a service is very important.  APIs
-make many things possible.  The read-only side of an API enables
+make many things possible. The read-only side of an API enables
 sophisticated analytics, reports, and notifications, for example.  The
 read-write side opens up the possibility of interacting with the
 system's data in ways beyond what the regular user interface allows.
 If the data in the system matters at all, eventually someone will want
 to work with that data in a programmatic way, and the only way to do
-that effectively at scale is through an API. The non-profit Population Services International (PSI) learned that many health ministries and other non-profits were using DHIS2 with Microsoft PowerBI for data visualizations, but the process for moving data from DHIS into the popular PowerBI product was cumbersome. DHIS's well documented API enabled PSI to partner with BAO Systems to create [programmatic connectivity to Microsoft PowerBI](https://community.dhis2.org/t/dhis2-to-powerbi-connector-is-ready-check-out-the-video-test-it-use-it-and-give-us-feedback/37043) APIs from Finerac and Mifos X enabled those inclusive financial inclusion DPGs to scale to support numerous use cases -- from traditional banks to digital-first neo banks and wallet/payment providers -- from over 400 institutions in 40 countries.  (See also the section
-"Extensibility" below (TBD: make that a real reference)[LINK] for how APIs are
-commonly used to develop extension modules.)
+that effectively at scale -- meaning scale for volume or for application to new areas -- is through an API. 
+
+APIs from Finerac and Mifos X enabled those inclusive financial inclusion DPGs to scale to support numerous use cases -- from traditional banks to digital-first neo banks and wallet/payment providers -- from over 400 institutions in 40 countries.
+The non-profit Population Services International (PSI) learned that many health ministries and other non-profits were using DHIS2 with Microsoft PowerBI for data visualizations, but the process for moving data from the DPG DHIS2 into the popular PowerBI product was cumbersome. DHIS2's well documented API enabled PSI to partner with BAO Systems to create [programmatic connectivity to Microsoft PowerBI](https://community.dhis2.org/t/dhis2-to-powerbi-connector-is-ready-check-out-the-video-test-it-use-it-and-give-us-feedback/37043). The DPG [Avyantra](https://www.avyantra.com/) uses machine learning to improve diagnoses of infants affected by neonatal sepsis. Their application's modular approach and use of APIs make it more easily [extendable to diagnosis of other critical medical conditions in neonates, infants and children](https://digitalpublicgoods.net/registry/avyantra-health-technologies.html). The DPG DHIS2 is also being used in [new sectors like education and logistics](https://dhis2.org/education).
 
 In some cases, the API could be as simple as an "export" button,
 causing a spreadsheet to be downloaded (usually in CSV --
@@ -476,7 +479,7 @@ has been designed properly.")
 
 Most open source software systems come with at least some
 documentation -- that is, documentation that is officially maintained
-by the project itself and published together with the software. Such documentation is actually a [DPG requirement](https://digitalpublicgoods.net/standard/). In
+by the project itself and published together with the software. Such documentation is actually a [DPG requirement](https://digitalpublicgoods.net/standard; see [MOSIP](https://docs.mosip.io/platform/architecture/data-architecture) for a good documentation example). In
 many cases, there is also a wealth of scattered and heterogeneous
 third-party documentation: "HOWTO" blog posts, answers posted on sites
 like [Stack Overflow](https://stackoverflow.com/), etc.

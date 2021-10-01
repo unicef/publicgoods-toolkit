@@ -58,7 +58,7 @@ ecosystem of stakeholders do not directly contribute to a project,
 they help the project realize its value in the world. These stakeholders can include investors, NGOs, funders, end users, and even competing and adjacent efforts. They magnify
 the value of the investments made by direct participants.  And of
 course, the best place to recruit new community contributors is from
-that wider ecosystem.
+that wider ecosystem. 
 
 The import of all this value, investment, and mutual reliance is that
 successful DPG communities are usually built on mutual or collective benefit.
@@ -109,7 +109,7 @@ in your particular context, the more you will be able to look for
 patterns and practices in successful open source projects that operate
 in similar contexts.  
  
-For example, in evaluating an existing open source project, you wouldn’t expect a ‘rocket ship’ project to invest in supporting new contributors, while you’d want to select a code repository tool that’s most familiar to all participants if creating and fostering your own multi-vendor infrastructure project.  
+For example, in evaluating an existing open source project, you wouldn’t expect a ‘rocket ship’ project to invest in supporting new contributors, and you'd want to plan any contribution and participation accordingly, with personnel with some level of open source familiarity. Simlarly, if you're planning to create your own multi-vendor infrastructure project, you'd want to invest in good API documentation early on.
 
 A complete discussion of each archetype is available in Mozilla's
 report.  Below are just their names and brief descriptions, from which
@@ -124,7 +124,7 @@ available.)
   The project intends large-scale collaboration and is willing to slow
   down certain aspects of development in order to scale up the number
   of contributors, increase the diversity of contribution sources, and
-  take more points of view into account. An example would be the [Apache HTTP Server project](https://httpd.apache.org/). 
+  take more points of view into account. An example would be the [Apache HTTP Server project](https://httpd.apache.org/). The DPG [Apache Fineract](https://fineract.apache.org), which provides core financial services functionality for the world’s 2 billion underbanked and unbanked, might also fit here, or it could be viewed more as a controlled ecosystem (see below). Again, exact categorization isn't as important how the exercise gets you thinking about a project's likely dynamics and ecosystem and what this might mean for your efforts.
 
 * [Rocket Ship to Mars](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf#section*.10)
 
@@ -154,7 +154,7 @@ available.)
   When a number of commercial organizations share a common need, it
   makes sense for them to pool their resources into one open source
   project that meets that need, rather than each one developing their
-  own separate but duplicative solution. For example:[Kubernetes](https://kubernetes.io/), an open-source system for automating deployment, scaling, and management of containerized applications. [X-Road's distributed data exchange](https://x-road.global/x-road-technology-overview) is a DPG example here. 
+  own separate but duplicative solution. For example:[Kubernetes](https://kubernetes.io/), an open-source system for automating deployment, scaling, and management of containerized applications. [X-Road's distributed data exchange](https://x-road.global/x-road-technology-overview) is a DPG example here as well. 
 
   (See [Spot The Pattern:
   Commoditization](https://blog.opentechstrategies.com/2019/10/commoditization/).)
@@ -176,7 +176,7 @@ available.)
   to be somewhat informal, perhaps because the variety of projects
   that depend on them serves as its own kind of constraint on
   decision-making, thus reducing the need for highly structured
-  governance.
+  governance. 
 
 * [Trusted Vendor](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf#section*.16)
 
@@ -185,7 +185,7 @@ available.)
   advertise that expertise, to maintain it, and to provide leads on
   direct or indirect sources of revenue.  Interaction with these
   projects is sometimes equivalent to interaction with that particular
-  vendor. The [Coral web site commenting and community building platform](https://coralproject.net/) is such an example, with Vox Media supporting the open source project and making money through hosting, training and implementation help. 
+  vendor. The [Coral web site commenting and community building platform](https://coralproject.net/) is such an example, with Vox Media supporting the open source project and making money through hosting, training and implementation help. The [Osano open source cookie/consent management platform](https://github.com/osano/cookieconsent) could be categorized here. It's open to contribution but largely maintained by the parent B-corp company Osano, which also offers a paid hosted version. 
 
 * [Controlled Ecosystem](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf#section*.12)
 
@@ -200,14 +200,12 @@ available.)
   so the presence of the dominant player does not usually imply a
   monopoly on support availability. 
   
-  The open source [WordPress web site builder](https://wordpress.com/) is an example, where WordPress invests the most in developing the core platform but supports a range of indepdendent extension developers and professional services. Estonia's DPG X-road (now managed by the Nordic Institute for Interoperability Solutions (NIIS)) fits here, with its [support for extensions]() 
+  The open source [WordPress web site builder](https://wordpress.com/) is an example, where WordPress invests the most in developing the core platform but supports a range of indepdendent extension developers and professional services. The City of Paris' [Lutece](https://lutece.paris.fr/lutece/), an open source platform for municipal digital services, is a controlled ecosystem project that supports over 400 plugins created by cities and organizations accross the globe. Estonia's DPG X-road (now managed by the Nordic Institute for Interoperability Solutions (NIIS)) fits here, with its [support for extensions]() 
   https://x-road.global/xroad-technology-partners-companies), as does the DPG [Primero](https://www.primero.org).
   
-  The DPG [Apache Fineract](https://fineract.apache.org) provides core financial services functionality for the world’s 2 billion underbanked and unbanked. It's a good example of how a modular technical architecture (see Procurement)[LINK] lends itself to the controlled ecosystem archetype that encourages extension and customization around a core platform. It's also a good example of a thoughtfully phased approach to DPG development in which they've taken advantage of the existing global open source ecosystem. Fineract's back-end core banking functionality and open APIs were originally developed by the non-profit [Mifos](https://mifos.org) (Micro Finance Open Source) Initiative to encourage the growth of microfinance institutions. Once the core platform was stable, Mifos transferred the source code to the Apache Software Foundation, a non-profit organization that hosts and fosters open source products (the Apache HTTP server is probably its most well known product). This cooperative division of labor let the Apache organization focus on what is does best -- sustainable community development of enterprise-grade products, with a track record of attracting commercial contribution -- while Mifos could turn its attention to market-focused activities to reach the scale needed for global adoption. To do this, it created its own product built on top of Apache Fineract, called [Mifos X](https://mifos.org/mifos-x/flexible-product-configuration/), that's a complete 'off-the-shelf' solution, combining a web app (Mifos X Web App, formerly the Mifos Community App), a mobile app for field officers (Mifos Android), a mobile app for clients (Mifos Mobile), Pentaho-based reports and a data import tool. Each of the Mifos extensions are also [open source DPGs](https://digitalpublicgoods.net/registry/). See Commercial Participants [LINK]below for more insight into how Mifos is using the extensibility of their open approach to engaging commercial partners to expand their market and reach. 
+  The multi-faceted DPG Mifos is an interesting example of how a modular technical architecture (see Procurement)[LINK] can lend itself to having individual components run as quite different projects. It's also a good example of a thoughtfully phased approach to DPG development that's taken advantage of the existing global open source ecosystem. Fineract's back-end core banking functionality and open APIs were originally developed by the non-profit [Mifos](https://mifos.org) (Micro Finance Open Source) Initiative to encourage the growth of microfinance institutions. Once the open source core platform was stable, Mifos transferred the code to the Apache Software Foundation, a non-profit organization that hosts and fosters open source products (as noted above, the Apache HTTP server is probably its most well known product). This cooperative division of labor let Apache Finerac develop on its own path - hosted by Apache, which has a track record of building sustainable community development of enterprise-grade products -- while Mifos could turn its attention to more market-focused activities to reach the scale needed for global adoption. To do this, it created its own product built on top of Apache Fineract, called [Mifos X](https://mifos.org/mifos-x/flexible-product-configuration/), that's a complete 'off-the-shelf' solution, combining a web app (Mifos X Web App, formerly the Mifos Community App), a mobile app for field officers (Mifos Android), a mobile app for clients (Mifos Mobile), Pentaho-based reports and a data import tool. Each of the Mifos extensions are also [open source DPGs](https://digitalpublicgoods.net/registry/). In this way, Mifos X is more of a controlled ecosystem, with extensions and customization around a core platform. 
 
-  [TODO: is there more here to add that's useful insight? Did Mifos want to encourage forks as might be needed and so transferred to Apache so they could keep the Mifos brand clean? Did they think Apache could better support more commercial development and uptake, perhaps particularly in the west? Did they transfer funds to Apache as well?]
-
-  Assessing software extensibility is also covered in the Adoptability module [LINK].
+  See Commercial Participants [LINK]below for more insight into how Mifos's extensibility helps them engage commercial partners to expand their market and reach. Assessing software extensibility is also covered in the Adoptability module [LINK].
 
 * [Single Maintainer Houseplant](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf#section*.11)
 
@@ -306,7 +304,7 @@ long, so let's leave off for the moment and not go deeper than we
 need.  Note: Victor
 [suggests](https://github.com/unicef/publicgoods-toolkit/pull/12#discussion_r651325121)
 including a mapping/analysis of some existing DPGs to the archetypes.
-We can add that analysis after doing some interviews. From Susy -- we're not getting good insights from the interviews. I suggest we look at categorize two different DPGs as examples but otherwise link to some of the not-necessarily-fully-qualified-DPGs for the archetypes, as done in the original paper)
+We can add that analysis after doing some interviews.)
 
 ## Community Diversity
 
@@ -368,7 +366,7 @@ active open source project -- come ultimately from those users.
 
 Some of these details can be gleaned from an open source project's code repository. Unfortunately, the tools for analyzing metrics are complicated for decision makers without some technical know-how. The CHAOSS working group does provide open source software for running analytics on GitHub and GitLab, which are among most popular repository management services, as well as on issue tracking systems, but again, these take some know-how to use. 
 
-[SUSY NOTE: It looks like CHAOSS will also run analytics for requesters, but I don't think this is a very program and don't think we should recommend, but I wanted to point this out. UNICEF might want to mention plans for their own service]
+[SUSY NOTE: It looks like CHAOSS will also run analytics for requesters, but I don't think this is a very good/tried program and don't think we should recommend, but I wanted to point this out. UNICEF might want to mention plans for their own service]
 
 Still, even a novice can gain some useful insights by looking at activity over time in the bug tracker and the record of change, and this is often a fine enough way to roughly assess the health of a project community (and a note here that 'bugs' as referenced here are also known as 'issues'). 
 
@@ -558,13 +556,13 @@ business.
 
 Some DPG projects go even a step further.  As a way to spur further
 investment by commercial participants, they undertake to create
-commercial opportunities for participants.  Sometimes these
+commercial opportunities for participants. For example, the [DPG Mojaloop publishes a vetted list of consultants, systems integrators, training organizations, business operations supporters and other solution providers](https://mojaloop.io/mojaloop-business-directory), connecting them to new business opportunities, and [hosts training, networking, and business development events](https://mojaloop.io/category/events/). Sometimes these
 opportunities tend to reward more active project participants.  So
 long as these opportunities do not start to create monopolizable
 advantages, they can be effective ways to promote sustainability for
 some DPG efforts. A review of an open source project's governance documents, if available, can give you some additional sense of how well commercial engagement is steered towards the collective good. 
 
- The Mifos Initiative knew that engaging existing banking institutions -- and creating opportunities for new, innovative, local companies that could deliver the 'last mile' for financial inclusion -- was key to product adoption. A centralized, proprietary model could never support the innovation and scale needed to make their product useful and trusted across so many locales and domains. Open source made it easy for [*anyone*](https://mifos.org/impact/powered-by-mifos/) to deliver a new financial service product simply by developing a new extension, creating a new application or packaged solution on top of the Mifos infrastructure, or integrating Mifos with their own product. Mifos also invested early in developing [local IT partnerships](https://mifos.org/mifos-initiative/partner-led-ecosystem-2/) to help with implementating, hosting, and supporting Mifos X. Mifos further supports innovation and adoption with [community chapters](https://mifos.org/resources/community/mifos-chapters/), through which local citizen volunteers help their local communities to use and shape Mifos to their particular needs.  
+ The Mifos Initiative knew they not only had to engage existing banking institutions to drive product adoption, but they also had to create opportunities for new, innovative, local companies that could deliver the 'last mile' for financial inclusion. A centralized, proprietary model could never support the innovation and scale needed to make their product useful and trusted across so many locales and domains. Open source made it easy for [*anyone*](https://mifos.org/impact/powered-by-mifos/) to deliver a new financial service product simply by developing a new extension, creating a new application or packaged solution on top of the Mifos infrastructure, or by integrating Mifos with their own product. Mifos also invested early in developing [local IT partnerships](https://mifos.org/mifos-initiative/partner-led-ecosystem-2/) to help with implementating, hosting, and supporting Mifos X. Moreover, they turned users into active agents for innovation and adoption by establishing[community chapters](https://mifos.org/resources/community/mifos-chapters/). These local volunteer organizations help communities use and shape Mifos to their particular needs, and they provide feedback to the main project (see the Appendix[LINK] for how Mozilla supports a much less centralized volunteer community around the Common Voice open data project).
 
 
 **KEY RECOMMENDATION**: Encouraging commercial participation can be useful to a DPG's adoption and sustainability, but take care to foster diverse commercial actors and be wary of creating commerical opportunities that could permit unfair advantage.  
@@ -603,9 +601,9 @@ this point, the project may value stability relatively highly.  If the
 DPG needs further work to be useful for a certain purpose, then that
 work may have to happen outside the current project community. 
 
-In this instance, some community members might decide to make what's known as a 'hard fork' (or 'social fork') of the project. This entails copying the source code and creating a separate open source project that's able to develop in a new direction -- an action that's entirely impossible under a non-open source code license. A well known example of a hard fork would be the creation of LibreOffice from the OpenOffice code base, which was a mass market type project sponsored by Sun Microsystems. When Oracle acquired Sun Microsystems in 2010, it was clear to OpenOffice participants that OpenOffice's competitive alternative to Microsoft Office wasn't important to Oracle's business strategy and continued investment, so they created a successful hard fork of OpenOffice and launched a new open source product and community called [LibreOffice](https://www.libreoffice.org/). Another is the Mifos X platform described above. 
+In this instance, some community members might decide to make what's known as a 'hard fork' (or 'social fork') of the project. This entails copying the source code and creating a separate open source project that's able to develop in a new direction -- an action that's entirely impossible under a non-open source code license. A well known example of a hard fork would be the creation of LibreOffice from the OpenOffice code base, which was a mass market type open source project sponsored by Sun Microsystems. When Oracle acquired Sun Microsystems in 2010, it was clear to OpenOffice participants that OpenOffice's competitive alternative to Microsoft Office wasn't important to Oracle's business and would thus likely run into problems, so they created a successful hard fork of OpenOffice and launched a new open source product and community around it called [LibreOffice](https://www.libreoffice.org/). Another hard fork is the Mifos X platform described above, although that decision was based on sound business strategy and planning.
 
-However, hard forks aren't always successful. They're costly in terms of user confusion, potential legal wrangling over trademarks, and in-house and community resources, and they can harm community goodwill too.  Forking a project to meet your needs should always be a [last resort](https://producingoss.com/en/forks.html). However, agencies should be aware that this is an option for open source projects that are at a stage of maturity in which the community has made it clear that stability is more important than new features. In these instances, if there is no other alternative project that suits an agency's needs, it might be reasonable to consider a hard fork, and you might find the project's community supportive of your new direction.  
+However, hard forks aren't always successful. They can be costly in terms of user confusion, potential legal wrangling over trademarks, and in-house and community resources, and they can harm community goodwill too.  Forking a project to meet your needs should always be a [last resort](https://producingoss.com/en/forks.html). However, agencies should be aware that this is an option for open source projects that are at a stage of maturity in which the community has made it clear that stability is more important than new features. In these instances, if there is no other alternative project that suits an agency's needs, it might be reasonable to consider a hard fork, and you might find the project's community supportive of your new direction.  
 
 **KEY RECOMMENDATION**: A 'hard fork' of a project to meet your needs should always be a last resort. Such an action might be appropriate for a mature open source product in which there is community understanding of and support for your new direction, but this is a costly and fraught thing to do and would require thorough planning and much foresight.  
 
@@ -633,7 +631,7 @@ signal of investment, become more willing themselves to invest.
 
 More specific recommendations around lifecycle and maturity in assessing a project's adoptability are covered in the Adoptability module. [LINK]
  
-A final note on sustainability. As noted, health -- and thus sustainability -- really depends on whether a project is genuinely meeting the needs of its stakeholders, if it’s thoughtfully set up to be responsive to changing needs, and if a well diversified set of stakeholders is engaged and contributing. In many project types, stakeholders should probably include a varied set of commercial actors.
+A final note on sustainability. As noted, health -- and thus sustainability -- depends on whether a project is genuinely meeting the needs of its stakeholders, if it’s thoughtfully set up to be responsive to changing needs, and if a well diversified set of stakeholders is engaged and contributing. In many project types, stakeholders should probably include a varied set of commercial actors.
  
 There’s also a related question of how DPGs can attract ongoing financial investments, what novel options are out there, and how these might be applied to the underresourced area of maintenance. 
  
@@ -657,10 +655,9 @@ A tax or a precentage of revenue from the sale of public assets, such as from ba
  
 Direct crowdfunding and sponsorship might also be a viable financing option in some cases. GitHub recently launched [GitHub Sponsors](https://github.com/sponsors) to let individuals and companies donate directly to GitHub hosted open source projects. And there are surely other options we haven’t come across or considered here. 
 
-Lastly, charging for use might be an option as well. For example, the DPG [ODK](https://getodk.org/) is free as a self-hosted solution for offline data collection, but the organization also provides cloud-based hosting at different pricing tiers](https://getodk.org/#odk-cloud). Infrastructural components of some DPGs might lend themselves to a revenue-generating model for commercial implementations to support free non-commercial implementations. 
+Lastly, charging for use might be an option as well. For example, the DPG [ODK](https://getodk.org/) is free as a self-hosted solution for offline data collection, but the organization also provides cloud-based hosting at different pricing tiers](https://getodk.org/#odk-cloud). Infrastructural components of some DPGs might lend themselves to a revenue-generating model for commercial implementations to support free non-commercial implementations. The DPG [Project AEDES](https://aedesproject.org/), a portal that predicts dengue hotspots from climate, search and satellite data, plans to [create a social enterprise around the dengue prediction service](https://digitalpublicgoods.net/registry/project-aedes.html). The predication can be generalized by incorporating other risk frameworks. The new social enterprise would offer subscriptions to the insights. 
 
-
-The most important take-away is to think about your DPG’s financial sustainability from a project lifecycle viewpoint.  Early design and feasibility work might be funded through research grants to a partner academic institute. Seed funding might be at a low enough threshold for your agency to cover, as it was for GFDDR with GeoNode, or you might complement your investment in an external vendor with funding from a social impact investor. Philanthropic funds might help you pilot the project in particular locations, as was the case with the DHIS2, or for scaling, as was the case with [OpenSRP](https://wiki.digitalsquare.io/index.php/Digital_Square_Investments_in_Global_Goods#Notice_B_Investments) The DPG [Primero](https://www.primero.org/resources) is a collaborative effort across aid organizations and agencies that started with initial seed funding of $1.5 million from the United States Agency for International Development’s (USAID) Office of Foreign Disaster Assistance (OFDA) and the United States Center for Disease Control (CDC). [Ongoing platform development costs are funded by UNICEF, while countries fund the costs for customizing the platform to their specific requirements](https://www.unicef.org/evaluation/media/946/file/Primero.pdf).
+The most important take-away is to think about your DPG’s financial sustainability from a project lifecycle viewpoint.  Early design and feasibility work might be funded through research grants to a partner academic institute. Seed funding might be at a low enough threshold for your agency to cover, as it was for GFDDR with GeoNode, or you might complement your investment in an external vendor with funding from a social impact investor. Philanthropic funds might help you pilot the project in particular locations, as was the case with the DHIS2, or for scaling, as was the case with [OpenSRP](https://wiki.digitalsquare.io/index.php/Digital_Square_Investments_in_Global_Goods#Notice_B_Investments), or for capacity, as was the case with the Bill and Melinda Gates Foundation [funding a community manager for the DPG Mojaloop](https://appdevelopermagazine.com/the-gates-foundation-chats-about-mojaloop). The DPG [Primero](https://www.primero.org/resources) is a collaborative effort across aid organizations and agencies that started with initial seed funding of $1.5 million from the United States Agency for International Development’s (USAID) Office of Foreign Disaster Assistance (OFDA) and the United States Center for Disease Control (CDC). [Ongoing platform development costs are funded by UNICEF, while countries fund the costs for customizing the platform to their specific requirements](https://www.unicef.org/evaluation/media/946/file/Primero.pdf). Training and ongoing maintenance costs might be linked with existing investments or new grants to local academic institutions to improve digital skills and build the local workforce. 
 
 [NOTE that Mifos has an ROI evaluation framework and .xlsx that seems like it should be promising to look at, but it's not publicly accessible despite the link. https://mifos.org/blog/documenting-technology-impact-mifos-roi-model-case-studies/]
  

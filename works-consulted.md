@@ -42,13 +42,23 @@ World Bank Group. Privacy By Design: Current Practices in Estonia, India, and Au
 
 World Bank. 2019. Open Source for Global Public Goods. Identification for Development;. World Bank, Washington, DC. © World Bank. https://openknowledge.worldbank.org/handle/10986/33401 License: CC BY 3.0 IGO
 
+[interview notes]
+
 https://digitalpublicgoods.net/DPGA_Financial-Inclusion-DPG-Technical-Assessment.pdf
 
+https://pdf.usaid.gov/pdf_docs/PA00WRTP.pdf
+
+https://opendatatoolkit.worldbank.org/docs/odra/odra_sierra_leone.pdf
+
 https://media.un.org/en/asset/k17/k17a9bg6o8
+
+https://appdevelopermagazine.com/the-gates-foundation-chats-about-mojaloop/
 
 https://www.pdpc.gov.sg/help-and-resources/2021/01/asean-data-management-framework-and-model-contractual-clauses-on-cross-border-data-flows
 
 https://www.oecd.org/cfe/leed/SIBs-State-Play-Lessons-Final.pdf
+
+https://www.r4d.org/wp-content/uploads/R4D_OG-SierraLeone-CS_web.pdf
 
 https://wwwnc.cdc.gov/eid/article/26/2/19-1139_article
 
@@ -111,7 +121,7 @@ https://www.linuxfoundation.org/resources/open-source-guides/creating-an-open-so
 Ecosystem: Foundation,
 Applications, Outcomes](https://thedocs.worldbank.org/en/doc/165711456838073531-0050022016/original/WDR16BPEstonianeGovecosystemVassil.pdf
 
-
+https://thecaseforher.medium.com/meet-oky-14207f86892
 
 [Jeff McAffer's Engagement Model](https://mcaffer.com/2019/02/Open-source-engagement)
  
