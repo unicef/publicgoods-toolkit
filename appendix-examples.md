@@ -1,5 +1,19 @@
 # Appendix: Examples
 
+Aadhar (https://uidai.gov.in/) 12-digit unique identification (UID)- no need for physical card. It is the largest biometric digital database covering more than 1.25 billion residents, including more than 99% of the adults in India. This enables targeted delivery of subsidies and benefits. And the total benefits that have been delivered directly to the bank accounts of beneficiaries now total around 200 billion us dollars. And these help us effect savings that are estimated at more than 23 billion us dollars. 
+
+enhancing inclusion, transparency and efficiency in the services that are provided by the government to the citizens. The technology is that also helping us give shape to ecosystems in every domain that can help private companies and startups to innovate and provide the increasing spectrum of services for citizens and businesses. As a global leader in the recent years, India has adopted some transformative policies and programs. 
+
+JAM (short for Jan Dhan-Aadhaar-Mobile) trinity refers to the government of India initiative to link Jan Dhan accounts, mobile numbers and Aadhaar cards of Indians to plug the leakages of government subsidies
+combination has helped us take services, access to services and benefits directly to the bank accounts of almost all Indians, including those that reside in some of the most remote parts of the country. Saved immense public resources
+
+
+
+Unified Payments Interface - low cost fund transfers all mobile. 5 years since launch, ecosystem has eclipsed all credit and debit card payments ecosystem. w/3 months - lists some stats supporting growth and volume of use 
+
+Covid app - registration mgmt appts, vaccination certification. Integrate all covid vacc services into one public facing app. 874m vaccinations reported through app. Instant vacc certifications. 25m in one day! Pm has made this available to anyone 
+
+
 
 ### Open Data and Standards: Open Referral API
 
@@ -96,6 +110,7 @@ the same core requirements in every state.  Whenever that circumstance
 exists (and it exist quite often), there is an opportunity to develop
 an open source approach that eases the path to compliance for all
 states.
+
 
 ### Open Source and Collaboration : Canada’s Covid Exposure Notifications Mobile App
 

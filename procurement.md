@@ -528,7 +528,7 @@ dependency and lock-in.  By the time these failures are obvious to the
 procuring agency, the final product will struggle as it experiences
 all the complexity of modular contracting without the benefits.
 
-The Bill and Melinda Gates Foundation recognizes the importance of OSQA to successful open source projects. To ensure that code contribution to the DPG Mojaloop runs smoothly and always prioritizes development of open-loop, pro-poor digital financial systems, they [funded a community manager](https://appdevelopermagazine.com/the-gates-foundation-chats-about-mojaloop).
+The Bill and Melinda Gates Foundation recognizes the importance of OSQA to successful open source projects. To ensure that code contribution to the DPG Mojaloop runs smoothly and always prioritizes development of open-loop, pro-poor digital financial systems, they [gave funding for a community manager role](https://appdevelopermagazine.com/the-gates-foundation-chats-about-mojaloop).
 
 
 **KEY RECOMMENDATION**: Integrating Open Source Quality Assurance (OSQA) practices into procurement, vendor management and your own planning helps ensure vendors follow-through on the open source development *process* as well as the product. Bringing up OSQA requirements early in vendor engagement signals your seriousness about open source success and puts vendors on notice, which is particularly helpful when relying on vendors that don't have much open source experience. For a fuller description of what OSQA entails, please see a samplestatement of work that includes OSQA in the Appendix [LINK].

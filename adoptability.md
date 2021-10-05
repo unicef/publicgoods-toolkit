@@ -510,8 +510,6 @@ focus on improving the project's documentation rather than maintaining
 a separate, non-open-source set of documentation that's just for their
 customers.
 
-TODO - relationship to https://digitalpublicgoods.net/standard/
-
 **KEY RECOMMENDATION**: Look at the products's installation and initial configuration documentation.  If this deployment documentation is missing, or is obviously incomplete, that is a warning sign about the entire product. When working with vendors, beware of those who try to steer you to their proprietary documentation for functionality that is part of the
 public product.
 
@@ -542,9 +540,7 @@ public resources, primarily the code repository, the bug tracker, and
 the discussion/support forums.
 
 If the project has a vendor listing page (see, for example,
-[MediaWiki's Professional development and
-consulting](https://www.mediawiki.org/wiki/Professional_development_and_consulting)
-page), the vendor should be on that list.
+[Mojaloop's business directory](https://mojaloop.io/business-directory/), the vendor should be on that list.
 
 **KEY RECOMMENDATIONS**: It's a good sign if an open source product has commercial support around it, such as consulting and development companies. If you are considering working with one of these vendors, you should find solid public evidence of their contributions and engagement. 
 
@@ -552,7 +548,7 @@ page), the vendor should be on that list.
 
 Open source projects often have quite responsive user support forums:
 places where anyone who has deployed or who uses the software can ask
-a question and get answers from experienced users.  The people who are
+a question and get answers from experienced users (e.g. Apache HTTP Server user forum(https://httpd.apache.org/lists.html#http-users)). The people who are
 subscribed to these forums are there for a variety of reasons.
 Sometimes they are there because they make heavy use of the software
 and want to gain as much information as they can from other users (but
@@ -567,6 +563,8 @@ response may come much later, from someone who is deploying the
 software in a setup similar to yours, and once you have found each
 other via the forum, you will be able to provide mutual support
 (hopefully still using the public forum!) from then on.
+
+[TODO: Maybe a note here about using open forums! It looks like Mifos moved from https://discourse.mifos.org to Slack? Or this is a good point for OSQA section. Apache Finerac's all seemed old, 2018]. Mojaloop also seemed pretty thin.]
 
 **KEY RECOMMENDATION**: User support forums are useful resources in your evaluation. Don't hesistate to ask questions. 
 
