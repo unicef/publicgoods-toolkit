@@ -1,5 +1,5 @@
 # Interview with Kari Moe - NORAD 
-**** Role of NORAD United Nations Development Program (UNDP) and its Chief Digital Office.
+**** Role of NORAD, United Nations Development Program (UNDP) and its Chief Digital Office.
      Funding DPGs.
 
      Have supported DPGs for a number of years, dating back to 1990s
@@ -45,7 +45,7 @@
       open source but inspired by Adhaar.
 
       Very new -- established in 2018
-      pilots in morocco and philippines, and others in pipeline
+      pilots in Morocco and Philippines, and others in pipeline
       lots of interest grew during covid pandemic
       receiving a lot more interest now
 
@@ -64,7 +64,7 @@
       e.g., main weather forecasting model used by meteorological inst
       there, used around the world, and happens to be openly licensed.
       So plenty of DPGs just happen.
-***** OpenMLIS
+***** OpenLMIS
       Just knows it by name, doesn't know much about it.
 ***** Global Digital Library
       NORAD led the development of this one themselves.
@@ -115,7 +115,7 @@
 
      In partners (like NGOs, or partners NORAD is funding operations
      at), "DPGs" is becoming a bit of a budget.  But NORAD has very
-     limite capacity to give support.  There's a lot of demand for
+     limited capacity to give support.  There's a lot of demand for
      understanding how NGOs can develop and use DPGs.
 
      NORAD has a few people to point to for licensing advice, but
