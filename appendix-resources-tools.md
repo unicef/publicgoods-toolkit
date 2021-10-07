@@ -1,6 +1,11 @@
+# **Appendix: Resources and Tools
+
 Additional resources and tools are listed by topical module. 
 
-### **Introduction**
+TBD: Question from Karl for Susy: I'd like to better understand the
+purpose of this appendix and how it relates to the other appendices.
+
+## **Introduction**
 
 [TODO: add a few resources for networking  -- hoping OTS can think of this quickly. Maybe think about this from a topic viewpoitn (open source, open data, AI)
 
@@ -48,7 +53,7 @@ For those projects that would benefit from a community manager, note that a comm
  
 
 
-### **COMMUNITY** 
+## **COMMUNITY** 
 This [2018 slide presentation of project archetypes](https://opentechstrategies.com/files/presentations/2018-finos/finos-presentation.html) is a useful short summary. 
 
 Health- https://producingoss.com/en/evaluating-oss-projects.html
@@ -76,7 +81,7 @@ Code of conduct - https://wiki.openmrs.org/display/RES/OpenMRS+Code+of+Conduct
 
 
 
-### **POLICY**
+## **POLICY**
 
 **Integrated Policy Approaches**
 
@@ -155,14 +160,19 @@ Their [approach to when code should be kept closed](https://www.gov.uk/governmen
 * Unreleased policy should be kept closed.
 
 
-### **ADOPTABILITY**
+## **ADOPTABILITY**
 
 The [Open Source Maturity Model](https://en.wikipedia.org/wiki/OpenSource_Maturity_Model) is another way of evaluating an open source product for adoption. It covers the same points we review in the paper, but it has more of a process-oriented approach that also includes scoring and weighting. More background is in this article by Bernard Golden in [Technology Innovation Management Review](https://timreview.ca/article/145), (May 2008).
 
 
-### **PROCUREMENT**
+## **PROCUREMENT**
 
 The Digital Impact Alliance's [Procurement Of Digital Technology](https://procurement-digitalimpactalliance.org/) is a useful guide for budget planning. [TODO: describe a bit better w/ context]
+
+(TBD: [ref:f9f71f8d]: Let's break out this long procurement-language
+example into a separate appendix.  That thought might apply to other
+sections in this appendix, too, but it applies most strongly here I
+think.  -Karl)
 
 Useful sample contract language [TODO: do we have better on hand? We don't have explicit permssion to use the following, although I can ask. Below is also us centric. https://www.eckertseamans.com/app/uploads/Steve-Foxman_Eckert-Seamans_DATA-PROTECTION-CLAUSES-101016-M1566466xA35AF.pdf ]
 

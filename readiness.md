@@ -1,70 +1,120 @@
 # Open Source Readiness
 
-**KEY RECOMMENDATION**: Look for the places where your lack of open source
-  investment are causing problems that can be addressed by
-  small-scale, low-risk, experimental engagement.  Start there, being sure to label these experiments as skill-building exercises. Think about how you can engage your larger team or organization as you develop, making the learning relevant to their own needs and goals and bringing them along as allies. 
+**KEY RECOMMENDATION**: Look for the places where your lack of open
+source investment are causing problems that can be addressed by
+small-scale, low-risk, experimental engagement.  Start there, being
+sure to label these experiments as skill-building exercises.  Think
+about how you can engage your larger team or organization as you
+develop, making the learning relevant to their own needs and goals and
+bringing them along as allies.
 
-  **KEY RECOMMENDATION**: Look for the places where your lack of open source
-  investment are causing problems that can be addressed by
-  small-scale, low-risk, experimental engagement.  Start there, being sure to label these experiments as skill-building exercises. Think about how you can engage your larger team or organization as you develop, making the learning relevant to their own needs and goals and bringing them along as allies. 
+**KEY RECOMMENDATION**: Look for the places where your lack of open
+source investment are causing problems that can be addressed by
+small-scale, low-risk, experimental engagement.  Start there, being
+sure to label these experiments as skill-building exercises.  Think
+about how you can engage your larger team or organization as you
+develop, making the learning relevant to their own needs and goals and
+bringing them along as allies.
 
-  **KEY RECOMMENDATION**: If you've been tracking your team's growth in execution capabilities and bringing others along on your learning journey, you should have a good *shared* understanding of what skills, processes and policies you need to execute successfully, along with proof points of the value such investments will bring. (Remember that these skills can come from external vendors and the need to build local talent, as mentioned throughout this paper). This will help you present a strong recommendation to your organization's leadership and help you move from the Hype to Proficient stage in McAffer's readiness model.
+**KEY RECOMMENDATION**: If you've been tracking your team's growth in
+execution capabilities and bringing others along on your learning
+journey, you should have a good *shared* understanding of what skills,
+processes and policies you need to execute successfully, along with
+proof points of the value such investments will bring.  (Remember that
+these skills can come from external vendors and the need to build
+local talent, as mentioned throughout this paper).  This will help you
+present a strong recommendation to your organization's leadership and
+help you move from the Hype to Proficient stage in McAffer's readiness
+model.
 
-  **KEY RECOMMENDATION** At the organizational level, Open Source Program Offices can help teams work more effectively and efficiently in open source. As you move up the readiness ladder, consider if such a centralized operational function would help your organization to execute better. 
+**KEY RECOMMENDATION** At the organizational level, Open Source
+Program Offices can help teams work more effectively and efficiently
+in open source.  As you move up the readiness ladder, consider if such
+a centralized operational function would help your organization to
+execute better.
 
-  **KEY RECOMMENDATION**: Cost/benefit analyses and valuation frameworks are useful and necessary tools, but remember that they don’t capture the full value of open source investments. Be sure to include areas of 'adjacent value' when assessing the overall value of your DPG. These can be multipliers to your project's valuation.
+**KEY RECOMMENDATION**: Cost/benefit analyses and valuation frameworks
+are useful and necessary tools, but remember that they don’t capture
+the full value of open source investments.  Be sure to include areas
+of 'adjacent value' when assessing the overall value of your DPG.
+These can be multipliers to your project's valuation.
 
 Open source is all about execution.  Reaping the benefits of open
 source investment requires completing a series of difficult steps
 ranging from designing an initial strategy to building an appropriate
 community to leveraging the resulting dynamics for strategic
-advantage. This module presents a somewhat abstract but experiential based view of organizational readiness, including models to consider referencing, and practical advice for how to move your team along the path to masterful open source execution. The Adoptability module [LINK] delves more deeply into specific open source capabilities you'll need to effectively adopt or build an open source product. 
+advantage.  This module presents a somewhat abstract but experiential
+based view of organizational readiness, including models to consider
+referencing, and practical advice for how to move your team along the
+path to masterful open source execution.  The Adoptability module (TBD
+LINK) delves more deeply into specific open source capabilities you'll
+need to effectively adopt or build an open source product.
 
-Most government teams are not yet prepared to
-travel this capability path and reap those rewards at scale.  They lag in their ability to execute, largely because they don't have enough experience, particularly as compared to private industry. But governments can learn quickly from what's been tried and tested by others as they've built their organizational capacity to use open source development to its full potential.  
+Most government teams are not yet prepared to travel this capability
+path and reap those rewards at scale.  They lag in their ability to
+execute, largely because they don't have enough experience,
+particularly as compared to private industry.  But governments can
+learn quickly from what's been tried and tested by others as they've
+built their organizational capacity to use open source development to
+its full potential.
 
-As an agency starts to climb the learning curve, it can be helpful to assess current abilities as a form of organizational readiness and to describe the journey to
-mastery as one of gaining capability. To do that, we might locate current capabilities in a readiness model. These clarify where an agency is in its journey to mastery and 
-suggest next steps and likely results. Often, teams use these models
-to identify areas for potential growth as well as potential pitfalls.  They are most useful for
-those early in their open source progress, and this module focuses on
-those beginning stages.  
+As an agency starts to climb the learning curve, it can be helpful to
+assess current abilities as a form of organizational readiness and to
+describe the journey to mastery as one of gaining capability.  To do
+that, we might locate current capabilities in a readiness model.
+These clarify where an agency is in its journey to mastery and suggest
+next steps and likely results.  Often, teams use these models to
+identify areas for potential growth as well as potential pitfalls.
+They are most useful for those early in their open source progress,
+and this module focuses on those beginning stages.
 
-It is useful for an agency to consider its
-maturity on an organization wide basis, but creation of an open source DPG is usually
-executed by teams, and it is the capabilities of specific teams that
-matter most.  Therefore, this module considers individual teams as the starting point for
-analysis, because even agency-wide open source skills training will
-succeed or fail mostly at the level of specific teams working on
-specific projects. However, teams obviously work within an organization that shapes their operational environment, and at some point the broader the organizational view matters. When and under what conditions this occurs is very case dependent. 
+It is useful for an agency to consider its maturity on an organization
+wide basis, but creation of an open source DPG is usually executed by
+teams, and it is the capabilities of specific teams that matter most.
+Therefore, this module considers individual teams as the starting
+point for analysis, because even agency-wide open source skills
+training will succeed or fail mostly at the level of specific teams
+working on specific projects.  However, teams obviously work within an
+organization that shapes their operational environment, and at some
+point the broader the organizational view matters.  When and under
+what conditions this occurs is very case dependent.
 
 There are several readiness models that go by various names.
-Practitioners often describe climbing the "readiness ladder." We share a number of them here because it is often worth considering more than one when examining an organization or a
-particular team.  
+Practitioners often describe climbing the "readiness ladder".  We
+share a number of them here because it is often worth considering more
+than one when examining an organization or a particular team.
 
+* [Jeff McAffer's Engagement Model](https://mcaffer.com/2019/02/Open-source-engagement)
  
- * [Jeff McAffer's Engagement Model](https://mcaffer.com/2019/02/Open-source-engagement)
- 
- * [TODO Group model](https://github.com/todogroup/ospo101/blob/main/module2/README.md#climbing-the-open-source-ladder)
+* [TODO Group model](https://github.com/todogroup/ospo101/blob/main/module2/README.md#climbing-the-open-source-ladder)
 
- * [GitHub's Maturity Model](https://github.com/github/maturity-model)
+* [GitHub's Maturity Model](https://github.com/github/maturity-model)
 
- * [Qalipso's Model](https://en.wikipedia.org/wiki/OpenSource_Maturity_Model)
+* [Qalipso's Model](https://en.wikipedia.org/wiki/OpenSource_Maturity_Model)
 
- * [Stephen Walli's Maturation Toward Adulthood](https://opensource.com/life/15/4/what-does-an-adult-look-like-in-an-open-source-community)
+* [Stephen Walli's Maturation Toward Adulthood](https://opensource.com/life/15/4/what-does-an-adult-look-like-in-an-open-source-community)
 
- * [FinOS Open Source Ladder](https://www.finos.org/hubfs/FINOS/website/pages/community/Open%20Source%20Readiness%20Roadmap%20-%203.10.2018.png)
+* [FinOS Open Source Ladder](https://www.finos.org/hubfs/FINOS/website/pages/community/Open%20Source%20Readiness%20Roadmap%20-%203.10.2018.png)
 
-Of the published models, we find the first one -- written by Microsoft Senior Director Jeff McAffer (now Senior Director at GitHub)-- is
-particularly useful. It's simple but includes strategic components,
+Of the published models, we find the first one -- written by Microsoft
+Senior Director Jeff McAffer (now Senior Director at GitHub)-- is
+particularly useful.  It's simple but includes strategic components,
 accounts for realistic failure modes, and understands that open source
 readiness will be unevenly distributed in any agency large enough to
-have multiple teams. We also like how it describes the phases of capability growth almost like generalized ‘mental models’ at an organization or team level in a way that's both abstract and pragmatic. We've found that stepping back every so often to reflect using such shared language and concepts helps teams stay grounded in the big picture, rather than focusing exclusively on the details.
+have multiple teams.  We also like how it describes the phases of
+capability growth almost like generalized ‘mental models’ at an
+organization or team level in a way that's both abstract and
+pragmatic.  We've found that stepping back every so often to reflect
+using such shared language and concepts helps teams stay grounded in
+the big picture, rather than focusing exclusively on the details.
 
-**KEY RECOMMENDATION**: Engage the team in a frank discussion about your open
-  source readiness and locate the team and the organization on McAffer's
-  engagement model.  What might this level mean for opportunities for growth, what might it mean for potential problems? Identify three key steps the people in that discussion can take to improve execuation capabilities at the team level and keep checking in as the team develops.
-
+**KEY RECOMMENDATION**: Engage the team in a frank discussion about
+your open source readiness and locate the team and the organization on
+McAffer's engagement model.  What might this level mean for
+opportunities for growth, what might it mean for potential problems?
+Identify three key steps the people in that discussion can take to
+improve execuation capabilities at the team level and keep checking in
+as the team develops.
 
 On many teams, initial open source capabilities might be nascent.
 Most team members have not had significant (or perhaps even any)
@@ -112,9 +162,14 @@ learning.  It gives permission to fail.  Those can be useful to teams
 seeking adaptability.  When considering McAffer's model, we might
 relabel his "tolerance" phase as "experimentation".
 
-**KEY RECOMMENDATION**: Look for the places where your lack of open source
-  investment are causing problems that can be addressed by
-  small-scale, low-risk, experimental engagement (see Appendix for an example)[LINK].  Start there, being sure to label these experiments as skill-building exercises. Think about how you can engage your larger team or organization as you develop, making the learning relevant to their own needs and goals and bringing them along as allies. 
+**KEY RECOMMENDATION**: Look for the places where your lack of open
+source investment are causing problems that can be addressed by
+small-scale, low-risk, experimental engagement (see Appendix for an
+example)(TBD LINK).  Start there, being sure to label these
+experiments as skill-building exercises. Think about how you can
+engage your larger team or organization as you develop, making the
+learning relevant to their own needs and goals and bringing them along
+as allies.
 
 Experiments come in many forms, but the most common first experiment
 is using some outside open source code and engaging the open source
@@ -132,16 +187,19 @@ team to shift from merely tolerating open source to trying to harness
 it.  Having those skills throughout a team provides the vision that
 starts to shift attitudes at more than just an individual level.
 
-The problem that arises, especially as multiple teams start to embrace FOSS, is that they
-lack the infrastructure to succeed at it across the entire
-organization.  They are missing policies, auditing, skills, culture,
-and experience.  This is a pivotal, risky moment.  A large number of
-teams will still be in the initial phases.  Efforts to move internal
-culture toward open source will be perceived by some as a pointless
-shift toward the latest buzzword.  Despite your best attempts to share learning across the organization, experimental skills will still be
-unevenly distributed internally.  Many new open source projects will
-fail, and this will convince some that all open source is destined to
-fail.  The proverbial 'trough of disillusionment' will seem unbridgable. In some agencies, some might even sabotage open source projects for policy or political reasons.
+The problem that arises, especially as multiple teams start to embrace
+FOSS, is that they lack the infrastructure to succeed at it across the
+entire organization.  They are missing policies, auditing, skills,
+culture, and experience.  This is a pivotal, risky moment.  A large
+number of teams will still be in the initial phases.  Efforts to move
+internal culture toward open source will be perceived by some as a
+pointless shift toward the latest buzzword.  Despite your best
+attempts to share learning across the organization, experimental
+skills will still be unevenly distributed internally.  Many new open
+source projects will fail, and this will convince some that all open
+source is destined to fail.  The proverbial 'trough of
+disillusionment' will seem unbridgable.  In some agencies, some might
+even sabotage open source projects for policy or political reasons.
 
 McAffer sees this phase as one of hype, and perhaps that's because
 it's also when an agency embraces open source without quite being
@@ -167,7 +225,16 @@ policy is how that happens, and it requires management approval and
 resources.  Agencies that fail to provide this support from fairly
 high in the organization tend to level off at this level of readiness.
 
-**KEY RECOMMENDATION**: If you've been tracking your team's growth in execution capabilities and bringing others along on your learning journey, you should have a good *shared* understanding of what skills, processes and policies you need to execute successfully, along with proof points of the value such investments will bring. (Remember that these skills can come from external vendors and the need to build local talent, as mentioned throughout this paper). This will help you present a strong recommendation to your organization's leadership and help you move from the Hype to Proficient stage in McAffer's readiness model.
+**KEY RECOMMENDATION**: If you've been tracking your team's growth in
+execution capabilities and bringing others along on your learning
+journey, you should have a good *shared* understanding of what skills,
+processes and policies you need to execute successfully, along with
+proof points of the value such investments will bring.  (Remember that
+these skills can come from external vendors and the need to build
+local talent, as mentioned throughout this paper).  This will help you
+present a strong recommendation to your organization's leadership and
+help you move from the Hype to Proficient stage in McAffer's readiness
+model.
 
 Another consideration for agencies climbing the readiness ladder is
 that the need for skilled open source practitioners will almost always
@@ -177,40 +244,109 @@ strategists and developers to keep up.  A number of companies and
 universities have decided to address this problem by centralizing much
 of their open source expertise in an Open Source Programs Office
 (OSPO).  The OSPO's job is to use that collected expertise to improve
-open source readiness and efficacy across the entire organization, often managing common issues like license compliance, developing an open source culuture, ensuring high quality code releases, and advising on software tools. The Linux Foundation provides a good [overview of the role and value of OSPOs](https://www.linuxfoundation.org/resources/open-source-guides/creating-an-open-source-program/). The [TODO Group](https://todogroup.org/) is collection of private industry OSPOs that also provides open guidance and resources.  
+open source readiness and efficacy across the entire organization,
+often managing common issues like license compliance, developing an
+open source culuture, ensuring high quality code releases, and
+advising on software tools.  The Linux Foundation provides a good
+[overview of the role and value of
+OSPOs](https://www.linuxfoundation.org/resources/open-source-guides/creating-an-open-source-program/).  The
+[TODO Group](https://todogroup.org/) is collection of private industry
+OSPOs that also provides open guidance and resources.
 
 We are not aware of many agencies that have an OSPO, but governments
 should consider focusing open source readiness efforts on one agency
 or department that can then help others.  In the United States, the
-federal government's General Services Administration (GSA) did this with [18F](https://18f.gsa.gov/), which, after reaching relatively
+federal government's General Services Administration (GSA) did this
+with [18F](https://18f.gsa.gov/), which, after reaching relatively
 high levels of open source capability and knowledge, developed
-guidance for other agencies approaching open source. GSA's Code.gov has created a [toolkit](https://github.com/GSA/code-gov-open-source-toolkit) that goes in-depth for approaching open source.
+guidance for other agencies approaching open source.  GSA's Code.gov
+has created a
+[toolkit](https://github.com/GSA/code-gov-open-source-toolkit) that
+goes in-depth for approaching open source.
 
-**KEY RECOMMENDATION** At the organizational level, Open Source Program Offices can help teams work more effectively and efficiently in open source. As you move up the readiness ladder, consider if such a centralized operational function would help the organization to execute better. 
+**KEY RECOMMENDATION** At the organizational level, Open Source
+Program Offices can help teams work more effectively and efficiently
+in open source.  As you move up the readiness ladder, consider if such
+a centralized operational function would help the organization to
+execute better.
 
-A final note on understanding and communicating the value of open source. Gaining a more sophisticated understanding of this value - and having that understanding more broadly shared across an organization - is both a prerequisite to and a marker of moving along these readiness models. 
+A final note on understanding and communicating the value of open
+source.  Gaining a more sophisticated understanding of this value -
+and having that understanding more broadly shared across an
+organization - is both a prerequisite to and a marker of moving along
+these readiness models.
 
-Ultimately, the value of your DPG will depend upon how well you’ve met your goals: a qualitative and quantitative assessment of the DPG’s positive impact on people’s lives. Measuring social impact is complex, and how you’ll measure that should be established along with goal setting. Still, organizational decision makers will want to know the cost/benefit ratio of their investment and might also want to compare the approach taken with alternatives.
+Ultimately, the value of your DPG will depend upon how well you’ve met
+your goals: a qualitative and quantitative assessment of the DPG’s
+positive impact on people’s lives.  Measuring social impact is
+complex, and how you’ll measure that should be established along with
+goal setting.  Still, organizational decision makers will want to know
+the cost/benefit ratio of their investment and might also want to
+compare the approach taken with alternatives.
 
-There are tools out there that can help you make some determinations, and it’s likely that some combination of these will be needed. The Digital Impact Alliance publishes a great overview of five different ways of valuing the impact of ICT investments that includes guidance on which might be most fitting, depending on factors such as available resources, skills and data [A Valuing Impact Toolkit for ICT Investment](https://digitalimpactalliance.org/wp-content/uploads/2020/10/ICT4D-toolkit.pdf) To get deeper into the cost assessment side, USAID has also published Software Global Goods Valuation Framework (with a Spreadsheet) to assess cumulative development costs by an analysis of retrospective and ongoing costs. Although aimed at digital health products, it fits other types as well. Perhaps most interesting to this model is its inclusion of a method for analyzing the cost of code, called Constructive Cost Model (COCOMO 81). 
+There are tools out there that can help you make some determinations,
+and it’s likely that some combination of these will be needed.  The
+Digital Impact Alliance publishes a great overview of five different
+ways of valuing the impact of ICT investments that includes guidance
+on which might be most fitting, depending on factors such as available
+resources, skills and data [A Valuing Impact Toolkit for ICT
+Investment](https://digitalimpactalliance.org/wp-content/uploads/2020/10/ICT4D-toolkit.pdf)
+To get deeper into the cost assessment side, USAID has also published
+Software Global Goods Valuation Framework (with a Spreadsheet) to
+assess cumulative development costs by an analysis of retrospective
+and ongoing costs.  Although aimed at digital health products, it fits
+other types as well.  Perhaps most interesting to this model is its
+inclusion of a method for analyzing the cost of code, called
+Constructive Cost Model (COCOMO 81).
 
-However, none of the models quantify and incorporate the value of what can sometimes be more intangible benefits of open source development very well, although their costs are generally captured in terms of FTE investment. 
+However, none of the models quantify and incorporate the value of what
+can sometimes be more intangible benefits of open source development
+very well, although their costs are generally captured in terms of FTE
+investment.
 
-For an example of how the World Bank measured the fiscal impact of Estonia's X-road(™) project (a post facto measure), see [Estonian e-Government
-Ecosystem: Foundation,
-Applications, Outcomes](https://thedocs.worldbank.org/en/doc/165711456838073531-0050022016/original/WDR16BPEstonianeGovecosystemVassil.pdf), which extrapolates a narrow view of fiscal value from the number of queries made to the system.
+For an example of how the World Bank measured the fiscal impact of
+Estonia's X-road(™) project (a post facto measure), see [Estonian
+e-Government Ecosystem: Foundation, Applications,
+Outcomes](https://thedocs.worldbank.org/en/doc/165711456838073531-0050022016/original/WDR16BPEstonianeGovecosystemVassil.pdf),
+which extrapolates a narrow view of fiscal value from the number of
+queries made to the system.
 
-The World Bank’s [Open Data for Resilience Initiative & GeoNode:A Case Study in Institutional Investments in Open Source](https://opendri.org/wp-content/uploads/2017/03/OpenDRI-and-GeoNode-a-Case-Study-on-Institutional-Investments-in-Open-Source.pdf ) also tries addresses valuation in a broader yet still effective way. Although it’s hard to distill the approach taken in the paper into a formal framework, it can be described as paying attention to areas of adjacent value. This approach falls out pretty naturally from thinking of an open source project as part of an ecosystem. 
+The World Bank’s [Open Data for Resilience Initiative & GeoNode:A Case
+Study in Institutional Investments in Open
+Source](https://opendri.org/wp-content/uploads/2017/03/OpenDRI-and-GeoNode-a-Case-Study-on-Institutional-Investments-in-Open-Source.pdf
+) also tries addresses valuation in a broader yet still effective way.
+Although it’s hard to distill the approach taken in the paper into a
+formal framework, it can be described as paying attention to areas of
+adjacent value.  This approach falls out pretty naturally from
+thinking of an open source project as part of an ecosystem.
 
-Looking only at the cost of writing code themselves versus the value received from sharing costs with partners, it’s estimated that the GeoNode project brought around a 200% return on investment (as of 2017). But the real value of open source development to Global Facility for Disaster Reduction and Recovery (GFDRR), the leading organization behind GeoNode, was the self-sustaining open source GeoNode community that emerged and the benefits that community continues to deliver. For example, a consortium of U.S. government agencies quickly picked up core development work -- valued at over $1 million USD -- which permitted GFDRR to tune its investments to features it specifically needed. Companies began providing commercial support, helping to grow further investment in GeoNode. A growing user base made it easier to identify and prioritize areas for improvement. These are several of many aspects of GeoNode's community and ecosystem that prove theres's greater value in open source than what's captured in these valuation frameworks.
+Looking only at the cost of writing code themselves versus the value
+received from sharing costs with partners, it’s estimated that the
+GeoNode project brought around a 200% return on investment (as of
+2017).  But the real value of open source development to Global
+Facility for Disaster Reduction and Recovery (GFDRR), the leading
+organization behind GeoNode, was the self-sustaining open source
+GeoNode community that emerged and the benefits that community
+continues to deliver.  For example, a consortium of U.S.  government
+agencies quickly picked up core development work -- valued at over $1
+million USD -- which permitted GFDRR to tune its investments to
+features it specifically needed.  Companies began providing commercial
+support, helping to grow further investment in GeoNode.  A growing
+user base made it easier to identify and prioritize areas for
+improvement.  These are several of many aspects of GeoNode's community
+and ecosystem that prove theres's greater value in open source than
+what's captured in these valuation frameworks.
 
-**KEY RECOMMENDATION**: Cost/benefit analyses and valuation frameworks are useful and necessary tools, but remember that they don’t capture the full value of open source investments. Be sure to include areas of 'adjacent value' when assessing the overall value of your DPG. These can be multipliers to your project's valuation.
+**KEY RECOMMENDATION**: Cost/benefit analyses and valuation frameworks
+are useful and necessary tools, but remember that they don’t capture
+the full value of open source investments.  Be sure to include areas
+of 'adjacent value' when assessing the overall value of your DPG.
+These can be multipliers to your project's valuation.
 
 All of the above describes a path from the very beginning toward
-eventual mastery of open source.  Our discussion
-focused on readiness in terms of skills and capabilities, but the
-truth is that doing open source well is more of a cultural shift than
-anything else. Organizations using open source fluently quickly find
-that the open approach is just their default process.  That culture
-shift is what lies at the top of the readiness learning curve.
-
+eventual mastery of open source.  Our discussion focused on readiness
+in terms of skills and capabilities, but the truth is that doing open
+source well is more of a cultural shift than anything
+else. Organizations using open source fluently quickly find that the
+open approach is just their default process.  That culture shift is
+what lies at the top of the readiness learning curve.

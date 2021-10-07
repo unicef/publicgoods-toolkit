@@ -1,4 +1,4 @@
-## **APPENDIX: Introduction to APIs for Non-Technical Readers**
+# **Appendix: Introduction to APIs for Non-Technical Readers**
 
 An "Application Programming Interface" (API) is essentially a
 *contract* -- an agreement between two computer programs, perhaps

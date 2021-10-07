@@ -1,20 +1,5 @@
 # Appendix: Examples
 
-Aadhar (https://uidai.gov.in/) 12-digit unique identification (UID)- no need for physical card. It is the largest biometric digital database covering more than 1.25 billion residents, including more than 99% of the adults in India. This enables targeted delivery of subsidies and benefits. And the total benefits that have been delivered directly to the bank accounts of beneficiaries now total around 200 billion us dollars. And these help us effect savings that are estimated at more than 23 billion us dollars. 
-
-enhancing inclusion, transparency and efficiency in the services that are provided by the government to the citizens. The technology is that also helping us give shape to ecosystems in every domain that can help private companies and startups to innovate and provide the increasing spectrum of services for citizens and businesses. As a global leader in the recent years, India has adopted some transformative policies and programs. 
-
-JAM (short for Jan Dhan-Aadhaar-Mobile) trinity refers to the government of India initiative to link Jan Dhan accounts, mobile numbers and Aadhaar cards of Indians to plug the leakages of government subsidies
-combination has helped us take services, access to services and benefits directly to the bank accounts of almost all Indians, including those that reside in some of the most remote parts of the country. Saved immense public resources
-
-
-
-Unified Payments Interface - low cost fund transfers all mobile. 5 years since launch, ecosystem has eclipsed all credit and debit card payments ecosystem. w/3 months - lists some stats supporting growth and volume of use 
-
-Covid app - registration mgmt appts, vaccination certification. Integrate all covid vacc services into one public facing app. 874m vaccinations reported through app. Instant vacc certifications. 25m in one day! Pm has made this available to anyone 
-
-
-
 ### Open Data and Standards: Open Referral API
 
 One problem every government has is connecting individual citizens
@@ -92,6 +77,8 @@ Source](https://opendri.org/wp-content/uploads/2017/03/OpenDRI-and-GeoNode-a-Cas
 
 ### Product: OpenHMIS
 
+(TBD: Karl and James to double-check this as an example product.)
+
 The United States' federal agency, Housing and Urban Development (HUD)
 operates a program called
 [HMIS](https://www.hudexchange.info/programs/hmis/), the Homeless
@@ -146,10 +133,11 @@ an open and public security audit.
 Estonia is famous for its pioneering work in [digitizing almost all
 government services](https://e-estonia.com/) in order to build more
 trust and efficiency across its society. The country is also widely
-admired for its **[integrated use of national policy guidance](https://thedocs.worldbank.org/en/doc/165711456838073531-0050022016/original/WDR16BPEstonianeGovecosystemVassil.pdf), direct
-investment and economic development policy, regulation, and even
-foreign policy to drive and support development of the necessary open
-IT infrastructure.**
+admired for its **[integrated use of national policy
+guidance](https://thedocs.worldbank.org/en/doc/165711456838073531-0050022016/original/WDR16BPEstonianeGovecosystemVassil.pdf),
+direct investment and economic development policy, regulation, and
+even foreign policy to drive and support development of the necessary
+open IT infrastructure.**
 
 Estonia’s earliest guidance focused on how to efficiently build
 interoperable infrastructure that was thoughtfully user-centric. Open
@@ -158,7 +146,7 @@ attention to privacy were key points of guidance. Most of Estonia’s
 e-services software is now open source. The government eventually
 created an [e-state code repository for its
 software](https://koodivaramu.eesti.ee/users/sign_in):
-koodivaramu.eesti.ee (based on ‘open core’ GitLab). It’s notable that
+koodivaramu.eesti.ee (based on open source GitLab). It’s notable that
 this code repository was created by the Ministry of Economic Affairs
 as well as the Information Systems Authority, as **a key goal of the
 government’s use of open source -- as well as of open data, available
@@ -175,21 +163,28 @@ collaborating on common digital infrastructure useful to each
 state. In 2017, it founded the Nordic Digital Infrastructure Institute
 to help govern and foster the joint development of basic e-service
 infrastructure across regional partners. Estonia, Finland and Iceland
-are members. Estonia moved the governance of X-Road(™), its open
+are members. Estonia moved the governance of X-Road, its open
 source data exchange software that powers much of its government
 e-services, to this new organization, along with a few other
-components. X-Road(™) is under an MIT license, but the trademark is
+components. X-Road is under an MIT license, but the trademark is
 still held by the Estonian government, giving them the essential tool
 for protecting trust in the technology.
 
-Estonia planned thoughtfully for how their policies should specifically support their open technology approach. For example, Estonia’s Public Information Act prohibits government agencies from creating separate databases to collect and store the same data, and it's actually illegal for new public e-services to design systems that store the same data in different repositories. In combination with the creation of X-road(™) data exchange platform, this integrated approach drives remarkable efficiency as well as data security and protection. 
+Estonia planned thoughtfully for how their policies should
+specifically support their open technology approach. For example,
+Estonia’s Public Information Act prohibits government agencies from
+creating separate databases to collect and store the same data, and
+it's actually illegal for new public e-services to design systems that
+store the same data in different repositories. In combination with the
+creation of X-Road data exchange platform, this integrated approach
+drives remarkable efficiency as well as data security and protection.
 
 In June 2021, **Estonia began [enforcing
 legislation](https://www.riigiteataja.ee/akt/122052021002) that
 requires state software source code be made available in the e-state
 code repository, free to the public**, with limited exceptions.
 
-[TODO: confirm licensing structure]
+(TODO: confirm licensing structure)
 
 
 ### Open Source Readiness : United States Web Design System
@@ -207,28 +202,54 @@ well established relationships that would support collaboration
 especially if such collaboration is new) and if it seems an early
 success could be gained without a deep investment.
 
-**An example of a successful ‘low fruit, high shared reward’ approach
-is the [United States Web Design
-System[(https://designsystem.digital.gov/)] (USWDS).** (Infrastructure for web site development and management has often been
-an area of early open source DPG collaboration). This [open
-source design system](https://github.com/uswds) helps federal agencies
-build accessible, mobile-friendly websites and saves significant time
-and effort. Not all of the thousands of web sites managed by over 400
-US federal agencies need different forms, buttons and search bars!
-USWDS was an early DPG project across seven federal agencies, along
-with 18F and Digital Government Services. A shared [open source web
-analytics solution](https://analytics.usa.gov/) was published around
-the same time. **The reliance on open source development and attention
-to community development has fostered vibrant participation from
-hundreds of government employees across agencies as well as volunteers
-from non-profit organizations, like Code for America.**
+An example of a successful "low fruit, high shared reward" approach is
+the [United States Web Design
+System[(https://designsystem.digital.gov/)] (USWDS).  (Infrastructure
+for web site development and management has often been an area of
+early open source DPG collaboration). This [open source design
+system](https://github.com/uswds) helps federal agencies build
+accessible, mobile-friendly websites and saves significant time and
+effort. Not all of the thousands of web sites managed by over 400 US
+federal agencies need different forms, buttons and search bars!  USWDS
+was an early DPG project across seven federal agencies, along with 18F
+and Digital Government Services. A shared [open source web analytics
+solution](https://analytics.usa.gov/) was published around the same
+time. **The reliance on open source development and attention to
+community development has fostered vibrant participation from hundreds
+of government employees across agencies as well as volunteers from
+non-profit organizations, like Code for America.**
 
 
+## Parking Lot
 
+TBD: Karl rephrased some material that Susy had in progress (from
+commit e4bf35a12d0).  It would need some more more work before being
+moved out of the parking lot and into actual examples.  But also, are
+these DPGs at all?  We may not want to use them as examples.
 
+* Aadhar (https://uidai.gov.in/) 12-digit unique identification (UID)
+  with no need for physical card.  It is the largest biometric digital
+  database covering more than 1.25 billion residents, including more
+  than 99% of the adults in India.  This enables targeted delivery of
+  subsidies and benefits.  Total benefits delivered directly to the
+  bank accounts of beneficiaries now total around 200 billion USD.
+  Indian government estimates savings-to-date at more than 23 billion
+  us dollars.
 
+* JAM (short for Jan Dhan-Aadhaar-Mobile) trinity refers to the
+  government of India initiative to link Jan Dhan accounts, mobile
+  numbers and Aadhaar cards of Indians to plug the leakages of
+  government subsidies combination has helped us take services, access
+  to services and benefits directly to the bank accounts of almost all
+  Indians, including those that reside in some of the most remote
+  parts of the country.
 
+  Unified Payments Interface -- low cost fund transfers all mobile. 5
+  years since launch, ecosystem has eclipsed all credit and debit card
+  payments ecosystem. w/3 months -- lists some stats supporting growth
+  and volume of use
 
-
-
-
+  Covid app -- registration mgmt appts, vaccination
+  certification. Integrate all covid vacc services into one public
+  facing app. 874m vaccinations reported through app. Instant vacc
+  certifications. 25m in one day! Pm has made this available to anyone

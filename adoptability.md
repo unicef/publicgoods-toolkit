@@ -1,56 +1,105 @@
 # Adoptability Assessment
 
+TBD: If we're going to start out a section with a list of key
+recommendations, maybe we should organize the recommendations into
+topical groups?  When they're presented as one long, undifferentiated
+list, that's a lot to absorb.
 
-  **KEY RECOMMENDATION**: Functionality, technical quality, support and a project's sustainability and responsiveness are areas to review in evaluating an open source product for adoption. 
+**KEY RECOMMENDATION**: When evaluating an open source product for
+adoption, the key areas to look at are functionality, technical
+quality, availability of support, the project's sustainability, and
+the project's responsiveness to its user base.
   
-  **KEY RECOMMENDATION**: Look at the project's web site or documentation to see what
-  it says about reporting security vulnerabilities, and, if
-  applicable, ask the vendor.
+**KEY RECOMMENDATION**: Look at the project's web site or
+documentation to see what the project says about reporting security
+vulnerabilities.  If applicable, ask the vendor.
 
-  **KEY RECOMMENDATION**: Look at the project's
-  release history and see if there are any security patch releases, which would indicate that the project is handling security vulnerabilities at least at a base level of competency. 
+**KEY RECOMMENDATION**: Look at the project's release history and see
+if there are any security patch releases.  Their presence would
+indicate that the project is handling security vulnerabilities at
+least at a base level of competency.  and see if there are any
+security patch releases, which would indicate that the project is
+handling security vulnerabilities at least at a base level of
+competency.
 
-  **KEY RECOMMENDATION**: [Search the CVE
-  list](https://cve.mitre.org/find/search_tips.html) to see how
-  well-represented the product you're considering is in the CVE
-  database.
+**KEY RECOMMENDATION**: [Search the CVE
+list](https://cve.mitre.org/find/search_tips.html) to see how
+well-represented the product you're considering is in the CVE
+database.
 
-  **KEY RECOMMENDATION**:Confirm that third-party dependencies are updated. 
+**KEY RECOMMENDATION**: Confirm that third-party dependencies are up-to-date.
 
-  **KEY RECOMMENDATION**:See if any security audits are publicly available.  
+**KEY RECOMMENDATION**: See if any security audits are publicly available.  
 
-  **KEY RECOMMENDATION**: Looking through public reviews and a project's bug report database will give you an idea of a product's stability and reliability. The existence of vendors providing commercial support for the product is practically a guarantee that the product is as stable and reliable as possible. 
+**KEY RECOMMENDATION**: Looking through public reviews and a project's
+bug report database will give you an idea of a product's stability and
+reliability. The existence of vendors providing commercial support for
+the product is practically a guarantee that the product is as stable
+and reliable as possible.
 
-  **KEY RECOMMENDATION**: As a general rule, the more scalability you need, the more up-front investment you must make in configuring your deployment. Take this into account in your resource planning. 
+**KEY RECOMMENDATION**: As a general rule, the more scalability you
+need, the more up-front investment you must make in configuring your
+deployment. Take this into account in your resource planning.
 
-  **KEY RECOMMENDATION**: Be sure to get a detailed understanding the product's ability to import/export data. Even if you have a vendor supporting you, search the
-Internet and the project's forums for reports from others about
-importing and exporting the data formats that matter to you. This will help you plan for needed resources and project scheduling as well as be better prepared should you need to switch vendor support at some point. 
+**KEY RECOMMENDATION**: Be sure to get a detailed understanding the
+product's ability to import/export data. Even if you have a vendor
+supporting you, search the Internet and the project's forums for
+reports from others about importing and exporting the data formats
+that matter to you. This will help you plan for needed resources and
+project scheduling as well as be better prepared should you need to
+switch vendor support at some point.
 
-**KEY RECOMMENDATION**: Having a documented API as part of a service is very important to supporting a full range of the functionality you'll likely need. Check documentation and search for examples on the Internet of people using that API to accomplish real-world tasks. Lack of published APIs isn't uncommon for early stage open source products, but this situation (or lack of a roadmap) is unacceptable for products intended to work with data at scale. 
+**KEY RECOMMENDATION**: Having a documented API as part of a service
+is very important to supporting a full range of the functionality
+you'll likely need.  Check documentation and search for examples on
+the Internet of people using that API to accomplish real-world tasks.
+Lack of published APIs isn't uncommon for early stage open source
+products, but then they should be planned for on the project's
+roadmap.  APIs are necessary in any product intended to work with data
+at scale.
 
-**KEY RECOMMENDATION**: An open source product's extensibility is often a sign of maturity, as it's developed enough to have a stable foundation and pushes flexibility through extensions that can change more often to meet more specific, and varied, user needs. When you are evaluating vendors for an extensible system, look for vendors that have demonstrated experience writing extensions.
+**KEY RECOMMENDATION**: Extensibility is often a sign of maturity in
+open source products.  When a product evolves to meet the needs of a
+variety of users, it usually does so by having a stable core, with
+flexibility achieved through pluggable extensions that meet specific
+user needs.  Thus, when you are evaluating vendors for an extensible
+system, seek vendors that have demonstrated experience in writing such
+extensions.
 
+**KEY RECOMMENDATION**: Look at the products's installation and
+initial configuration documentation.  If this deployment documentation
+is missing, or is obviously incomplete, that is a warning sign about
+the entire product. When working with vendors, beware of those who try
+to steer you to their proprietary documentation for functionality that
+is part of the public product.
 
-**KEY RECOMMENDATION**: Look at the products's installation and initial configuration documentation.  If this deployment documentation is missing, or is obviously incomplete, that is a warning sign about the entire product. When working with vendors, beware of those who try to steer you to their proprietary documentation for functionality that is part of the
-public product.
+**KEY RECOMMENDATIONS**: It's a good sign if an open source product
+has commercial support around it, such as consulting and development
+companies. If you are considering working with one of these vendors,
+you should find solid public evidence of their contributions and
+engagement.
 
-**KEY RECOMMENDATIONS**: It's a good sign if an open source product has commercial support around it, such as consulting and development companies. If you are considering working with one of these vendors, you should find solid public evidence of their contributions and engagement. 
+**KEY RECOMMENDATION**: User support forums are useful resources in
+your evaluation. Don't hesistate to ask questions.
 
-**KEY RECOMMENDATION**: User support forums are useful resources in your evaluation. Don't hesistate to ask questions. 
+**KEY RECOMMENDATION**: Open source projects have lifecycles, and the
+maturity level of a project will generally dictate your ability to
+influence and level/type of investment needed.
 
-
-**KEY RECOMMENDATION**: Open source projects have lifecycles, and the maturity level of a project will generally dictate your ability to influence and level/type of investment needed. 
-
-
-A lot of open source is available as commercial-off-the-shelf solutions or as open source products that require little customization and integration. This modules outlines key points to consider in assessing such solutions for adoption suitability. 
+A lot of open source products are available as
+commercial-off-the-shelf solutions; often they are fairly
+straightforward to integrate and do not require much customization.
+This modules outlines key points to consider in assessing such
+solutions for adoption suitability.
 
 To evaluate an open source product for adoption, you need to look at
 it from several different perspectives:
 
 1. **Functionality.** Whether it has the functionality you need,
    either right now or plausibly planned on a roadmap (a roadmap that
-   you may, in some cases, decide to influence or help accelerate). Does it provide Application Programming Interfaces (APIs)? Robust data portability? Is it extensible?
+   you may, in some cases, decide to influence or help accelerate).
+   Does it provide Application Programming Interfaces (APIs)?  Robust
+   data portability?  Is it extensible?
 
 2. **Technical quality.** This is just the technical quality of the
    implementation: how well did they do what they meant to do?  Is the
@@ -60,23 +109,30 @@ it from several different perspectives:
 3. **Sustainability.** The long-term sustainability of the project: is
    there just one lone developer working in her spare time, or, at the
    other extreme, are there multiple companies paying developers to
-   collaborate on maintaining and extending the project? (See also the [Community and Ecosystem module](/unicef/publicgoods-toolkit/community) for more on this topic)
+   collaborate on maintaining and extending the project?  (See also
+   the [Community and Ecosystem module](TBD: link to community.md))
+   for more on this topic.)
 
 4. **Responsiveness.** Historically, how responsive is the project to
    its users?  Do bug reports get processed in a timely fashion?  Are
    contributions welcomed?  Is there a way to influence the roadmap?
    When security vulnerabilities arise, does the project handle them
-   promptly and competently?  Are there community participation guidelines? Etc.
+   promptly and competently?  Are there community participation
+   guidelines?
 
 5. **Support.** Is there up-to-date documentation?  Are there active
    user forums?  Are commercial support providers available for you to
    hire, and if so, are they constructively integrated into the
    project's development community?
 
-The sections that follow elaborate on some of the areas above and form a kind of checklist that you can use to
-evaluating an open source product for adoption as a DPG.  
+The sections that follow elaborate on some of the areas above and form
+a kind of checklist that you can use to evaluating an open source
+product for adoption as a DPG.
 
-[TODO: do we want to say anything about software maturity models, or is that too in the weeds? Readers might be familiar with the Global Goods Maturity Model https://wiki.digitalsquare.io/index.php/Global_Goods_Maturity]
+(TODO: do we want to say anything about software maturity models, or
+is that too in the weeds? Readers might be familiar with the Global
+Goods Maturity Model
+https://wiki.digitalsquare.io/index.php/Global_Goods_Maturity .)
 
 Throughout this module we will sometimes use the word "product" and
 sometimes use the word "project".  They are closely related but
@@ -120,11 +176,15 @@ that distinction is important we will note it.
   until after the vulnerability is fixed and a new release of the
   product has been made.  (This means that such reports are not
   normal, publicly-posted bug tickets -- a rare exception to the rule
-  that information in an open source project is all publicly visible.) A good example of a [clearly documented process is from the Fedora Project](https://fedoraproject.org/wiki/Security_Bugs), whose Fedora Linux is part of the DPG Resources collection. [Security vulnerability reporting]((https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=91554327) is usaully a very straightforward process, as the Finerac financial services DP. 
+  that information in an open source project is all publicly visible.)
 
-  **KEY RECOMMENDATION**: Look at the project's web site or documentation to see what
-  it says about reporting security vulnerabilities, and, if
-  applicable, ask the vendor.
+  A good example of a [clearly documented process is from the Fedora
+  Project](https://fedoraproject.org/wiki/Security_Bugs), whose Fedora
+  Linux is part of the DPG Resources collection.
+
+  **KEY RECOMMENDATION**: Look at the project's web site or
+  documentation to see what it says about reporting security
+  vulnerabilities, and, if applicable, ask the vendor.
 
 * Does the project have a way to make security patch releases?  And
   has it done so?
@@ -135,8 +195,10 @@ that distinction is important we will note it.
   increases the likelihood that the project is handling security
   vulnerabilities competently in general.
 
-  **KEY RECOMMENDATION**: Look at the project's
-  release history and see if there are any security patch releases, which would indicate that the project is handling security vulnerabilities at least at a base level of competency. 
+  **KEY RECOMMENDATION**: Look at the project's release history and
+  see if there are any security patch releases, which would indicate
+  that the project is handling security vulnerabilities at least at a
+  base level of competency.
 
 * Does the project acquire CVE numbers for security problems?
 
@@ -154,10 +216,12 @@ that distinction is important we will note it.
   problem, and a central place to go to find out more information.
 
   This may sound surprising, but if a project has a history of
-  obtaining CVE numbers for vulnerabilities, such as the DPG Apache Finerac (https://www.cvedetails.com/vulnerability-list/vendor_id-45/product_id-42731/Apache-Fineract.html), that's actually a *good*
-  sign: it means the project is integrated into the wider community of
-  global computer security response, and is following the standard
-  procedures. 
+  obtaining CVE numbers for vulnerabilities, for example as the DPG
+  Apache Fineract does
+  (https://www.cvedetails.com/vulnerability-list/vendor_id-45/product_id-42731/Apache-Fineract.html),
+  that's actually a *good* sign: it means the project is integrated
+  into the wider community of global computer security response, and
+  is following the standard procedures.
 
   Note that if a project has many CVE numbers associated with it, that
   does not necessarily signify inattention to security problems.
@@ -170,12 +234,17 @@ that distinction is important we will note it.
   well-represented the product you're considering is in the CVE
   database.
 
-**FURTHER READING**: For a particularly clear exposition of how one large
-  open source project uses CVE numbers, see
+**FURTHER READING**: For a particularly clear exposition of how one
+  large open source project uses CVE numbers, see
   [debian.org/security/cve-compatibility](https://www.debian.org/security/cve-compatibility)
   For a more detailed explanation of how CVE numbers are acquired,
   used, and evaluated, see
-  [producingoss.com/en/publicity.html#security](https://producingoss.com/en/publicity.html#security). [Mozilla's security web site](https://www.mozilla.org/en-US/security/) is another example of how a commercial company that fosters numerous open source projects communicates around security issues. 
+  [producingoss.com/en/publicity.html#security](https://producingoss.com/en/publicity.html#security).
+
+  [Mozilla's security web
+  site](https://www.mozilla.org/en-US/security/) is another example of
+  how a commercial company that fosters numerous open source projects
+  communicates around security issues.
 
 * Are the project's dependencies up-to-date?
 
@@ -186,25 +255,37 @@ that distinction is important we will note it.
   project) see how up-to-date those dependencies are, that can shed
   some light on how highly the project prioritizes security concerns.
 
-  **KEY RECOMMENDATION**:Confirm that third-party dependencies are updated. 
+  **KEY RECOMMENDATION**: Confirm that third-party dependencies are updated. 
 
 * Has the project had a professional security audit performed?
 
   While it's not common for open source projects to have professional
   security audits conducted, because such audits are expensive.
   However, it happens sometimes, and when it does happen that's a very
-  good sign.  The results of the audit, which review security issues at a particular point in time, should be publicly available
-  from the project's home site (after any important issues found by
-  the audit have been fixed and released, of course).
+  good sign.  The results of the audit, which review security issues
+  at a particular point in time, should be publicly available from the
+  project's home site (after any important issues found by the audit
+  have been fixed and released, of course).
 
   If you are seriously considering using a product for especially
   sensitive data, then you might commission a security audit if you
   have the resources to do so and offer to make the results available
   to the project.  You would send those results in however the project
   requests; typically, that would just be via their normal security
-  reporting channels. [Security audits funded by Mozilla](https://wiki.mozilla.org/MOSS/Secure_Open_Source/Completed), such as for the open source Thunderbird email product, are publicly posted.
+  reporting channels.  [Security audits funded by
+  Mozilla](https://wiki.mozilla.org/MOSS/Secure_Open_Source/Completed),
+  such as for the open source Thunderbird email product, are publicly
+  posted.
 
-  If the product has been implemented broadly, you might find public audit documentation that's specific to individual implementations. These are likely to cover processes and policies, such as adherence to national regulation, as well as the software itself, but they're still useful resources. The National Audit Office of Estonia [recently audited X-Road](https://eurosai-it.org/news/newsletter/1-2021/updates-from-itwg-members/estonia-x-road-and-audit) and found that implementing agencies weren't adhering to some of the security policies we recommend in the Policy module [LINK] 
+  If the product has been implemented broadly, you might find public
+  audit documentation that's specific to individual
+  implementations. These are likely to cover processes and policies,
+  such as adherence to national regulation, as well as the software
+  itself, but they're still useful resources. The National Audit
+  Office of Estonia [recently audited
+  X-Road](https://eurosai-it.org/news/newsletter/1-2021/updates-from-itwg-members/estonia-x-road-and-audit)
+  and found that implementing agencies weren't adhering to some of the
+  security policies we recommend in the Policy module (TBD: link)
 
   **KEY RECOMMENDATION**: See if any security audits are publicly available.  
 
@@ -253,7 +334,11 @@ have a very strong interest in the software's stability: unstable
 software costs them money, because it requires their staff to do more
 interrupt-driven work.
 
-**KEY RECOMMENDATION**: Looking through public reviews and a project's bug report database will give you an idea of a product's stability and reliability. The existence of vendors providing commercial support for the product is practically a guarantee that the product is as stable and reliable as possible. 
+**KEY RECOMMENDATION**: Looking through public reviews and a project's
+bug report database will give you an idea of a product's stability and
+reliability. The existence of vendors providing commercial support for
+the product is practically a guarantee that the product is as stable
+and reliable as possible.
 
 ## Scalability and Deployment Investment
 
@@ -261,21 +346,26 @@ An important part of evaluating a DPG is to evaluate the investment
 your team must make to deploy the DPG *in a way that meets your
 requirements*.
 
-**KEY RECOMMENDATION**: As a general rule, the more scalability you need, the more up-front investment you must make in configuring your deployment.
+**KEY RECOMMENDATION**: As a general rule, the more scalability you
+need, the more up-front investment you must make in configuring your
+deployment.
 
 For example, many systems typically come with a default
 ("out-of-the-box") configuration in which all parts of the system are
 installed on one server machine, because that way is simplest to
 maintain.  But if your intended usage needs to scale to millions of
-users (or to [1.25 billion citizens](https://media.un.org/en/asset/k17/k17a9bg6o8), as is the case with India's open source digital ID, Aadhaar), or to millions of some other kind of data item, then you will
-likely need a more complex configuration, with the database portion of
-the software running on one more more separate servers, various kinds
-of monitoring and automated health checks in place, etc.  Such
-configurations are often documented and well-supported by the project
-too, they just aren't what the project offers as the default option,
-because many deployers don't need that kind of scale, and of course
-the project wants the majority of deployers to have the easiest
-possible out-of-the-box experience.
+users (or to [1.25 billion
+citizens](https://media.un.org/en/asset/k17/k17a9bg6o8), as is the
+case with India's open source digital ID, Aadhaar), or to millions of
+some other kind of data item, then you will likely need a more complex
+configuration, with the database portion of the software running on
+one more more separate servers, various kinds of monitoring and
+automated health checks in place, etc.  Such configurations are often
+documented and well-supported by the project too, they just aren't
+what the project offers as the default option, because many deployers
+don't need that kind of scale, and of course the project wants the
+majority of deployers to have the easiest possible out-of-the-box
+experience.
 
 Thus, start by understanding your own parameters: how much investment,
 in terms of time and money, are you willing to make to support a given
@@ -309,8 +399,14 @@ you will want to import into the system, even if you don't know at the
 time of the evaluation and procurement that that legacy data exists.
 And there are many reasons why you might be interested in exporting
 data even if you are not migrating away from the system to something
-else (see the section "Programmatic Control (APIs)" [Programmatic Control (APIs)](/unicef/publicgoods-toolkit/adoptability##Programmatic-Control-(APIs)) for more about
-these). Moreover, open projects must ensure they [support extraction or importation of non-PII data in a non-proprietary format](https://digitalpublicgoods.net/standard/) in order to qualify as a formal DPG, which circles back to the importance of [open standards](https://digitalpublicgoods.net/standard/), another essential part to the definition of a DPG.  
+else (see the section "Programmatic Control (APIs)" [Programmatic
+Control (APIs)](TBD: link to section above) for more about these).
+Moreover, open projects must ensure they [support extraction or
+importation of non-PII data in a non-proprietary
+format](https://digitalpublicgoods.net/standard/) in order to qualify
+as a formal DPG, which circles back to the importance of [open
+standards](https://digitalpublicgoods.net/standard/), another
+essential part to the definition of a DPG.
 
 Data portability is one area where vendors sometimes give unreliable
 information, or at least may quietly leave out certain exceptions and
@@ -332,7 +428,6 @@ Even if you have a vendor supporting you, you should also search the
 Internet and the project's forums for reports from others about
 importing and exporting the data formats that matter for you.
 
-
 ### Data Portability and Avoiding Vendor Lock-In 
 
 Remember that import/export functionality can be important to your
@@ -344,10 +439,13 @@ will often want to deploy their own copy of the system, using a
 deployment configuration that they are accustomed to, and move your
 data from the old system to the new system.
 
-**KEY RECOMMENDATION**: Be sure to get a detailed understanding the product's ability to import/export data. Even if you have a vendor supporting you, search the
-Internet and the project's forums for reports from others about
-importing and exporting the data formats that matter to you. This will help you plan for needed resources and project scheduling as well as be better prepared should you need to switch vendor support at some point. 
-
+**KEY RECOMMENDATION**: Be sure to get a detailed understanding the
+product's ability to import/export data. Even if you have a vendor
+supporting you, search the Internet and the project's forums for
+reports from others about importing and exporting the data formats
+that matter to you. This will help you plan for needed resources and
+project scheduling as well as be better prepared should you need to
+switch vendor support at some point.
 
 ## Programmatic Control (APIs)
 
@@ -357,8 +455,10 @@ from/to it.
 
 It is unfortunate that such a key concept is hidden behind the
 technical acronym 'API.'  If you aren't already familiar with what
-APIs do, please take a moment to read the Introduction to APIs for Non-Technical Readers section in the [Appendix](/unicef/publicgoods-toolkit/appendix-apis) as well as the example of Open Referral, also in the [Appedix](/unicef/publicgoods-toolkit/appendix-examples), then come back
-here. 
+APIs do, please take a moment to read the Introduction to APIs for
+Non-Technical Readers section in the [Appendix](TBD: link to API
+appendix) as well as the example of Open Referral, also in the
+[Appedix](TBD: link to examples appendix), then come back here.
 
 Having a documented API as part of a service is very important.  APIs
 make many things possible. The read-only side of an API enables
@@ -367,10 +467,28 @@ read-write side opens up the possibility of interacting with the
 system's data in ways beyond what the regular user interface allows.
 If the data in the system matters at all, eventually someone will want
 to work with that data in a programmatic way, and the only way to do
-that effectively at scale -- meaning scale for volume or for application to new areas -- is through an API. 
+that effectively at scale -- meaning scale for volume or for
+application to new areas -- is through an API.
 
-APIs from Finerac and Mifos X enabled those inclusive financial inclusion DPGs to scale to support numerous use cases -- from traditional banks to digital-first neo banks and wallet/payment providers -- from over 400 institutions in 40 countries.
-The non-profit Population Services International (PSI) learned that many health ministries and other non-profits were using DHIS2 with Microsoft PowerBI for data visualizations, but the process for moving data from the DPG DHIS2 into the popular PowerBI product was cumbersome. DHIS2's well documented API enabled PSI to partner with BAO Systems to create [programmatic connectivity to Microsoft PowerBI](https://community.dhis2.org/t/dhis2-to-powerbi-connector-is-ready-check-out-the-video-test-it-use-it-and-give-us-feedback/37043). The DPG [Avyantra](https://www.avyantra.com/) uses machine learning to improve diagnoses of infants affected by neonatal sepsis. Their application's modular approach and use of APIs make it more easily [extendable to diagnosis of other critical medical conditions in neonates, infants and children](https://digitalpublicgoods.net/registry/avyantra-health-technologies.html). The DPG DHIS2 is also being used in [new sectors like education and logistics](https://dhis2.org/education).
+APIs from Fineract and Mifos X enabled those inclusive financial
+inclusion DPGs to scale to support numerous use cases -- from
+traditional banks to digital-first neo banks and wallet/payment
+providers -- from over 400 institutions in 40 countries.  The
+non-profit Population Services International (PSI) learned that many
+health ministries and other non-profits were using DHIS2 with
+Microsoft PowerBI for data visualizations, but the process for moving
+data from the DPG DHIS2 into the popular PowerBI product was
+cumbersome. DHIS2's well documented API enabled PSI to partner with
+BAO Systems to create [programmatic connectivity to Microsoft
+PowerBI](https://community.dhis2.org/t/dhis2-to-powerbi-connector-is-ready-check-out-the-video-test-it-use-it-and-give-us-feedback/37043). The
+DPG [Avyantra](https://www.avyantra.com/) uses machine learning to
+improve diagnoses of infants affected by neonatal sepsis. Their
+application's modular approach and use of APIs make it more easily
+[extendable to diagnosis of other critical medical conditions in
+neonates, infants and
+children](https://digitalpublicgoods.net/registry/avyantra-health-technologies.html). The
+DPG DHIS2 is also being used in [new sectors like education and
+logistics](https://dhis2.org/education).
 
 In some cases, the API could be as simple as an "export" button,
 causing a spreadsheet to be downloaded (usually in CSV --
@@ -402,7 +520,13 @@ there is some reasonable explanation for the omission, the lack of an
 API should be considered a serious point against enterprise-wide
 adoption of the system.
 
-**KEY RECOMMENDATION**: Having a documented API as part of a service is very important to supporting a full range of the functionality you'll likely need. Check documentation and search for examples on the Internet of people using that API to accomplish real-world tasks. Lack of published APIs isn't uncommon for early stage open source products, but this situation (or lack of a roadmap) is unacceptable for products intended to work with data at scale. 
+**KEY RECOMMENDATION**: Having a documented API as part of a service
+is very important to supporting a full range of the functionality
+you'll likely need. Check documentation and search for examples on the
+Internet of people using that API to accomplish real-world tasks. Lack
+of published APIs isn't uncommon for early stage open source products,
+but this situation (or lack of a roadmap) is unacceptable for products
+intended to work with data at scale.
 
 ## Extensibility
 
@@ -413,10 +537,13 @@ modules" are the most common, though sometimes "components" is
 
 All of these things refer to the same basic idea: the ability to
 extend the system's functionality by adding new code from the outside
-in certain well-defined ways (see [Programmatic Control (APIs)](/unicef/publicgoods-toolkit/adoptability#Programmatic-Control-(APIs)) above).  Sometimes a
-system is even extensible in more than one programming language,
-though often there is a primary supported language that most users
-prefer and that is supported best. A system based on a modular architecture (see [Procurement](/unicef/publicgoods-toolkit/procurement), with loosely coupled software components, is one that's more easily extensible. 
+in certain well-defined ways (see [Programmatic Control (APIs)](TBD:
+link to section) above).  Sometimes a system is even extensible in
+more than one programming language, though often there is a primary
+supported language that most users prefer and that is supported
+best. A system based on a modular architecture (see [Procurement](TBD:
+link to Procurement), with loosely coupled software components, is one
+that's more easily extensible.
 
 Some well-known and widely-used open source systems owe much of their
 success and growth to being easily extensible in this fashion, for
@@ -426,8 +553,9 @@ example: [WordPress](https://wordpress.org/),
 [MediaWiki](https://www.mediawiki.org/),
 [Firefox](https://www.mozilla.org/firefox/new/), and
 [Chromium](https://www.chromium.org/).  Extensibility has a long
-history and is not confined to open source software, however. AutoCAD, a system for computer-aided drafting, has had an
-extension language since the mid-1980s, and Microsoft's Visual Studio
+history and is not confined to open source software, however.
+AutoCAD, a system for computer-aided drafting, has had an extension
+language since the mid-1980s, and Microsoft's Visual Studio
 development environment has a rich extension community primarily
 writing extensions in the Visual Basic programming language.
 
@@ -463,7 +591,12 @@ prefer vendors that have demonstrated experience writing extensions,
 especially vendors who are well-represented in the public marketplace
 (if any exists) of extensions that may be used with the system.
 
-**KEY RECOMMENDATION**: An open source product's extensibility is often a sign of maturity, as it's developed enough to have a stable foundation and pushes flexibility through extensions that can change more often to meet more specific, and varied, user needs. When you are evaluating vendors for an extensible system, look for vendors that have demonstrated experience writing extensions.
+**KEY RECOMMENDATION**: An open source product's extensibility is
+often a sign of maturity, as it's developed enough to have a stable
+foundation and pushes flexibility through extensions that can change
+more often to meet more specific, and varied, user needs. When you are
+evaluating vendors for an extensible system, look for vendors that
+have demonstrated experience writing extensions.
 
 (As a side note, the peak of extensibility is when extensions are where most new
 functionality is created.  Veteran software architect Jim Blandy
@@ -479,10 +612,14 @@ has been designed properly.")
 
 Most open source software systems come with at least some
 documentation -- that is, documentation that is officially maintained
-by the project itself and published together with the software. Such documentation is actually a [DPG requirement](https://digitalpublicgoods.net/standard; see [MOSIP](https://docs.mosip.io/platform/architecture/data-architecture) for a good documentation example). In
-many cases, there is also a wealth of scattered and heterogeneous
-third-party documentation: "HOWTO" blog posts, answers posted on sites
-like [Stack Overflow](https://stackoverflow.com/), etc.
+by the project itself and published together with the software.  Such
+documentation is actually a [DPG
+requirement](https://digitalpublicgoods.net/standard; see
+[MOSIP](https://docs.mosip.io/platform/architecture/data-architecture)
+for a good documentation example). In many cases, there is also a
+wealth of scattered and heterogeneous third-party documentation:
+"HOWTO" blog posts, answers posted on sites like [Stack
+Overflow](https://stackoverflow.com/), etc.
 
 The best way to evaluate all this documentation is through a limited
 set of shallow, task-oriented queries.  Reading it all would be too
@@ -510,8 +647,12 @@ focus on improving the project's documentation rather than maintaining
 a separate, non-open-source set of documentation that's just for their
 customers.
 
-**KEY RECOMMENDATION**: Look at the products's installation and initial configuration documentation.  If this deployment documentation is missing, or is obviously incomplete, that is a warning sign about the entire product. When working with vendors, beware of those who try to steer you to their proprietary documentation for functionality that is part of the
-public product.
+**KEY RECOMMENDATION**: Look at the products's installation and
+initial configuration documentation.  If this deployment documentation
+is missing, or is obviously incomplete, that is a warning sign about
+the entire product. When working with vendors, beware of those who try
+to steer you to their proprietary documentation for functionality that
+is part of the public product.
 
 ## Commercial Support Availability
 
@@ -540,16 +681,24 @@ public resources, primarily the code repository, the bug tracker, and
 the discussion/support forums.
 
 If the project has a vendor listing page (see, for example,
-[Mojaloop's business directory](https://mojaloop.io/business-directory/), the vendor should be on that list.
+[Mojaloop's business
+directory](https://mojaloop.io/business-directory/), the vendor should
+be on that list.
 
-**KEY RECOMMENDATIONS**: It's a good sign if an open source product has commercial support around it, such as consulting and development companies. If you are considering working with one of these vendors, you should find solid public evidence of their contributions and engagement. 
+**KEY RECOMMENDATIONS**: It's a good sign if an open source product
+has commercial support around it, such as consulting and development
+companies. If you are considering working with one of these vendors,
+you should find solid public evidence of their contributions and
+engagement.
 
 ## Non-Commercial Support Availability
 
 Open source projects often have quite responsive user support forums:
 places where anyone who has deployed or who uses the software can ask
-a question and get answers from experienced users (e.g. Apache HTTP Server user forum(https://httpd.apache.org/lists.html#http-users)). The people who are
-subscribed to these forums are there for a variety of reasons.
+a question and get answers from experienced users (for example, see
+the [Apache HTTP Server user
+forum](https://httpd.apache.org/lists.html#http-users)). The people
+who are subscribed to these forums are there for a variety of reasons.
 Sometimes they are there because they make heavy use of the software
 and want to gain as much information as they can from other users (but
 therefore are also available to respond to questions from newcomers).
@@ -564,19 +713,25 @@ software in a setup similar to yours, and once you have found each
 other via the forum, you will be able to provide mutual support
 (hopefully still using the public forum!) from then on.
 
-[TODO: Maybe a note here about using open forums! It looks like Mifos moved from https://discourse.mifos.org to Slack? Or this is a good point for OSQA section. Apache Finerac's all seemed old, 2018]. Mojaloop also seemed pretty thin.]
+(TODO: Maybe a note here about using open forums!  It looks like Mifos
+moved from https://discourse.mifos.org to Slack?  Or this is a good
+point for OSQA section.  Apache Fineract's all seemed old, 2018].
+Mojaloop also seemed pretty thin.)
 
-**KEY RECOMMENDATION**: User support forums are useful resources in your evaluation. Don't hesistate to ask questions. 
+**KEY RECOMMENDATION**: User support forums are useful resources in
+your evaluation. Don't hesistate to ask questions.
 
 ## Influence and Participation
 
 Procuring a DPG is very different from buying a physical good like a
 truck or a desk.  You do not, realistically, have much opportunity to
-influence the truck manufacturer, nor collaborate with them to improve the
-trucks that will be coming to the market next year.  But with DPGs,
-that possibility very much exists, and this should be taken into
+influence the truck manufacturer, nor collaborate with them to improve
+the trucks that will be coming to the market next year.  But with
+DPGs, that possibility very much exists, and this should be taken into
 account when evaluating both a particular DPG and your own current
-capacity for taking advantage of that opportunity (for more on the latter point, refer to the next section [Internal Capacity Assessment](/unicef/publicgoods-toolkit/adoptability##internal-capacity-assessment).
+capacity for taking advantage of that opportunity (for more on the
+latter point, refer to the next section [Internal Capacity
+Assessment](TBD: link to #internal-capacity-assessment).
 
 The evaluative question being asked here is: "What
 routes does the project have for us to convert our own usage, and
@@ -590,13 +745,16 @@ appropriate to undertake it after you have already been using the DPG
 for some period of time and have some confidence that deeper
 investment is likely to pay off for your organization.
 
-Most often, routes for influence go through vendors.  Commercial vendors are often the
-organizations that have the greatest motivation to maintain a long-term
-contributor relationship with the project and that have the experience
-in the project's technical culture to know what goals can be
-accomplished in what periods of time.  This is why evaluating the
-vendor's relationship with the project (as discussed in [Commercial Support Availability](/unicef/publicgoods-toolkit/adoptability##commercial-support-availability as well as [Community](/unicef/publicgoods-toolkit/community) is so important:
-the vendor can influence the project on your behalf.
+Most often, routes for influence go through vendors.  Commercial
+vendors are often the organizations that have the greatest motivation
+to maintain a long-term contributor relationship with the project and
+that have the experience in the project's technical culture to know
+what goals can be accomplished in what periods of time.  This is why
+evaluating the vendor's relationship with the project (as discussed in
+[Commercial Support Availability](TBD: link to
+#commercial-support-availability) as well as [Community](TBD: link to
+Community) is so important: the vendor can influence the project on
+your behalf.
 
 It's also important to evaluate the project to make sure it has routes
 of influence available.  You can do this indirectly, by asking your
@@ -608,7 +766,11 @@ open source project governance can, in principle, be amenable to
 influence, in practice projects that are run by committee are more
 reliably amenable to influence, because you have the possibility of
 being on that committee -- or, rather, of being represented on the
-committee by an existing member. Recall too that open source projects later in their lifecycle are often less open to influence, as they will generally prioritize stability. This is usually true for modular projects as well, although their exensibility does give you a path for influence (see [Community](/unicef/publicgoods-toolkit/community).
+committee by an existing member.  Recall too that open source projects
+later in their lifecycle are often less open to influence, as they
+will generally prioritize stability.  This is usually true for modular
+projects as well, although their exensibility does give you a path for
+influence (see [Community](/unicef/publicgoods-toolkit/community).
 
 Project governance documents
 are useful insofar as they describe the formal structure of how
@@ -625,7 +787,9 @@ available) will allow you to make rough guesses about the possibility
 and usefulness of having long-term influence in the project and about
 what sort of commitment of resources that influence might require.
 
-**KEY RECOMMENDATION**: Open source projects have lifecycles, and the maturity level of a project will generally dictate your ability to influence and level/type of investment needed. 
+**KEY RECOMMENDATION**: Open source projects have lifecycles, and the
+maturity level of a project will generally dictate your ability to
+influence and level/type of investment needed.
 
 If your own staff has the technical expertise to participate directly
 in the DPG's development community, that is an investment that may be
@@ -715,7 +879,7 @@ down a bit more before making this summarized checklist.  See also
 previous TBD note re "trawl mode".
 
 
-# Parking Lot
+## Parking Lot
 
 https://producingoss.com/en/evaluating-oss-projects.html
 
@@ -723,6 +887,5 @@ https://www.archesproject.org/wp-content/uploads/2018/01/guidelines_funding_OSS.
 
 http://wiki.civiccommons.org/Open_Source_Development_Guidelines/
 
-https://www.mediawiki.org/wiki/Professional_development_and_consulting)
-
+https://www.mediawiki.org/wiki/Professional_development_and_consulting
 
