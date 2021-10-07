@@ -1,5 +1,5 @@
 # Interview with Kari Moe - NORAD 
-**** Role of NORAD, United Nations Development Program (UNDP) and its Chief Digital Office.
+**** Role of NORAD.
      Funding DPGs.
 
      Have supported DPGs for a number of years, dating back to 1990s
