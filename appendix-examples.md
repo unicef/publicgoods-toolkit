@@ -1,12 +1,6 @@
-# Appendix: Examples, Additional Resources and Tools
+# Appendix: Examples
 
-This appendix collects examples, additional resources, and tools.
-It's intended use is to direct readers to further information and
-places to deepen understanding.
-
-## EXAMPLES
-
-### Open Data and Standards: Open Refferal API
+### Open Data and Standards: Open Referral API
 
 One problem every government has is connecting individual citizens
 with the vast array of social services they might need.  Few people
@@ -83,6 +77,8 @@ Source](https://opendri.org/wp-content/uploads/2017/03/OpenDRI-and-GeoNode-a-Cas
 
 ### Product: OpenHMIS
 
+(TBD: Karl and James to double-check this as an example product.)
+
 The United States' federal agency, Housing and Urban Development (HUD)
 operates a program called
 [HMIS](https://www.hudexchange.info/programs/hmis/), the Homeless
@@ -102,7 +98,7 @@ exists (and it exist quite often), there is an opportunity to develop
 an open source approach that eases the path to compliance for all
 states.
 
-### OPEN SOURCE + THE POWER OF COLLABORATION : Canada’s Covid Exposure Notifications Mobile App
+### Open Source and Collaboration : Canada’s Covid Exposure Notifications Mobile App
 
 The Canadian Digital Service (CDS) is a centralized resource for the
 federal Canadian government that builds tools, technologies and
@@ -131,15 +127,16 @@ a privacy-preserving way. The Linux Foundation Public Health managed
 an open and public security audit.
 
 
-### POLICY : Estonia’s E-Government Services
+### Policy : Estonia’s E-Government Services
 
 Estonia is famous for its pioneering work in [digitizing almost all
 government services](https://e-estonia.com/) in order to build more
 trust and efficiency across its society. The country is also widely
-admired for its **integrated use of national policy guidance, direct
-investment and economic development policy, regulation, and even
-foreign policy to drive and support development of the necessary open
-IT infrastructure.**
+admired for its **[integrated use of national policy
+guidance](https://thedocs.worldbank.org/en/doc/165711456838073531-0050022016/original/WDR16BPEstonianeGovecosystemVassil.pdf),
+direct investment and economic development policy, regulation, and
+even foreign policy to drive and support development of the necessary
+open IT infrastructure.**
 
 Estonia’s earliest guidance focused on how to efficiently build
 interoperable infrastructure that was thoughtfully user-centric. Open
@@ -148,7 +145,7 @@ attention to privacy were key points of guidance. Most of Estonia’s
 e-services software is now open source. The government eventually
 created an [e-state code repository for its
 software](https://koodivaramu.eesti.ee/users/sign_in):
-koodivaramu.eesti.ee (based on ‘open core’ GitLab). It’s notable that
+koodivaramu.eesti.ee (based on open source GitLab). It’s notable that
 this code repository was created by the Ministry of Economic Affairs
 as well as the Information Systems Authority, as **a key goal of the
 government’s use of open source -- as well as of open data, available
@@ -165,22 +162,31 @@ collaborating on common digital infrastructure useful to each
 state. In 2017, it founded the Nordic Digital Infrastructure Institute
 to help govern and foster the joint development of basic e-service
 infrastructure across regional partners. Estonia, Finland and Iceland
-are members. Estonia moved the governance of X-Road(™), its open
+are members. Estonia moved the governance of X-Road, its open
 source data exchange software that powers much of its government
 e-services, to this new organization, along with a few other
-components. X-Road(™) is under an MIT license, but the trademark is
+components. X-Road is under an MIT license, but the trademark is
 still held by the Estonian government, giving them the essential tool
 for protecting trust in the technology.
+
+Estonia planned thoughtfully for how their policies should
+specifically support their open technology approach. For example,
+Estonia’s Public Information Act prohibits government agencies from
+creating separate databases to collect and store the same data, and
+it's actually illegal for new public e-services to design systems that
+store the same data in different repositories. In combination with the
+creation of X-Road data exchange platform, this integrated approach
+drives remarkable efficiency as well as data security and protection.
 
 In June 2021, **Estonia began [enforcing
 legislation](https://www.riigiteataja.ee/akt/122052021002) that
 requires state software source code be made available in the e-state
-code repository, free to the public.** There are limited exceptions.
+code repository, free to the public**, with limited exceptions.
 
-[TODO: confirm licensing structure]
+(TODO: confirm licensing structure)
 
 
-### OPEN SOURCE READINESS : United States Web Design System
+### Open Source Readiness : United States Web Design System
 
 A recommendation in evaluating Open Source Readiness -- and in moving
 up the ‘readiness ladder’ -- is to **look for places where
@@ -195,37 +201,86 @@ well established relationships that would support collaboration
 especially if such collaboration is new) and if it seems an early
 success could be gained without a deep investment.
 
-**An example of a successful ‘low fruit, high shared reward’ approach
-is the [United States Web Design
-System[(https://designsystem.digital.gov/)] (USWDS).** This [open
-source design system](https://github.com/uswds) helps federal agencies
-build accessible, mobile-friendly websites and saves significant time
-and effort. Not all of the thousands of web sites managed by over 400
-US federal agencies need different forms, buttons and search bars!
-USWDS was an early DPG project across seven federal agencies, along
-with 18F and Digital Government Services. A shared [open source web
-analytics solution](https://analytics.usa.gov/) was published around
-the same time. **The reliance on open source development and attention
-to community development has fostered vibrant participation from
-hundreds of government employees across agencies as well as volunteers
-from non-profit organizations, like Code for America.**
+An example of a successful "low fruit, high shared reward" approach is
+the [United States Web Design
+System[(https://designsystem.digital.gov/)] (USWDS).  (Infrastructure
+for web site development and management has often been an area of
+early open source DPG collaboration). This [open source design
+system](https://github.com/uswds) helps federal agencies build
+accessible, mobile-friendly websites and saves significant time and
+effort. Not all of the thousands of web sites managed by over 400 US
+federal agencies need different forms, buttons and search bars!  USWDS
+was an early DPG project across seven federal agencies, along with 18F
+and Digital Government Services. A shared [open source web analytics
+solution](https://analytics.usa.gov/) was published around the same
+time. **The reliance on open source development and attention to
+community development has fostered vibrant participation from hundreds
+of government employees across agencies as well as volunteers from
+non-profit organizations, like Code for America.**
 
-[TO DO: see if can find cost analysis of this work]
+
+## Parking Lot
+
+### In-progress stubs
+
+TBD: Karl rephrased some material that Susy had in progress (from
+commit e4bf35a12d0).  It would need some more more work before being
+moved out of the parking lot and into actual examples.  But also, are
+these DPGs at all?  We may not want to use them as examples.
+
+* Aadhar (https://uidai.gov.in/) 12-digit unique identification (UID)
+  with no need for physical card.  It is the largest biometric digital
+  database covering more than 1.25 billion residents, including more
+  than 99% of the adults in India.  This enables targeted delivery of
+  subsidies and benefits.  Total benefits delivered directly to the
+  bank accounts of beneficiaries now total around 200 billion USD.
+  Indian government estimates savings-to-date at more than 23 billion
+  us dollars.
+
+* JAM (short for Jan Dhan-Aadhaar-Mobile) trinity refers to the
+  government of India initiative to link Jan Dhan accounts, mobile
+  numbers and Aadhaar cards of Indians to plug the leakages of
+  government subsidies combination has helped us take services, access
+  to services and benefits directly to the bank accounts of almost all
+  Indians, including those that reside in some of the most remote
+  parts of the country.
+
+  Unified Payments Interface -- low cost fund transfers all mobile. 5
+  years since launch, ecosystem has eclipsed all credit and debit card
+  payments ecosystem. w/3 months -- lists some stats supporting growth
+  and volume of use
+
+  Covid app -- registration mgmt appts, vaccination
+  certification. Integrate all covid vacc services into one public
+  facing app. 874m vaccinations reported through app. Instant vacc
+  certifications. 25m in one day! Pm has made this available to anyone
+
+### TBD: WIP material from Susy's PR #39 branch -- Karl will check with her
+
+In the course of resolving conflicts while merging the 'susyedits'
+branch (see PR #39), there was some material that was removed on the
+branch (i.e., would be lost from 'main') that I wasn't sure Susy meant
+to be removed -- for example, it might just be that it had been added
+on main after she branched and overlapped with changes she made.  That
+material started right after the "United States Web Design" section
+above (the part ending with "from non-profit organizations, like Code
+for America").  Here it is, with just some light formatting fixes:
+
+(TODO: see if can find cost analysis of this work)
 
 Infrastructure for web site development and management has often been
-an area of early open source DPG collaboration. The UK’s Government
+an area of early open source DPG collaboration. The UK's Government
 Digital Service launched [GOV.UK](https://github.com/alphagov), a
 platform for hosting government websites and information, as its first
 project (It now hosts several e-services as well)
 
-## ADDITIONAL RESOURCES + TOOLS
+## Additional Resources + Tools
 
+**Cultural + Security Considerations When Coding In The Open**
 
-**CULTURAL + SECURITY CONSIDERATIONS WHEN CODING IN THE OPEN**
-
-As noted throughout this toolkit, it’s important to think through the
+As noted throughout this toolkit, it's important to think through the
 cultural shifts required for an open project to succeed, from roughly
-evaluating a project’s ecosystem to assessing internal
+evaluating a project's ecosystem to assessing internal
 capacity. Regulation, policies and processes can set the boundaries of
 an environment and influence behaviour, but the execution is still up
 to individual human choice. Public servants know this well.
@@ -238,7 +293,7 @@ Find out where people are at Listen to the song beneath the words Read
 the behaviour of authority figures for clues.
 
 Open source co-development often requires new tools and processes, and
-that change must be supported by the organization’s culture. Recognize
+that change must be supported by the organization's culture. Recognize
 that some will feel a loss around this and will need guidance. At its
 heart, open source collaboration requires communicating and coding in
 the open. This transparency can bring the benefits outlined throughout
@@ -249,17 +304,17 @@ participants -- to being called out more easily for mistakes.
 and gave some and [Section 6.1] of the document reviewed how to
 evaluate the security of an existing open source project in order to
 understand risk in adoption. But what about protecting the ongoing
-security of a project, or deciding if one’s own work should be open
+security of a project, or deciding if one's own work should be open
 sourced? One of the greatest fears of any technology developer -- or
-any public servant -- is to somehow jeopardize a project’s security
+any public servant -- is to somehow jeopardize a project's security
 and thus potentially harm real people. This understandable fear is
 behind many government agencies' wariness of open source. How can an
 agency decide what code should stay proprietary because of security
-concerns? What if a mistake is made in the open? Isn’t open source
+concerns? What if a mistake is made in the open? Isn't open source
 code a security vulnerability?
 
 The UK government has publicly wrangled with these issues and come up
-with useful guidance. It’s notable that their stance on how much code
+with useful guidance. It's notable that their stance on how much code
 to develop through an open source model has changed from “most” to
 “all, with very limited exceptions.” In short, their experience taught
 them that open sourcing code was actually a great way to confirm and
@@ -270,7 +325,7 @@ such as ensuring configuration files are kept separately from code,
 open peer review improves security. An open source project that in
 itself is about security or privacy should follow
 
-The UK’s guidance [Security Considerations When Coding in the
+The UK's guidance [Security Considerations When Coding in the
 Open](https://www.gov.uk/government/publications/open-source-guidance/security-considerations-when-coding-in-the-open)
 is a concise, clear checklist for developers and program managers that
 links to other useful resources, such as how to manage software
@@ -278,7 +333,7 @@ dependencies and the value of automated style enforcement. These
 checklist items are:
 
 * Open the code early
-* Don’t rely on closed code as your only security measure
+* Don't rely on closed code as your only security measure
 * Follow good development practices
 * Keep keys and credentials closed
 * Assume accidental publications are compromised
@@ -289,39 +344,3 @@ Their [approach to when code should be kept closed](https://www.gov.uk/governmen
 * Data and code related to keys and credentials
 * Algorithms used to detect fraud
 * Unreleased policy should be kept closed.
-
-### Archetypes
-
-For each Archetype discussed in the module on Community, we provide an
-example of a project that fits this archetype.  These are not
-specifically examples of DPGs, but each one illustrates the model.
-
- * Wide Open:  Rust, Apache HTTPD, Open Stack
- * Rocket Ship To Mars: Meteor, Signal
- * B2B: Android, Chromium
- * Specialty Library: libssl, libmp4
- * Multi-Vendor Infrastructure: Kubernetes, Open Stack
- * Mass Market: Firefox, LibreOffice, MediaWiki (due to Wikipedia instance)
- * Upstream Dependency: OpenSSL, WebKit, many small Javascript libraries
- * Trusted Vendor: MongoDB, Hypothes.is, Coral
- * Controlled Ecosystem: WordPress, Drupal
- * Houseplant: most small modules in Ruby Gems, Python PyPi, npm, etc.
- * Bathwater: TODO
-
-
-# Parking Lot
-
-https://producingoss.com/en/evaluating-oss-projects.html
-
-https://www.archesproject.org/wp-content/uploads/2018/01/guidelines_funding_OSS.pdf
-
-http://wiki.civiccommons.org/Open_Source_Development_Guidelines/
-
-https://www.mediawiki.org/wiki/Professional_development_and_consulting
-
-The GeoNode report (already listed in resources.md).
-
-Bernard Golden of Navica's maturity model might be useful here.  It
-assesses software on a range of fronts.  It is not an organizational
-maturity model, but one for a specific development effort and product.
-https://timreview.ca/article/145

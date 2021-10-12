@@ -1,8 +1,146 @@
 # Introduction
 
-[Insert text on who this toolkit is for]
+This operations-focused toolkit provides pragmatic, experience and
+evidence based advice for implementing Digital Public Goods (DPGs) at
+the country level.  These best practices should be useful to any
+organization interested in creating a DPG -- including commercial
+companies -- but it's main audiences are national government agencies
+and UN-affiliated agencies.  The toolkit was created through the
+support of the [UNICEF Office of
+Innovation](https://www.unicef.org/innovation/), as a co-champion of
+the [Digital Public Goods Alliance](https://digitalpublicgoods.net/).
 
-[ Do we want to mention goal-setting and strategic approaches here? ]
+The toolkit takes a topic-focused approach, presenting practical
+recommendations around guidelines, tools, and frameworks that will
+help you create a successful DPG.  It can be read as a whole or per
+individual module and topic.  Topics include: understanding the types
+and value of open source communities and project lifecycles; national
+and agency level policies that relate to Free and Open Source Software
+(FOSS), including intellectual property and FOSS licenses, data
+privacy and security; how to plan for and build organizational
+readiness to capture the full value of your DPG; tips for improving
+procurement, including sample contract language; and how to analyze an
+existing FOSS product for adoptability.  Key recommendations and
+suggestions for further reading are in the text and complemented with
+a list of additional resources and tools in the
+[Appendix](/unicef/publicgoods-toolkit/appendix-resources-tools).  The
+paper also includes a checklist of recommendations and brief overviews
+of select exemplary 'open' projects, including a few DPGs.
+
+Countries have different levels of knowledge and capabilities in open
+technologies and open development models.  We believe this guide is
+written straightforwardly enough that it will be useful no matter
+where you might stand in such maturity.  If you feel that your
+organization or team would benefit from more grounding and support,
+there are numerous resources and networks out there to help, and we
+list a few in the
+[Appendix](/unicef/publicgoods-toolkit/appendix-resources-tools).
+
+The paper largely describes how to understand, evaluate, and use
+existing open source projects in a DPG.  Even those creating entirely
+new projects will find themselves also relying on existing open source
+software.  However, there are additional considerations for creating
+and managing a new open source project.  We occasionally call
+attention to these points throughout the paper, but we also include a
+must-read set of more in-depth resources in the
+[Appendix](/unicef/publicgoods-toolkit/appendix-resources-tools).
+
+This paper also focuses on operational points about open source
+*software* because software -- the collection of things that makes
+computers work -- is what makes a DPG functional in the real world.
+Software is the common denominator across the components of the DPG
+definition (see below).  AI models are a specific subset of software
+programs.  They use data in particular ways to detect patterns, like
+the DPG [AI Agro]( https://rentadrone.cl/developers/ai-agro), with its
+machine learning algorithms and computer vision program [source
+code](https://github.com/RentadroneCL/AI-Agro).  Open data is made
+useful by the software surrounding its creation and access (see the
+[Appendix on
+APIs](/unicef/publicgoods-toolkit/appendix-resources-tools)).  The
+same holds true for open standards, which, among other things,
+describe how software should function.  We note a few unique points to
+be made about any differences between these DPG components in the
+paper.  However, open data and AI models merit deeper treatment in a
+future revision.
+
+Lastly, it's worth prefacing this operational toolkit with a brief
+summary of the benefits of an open approach.  You'll find numerous
+online research papers and case studies on the topic.  We list a few
+in the
+[Appendix](/unicef/publicgoods-toolkit/appendix-resources-tools).
+Experience shows that the main benefits to governments are how open
+approaches drive re-use; easier, faster, and broader cooperation
+across organizational boundaries; and greater local control.  These
+benefits are interrelated and self-reinforcing, and a plethora of
+measureable positives follow on from them.
+
+Re-usability breaks vendor lock-in and brings efficiency gains, lowers
+costs (and thus provides greater accessibility to broader
+populations), and focuses resources on local customization and
+innovation rather than foundational work.  Although the government of
+Sierra Leone created the [Open Data Sierra
+Leone](https://opendatasl.gov.sl/) portal to promote government
+transparency and accountability, their current investment angle views
+these open data sets as important[resources for innovators and
+investors](https://media.un.org/en/asset/k17/k17a9bg6o8) and they are
+figuring out how they can better support innovation linked to this
+open data.  Open source and open data can increase the speed of
+distribution and adoption of innovations as well.  The Philippine
+government was able to [roll out its National Digital Vaccination
+Certificate program in three
+months](https://media.un.org/en/asset/k17/k17a9bg6o8) by re-using and
+adapting the open source vaccination portal CoWIN from India.  The
+Nigeria Centre for Disease Control (NCDC) deployed the DPG
+[SORMAS](https://sormas.org/), an open source mobile product for
+outbreak and epidemic surveillance, [to 30 districts in *14
+days*](https://wwwnc.cdc.gov/eid/article/26/2/19-1139_article) in
+response to an outbreak of monkeypox.  Re-usability of core digital
+infrastructure can also be across domains or sectors.  Sierra Leone is
+evaluting how their OpenG2P implementation, initially deployed during
+the COVID pandemic to get payments to frontline health workers and
+volunteers, can ['scale horizontally' to send payments to teachers and
+schools](https://media.un.org/en/asset/k17/k17a9bg6o8).
+
+(TODO: confirm Philippines used CoWIN, I couldn't hear clearly in the
+presentation but it makes sense)
+
+Open source and open data provide an "off the shelf", low friction
+model for collaboration to create and manage digital goods.  These
+collaborations -- often around foundational, shared infrastructure --
+lower barriers to entry, encourage innovation in areas of more value,
+and can bring in more diverse participation.  These collaborations can
+scale quickly, too.  Such characteristics create a rich environment
+for developing *local* economies and talent, as evidenced by the new
+companies that grew to service [Nigeria's implementation of
+OpenMRS](https://openmrs.org/2010/12/03/open-source-health-information-business-ecosystems-in-resource-poor-environments/).
+
+(TODO: DPG example w/ stats on collaboration growth? will have to dig...)
+
+Lastly, the transparency and digital sovereignty of open source and
+open data -- how they enable locally controlled and developed
+solutions as well as local accountability -- are necessary to
+[building greater trust in digital solutions for achieving the
+SDGs](https://digitalpublicgoods.net/blog/the-transformative-role-of-academia-digital-public-goods.
+Trust is often overlooked, perhaps because it's somewhat intangible
+and hard to measure.  Yet the organizations behind OpenMRS found that
+much of their success was based on the [shared ownership and
+transparency of their open source
+approach](https://openmrs.org/2010/12/03/open-source-health-information-business-ecosystems-in-resource-poor-environments).
+Although there are obvious exceptions to this generalization, the
+decades since the advent of the Internet's global network have
+[amplified existing social, cultural and economic
+inequalities](https://www.un.org/en/content/digital-cooperation-roadmap/assets/pdf/Roadmap_for_Digital_Cooperation_EN.pdf).
+The world faces a [deepening crisis in trust in public
+institutions](https://www.un.org/development/desa/dspd/2021/07/trust-public-institutions/)
+that threatens government agencies' abilities to fulfill the UN's
+Sustainable Development Goals (SDGs).  Of course, open source
+development and access are insufficient in themselves to creating
+trust, and they have to be managed well to have their greatest effect,
+especially for vulnerable populations and sensitive applications.  But
+opaque, proprietary systems and data simply cannot scale in
+trustworthy ways to bring about the transformative changes we need for
+more sustainable, inclusive societies.
+
 
 ## A Brief History of Open Source Collaboration
 
@@ -83,138 +221,23 @@ on:
    freely shared and are trained on open data sets and
    based on algorithms implemented in open-source software.
 
-## Major Software Licenses and License Categories {#foss-licensing}
+   ## DPGs Are About Collaboration, Not Licenses
 
-At the most basic level, government agencies engaging with open source
-can start with basic knowledge of a handful of software licenses.  All
-of these licenses have in common the basic permissions to run, copy,
-modify, and distribute the software.  They each try to create a
-collaborative commons and a shared pool of value.  For all that these
-licenses differ from each other, they are more alike than different.
-
-We broadly describe Free and Open Source Software ("FOSS") licenses as
-existing on a continuum from "permissive" to "protective".  
-The most permissive licenses have the
-fewest restrictions.  They allow the broadest range of activity under
-the broadest range of conditions.  The more protective licenses are
-still quite permissive but they condition those permissions on
-compliance with certain requirements.  Among the commonly used
-licenses, those requirements concern "copyleft", which is the
-requirement that when you distribute software, open source permissions
-attach to some or all of your improvements.  We usually distinguish
-between "weak" and "strong" copyleft as a way to categorize licenses
-by how strict their copyleft requirements are.
-
-[ Insert diagram of license spectrum ]
-
-These three categories, "permissive", "weak copyleft", and "strong
-copyleft" are well-recognized terms in the open source industry, and
-often the first step in considering a license is to classify it with
-one of those labels.  They are a common shorthand that often signal
-the most salient elements of a license for many purposes.
-
-There are three permissive licenses in common use:
-
- * MIT
- * Several variants of BSD
- * Apache 2.0
-
-For most purposes, the MIT and BSD licenses are interchangeable.  In
-fact, many people do not distinguish between them.  Software published
-under either of these extremely permissive licenses may be used with
-no significant restrictions.  Compliance with these licenses is
-bureaucratic, and shouldn't ever affect the substance of a project.
-For the purposes of this discussion, the key takeaway is that
-permissive licenses allow you to make *proprietary* copies.  They
-allow you to take open source code and make things that themselves are
-not open source.
-
-The Apache Software License is similarly permissive and similarly
-bureaucratic.  Its primary differences from the other permissive
-licenses are that it explicitly addresses patent rights.  It contains
-a grant of patent rights and also conditions some rights on patent
-non-assertion.  Other than that, though, its terms are for most
-intents and purposes, quite similar in practical effect to the MIT and
-BSD licenses.
-
-Beyond those permissive licenses, we start to see copyleft clauses.
-"Copyleft" is a play on words.  Whereas copyright is typically used to
-prevent people from sharing software, copyleft requires that
-permission to share attach to at least some of what you build.
-Copyleft restricts your ability to make non-open source software from
-open source ingredients.  This is a bargain designed to nurture a
-commons of shared software-- when you distribute software that is
-built on code from the commons, sometimes that newly made software
-must join the commons too.
-
-We tend to describe copyleft as "weak" if a license only attaches
-copyleft requirements to changes you make to the specific code bearing
-the copyleft license.  Such licenses are fully permissive with respect
-to additions or changes you make to code that merely interacts with or
-relies upon weak copylefted software.  Such licenses create a commons
-with respect to a specific codebase.  They do not try to maximize that
-commons by including everything that builds on top of the codebase.
-Such weak copyleft licenses are particularly suited for software
-libraries.
-
-There are four weak copyleft licenses in common use:
-
- * Eclipse Public License 2.0
- * Mozilla Public License 2.0
- * Common Development and Distribution License 1.1
- * Lesser GNU General Public License
-
-That last license, the LGPL, is an outlier.  Its copyleft requirements
-apply a little more often than the other weak copyleft licenses.
-
-In contrast to weak copyleft, there are two strong copyleft licenses
-that agencies should know about.  We refer to copyleft as "strong"
-when it applies its requirements to any software that derives from the
-original.  That means that it applies not just to software that
-contains literal copies of the original but also to software that
-links to the original.  Its theory is that when you link software
-together you create a new work, and the license requires that this
-entire work be open source and carry forward the copyleft
-requirements.
-
-There are two strong copyleft licenses in common use:
-
- * GNU General Public License
- * GNU Affero General Public License
-
-The AGPL differs from the GPL in one major respect.  Typically,
-copyleft rights flow through distribution.  When you transfer a copy
-of the software, copyleft requires that you give the recipient rights
-to that software.  It requires that the recipient can treat the
-software they receive as open source.  This is true for both weak and
-strong copyleft licenses.
-
-AGPL takes this one step further.  It recognizes that a lot of
-software runs on servers and that most of the people who interact with
-that software will not receive a copy of it under normal
-circumstances.  AGPL tries to correct for this by requiring that if a
-user interacts with the software over a network, that user is entitled
-to receive a copy of the software and all open-source rights to run,
-copy, modify, and distribute it.
-
-## DPGs Are About Collaboration, Not Licenses
-
-This module contains a lot of material about licenses, and any
-discussion of open will eventually include mention of licensing.  It
-is in many ways foundational.  It is also true, though, that open
-source's tendency to focus on licensing is an artifact of history.
-There is a growing consensus among practitioners that open licensing
-works best when it recedes into the background.  In the most succesful
-open projects, licenses set some basic ground rules.  After that,
-collaboration ideally occurs according to norms and best practices
-designed to maximize shared benefits, not carefully track legal
-limits.
+Any discussion of "open" technologies and DPGs will eventually include
+mention of licensing.  It is in many ways foundational.  It is also
+true, though, that open source's tendency to focus on licensing is an
+artifact of history.  There is a growing consensus among practitioners
+that open licensing works best when it recedes into the background.
+In the most succesful open projects, licenses set some basic ground
+rules.  After that, collaboration ideally occurs according to norms
+and best practices designed to maximize shared benefits, not carefully
+track legal limits.
 
 In every sector where we examine DPGs, we find that licenses are a
 useful starting point but that improving collaborative process is
 always a greater factor in success than perfecting licensing terms.
-The key is to make DPGs and share them in ways that catalyze
-collaborative dynamics.  If the openness of a DPG creates new
+*The key is to make DPGs and share them in ways that catalyze
+collaborative dynamics*.  If the openness of a DPG creates new
 opportunities and is susceptible to improvement in open ways, we say
 it "behaves" in an open way.  That behavior is where the public
 benefits are.  It is where an agency's policy goals are met.  That
@@ -226,3 +249,10 @@ lowering barriers to entry, and enabling cooperation across
 boundaries.  DPGs are resources that enable entire communities to
 progress together.  Whenever government creates DPGs instead of
 proprietary resources, these are the policy goals it can create.
+
+The module on [Policy](/unicef/publicgoods-toolkit/policy) delves more deeply into recommended agency level policies on copyright, patent and trademarks for DPGs, while the [Procurement](/unicef/publicgoods-toolkit/community) module provides a few practical recommendations for managing licensing and usage concerns in working with vendors. 
+
+
+
+This paper is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). You can participate in its continued development and request changes at https://github.com/unicef/publicgoods-toolkit
+

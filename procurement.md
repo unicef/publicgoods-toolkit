@@ -1,14 +1,107 @@
 # FOSS Procurement For Government Agencies {#procurement}
 
-Free and Open Source Software (FOSS) has rapidly become successful 
-in the commercial sector.  Few
-modern enterprises can thrive without taking full advantage of open
-source antecedents to power a competitive business.  More and more
-sectors find themselves taken over by open source offerings that crowd
-out once-dominant proprietary competitors.  It is fair to say that
-open source, once maligned by much of the commercial software world,
-has emerged victorious and is now a major component of every software
-effort of note today.
+(TODO: Find more sample RFP or contract language to illustrate more
+points.  Include here or in Appendix.  UPDATE: see ref:f9f71f8d,
+currently in appendix-resources-tools.md -- we now have this sample
+RFP and contract language.  As that note says, let's put it into an
+appendix and refer to it there.)
+
+**KEY RECOMMENDATION**: Modular contracting can help to better connect
+the right vendor to the right task, break vendor lock-in and reduce
+risks associated with any one vendor. It works best with an agile
+development model and modular technical design.
+
+**KEY RECOMMENDATION**: Agencies using modular contracting should
+consider placing these smaller contracts within larger Master Service
+Agreements for more efficiency and flexibility.
+
+**KEY RECOMMENDATION**: Remember that it is more important to attract
+bids from vendors who are experienced at open source development than
+to attract vendors who are experienced at government contracting.
+
+**KEY RECOMMENDATION**: Conduct FOSS-specific outreach early in the
+RFP lifecycle and ensure solicitations are promoted in media
+specifically aimed at open source developers, not just at government
+software vendors (in alignment with your agency's ethics and
+procurement rules).
+
+**KEY RECOMMENDATION**: Although contract amendments are possible
+(especially if they are just budget reallocation), you should seek
+contract terms that allow flexibility and iteration wholly within the
+terms of the agreement.
+
+**KEY RECOMMENDATION**: Include in contracts a process (and budget)
+for iterations and lightweight changes that do not require giving up
+other features and milestones.
+
+**KEY RECOMMENDATION**: Contracts should expressly forbid satisfying
+any deliverable with software that includes any proprietary component.
+
+**KEY RECOMMENDATION**: No matter what happens with intellectual
+property rights at the contracting stage, you must have the ability to
+deploy, (re)distribute, and modify the software under a suitable open
+source license.
+
+**KEY RECOMMENDATION**: Contracts terms must prevent a vendor from
+encumbering further development and distribution on either trademark
+or patent grounds.
+
+**KEY RECOMMENDATION**: Integrating Open Source Quality Assurance
+(OSQA) practices into procurement, vendor management and your own
+planning helps ensure vendors follow-through on the open source
+development *process* as well as the product. Bringing up OSQA
+requirements early in vendor engagement signals your seriousness about
+open source success and puts vendors on notice, which is particularly
+helpful when relying on vendors that don't have much open source
+experience. For a fuller description of what OSQA entails, please see
+a sample OSQA statement of work in the Appendix (TBD LINK).
+
+**KEY RECOMMENDATION**: You should participate directly in technical
+development, even if only to a small degree, in order to create
+credibility and connection with vendors and contractors and to
+contribute to maintaining a consistent open source culture. There are
+high, reusable dividends to this investment.
+
+**KEY RECOMMENDATION**: You should require acceptance of code into the
+open source repository as part of the definition of contractual
+delivery in software milestones.
+
+**KEY RECOMMENDATION**: An agency should add OSQA elements to its
+requirements list when considering project roles.  If it does not plan
+to do OSQA in-house, it should consider contracting for it.
+
+**KEY RECOMMENDATIONS**: Smaller modular contracts can make business
+more difficult for smaller vendors, especially in managing staffing
+and costs. However, you can alleviate this by: designing a development
+schedule to minimize discontinuities in work and contracts; adopt the
+MSA structure, which enables vendors to operate under multiple
+contract modules at once, each with different end dates; specify work
+in sets that fit under caps that allow contracting with streamlined
+processes; and begin the procurement process early, especially
+renewals for additional development stages.
+
+**KEY RECOMMENDATION**: While operation costs might be a separate
+line-item, much of the maintenance work should be part of the ongoing,
+modular improvement that keeps software current and prevents an agency
+from having to start over. Be sure to build monthly carrying costs
+into your budget.
+
+This module describes how a modular contracting approach to
+procurement can help you manage vendors to create a successful DPG. It
+includes tips for open source related Requests for Proposals (RFPs)
+and creating good open source focused contracts with vendors. The
+Policy module (TBD LINK) includes points around security and data
+protection in vendor contracts, with some example language in the
+Appendix. (TBD LINK)
+
+Free and Open Source Software (FOSS) has rapidly become successful in
+the commercial sector.  Few modern enterprises can thrive without
+taking full advantage of open source antecedents to power a
+competitive business.  More and more sectors find themselves taken
+over by open source offerings that crowd out once-dominant proprietary
+competitors.  It is fair to say that open source, once maligned by
+much of the commercial software world, has emerged victorious and is
+now a major component of every software effort of note today.
 
 Relatedly, an agile, iterative, and continuous style of development
 has taken hold at the most successful technology companies.  Gmail,
@@ -22,33 +115,56 @@ everything else break, because clear module boundaries have been
 defined.  These boundaries often reflect organizational divisions as
 much as technical ones.
 
-FURTHER READING: The US Government Accountability Office published a
-  guide in 2012 that is a useful resource for government agencies
-  engaged in agile development:
-  https://www.gao.gov/assets/600/593091.pdf
-
+**FURTHER READING**: The [US Government Accountability Office
+published a guide](https://www.gao.gov/assets/600/593091.pdf)in 2012
+that is a useful resource for government agencies engaged in agile
+development.
+  
 This style of development is closely connected to open source: the
 availability of swappable open source components makes modular
 development not only possible but practically inevitable, and it
 rewards companies for participating in the open source projects they
-depend on the most.
+depend on the most.  George Gelaga-King of Sierra Leone (TODO: is
+there a better title related to his project work?  A name for this
+project?)  described how his agency built an open, composable
+infrastructure platform that any ministry needing a data
+warehouse/analytics/visualization solution can plug into.  Initial
+funding was to build this for a Geographical Informations Systems
+(GIS) application, but their modular approach means the investment is
+useful in other domains, thus amplifying the effect of the work and
+helping other ministries move more quickly on their own data-intensive
+projects.
 
-KEY RECOMMENDATION: For a good introduction to modular architecture,
-  see this blog post, which is the first in a two-part series:
-  https://medium.com/on-software-architecture/on-modular-architectures-53ec61f88ff4.
-  Another useful resource is
-  https://blog.fedecarg.com/2008/06/28/a-modular-approach-to-web-development/,
-  which focuses on web development.
+Time will tell, but the open source, open standards based modular
+approach might also make DPGs particularly attractive to funders, as
+one investment can reap a significantly compounded return as that
+module gets adapted and re-used. OpenAPIs and a modular architecture
+can also help bring in funding for specific use cases, as was the case
+for DHIS2 and philanthropic funding for [integrating DHIS2 with
+Microsoft
+BI](https://wiki.digitalsquare.io/index.php/Digital_Square_Investments_in_Global_Goods#Notice_B_Investments)
+-- an activity led not by core DHIS2 members but by a non-profit
+organization and their commercial partner.
+
+**FURTHER READING**: For a good introduction to modular architecture,
+see this [blog
+post](https://medium.com/on-software-architecture/on-modular-architectures-53ec61f88ff4),
+which is the first in a two-part series. Another useful resource is
+this [blog
+post](https://blog.fedecarg.com/2008/06/28/a-modular-approach-to-web-development),
+which focuses on web development. See also the section on
+Extensibility in
+[Adoptability](/unicef/publicgoods-toolkit/adoptability)
 
 Generally speaking, though, government has lagged behind.  While
-governments have begun to embrace open source approaches, actual, open
+governments have begun to embrace open source approaches, actual open
 source successes are much more rare in government than in the private
-sector.  There are a lot of reasons why this is the case,
-(https://producingoss.com/en/producingoss.html\#governments-and-open-source
-discusses some of those reasons.) but none of them is that open source
-is somehow unsuited for government use.  Rather, government has not
-yet spent a decade honing open source practices that take into account
-the particular needs of government software development.
+sector.  There are a lot of [reasons why this is the
+case](https://producingoss.com/en/producingoss.html\#governments-and-open-source),
+but none of them is that open source is somehow unsuited for
+government use.  Rather, government has not yet spent a decade honing
+open source practices that take into account the particular needs of
+government software development.
 
 One place this disparity appears is in contracting.  Government has an
 obligation to safeguard the public trust.  Its operation is accountable
@@ -63,6 +179,20 @@ succeed at FOSS projects.  It does suggest, though, that
 approaches should be designed with care for the particular constraints
 and opportunities found in public agencies.
 
+(TBD: The paragraph below was clearly meant to have a link to
+something?  Ask Susy -- I think she added the para.)
+
+A buyer's category management guide and resources for the Procurement
+of Digital Technologies in furthering the Sustainable Development
+Goals.  The guide is designed to provide a customised framework and
+toolset to be applied when procuring digital goods and services,
+within the framework of national procurement policies and procedures.
+
+The guide follows a step by step process that covers both the
+strategic planning and alignment of stakeholders across the digital
+category as a whole, and provides support across the entire category
+management lifecycle.
+
 ## Modular Contracting
 
 One center of excellence in government development of FOSS software is
@@ -71,13 +201,13 @@ Services Administration.  They focus on technology procurement for
 federal agencies, and their methodology typically begins with agile
 and open source approaches.  18F is generally considered a model
 agency when it comes to open source.  They advise federal projects to
-consider procurement based on a model of "modular contracting," (See
-https://18f.gsa.gov/tags/modular-contracting/) in which large projects
-are procured via a set of small contracts, each to the vendor most
-suited for a particular task.  This is a good starting point for state
-and local technology procurement as well. (18F addresses non-federal
-modular contracting at
-https://18f.gsa.gov/2016/11/15/modular-procurement-state-local-government/.)
+consider procurement based on a model of "[modular
+contracting](https://18f.gsa.gov/tags/modular-contracting/)" in which
+large projects are procured via a set of small contracts, each to the
+vendor most suited for a particular task.  This is a good starting
+point for state and local technology procurement as well (18F also
+addresses [non-federal modular contracting](
+https://18f.gsa.gov/2016/11/15/modular-procurement-state-local-government>)).
 
 This approach has several benefits, beginning most importantly with
 breaking vendor lock-in.  At any point, a well-procured effort should
@@ -146,7 +276,7 @@ risky, and multiple vendors working in an open mode makes it likely
 that issues will be surfaced before they become catastrophic, when
 remediation might still be easy and relatively inexpensive.
 
-Finally, small, modular contracts align well with a technologically
+Small, modular contracts align well with a technologically
 modular design.  Modular contracting enforces modular technical design
 as different teams need to separate concerns so they can all develop
 in parallel.  Similarly, a technically modular product is susceptible
@@ -159,8 +289,26 @@ enforce the technical boundaries that keep open source process
 functioning. Another approach to enforcing modular separation is
 through OSQA, described below.
 
-KEY RECOMMENDATION: Modular contracting works best with agile,
-  open source development and modular technical design.
+Should there be a significant set of particular local needs for your
+DPG, modular contracting (and a modular architecture) provides
+flexibility to accomodate customizations and better support local
+business and talent development.  As an example, [UNICEF contracted
+with a commercial software develoment
+vendor](https://www.unicef.org/evaluation/media/946/file/Primero.pdf)
+to create the open source Primero platform.  Deploying agencies can
+find their own vendors to design and build Primero forms and
+workflows, but if the project is complicated or the deploying agency
+is unable to source additional development and funds locally, UNICEF
+entered long-term agreements with four IT service providers to help.
+
+Finally, we note that modular contracting aligns perfectly with the
+[Open Contracting Data Standard
+DPG](https://standard.open-contracting.org/latest/en/).
+
+**KEY RECOMMENDATION**: Modular contracting can help to better connect
+the right vendor to the right task, break vendor lock-in and reduce
+risks associated with any one vendor. It works best with an agile
+development model and modular technical design.
 
 One aspect of modular contracting that is sometimes overlooked is that
 it can be costly to conduct many smaller rounds of procurement.  Even
@@ -177,7 +325,7 @@ challenge.  Smaller contracts for shorter periods of work provide less
 stability.  Vendors find themselves unable to make the long-term
 commitments needed to hire long-term employees instead of ad-hoc
 contractors tend not to stay as long.  That raises their costs, which
-of course eventually raises costs for your agency.
+of course eventually raises costs for your agency. Modular contracts can cause additional staffing complexity for vendors as well (see below, Vendor Staffing). (TBD LINK)
 
 For these reasons, we suggest that agencies engaged in modular
 contracting place those contract modules in larger Master Services
@@ -192,10 +340,131 @@ larger contract modules, especially as the project grows in scope.
 One might also allocate these larger modules among its existing set of
 vendors as a way to balance risk management with cost management.
 
+**KEY RECOMMENDATION**: Agencies using modular contracting should
+consider placing these smaller contracts within larger Master Service
+Agreements for more efficiency and flexibility.
 
-FURTHER_READING: For a comprehensive view into modular contracting,
-  there is a 2012 guide produced by the Obama administration:
-  https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/guidance/modular-approaches-for-information-technology.pdf
+**FURTHER READING**: The Obama administration in the United States
+produced a useful and very [comprehensive guide to modular
+contracting](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/guidance/modular-approaches-for-information-technology.pdf)
+in 2012.
+ 
+## Open Source Solicitation
+
+Modular contracting can often be done in small enough contracts that
+streamlined procurement processes are available.  At some point,
+though, an agency may want to embark on a larger project that does not
+easily fit into a "small contracting" budgeting provision.  In that
+case, it will need to operate a formal RFP process.  This section
+contains information on open source concerns that should be considered
+during that process but many points are also relevant in non-RFP
+requiring situations.
+
+First, it's essential to include the requirement for open source
+development and final product in the RFP stage. As George Gelaga-King
+(TBD: proper title) noted, "You have to inject this into the RFP
+stage, rather than layer open source in later."
+
+A common pitfall in procurement is beginning an RFI and RFP process
+with high hopes for attracting vendors eager to provide agile, open
+source development in a public spirit of building multi-jurisdictional
+software but ending up unable to deliver on those hopes.
+Unfortunately, RFP responses often include a long list of traditional
+vendors who are not eager to work in this manner and perhaps lack the
+experience needed to do so well.  The hoped-for vendors are nowhere to
+be found.  Eventually, as RFP deadlines loom, agencies look around for
+additional submissions and maybe even try to promote the RFP in new
+forums.  When FOSS-experienced vendors notice the RFP, they have a
+short week to submit a hastily compiled bid that shows both their
+inexperience and the rushed timeframe.
+
+This failure pattern appears at all levels of government and in many
+different types of agencies.  The truth is that even as governments
+are still gaining sophistication with open source, the commercial FOSS
+world is also still gaining maturity in navigating government
+procurement systems.  Many open source development companies,
+especially smaller and less traditional ones, do not have procedures
+that let them discover open source opportunities at early stages.  If
+government is to succeed at open source, it needs to expand the pool
+of RFP respondents. This might mean dropping requiring a vendor to
+have experience and references around past government projects.
+
+**KEY RECOMMENDATION**: It is more important to attract bids from
+vendors who are experienced at open source development than to attract
+vendors who are experienced at government contracting.
+
+There are several strategies procurement agencies use in this regard:
+
+First, it pays to ensure that solicitations are promoted in media
+aimed at open source developers, not just at government software
+vendors.  An agency might maintain a list of community connectors who
+can promote a solicitation to a wider open source audience.  It is
+important to conduct this outreach early in the process because newer
+vendors will need more time than government-experienced vendors to
+prepare responses. (Although it goes without saying, it is worth
+emphasizing here that this type of targeted outreach must comply with
+ethics and procurement rules.)
+
+**KEY RECOMMENDATION**: Conduct FOSS-specific outreach early in the
+RFP lifecycle and ensure solicitations are promoted in media
+specifically aimed at open source developers, not just at government
+software vendors (in alignment with your agency's ethics and
+procurement rules).
+
+Second, it is important to be clear in describing project requirements
+and emphasizing the need for open source deliverables, process, and
+experience (see Open Source Quality Assurance below for more on this
+(TBD LINK); text in the Appendix (TBD LINK) can be copied as merited
+for the RFP as well).  The phrase "open source" applies in contexts
+other than software (e.g., open source intelligence), so be sure to
+spell out the full phrase "open source software" for vendors searching
+the web or databases for opportunities.  The types of vendors an
+agency hopes to attract will be sophisticated about the differences
+between open source software, open data, and agile development.  Be
+specific and strategic in using these terms and back them up with
+questions designed to elicit experience in these domains.
+
+Third, if using modular contracting, make sure vendors understand the
+breadth of solicitations so they can understand both their specific
+bid and the overall process.
+
+Fourth, open source vendors expect agile, iterative development.  However, a
+traditional RFP process often asks vendors to envision the entire
+engagement and price it as a whole, which requires a degree of
+pre-planning that open source modular contracting is specifically
+designed to avoid.  Craft a process that is clear about goals and
+requirements but leaves room for vendors to meet them in flexible ways
+that might change over the course of the project.   This
+requires being clear about which requirements are truly fixed and
+which ones were added because they seem likely to be needed on the
+path toward a complete solution.
+
+**KEY RECOMMENDATION**: Although contract amendments are possible
+(especially if they are just budget reallocation), you should seek
+contract terms that allow flexibility and iteration wholly within the
+terms of the agreement.
+
+The upside for an agency is that this flexibility runs in both
+directions.  Procuring agencies should be able to request incremental
+improvements that were not specified in detail at project inception
+without incurring the costs of change orders.  Similarly, agencies
+should avoid vendors that demand high-overhead change orders for minor
+adjustments.  Neither vendors nor agencies can be expected to predict
+every last detail of development in advance.  A process that requires
+such prediction is a broken process.
+
+**KEY RECOMMENDATION**: Include in contracts a process (and budget)
+for iterations and lightweight changes that do not require giving up
+other features and milestones.
+
+In talking to open source software development vendors, it is clear
+that there are many capable firms that would provide excellent service
+to government agencies.  Too many of these firms avoid responding to
+RFPs because they cannot navigate the process.  Agencies can procure
+from experienced open source vendors by leading more of these vendors
+into the government services space and fostering competition in FOSS
+service delivery.
+
 
 ## Intellectual Property Contract Terms
 
@@ -204,7 +473,7 @@ can help maximize the benefits of a vendor ecosystem.  Adopting those
 best practices often starts with a consideration of contract terms.
 
 Many government software vendors have traditionally retained
-intellectual property rights to the software they create, even though
+intellectual property rights to the software they create even though
 that software was created at public expense.  There are a variety of
 reasons why such arrangements were common in the past, but many of the
 conditions that made it necessary no longer hold.  For example,
@@ -218,7 +487,7 @@ Perhaps more importantly, government procurement agents today have more
 options in the marketplace.  There is a growing number of experienced
 vendors capable of delivering world-class software who don't require
 exclusive legal rights to exploit the codebase at the end of the
-contract.  Open source is competitive, and is driving wholly proprietary
+contract.  Open source is competitive and is driving wholly proprietary
 approaches out of the market.
 
 There are three classes of software delivered in a typical procurement
@@ -227,9 +496,8 @@ vendor-created software, and code custom-written by the vendor for the
 current project.  Notice this list does not include any third-party
 proprietary software.
 
-KEY RECOMMENDATION: Contracts should expressly forbid satisfying
-  any deliverable with software that includes any proprietary
-  component.
+**KEY RECOMMENDATION**: Contracts should expressly forbid satisfying
+any deliverable with software that includes any proprietary component.
 
 These different types of software are to some degree distinguishable
 for procurement purposes, but might be intermingled in the source
@@ -239,10 +507,10 @@ plans and never needs to secure a vendor's permission to operate,
 improve, or hire other parties to work on the software.  This is the
 key point.
 
-KEY RECOMMENDATION: No matter what happens with intellectual
-  property rights at the contracting stage, " + client + " must have
-  the ability to deploy, distribute, and modify the software under a
-  suitable open source license.
+**KEY RECOMMENDATION**: No matter what happens with intellectual
+property rights at the contracting stage, you must have the ability to
+deploy, (re)distribute, and modify the software under a suitable open
+source license.
 
 For third-party open source software, this means that an agency must
 receive that software, clearly labeled, in a manner compliant with
@@ -267,9 +535,9 @@ relicensing so they can resell that software to other clients or in
 other markets.  A vendor might even enjoy a period of exclusivity in
 its ability to make proprietary use of the software.  Specific
 arrangements will vary, but there is no harm in them so long as a) the
-terms serve a larger goal of fostering a multi-vendor ecosystem, and
-b) the agency always has full rights, including redistribution rights,
-under the desired outbound open source license.
+terms serve a larger goal of fostering a multi-vendor ecosystem, and,
+as noted above, b) the agency always has full rights, including
+redistribution rights, under the desired outbound open source license.
 
 As an example, the County of Los Angeles in California, engaged a
 vendor, Smartmatic, to build new open source voting machines that
@@ -287,11 +555,20 @@ participants to join the effort.  Other public-spirited projects in
 which a primary vendor predominates have either considered or adopted
 similar arrangements.
 
-It is worth making one final point about rights.  Open source licenses
-commonly deal with copyrights.  They do not adequately address
-trademarks and are uneven in their handling of patents.  Contracts
-must secure terms that prevent a vendor from encumbering further
-development and distribution on either trademark or patent grounds.
+It is worth making one final point about rights.  As we touched upon
+earlier in the Introduction (TBD LINK) and Policy modules (TBD LINK),
+open source licenses commonly deal with copyrights.  They do not
+adequately address trademarks and are uneven in their handling of
+patents.  Contracts must secure terms that prevent a vendor from
+encumbering further development and distribution on either trademark
+or patent grounds.  It's not enough to get a blessing for governmental
+or "public" use.  What's needed is a promise to not make patent
+infringement claims on *anyone* for their use of the patent as
+embodied in the DPG.
+
+**KEY RECOMMENDATION**: Contracts terms must prevent a vendor from
+encumbering further development and distribution on either trademark
+or patent grounds.
 
 ## Open Source Quality Assurance
 
@@ -326,11 +603,14 @@ source, or that resists open source dynamics, thus leaving the vendor
 as the sole practical source for that component in the government
 procurement marketplace.
 
-Whatever the reason for failure to participate in an open source process,
-agencies must have ways to bring recalcitrant vendors into process
-compliance.  Otherwise, the project risks failure across multiple
-teams.  To prepare for such situations, we recommend instituting Open
-Source Quality Assurance ("OSQA") at the project management level.
+Whatever the reason for failure to participate in an open source
+process, agencies must have ways to bring recalcitrant vendors into
+process compliance.  Otherwise, the project risks failure across
+multiple teams.  To prepare for such situations, we recommend
+instituting Open Source Quality Assurance ("OSQA") at the project
+management level.  See the [Appendix: Resources and
+Tools](/unicef/publicgoods-toolkit/appendix-resources-tools) for a
+detailed sample OSQA statement of work.
 
 OSQA is a set of practices designed to ensure that an open source
 project *behaves* like an open source project.  If vendors are
@@ -345,6 +625,24 @@ dependency and lock-in.  By the time these failures are obvious to the
 procuring agency, the final product will struggle as it experiences
 all the complexity of modular contracting without the benefits.
 
+The Bill and Melinda Gates Foundation recognizes the importance of
+OSQA to successful open source projects.  To ensure that code
+contribution to the DPG Mojaloop runs smoothly and always prioritizes
+development of open-loop, pro-poor digital financial systems, they
+[gave funding for a community manager
+role](https://appdevelopermagazine.com/the-gates-foundation-chats-about-mojaloop).
+
+**KEY RECOMMENDATION**: Integrating Open Source Quality Assurance
+(OSQA) practices into procurement, vendor management and your own
+planning helps ensure vendors follow-through on the open source
+development *process* as well as the product. Bringing up OSQA
+requirements early in vendor engagement signals your seriousness about
+open source success and puts vendors on notice, which is particularly
+helpful when relying on vendors that don't have much open source
+experience. For a fuller description of what OSQA entails, please see
+a samplestatement of work that includes OSQA in the Appendix (TBD
+LINK).
+
 There are a variety of OSQA techniques one can introduce.  OSQA "sits
 on the tree" and enforces standards at the pull request stage.  This
 means OSQA approval is needed before source code changes can be
@@ -356,6 +654,8 @@ Vendors soon realize they cannot invoice if they do not deliver
 approved code, which provides OSQA an entry point into a collaborative
 discussion about best practices that deliver high-quality code that
 passes approval standards quickly.
+
+(TODO: Find another term of describing "sit on the tree")
 
 OSQA enforces policies about testing, adherence to design
 guidelines, accessibility compliance, and communications (e.g., as
@@ -382,11 +682,11 @@ work.  It will also help ensure that open source processes are
 followed in spirit as well as in letter, since lapses will be more
 readily apparent.
 
-
-KEY RECOMMENDATION: client + " should participate directly in
-  technical development, even if only to a small degree, in order to
-  create credibility and connection with vendors and contractors and
-  to contribute to maintaining a consistent open source culture.
+**KEY RECOMMENDATION**: You should participate directly in technical
+development, even if only to a small degree, in order to create
+credibility and connection with vendors and contractors and to
+contribute to maintaining a consistent open source culture. There are
+high, reusable dividends to this investment.
 
 Furthermore, by requiring OSQA to sign off on code submissions, an
 agency can enforce standards in the one way that vendors cannot
@@ -394,12 +694,12 @@ ignore: it stands between vendors and reaching their contracted
 deliverables.  That is, it allows an agency to enforce open source
 process compliance as a condition of being paid on time.
 
-KEY RECOMMENDATION: client + " should require acceptance of code
-  into the open source repository as part of the definition of
-  contractual delivery in software milestones.
+**KEY RECOMMENDATION**: You should require acceptance of code into the
+open source repository as part of the definition of contractual
+delivery in software milestones.
 
 At every stage, the software should be ready for open source
-engagement, and OSQA is an agency's assurance that this is true.
+engagement. OSQA is an agency's assurance that this is true.
 
 Sitting on the tree is only one aspect of an OSQA program.  There are
 a number of other strategies, and choosing the right mix for a given
@@ -409,12 +709,10 @@ module, but the point here is not that an agency should master all
 these techniques, just that it should identify and implement at least
 some approaches.
 
-KEY RECOMMENDATION: An agency should add OSQA elements to its
-  requirements list when considering project roles.  If it does not
-  plan to do OSQA in-house, it should consider contracting for it.
-  For a fuller description of what this element entails, please see a
-  sample OSQA statement of work in [[ TODO: Add sample ]].
-
+**KEY RECOMMENDATION**: An agency should add OSQA elements to its
+requirements list when considering project roles.  If it does not plan
+to do OSQA in-house, it should consider contracting for it.
+  
 OSQA has a track record of success in government agencies.  We have
 performed OSQA and seen it work well at several levels of government,
 from federal to local.  In one instance, OSQA was begun long after the
@@ -440,8 +738,16 @@ learning by example is how well-functioning open source projects set
 norms, and as project development finds its rhythm, one can also
 expect less-experienced open source vendors to learn from the others.
 
+## Data Protection and Security 
 
-## Staffing
+(TBD: section incomplete)
+
+implements adequate measures for ensuring the integrity,
+confidentiality and availability of data to mitigate security risks.
+
+data service agreements
+
+## Vendor Staffing
 
 Staffing a software development effort while engaged in modular
 contracting can be a challenge.  Smaller contracts will tend to lead
@@ -521,16 +827,23 @@ successive contract modules.  The disruption from small gaps can be
 larger than intended, but longer-term, planned staffing adjustments
 are always an available tool, even when issuing modular contracts.
 
+**KEY RECOMMENDATIONS**: Smaller modular contracts can make business
+more difficult for smaller vendors, especially in managing staffing
+and costs. However, you can alleviate this by: designing a development
+schedule to minimize discontinuities in work and contracts; adopt the
+MSA structure, which enables vendors to operate under multiple
+contract modules at once, each with different end dates; specify work
+in sets that fit under caps that allow contracting with streamlined
+processes; and begin the procurement process early, especially
+renewals for additional development stages.
+
 ### Maintenance and Operations
 
-One aspect of budgeting that is often overlooked at the development
-stage is ongoing maintenance and operations.  A well-designed software
-package should yield M&O costs that are predictable, and that in most
-cases are fairly low relative to the cost of
-development. (There may be exceptions to this --- projects in
-which the monthly M&O cost is high relative to the original cost of
-development --- but we do not anticipate this project being such an
-exception.)  While there are many choices to be made about
+One aspect of budgeting that is often overlooked is ongoing
+maintenance and operations (M&O).  A well-designed software package
+should yield M&O costs that are predictable and that in most cases are
+fairly low relative to the cost of development (of course, there are
+exceptions). While there are many choices to be made about
 infrastructure, resource usage, deployment environments and so on,
 most of those choices result in fairly similar ongoing cost
 structures.
@@ -571,7 +884,8 @@ Regardless of where the deployment eventually resides, though, it is
 reasonable to build a monthly carrying cost into the budget.  Even if
 centralized IT hosts the deploy, it is possible (perhaps even likely)
 that an agency will have to be a motive force behind non-feature
-upgrades for stability and security.
+upgrades for stability and security.  The centralized agency might
+also charge back some of its costs.
 
 Custom software should not be treated like a depreciable asset that
 gets fixed when broken and replaced when outdated.  Modular design and
@@ -585,112 +899,8 @@ development, combine the maintenance with slowly tending to structure
 and paying down the "technical debt" that accumulates in projects and
 degrades them over time.
 
-KEY RECOMMENDATION: while operation might be a separate line-item,
-  much of the maintenance work should be part of the ongoing, modular
-  improvement that keeps software current and prevents an agency from
-  having to start over.
-
-## Open Source Solicitation
-
-Modular contracting often can be done in small enough contracts that
-streamlined procurement processes are available. At some point,
-though, an agency may want to embark on a larger project that does not
-easily fit into a "small contracting" budgeting provision.  In that
-case, it will need to operate an RFP process.  This section contains
-information on open source concerns that should be considered during
-that process.
-
-The RFP process is another aspect of procurement that government
-agencies might improve.  A common pitfall is beginning an RFI and RFP
-process with high hopes for choosing vendors eager to provide agile,
-open source development in a public spirit of building
-multi-jurisdictional software.  Unfortunately, RFP responses often
-include a long list of traditional vendors who are not eager to work
-in this manner and perhaps lack the experience needed to do so well.
-The hoped-for vendors are nowhere to be found.  Eventually, as RFP
-deadlines loom, agencies look around for additional submissions and
-maybe even try to promote the RFP in new forums.  When
-FOSS-experienced vendors notice the RFP, they have a short week to
-submit a hastily compiled bid that shows both their inexperience and
-the rushed timeframe.
-
-This failure pattern appears at all levels of government and in many
-different types of agencies.  The truth is that even as governments
-are still gaining sophistication with open source, the commercial
-FOSS world is also still gaining maturity in navigating
-government procurement systems.  Many open source development
-companies, especially smaller and less traditional ones, do not have
-procedures that let them discover open source opportunities at early
-stages.  If government is to succeed at open source, it needs to
-expand the pool of RFP respondents.
-
-KEY RECOMMENDATION: It is more important to attract bids from
-  vendors who are experienced at open source development than to
-  attract vendors who are experienced at government contracting.
-
-There are several strategies procurement agencies use in this regard:
-
-First, it pays to ensure that solicitations are promoted in media
-aimed at open source developers, not just at government software
-vendors.  An agency might maintain a list of community connectors who
-can promote a solicitation to a wider open source audience.  It is
-important to conduct this outreach early in the process, because newer
-vendors will need more time than government-experienced vendors to
-prepare responses. (Although it goes without saying, it is worth
-emphasizing here that this type of targeted outreach must comply with
-ethics and procurement rules.)
-
-KEY RECOMMENDATION: Conduct FOSS-specific outreach early in the
-  RFP lifecycle.
-
-Second, it is important to be clear in describing project requirements
-and emphasizing the need for open source deliverables, process, and
-experience.  The phrase "open source" applies in contexts other than
-software (e.g., open source intelligence), so be sure to spell out the
-full phrase "open source software" for vendors searching the web or
-databases for opportunities.  The types of vendors an agency hopes to
-attract will be sophisticated about the differences between open
-source software, open data, and agile development.  Be specific and
-strategic in using these terms, and back them up with questions
-designed to elicit experience in these domains.
-
-Third, if using modular contracting, make sure vendors understand the
-breadth of solicitations so they can understand both their specific
-bid and the overall process.
-
-Fourth, open source vendors expect agile, iterative development.  A
-traditional RFP process often asks vendors to envision the entire
-engagement and price it as a whole, which requires a degree of
-pre-planning that open source modular contracting is specifically
-designed to avoid.  Craft a process that is clear about goals and
-requirements but leaves room for vendors to meet them in flexible ways
-that might change over the course of the project.   This
-requires being clear about which requirements are truly fixed and
-which ones were added because they seem likely to be needed on the
-path toward a complete solution.
-
-KEY RECOMMENDATION: Although contract amendments are possible
-  (especially if they are just budget reallocation), "+client+" should
-  seek contract terms that allow flexibility and iteration wholly
-  within the terms of the agreement.
-
-The upside for an agency is that this flexibility runs in both
-directions.  Procuring agencies should be able to request incremental
-improvements that were not specified in detail at project inception
-without incurring the costs of change orders.  Similarly, agencies
-should avoid vendors that demand high-overhead change orders for minor
-adjustments.  Neither vendors nor agencies can be expected to predict
-every last detail of development in advance.  A process that requires
-such prediction is a broken process.
-
-KEY RECOMMENDATION: Include in contracts a process (and budget)
-  for iterative process and lightweight changes that do not require
-  giving up other features and milestones.
-
-In talking to open source software development vendors, it is clear
-that there are many capable firms that would provide excellent service
-to government agencies.  Too many of these firms avoid responding to
-RFPs because they cannot navigate the process.  Agencies can procure
-from experienced open source vendors by leading more of these vendors
-into the government services space and fostering competition in FOSS
-service delivery.
+**KEY RECOMMENDATION**: While operational costs might be a separate
+line-item, much of the maintenance work should be part of the ongoing,
+modular improvement that keeps software current and prevents an agency
+from having to start over. Be sure to build monthly carrying costs
+into your budget.
