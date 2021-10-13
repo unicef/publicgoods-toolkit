@@ -48,13 +48,19 @@ default/files/documents/1864/Software_Global_Goods_Valuation_Framework_VFinal.pd
 
 * TBD: interview notes, of course
 
+* https://github.com/18F/Modular-Contracting-And-Agile-Development/blob/master/_strategies/modular-procurement.md
+
 * https://digitalpublicgoods.net/DPGA_Financial-Inclusion-DPG-Technical-Assessment.pdf
+
+* https://procurement-digitalimpactalliance.org/
 
 * https://pdf.usaid.gov/pdf_docs/PA00WRTP.pdf
 
 * https://opendatatoolkit.worldbank.org/docs/odra/odra_sierra_leone.pdf
 
 * https://media.un.org/en/asset/k17/k17a9bg6o8
+
+* https://mifos.org/blog/documenting-technology-impact-mifos-roi-model-case-studies/
 
 * https://appdevelopermagazine.com/the-gates-foundation-chats-about-mojaloop/
 
@@ -81,6 +87,11 @@ default/files/documents/1864/Software_Global_Goods_Valuation_Framework_VFinal.pd
 * (https://blog.fedecarg.com/2008/06/28/a-modular-approach-to-web-development)
 
 * https://18f.gsa.gov/tags/modular-contracting/
+
+* https://www.mosip.io/uploads/resources/5c97366200053Architectural%20Principle%20-%20Privacy%20and%20Security.pdf
+
+* https://www.mosip.io/uploads/resources/5cc84b0a08284Country%20Engagement%20Principles_v2.pdf
+ 
 
 * https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/guidance/modular-approaches-for-information-technology.pdf
 

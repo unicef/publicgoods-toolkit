@@ -4,7 +4,7 @@ This operations-focused toolkit provides pragmatic, experience and
 evidence based advice for implementing Digital Public Goods (DPGs) at
 the country level.  These best practices should be useful to any
 organization interested in creating a DPG -- including commercial
-companies -- but it's main audiences are national government agencies
+companies -- but its main audiences are national government agencies
 and UN-affiliated agencies.  The toolkit was created through the
 support of the [UNICEF Office of
 Innovation](https://www.unicef.org/innovation/), as a co-champion of
@@ -20,12 +20,11 @@ and agency level policies that relate to Free and Open Source Software
 privacy and security; how to plan for and build organizational
 readiness to capture the full value of your DPG; tips for improving
 procurement, including sample contract language; and how to analyze an
-existing FOSS product for adoptability.  Key recommendations and
-suggestions for further reading are in the text and complemented with
+existing FOSS product for adoptability.  Key recommendations are highlighted at the beginning of every section, with additional recommendations and examples in the text. Suggestions for further reading can also be found in the text and complemented with
 a list of additional resources and tools in the
 [Appendix](/unicef/publicgoods-toolkit/appendix-resources-tools).  The
-paper also includes a checklist of recommendations and brief overviews
-of select exemplary 'open' projects, including a few DPGs.
+paper also includes a checklist of recommendations and [brief overviews
+of select exemplary 'open' projects, including a few DPGs]([Appendix](/unicef/publicgoods-toolkit/appendix-examples).
 
 Countries have different levels of knowledge and capabilities in open
 technologies and open development models.  We believe this guide is
@@ -60,7 +59,7 @@ APIs](/unicef/publicgoods-toolkit/appendix-resources-tools)).  The
 same holds true for open standards, which, among other things,
 describe how software should function.  We note a few unique points to
 be made about any differences between these DPG components in the
-paper.  However, open data and AI models merit deeper treatment in a
+paper.  However, the complexities around open data and AI models merit deeper treatment in a
 future revision.
 
 Lastly, it's worth prefacing this operational toolkit with a brief
@@ -77,12 +76,12 @@ measureable positives follow on from them.
 Re-usability breaks vendor lock-in and brings efficiency gains, lowers
 costs (and thus provides greater accessibility to broader
 populations), and focuses resources on local customization and
-innovation rather than foundational work.  Although the government of
+innovation rather than foundational work.  As an example, although the government of
 Sierra Leone created the [Open Data Sierra
 Leone](https://opendatasl.gov.sl/) portal to promote government
 transparency and accountability, their current investment angle views
 these open data sets as important[resources for innovators and
-investors](https://media.un.org/en/asset/k17/k17a9bg6o8) and they are
+investors](https://media.un.org/en/asset/k17/k17a9bg6o8), and they are
 figuring out how they can better support innovation linked to this
 open data.  Open source and open data can increase the speed of
 distribution and adoption of innovations as well.  The Philippine
@@ -102,9 +101,9 @@ volunteers, can ['scale horizontally' to send payments to teachers and
 schools](https://media.un.org/en/asset/k17/k17a9bg6o8).
 
 (TODO: confirm Philippines used CoWIN, I couldn't hear clearly in the
-presentation but it makes sense)
+presentation or confirm quickly through a search but it makes sense)
 
-Open source and open data provide an "off the shelf", low friction
+Open source and open data provide an "off the shelf," low friction
 model for collaboration to create and manage digital goods.  These
 collaborations -- often around foundational, shared infrastructure --
 lower barriers to entry, encourage innovation in areas of more value,

@@ -1,20 +1,15 @@
 # Policy
 
-**KEY RECOMMENDATION**: Remember that the processes, culture and
-practices that support open source collaboration ultimately matter
-more to success than the particular open source license.  However, the
-license you choose can affect potential downstream business models.
-This isn't inherently a bad thing - indeed, these limitations were
-created in order to encourage the growth of a softare commons -- but
-are to be considered.  Mapping out your DPG's ecosystem is a helpful
-exercise here (see [Community and
-Ecosystem](/unicef/plicgoods-toolkit/community)).
-
 **KEY RECOMMENDATION**: Use only well-known open source or open
-content licenses and make sure copyright ownership is clearly
-established at the oset of a project.  Avoid mixing proprietary
-materials into a DPG.  This is not something you want to disentangle
-later.
+content licenses as defined by the [Digital Public Good Standard](https://digitalpublicgoods.net/standard/) and make sure copyright ownership is clearly
+established at the onset of a project.  Avoid mixing proprietary
+materials into a DPG, as this is not something you want to disentangle
+later, and resist the temptation to discourage commercial
+use of your DPG.  Indeed, commercial engagement can be very helpful to
+project sustainability, quality, and adoption.
+
+EXAMPLE: The [MOSIP Digital ID Platform](https://www.mosip.io/) chose the [Mozilla Public License 2.0](https://docs.mosip.io/platform/license), a 'weak' copyleft license, so commercial partners and developers could create and distribute supporting software that interacts with the core open source MOSIP platform under *any* license, therefore broadening potential business models. MOSIP felt this approach would best attract diverse, committed commerical partners (e.g. system integrators, developers) to support customization and broader adoption as well as to build a [self-sustaining contributory ecosystem](https://documents1.worldbank.org/curated/ar/672901582561140400/pdf/Open-Source-for-Global-Public-Goods.pdf) that would keep the platform evolving. 
+
 
 **KEY RECOMMENDATION**: Trademarks can be powerful tools for branding
 and building trust.  Whether a particular DPG should have trademarks
@@ -22,104 +17,42 @@ associated with it, and if so what the policy on ownership and
 enforcement of those trademarks should be, needs to be decided early
 and on a case-by-case basis.
 
-KEY RECOMMENDATION**: Resist the temptation to discourage commercial
-use of your DPG.  Indeed, commercial engagement can be very helpful to
-project sustainability, quality, and even adoption.
+EXAMPLE: The Estonian Information System Authority maintains the trademark for the
+X-Road(™) DPG, even though its continued development is managed
+collaboratively across borders through the Nordic Institute for
+Interoperabilty Solutions. This control helps Estonia protect trust in its (and other's) X-Road(™) investments. 
+
 
 **KEY RECOMMENDATION**: Secrecy doesn't equal security.  Open source
 provides conditions for stronger security, along with opportunities
-for collaboration and cost sharing around improving security.  Looking
-at your DPG ecosystem, are there possible partnerships and joint
-funding for security audits of the common open source software on
-which stakeholders rely? How about outside your immediate ecosystem?
-How might this link into local or national government investments in
-novation, either around new government services or to encourage local
-growth of SMEs?
+for collaboration and cost sharing to improve security. 
 
-**KEY RECOMMENDATION**: Even if your country doesn't have formal
-cybersecurity regulation, consider acting as if it did, especially
-around data privacy as it's particularly importance in protecting
-vulnerable populations.  Building for “high bar” cybersecurity
-regulation puts you in a better security to maintain a secure and
-usted DPG.
+EXAMPLE: Organizations like the non-profit [Open Source Technology
+Investment Fund (OSTIF)](https://ostif.org) connect open-source
+projects with funding and logistical support for security audits and
+reviews.
 
-**KEY RECOMMENDATION**: Define security related terminology and
-courage proper usage in your team to avoid miscommunication, mistakes
-and wasted effort.
+**KEY RECOMMENDATION**: Building for “high bar” cybersecurity and privacy
+regulation, such as the General Data Protection Regulation (GDPR) -- even if your DPG's country of deployment doesn't have strong regulation -- puts you in a better position to maintain a secure, trusted DPG that protects the most vulnerable and can be adopted beyond national borders. Protecting privacy and security requires
+continuous attention, starting from project inception. Privacy guidelines, pre-engagement diligence with vendors, and standardized templates and contracts will help you create a trustworthy DPG and meet the [DPG standard](https://digitalpublicgoods.net/standard/). 
 
-KEY RECOMMENDATION**: Make sure your threat model is well documented,
-pt updated, and revisited often.
+EXAMPLE: MOSIP's [design principles around security and privacy](https://www.mosip.io/uploads/resources/5c97366200053Architectural%20Principle%20-%20Privacy%20and%20Security.pdf) -- reflected in its technical architecture and approach to handling vulnerabilities, threats, and audits -- have paved the way for adoption across countries with different regulatory environments, including India, Philippines, Ethiopia, Guinea, Sri Lanka and Morocco. 
 
-**KEY RECOMMENDATION**: Although it might seem counterintuitive, open
-collaboration around identifying security threats -- and their tential
-mitigations -- can improve a DPG's security and build trust with
-stakeholders.  This might not be true in every case, but we encourage
-you to think of how crowdsourcing input can amplify your capacity and
-breadth of knowledge.  Of course, such collaborations would obviously
-need to have the problem tuned to the right audience.  *KEY
-RECOMMENDATION**: Create standardized templates for threat modeling,
-security risk assessments, cost/benefit analyses and risk management
-plans to help meet security regulation and improve security in
-practice.  This is an area where a DPG's open, collaborative approach
-again helpful, and secrecy is not your friend.
 
 **KEY RECOMMENDATION**: Avoid misconceptions around open approaches
 and privacy by clarifying the distinction between the DPG itself and
 the data it holds and manages with high-level decision makers and
-elected officials.  *KEY RECOMMENDATION**: Protecting privacy requires
-continuous attention, and it really starts from project inception.
-Also invest well in your pre-engagement diligence with vendors around
-privacy and security Create standardized data privacy and security
-questions for these vendor assessments.
+elected officials.  
 
-**KEY RECOMMENDATION**: Following privacy by design guidelines can
-help you pay attention to the actual needs of your end users to create
-a successful DPG while also building for legal and regulatory
-compliance.
+**KEY RECOMMENDATION**: Government procurement can be a powerful tool, creating open source commons around which entrepreneurial businesses and public-private partnerships can grow. Collaboration with academia and investment in education -- particularly early, comprehensive education to improve tech
+skills beyond digital literacy -- strengthens innovation and grows the talent pool. 
 
-KEY RECOMMENDATION**: An early prototype that works with dummy or live
-data (but not data at scale) can help better align DPG to good data
-practices.  Building and testing a prototype early in the development
-cycle helps surface problems and can better protect users and save
-resources down the line.  *KEY RECOMMENDATION**: Pay attention to how
-the open, collaborative aspects of the DPG project can strengthen its
-data privacy.
+EXAMPLE: In Rwanda, Partners in Health (PIH) and the Kigali Institute of
+Science and Technology have a [partnership to train students to
+further develop and implement the OpenMRS DPG](https://openmrs.org/2010/12/03/open-source-health-information-business-ecosystems-in-resource-poor-environments/), while the Rwandan Development Board has paired graduates with seed capital and mentorship to help them create new health information technology support businesses to service over 400 clinics across the country.
 
-**KEY RECOMMENDATION**: If you are offering goods and services to EU
-citizens or digitally monitoring their behavior in some way, there are
-few exceptions to the requirement to adhere to GDPR.  Arguably, GDPR
-also provides the highest protection for vulnerable communities, and
-even DPGs that function are areas not covered by GDPR should consider
-adherence.  Take advantage of the [GDPR guidance published by the
-EU](https://gdpr.eu/).
 
-**KEY RECOMMENDATION**: Standardizing contracts and data protection
-addendums, running Data Prection Impact Assessments, data mapping and
-data audits will help you meet GDPR requirements and are good sound
-security policies.
 
-**KEY RECOMMENDATION**: Think through your DPG's local ecosystem and
-consider opportunities for collaboration with educators, and keep in
-mind that non-coding contributions are also very valuable.  Although
-building local talent takes time, this early investment can pay off in
-a stronger talent pool within 5-10 years and unearth earlier benefits.
-Could you team up with secdary schools on a series of open source
-hackathons to introduce students to your DPG and get a few specific
-problems solved? Is there an opportunity to collaborate with a local
-university around open source, or even a local digital strategy in
-which your DPG might fit? Remember that changes and investments at a
-national level often happen because of proof points at a local level.
-
-**KEY RECOMMENDATION**: Government procurement is possibly the
-greatest lever for more alignment between FOSS policy and national
-innovation policy.  At a local level, once again, consider your DPG's
-ecosystem.  Points of alignment between your tech needs and those of
-local government point to opportunities for local innovation policy
-alignment.  How might public-private partnerships be formed to develop
-commonly needed open source components? Might these also tie into a
-relationship with a local university? Could local government provide
-tax incentives, or even something as “simple” as consistent Internet
-access and a safe space, for partnerships that engage local students?
 
 This module describes key national and international policies that
 shape the environment in which digital public goods (DPGs) function as
@@ -206,7 +139,7 @@ a primer on open source licensing would be helpful.
 
 At the most basic level, government agencies engaging with open source
 can start with basic knowledge of a handful of software licenses.
-Permitted software licenses under the DPG standard are listed on their
+Permitted software licenses under the [Digital Public Good standard](https://digitalpublicgoods.net/standard/) are listed in UNICEF's
 [GitHub
 repository](https://github.com/unicef/publicgoods-candidates/blob/main/docs/licenses.md).
 All of these open source licenses have in common the basic permissions
@@ -222,13 +155,13 @@ for your plans, and it *might* matter if you have plans to nurture
 commerical implementations.
 
 We broadly describe Free and Open Source Software ("FOSS") licenses as
-existing on a continuum from "permissive" to "protective".  
+existing on a continuum from "permissive" to "protective."  
 The most permissive licenses have the
 fewest restrictions.  They allow the broadest range of activity under
 the broadest range of conditions.  The more protective licenses are
 still quite permissive but they condition those permissions on
 compliance with certain requirements.  Among the commonly used
-licenses, those requirements concern "copyleft", which is the
+licenses, those requirements concern "copyleft," which is the
 requirement that when you distribute software, open source permissions
 attach to some or all of your improvements.  We usually distinguish
 between "weak" and "strong" copyleft as a way to categorize licenses
@@ -236,7 +169,7 @@ by how strict their copyleft requirements are.
 
 (TBD: Do we want a diagram of the license spectrum here?)
 
-These three categories, "permissive", "weak copyleft", and "strong
+These three categories, "permissive," "weak copyleft," and "strong
 copyleft" are well-recognized terms in the open source industry, and
 often the first step in considering a license is to classify it with
 one of those labels.  They are a common shorthand that often signal
@@ -344,10 +277,10 @@ developed for commercial purposes or that have restrictive licenses
 for some historical reason.
 
 The [Open Source Initiative](https://opensource.org/licenses) provide
-overviews of their approved licenses, along with a useful[FAQ](
+overviews of their approved licenses, along with a useful [FAQ](
 https://opensource.org/licenses).
 
-**KEY RECOMMENDATION**: Remember that the processes, culture and
+**RECOMMENDATION**: Remember that the processes, culture and
 practices that support open source collaboration ultimately matter
 more to success than the particular open source license.  However, the
 license you choose can affect potential downstream business models.
@@ -416,8 +349,8 @@ mind about copyright and DPGs:
 
 * Use only well-known open source or open content licenses.
 
-  When publishing a DPG, you should always publish it under a
-  well-known and widely-used existing license.  Never make up your own
+  When publishing a DPG, you should always publish it under one of the
+  well-known and widely-used existing licenses as defined in the [Digital Public Good Standard](https://digitalpublicgoods.net/standard/).  Never make up your own
   license: even if you have excellent lawyers draft it, no one else
   will be familiar with your new license, and thus others' ability to
   use your DPG will be impeded by an unnecessary extra burden of
@@ -477,10 +410,10 @@ license](https://digitalpublicgoods.net/standard/) for software.
   vendors, so that there is no ambiguity on the matter.
 
  **KEY RECOMMENDATION**: Use only well-known open source or open
-   content licenses and make sure copyright ownership is clearly
-   established at the outset of a project. Avoid mixing proprietary
-   materials into a DPG. This is not something you want to disentangle
-   later.
+content licenses as defined by the [Digital Public Good Standard](https://digitalpublicgoods.net/standard/) and make sure copyright ownership is clearly
+established at the oset of a project.  Avoid mixing proprietary
+materials into a DPG.  This is not something you want to disentangle
+later.
 
 
 ### Copyright and Jurisdiction
@@ -612,7 +545,7 @@ DPG [Sunbird](https://www.sunbird.org/) is managed by the EkStep
 Foundation, which is the main supporter and developer of the
 extensible Sunbird Learning and knowledge management platform.  The
 Estonian Information System Authority maintains the trademark for the
-X-road DPG, even though its continued development is now done
+X-Road(™) DPG, even though its continued development is now done
 collaboratively across borders through the Nordic Institute for
 Interoperabilty Solutions.
 
@@ -732,15 +665,15 @@ the security and privacy investments we outline here seem out of touch
 security and privacy to protect vulnerable populations, which have the
 most to lose from any failure.  This area is ripe for more
 coordination and collective investment.  The open source approach
-shines again here.  Indeed, the OpenMRS project found that the
+shines again here. Indeed, the OpenMRS project found that the
 communities forming around the project have ["taken on a movement of
-self-organization"](https://openmrs.org/2010/12/03/open-source-health-information-business-ecosystems-in-resource-poor-environments/),
+self-organization,"](https://openmrs.org/2010/12/03/open-source-health-information-business-ecosystems-in-resource-poor-environments/)
 sharing resources and tips in a self-reinforcing cycle of improvement.
 We foresee the development of more templates geared towards
 low-resource environments by DPG type (e.g.  healthcare versus
 education), with pooled resources to run security assessments (for
 proejct/product planning) and audits (to confirm security standards
-are met).  There are great opportunities for local businesses in this
+are met). There are great opportunities for local businesses in this
 area! We've provided what we believe are the most important agency and
 project level policies for DPGs to consider around security (and
 privacy) -- basically a deeper operational dive that aligns with the
@@ -758,8 +691,9 @@ area? Or a program of their own that might be in the future?)
 
 **KEY RECOMMENDATION**: Secrecy doesn't equal security.  Open source
 provides conditions for stronger security, along with opportunities
-for collaboration and cost sharing around improving security.  Looking
-at your DPG ecosystem, are there possible partnerships and joint
+for collaboration and cost sharing around improving security.  
+
+Looking at your DPG ecosystem, are there possible partnerships and joint
 funding for security audits of the common open source software on
 which stakeholders rely? How about for collectively creating and
 managing security assessments? How about outside your immediate
@@ -860,7 +794,7 @@ follows](https://info.undp.org/sites/ERM/Shared%20Documents/UNDP%20ERM%20Guide_S
 is "the effect of uncertainty on objectives.") There are also
 sophisticated models out there for calculating risk.
 
-**KEY RECOMMENDATION**: Define security related terminology and
+**RECOMMENDATION**: Define security related terminology and
 encourage proper usage in your team -- and vendors -- to avoid
 miscommunication, mistakes and wasted effort.
 
@@ -897,10 +831,10 @@ including STRIDE, DREAD, PASTA, Common Vulnerability Scoring System
 of putting your privacy policy into practice will be useful to many of
 these approaches.
 
-**KEY RECOMMENDATION**: Make sure your threat model is well
+**RECOMMENDATION**: Make sure your threat model is well
 documented, kept updated, and revisited often.
 
-**KEY RECOMMENDATION**: Although it might seem counterintuitive, open
+**RECOMMENDATION**: Although it might seem counterintuitive, open
 collaboration around identifying security threats -- and their
 potential mitigations -- can improve a DPG's security and build trust
 with stakeholders.  This might not be true in every case, but we
@@ -1089,7 +1023,7 @@ order.  See the
 some sample questionnaires.
 
 **KEY RECOMMENDATION**: Protecting privacy requires continuous
-attention, and it really starts from project inception.  Also invest
+attention, and it really starts from project inception.  Invest
 well in your pre-engagement diligence with vendors around privacy and
 security.  Create standardized data privacy and security questions for
 these vendor assessments.
@@ -1141,10 +1075,10 @@ OECD's Privacy Principles and its various derivations in national laws
 and regulations.  The approach in these guides is described as
 “privacy by design.”
 
-**KEY RECOMMENDATION**: Following privacy by design guidelines can
+**KEY RECOMMENDATION**: Following privacy guidelines can
 help you pay attention to the actual needs of your end users to create
 a successful DPG while also building for legal and regulatory
-compliance.
+compliance (and meeting the [DPG standard](https://digitalpublicgoods.net/standard/)).
 
 The World Bank's Identification for Development initiative summarizes
 a privacy by design approach as one that:
@@ -1172,8 +1106,8 @@ a privacy by design approach as one that:
 
 A recent [ID4D
 paper](https://www.id4africakhub.org/post/privacy-by-design-current-practices-in-estonia-india-and-austria)
-explores different legal, operational, and technical controls used by
-in Estonia, India, and Austria.[Estonia's Citizen
+ explores different legal, operational, and technical controls used by
+in Estonia, India, and Austria. [Estonia's Citizen
 Portal](https://www.eesti.ee/et) is a great example of a DPG that has
 followed privacy by design guidelines, particularly in how it gives
 users visibility -- and control -- over their data.  Estonia's
@@ -1187,10 +1121,10 @@ employees.
 
 The [Digital Impact Alliance's Principles for Digital
 Development](https://digitalprinciples.org/principle/address-privacy-security)
-provides further practical guidance to implementing privacy by design
+provides further practical guidance to implementing privacy 
 at different stages of a project.  During the design and develop
 phase, consider how your prototyping work could improve alignment with
-privacy by design principles -- such as putting users first,
+privacy principles -- such as putting users first,
 especially those most vulnerable -- as well as help you to create and
 test a data management and security plan.
 
@@ -1200,7 +1134,7 @@ data practices.  Building and testing a prototype early in the
 development cycle helps surface problems and can better protect users
 and save resources down the line.
 
-As you read through privacy by design guidelines, consider how the
+As you read through privacy guidelines, consider how the
 open aspects of your DPG project can help you better understand and
 build for privacy.  Recall that areas of “openness” are all points of
 potential collaboration.  For example, could collectively drafting
@@ -1233,7 +1167,7 @@ long history of privacy and human rights law.  It's deeply influenced
 data privacy and protection laws in other countries, such as India and
 Brazil.  It can also impact non-EU organizations.
 
-**KEY RECOMMENDATION**: If you are offering goods and services to EU
+**RECOMMENDATION**: If you are offering goods and services to EU
 citizens or digitally monitoring their behavior in some way, there are
 few exceptions to the requirement to adhere to GDPR.  Arguably, GDPR
 also provides the highest protection for vulnerable communities, and
@@ -1257,7 +1191,7 @@ following:
   mitigations and place restrictions on how data provided to them in
   order to peform the contracted service can be used, retained, and
   stored.  The [Estonian government's recent audit of
-  X-Road](https://eurosai-it.org/news/newsletter/1-2021/updates-from-itwg-members/estonia-x-road-and-audit)
+  X-Road(™)](https://eurosai-it.org/news/newsletter/1-2021/updates-from-itwg-members/estonia-x-road-and-audit)
   found that many national agencies didn't use data service agreements
   or rarely checked for compliance where they were in place.
   Alarmingly, no audited national agency confirmed that their
@@ -1376,18 +1310,15 @@ economy (part of USAID's support for the Uzbekistan Education Reform
 Program includes deploying the open source
 [OpenProject](https://www.openproject.org/) to help [project planning
 and coordination with the Ministry of Public
-Education](https://pdf.usaid.gov/pdf_docs/PA00WRTP.pdf)).
+Education](https://pdf.usaid.gov/pdf_docs/PA00WRTP.pdf).
 
-(TODO: I assume the below paragraph is talking about Uzbekistan MPE,
-but we should make that explicit if so.  -Karl)
-
-USAID is also improving Information and Communication Technology
+USAID is also helping to improve Uzbekistan's Information and Communication Technology
 (ICT)-based instruction for grades 5 -11 in all public schools to help
-support the Ministry's goal of creating an "IT Nation".  MPE's IT
-Nation initiative aims to produce grade 11 graduates who are able to
+support the Ministry's goal of creating an "IT Nation".  The Ministry of Public Education's [IT
+Nation initiative](https://pdf.usaid.gov/pdf_docs/PA00WRTP.pdf) aims to produce grade 11 graduates who are able to
 work in cyber security, software development and testing, network
 administration, graphic design, animation, and game design.
-https://pdf.usaid.gov/pdf_docs/PA00WRTP.pdf
+
 
 [DHIS2 is an example of this early focus in
 action](https://digitalpublicgoods.net/blog/the-transformative-role-of-academia-digital-public-goods/).
@@ -1425,8 +1356,8 @@ DPG](https://openmrs.org/2010/12/03/open-source-health-information-business-ecos
 which was adopted by the Rwandan Ministry of Health.  Graduates have
 been hired to work at the Ministry.  The Rwandan Development Board has
 also paired some graduates with seed capital and mentors to help them
-create new health information technology support businesses to servie
-the over 400 clinics across the coutnry.
+create new health information technology support businesses to service
+over 400 clinics across the country.
 
 The [State of Free and Open Source Software in India
 report](https://state-of-foss.in/the-state-of-foss-report.pdf)
@@ -1460,7 +1391,8 @@ consider opportunities for collaboration with educators, and keep in
 mind that non-coding contributions are also very valuable.  Although
 building local talent takes time, this early investment can pay off in
 a stronger talent pool within 5-10 years and unearth earlier benefits.
-Could you team up with secondary schools on a series of open source
+
+For example, could you team up with secondary schools on a series of open source
 hackathons to introduce students to your DPG and get a few specific
 problems solved? Is there an opportunity to collaborate with a local
 university around open source, or even a local digital strategy in
@@ -1485,10 +1417,9 @@ private companies -- to name a few!
 Bringing open source into innovation policies can direct innovation
 investment and harness competition power to explore areas of new
 value.  Open source provides a 'platform' around which entrepreneurial
-businesses and ecosystems can grow, It can foster the needed
-interdisciplinary, public-private collaborations we need to quickly
-create and scale solutions to our most challenging problems in health
-and the environment.
+businesses and ecosystems can grow. It can foster the needed
+interdisciplinary, public-private collaborations to quickly
+create and scale solutions to our most challenging problems.
 
 Government procurement is a strong lever for aligning FOSS and
 national innovation policy, amongst other areas of symbiotic benefits.
@@ -1510,8 +1441,9 @@ and open source, public-private partnerships, government procurement
 and its astutely comprehensive innovation policy is one to study.  At
 a local level, once again, consider your DPG's ecosystem.  Points of
 alignment between your tech needs and those of local government point
-to opportunities for local innovation policy alignment.  How might
-public-private partnerships be formed to develop commonly needed open
+to opportunities for local innovation policy alignment.  
+
+For example, how might public-private partnerships be formed to develop commonly needed open
 source components? Might these also tie into a relationship with a
 local university? Could local government provide tax incentives, or
 even something as “simple” as consistent Internet access and a safe

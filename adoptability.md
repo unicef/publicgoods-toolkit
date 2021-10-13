@@ -1,90 +1,28 @@
 # Adoptability Assessment
 
-TBD: If we're going to start out a section with a list of key
-recommendations, maybe we should organize the recommendations into
-topical groups?  When they're presented as one long, undifferentiated
-list, that's a lot to absorb.
 
 **KEY RECOMMENDATION**: When evaluating an open source product for
-adoption, the key areas to look at are functionality, technical
-quality, availability of support, the project's sustainability, and
-the project's responsiveness to its user base.
+adoption, look at its functionality, technical
+quality, and availability of support as well as the project's sustainability and responsiveness to its user base.
   
-**KEY RECOMMENDATION**: Look at the project's web site or
-documentation to see what the project says about reporting security
-vulnerabilities.  If applicable, ask the vendor.
+**KEY RECOMMENDATION**: A project that's likely to develop a secure-as-possible product should have: a documented process for reporting security vulnerabilities; security patch releases; updated third-party dependencies; and possibly a Common Vulnerability Exposure number(s) (CVE) and a published security audit. 
 
-**KEY RECOMMENDATION**: Look at the project's release history and see
-if there are any security patch releases.  Their presence would
-indicate that the project is handling security vulnerabilities at
-least at a base level of competency.  and see if there are any
-security patch releases, which would indicate that the project is
-handling security vulnerabilities at least at a base level of
-competency.
+EXAMPLE: The financial inclusion DPG [Mifos](https://mifos.org/) has a [CVE](https://www.opencve.io/cve/CVE-2021-21385) related to the Mifos-Mobile Android Application for MifosX. The problem has been fixed, but the public documentation is a sign of a mature project that takes security seriously and is willing to enlist the support of global security researchers and developers to build a better product. The DHIS2 DPG also publishes [CVEs, along with a clear process for reporting vulnerabilities](https://dhis2.org/security).
 
-**KEY RECOMMENDATION**: [Search the CVE
-list](https://cve.mitre.org/find/search_tips.html) to see how
-well-represented the product you're considering is in the CVE
-database.
+**KEY RECOMMENDATION**: The existence of vendors providing commercial support is practically a guarantee that the product is as stable
+and reliable as possible. If you are considering working with one of these vendors,
+you should find solid public evidence of their contributions to the product. 
 
-**KEY RECOMMENDATION**: Confirm that third-party dependencies are up-to-date.
+EXAMPLE: The digital ID DPG [MOSIP](https://www.mosip.io/) supports a thriving community of several dozen commercial partners, such as [systems integrators and biometric solution providers](https://www.mosip.io/resource-partners/mosip-integrations). MOSIP's first fully functional release was in [February 2020, and its 1.2 long-term support version will be released soon](https://www.mosip.io/news-events/announcing-general-availability-of-mosip-release-1-1). 
 
-**KEY RECOMMENDATION**: See if any security audits are publicly available.  
 
-**KEY RECOMMENDATION**: Looking through public reviews and a project's
-bug report database will give you an idea of a product's stability and
-reliability. The existence of vendors providing commercial support for
-the product is practically a guarantee that the product is as stable
-and reliable as possible.
+**KEY RECOMMENDATION**: Thorough product installation and initial configuration documentation indicates a product that's actually meant to be used. A documented Application Programming Interface (API) is often important to supporting the full range of the programmatic functionality you'll probably need, especially if you will work with data at scale (although a lack of published APIs isn't uncommon for early stage open source products, but if this is the case, they should be on the project's roadmap). Relatedly, be sure to get a detailed understanding the product's ability to import/export data, as you will surely need to work with legacy data at some point. Data portability also enables you to switch systems or vendors, should the need arise.
 
-**KEY RECOMMENDATION**: As a general rule, the more scalability you
-need, the more up-front investment you must make in configuring your
-deployment. Take this into account in your resource planning.
+EXAMPLE: The health information management system DPG DHIS2 publishes clear [documentation about installation and configuration as well as its Web API](https://docs.dhis2.org/en/home.html), which enables external systems (e.g. third-party software, web portals, and other internal DHIS2 modules) to securely access and manipulate DHIS2 data.
 
-**KEY RECOMMENDATION**: Be sure to get a detailed understanding the
-product's ability to import/export data. Even if you have a vendor
-supporting you, search the Internet and the project's forums for
-reports from others about importing and exporting the data formats
-that matter to you. This will help you plan for needed resources and
-project scheduling as well as be better prepared should you need to
-switch vendor support at some point.
 
-**KEY RECOMMENDATION**: Having a documented API as part of a service
-is very important to supporting a full range of the functionality
-you'll likely need.  Check documentation and search for examples on
-the Internet of people using that API to accomplish real-world tasks.
-Lack of published APIs isn't uncommon for early stage open source
-products, but then they should be planned for on the project's
-roadmap.  APIs are necessary in any product intended to work with data
-at scale.
 
-**KEY RECOMMENDATION**: Extensibility is often a sign of maturity in
-open source products.  When a product evolves to meet the needs of a
-variety of users, it usually does so by having a stable core, with
-flexibility achieved through pluggable extensions that meet specific
-user needs.  Thus, when you are evaluating vendors for an extensible
-system, seek vendors that have demonstrated experience in writing such
-extensions.
 
-**KEY RECOMMENDATION**: Look at the products's installation and
-initial configuration documentation.  If this deployment documentation
-is missing, or is obviously incomplete, that is a warning sign about
-the entire product. When working with vendors, beware of those who try
-to steer you to their proprietary documentation for functionality that
-is part of the public product.
-
-**KEY RECOMMENDATIONS**: It's a good sign if an open source product
-has commercial support around it, such as consulting and development
-companies. If you are considering working with one of these vendors,
-you should find solid public evidence of their contributions and
-engagement.
-
-**KEY RECOMMENDATION**: User support forums are useful resources in
-your evaluation. Don't hesistate to ask questions.
-
-**KEY RECOMMENDATION**: Open source projects have lifecycles, and the
-maturity level of a project will generally dictate your ability to
-influence and level/type of investment needed.
 
 A lot of open source products are available as
 commercial-off-the-shelf solutions; often they are fairly
@@ -180,7 +118,7 @@ that distinction is important we will note it.
 
   A good example of a [clearly documented process is from the Fedora
   Project](https://fedoraproject.org/wiki/Security_Bugs), whose Fedora
-  Linux is part of the DPG Resources collection.
+  Linux is part of the DPG Resources collection. The DHIS2 DPG also publishes a [clear process for reporting vulnerabilities](https://dhis2.org/security).
 
   **KEY RECOMMENDATION**: Look at the project's web site or
   documentation to see what it says about reporting security
@@ -217,10 +155,9 @@ that distinction is important we will note it.
 
   This may sound surprising, but if a project has a history of
   obtaining CVE numbers for vulnerabilities, for example as the DPG
-  Apache Fineract does
-  (https://www.cvedetails.com/vulnerability-list/vendor_id-45/product_id-42731/Apache-Fineract.html),
+  [Apache Fineract does](https://www.cvedetails.com/vulnerability-list/vendor_id-45/product_id-42731/Apache-Fineract.html),
   that's actually a *good* sign: it means the project is integrated
-  into the wider community of global computer security response, and
+  into the wider community of global computer security response and
   is following the standard procedures.
 
   Note that if a project has many CVE numbers associated with it, that
@@ -283,7 +220,7 @@ that distinction is important we will note it.
   such as adherence to national regulation, as well as the software
   itself, but they're still useful resources. The National Audit
   Office of Estonia [recently audited
-  X-Road](https://eurosai-it.org/news/newsletter/1-2021/updates-from-itwg-members/estonia-x-road-and-audit)
+  X-Road(™)](https://eurosai-it.org/news/newsletter/1-2021/updates-from-itwg-members/estonia-x-road-and-audit)
   and found that implementing agencies weren't adhering to some of the
   security policies we recommend in the Policy module (TBD: link)
 
@@ -334,11 +271,10 @@ have a very strong interest in the software's stability: unstable
 software costs them money, because it requires their staff to do more
 interrupt-driven work.
 
-**KEY RECOMMENDATION**: Looking through public reviews and a project's
-bug report database will give you an idea of a product's stability and
-reliability. The existence of vendors providing commercial support for
-the product is practically a guarantee that the product is as stable
-and reliable as possible.
+**KEY RECOMMENDATION**: The existence of vendors providing commercial support is practically a guarantee that the product is as stable
+and reliable as possible. Looking through public reviews and a project's
+bug report database will also give you an idea of a product's stability and
+reliability. 
 
 ## Scalability and Deployment Investment
 
@@ -346,7 +282,7 @@ An important part of evaluating a DPG is to evaluate the investment
 your team must make to deploy the DPG *in a way that meets your
 requirements*.
 
-**KEY RECOMMENDATION**: As a general rule, the more scalability you
+**RECOMMENDATION**: As a general rule, the more scalability you
 need, the more up-front investment you must make in configuring your
 deployment.
 
@@ -400,7 +336,7 @@ time of the evaluation and procurement that that legacy data exists.
 And there are many reasons why you might be interested in exporting
 data even if you are not migrating away from the system to something
 else (see the section "Programmatic Control (APIs)" [Programmatic
-Control (APIs)](TBD: link to section above) for more about these).
+Control (APIs)](TBD: link to section below) for more about these).
 Moreover, open projects must ensure they [support extraction or
 importation of non-PII data in a non-proprietary
 format](https://digitalpublicgoods.net/standard/) in order to qualify
@@ -591,7 +527,7 @@ prefer vendors that have demonstrated experience writing extensions,
 especially vendors who are well-represented in the public marketplace
 (if any exists) of extensions that may be used with the system.
 
-**KEY RECOMMENDATION**: An open source product's extensibility is
+**RECOMMENDATION**: An open source product's extensibility is
 often a sign of maturity, as it's developed enough to have a stable
 foundation and pushes flexibility through extensions that can change
 more often to meet more specific, and varied, user needs. When you are
@@ -614,9 +550,9 @@ Most open source software systems come with at least some
 documentation -- that is, documentation that is officially maintained
 by the project itself and published together with the software.  Such
 documentation is actually a [DPG
-requirement](https://digitalpublicgoods.net/standard; see
-[MOSIP](https://docs.mosip.io/platform/architecture/data-architecture)
-for a good documentation example). In many cases, there is also a
+requirement](https://digitalpublicgoods.net/standard); see
+[MOSIP](https://docs.mosip.io/platform/)
+for a good example. In many cases, there is also a
 wealth of scattered and heterogeneous third-party documentation:
 "HOWTO" blog posts, answers posted on sites like [Stack
 Overflow](https://stackoverflow.com/), etc.
@@ -647,7 +583,7 @@ focus on improving the project's documentation rather than maintaining
 a separate, non-open-source set of documentation that's just for their
 customers.
 
-**KEY RECOMMENDATION**: Look at the products's installation and
+**KEY RECOMMENDATION**: Look at the product's installation and
 initial configuration documentation.  If this deployment documentation
 is missing, or is obviously incomplete, that is a warning sign about
 the entire product. When working with vendors, beware of those who try
@@ -682,7 +618,7 @@ the discussion/support forums.
 
 If the project has a vendor listing page (see, for example,
 [Mojaloop's business
-directory](https://mojaloop.io/business-directory/), the vendor should
+directory](https://mojaloop.io/business-directory/)), the vendor should
 be on that list.
 
 **KEY RECOMMENDATIONS**: It's a good sign if an open source product
@@ -734,7 +670,7 @@ moved from https://discourse.mifos.org to Slack?  Or this is a good
 point for OSQA section.  Apache Fineract's all seemed old, 2018].
 Mojaloop also seemed pretty thin.)
 
-**KEY RECOMMENDATION**: User support forums are useful resources in
+**RECOMMENDATION**: User support forums are useful resources in
 your evaluation. Don't hesistate to ask questions.
 
 ## Influence and Participation
@@ -786,7 +722,7 @@ committee by an existing member.  Recall too that open source projects
 later in their lifecycle are often less open to influence, as they
 will generally prioritize stability.  This is usually true for modular
 projects as well, although their exensibility does give you a path for
-influence (see [Community](/unicef/publicgoods-toolkit/community).
+influence (see the [Community](/unicef/publicgoods-toolkit/community) module).
 
 Project governance documents
 are useful insofar as they describe the formal structure of how
@@ -840,6 +776,7 @@ the other sections and examine what specific internal capacities would
 be needed to take advantage of or implement the advice given in those
 points.]
 
+[SUSY NOTE: I think OTS's deep implementation experience is needed here to outline what's most important and what's often overlooked in thinking about internal capacity. I started to draft some categories for how I'd approach this but I'm not sure I'm able to get to most salient and experiential-based insight]
 
 (draft categories)
 
@@ -858,7 +795,6 @@ points.]
 --resources to support scalability (see above section)
 
 - OSQA project roles, if don't have this internal should plan for this from vendor
-
 
 
 -Culture
@@ -886,7 +822,7 @@ them.
 
 When you're about to make an investment in a DPG, such as by deploying
 it for sustained use, it can be very helpful to take a step back and
-explicitly map out that ecosystem, in a quick, lightweight exercise.
+explicitly map out that ecosystem, in a quick, lightweight exercise. (This exercise is equally useful in planning to create a new DPG.)
 
 Making such a map can reveal both gaps and opportunities.  For
 example, an ecosystem map might reveal a gap by showing that the main
@@ -915,7 +851,7 @@ of date, and that's okay.  Just hand-draw it on paper or on a
 whiteboard.
 
 Here is a map drawn to identify stakeholders in the [Arches
-Project](https://archesproject.org/) -- the original was hand-drawn,
+Project](https://archesproject.org/). The original was hand-drawn,
 but we cleaned up a bit for publication:
 
 ![Ecosystem map for the Arches Project (https://archesproject.org/).](images/example-ecosystem-map-768x550.png)
@@ -962,10 +898,7 @@ Ecosystem mapping can reveal gaps in the landscape. For example,
 such support is important and the ecosystem does not provide it, you
 will have to find anther way to fill this gap.
 
-KEY RECOMMENDATION: with a simple ecosystem map as the background,
-consider what project archetypes might fit well within that ecosystem.
-Identify which ones might be missing and which ones you wouldn't
-expect to appear.
+**RECOMMENDATION**: A simple ecosystem map can help you think through what other adoptability factors might be relevant. What in the ecosystem actors, their types, and their distribution gives you additional insight? For the project's likely archetype, what would you expect to see in that ecosystem? Are there problematic gaps or useful opportunties? 
 
 
 ## Evaluation Checklist

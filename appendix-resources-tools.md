@@ -167,14 +167,16 @@ The [Open Source Maturity Model](https://en.wikipedia.org/wiki/OpenSource_Maturi
 
 ## **PROCUREMENT**
 
-The Digital Impact Alliance's [Procurement Of Digital Technology](https://procurement-digitalimpactalliance.org/) is a useful guide for budget planning. [TODO: describe a bit better w/ context]
+The Digital Impact Alliance's [Procurement Of Digital Technology](https://procurement-digitalimpactalliance.org/) is a useful guide for budget planning. [TODO: describe a bit better w/ context] [NEW TODO: To delete b/c it's now incorporated into main text appropriately]
+
+This [panel discussion about agile development and modular contracts](https://www.agilegovleaders.org/watch-agl-live-wild-wild-west-managing-agile-contracts-in-government/) includes public sector employees from the state of California and 18F, discussing great insights about the challenges and lessons learned in their revamp of California's Child Welfare digital system.
 
 (TBD: [ref:f9f71f8d]: Let's break out this long procurement-language
 example into a separate appendix.  That thought might apply to other
 sections in this appendix, too, but it applies most strongly here I
 think.  -Karl)
 
-Useful sample contract language [TODO: do we have better on hand? We don't have explicit permssion to use the following, although I can ask. Below is also us centric. https://www.eckertseamans.com/app/uploads/Steve-Foxman_Eckert-Seamans_DATA-PROTECTION-CLAUSES-101016-M1566466xA35AF.pdf ]
+Useful sample contract language [TODO: do we have better on hand? We don't have explicit permssion to use the following, although I can ask. Below is also US centric. https://www.eckertseamans.com/app/uploads/Steve-Foxman_Eckert-Seamans_DATA-PROTECTION-CLAUSES-101016-M1566466xA35AF.pdf ]
 
 Disclaimer: The following clauses are examples of actual data protection clauses used in technology agreements, adapted to remove any identifying information regarding the providers or customers. Use and final language of the following clauses must be modified to be appropriate for any specific software or service being provided by a licensor, vendor or service provider. Such clauses should not be used without advice from a lawyer familiar with technology agreements and data protection issues. Close attention must also be paid to any disclaimer or limitation of liability clauses, which may undermine the effectiveness of remedies related to any breach by any licensor, vendor or service provider of its contractual obligations.
 

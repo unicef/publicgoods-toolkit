@@ -162,10 +162,10 @@ collaborating on common digital infrastructure useful to each
 state. In 2017, it founded the Nordic Digital Infrastructure Institute
 to help govern and foster the joint development of basic e-service
 infrastructure across regional partners. Estonia, Finland and Iceland
-are members. Estonia moved the governance of X-Road, its open
+are members. Estonia moved the governance of X-Road(™), its open
 source data exchange software that powers much of its government
 e-services, to this new organization, along with a few other
-components. X-Road is under an MIT license, but the trademark is
+components. X-Road(™) is under an MIT license, but the trademark is
 still held by the Estonian government, giving them the essential tool
 for protecting trust in the technology.
 
@@ -175,7 +175,7 @@ Estonia’s Public Information Act prohibits government agencies from
 creating separate databases to collect and store the same data, and
 it's actually illegal for new public e-services to design systems that
 store the same data in different repositories. In combination with the
-creation of X-Road data exchange platform, this integrated approach
+creation of X-Road(™) data exchange platform, this integrated approach
 drives remarkable efficiency as well as data security and protection.
 
 In June 2021, **Estonia began [enforcing
@@ -228,6 +228,8 @@ commit e4bf35a12d0).  It would need some more more work before being
 moved out of the parking lot and into actual examples.  But also, are
 these DPGs at all?  We may not want to use them as examples.
 
+SUSY RESPONSE: These were all highlighted by the speaker from India at the recent UN/DPG meeting but I had the same question (esp Aadhar) so I was starting to summarize and investigate more. 
+
 * Aadhar (https://uidai.gov.in/) 12-digit unique identification (UID)
   with no need for physical card.  It is the largest biometric digital
   database covering more than 1.25 billion residents, including more
@@ -273,6 +275,8 @@ an area of early open source DPG collaboration. The UK's Government
 Digital Service launched [GOV.UK](https://github.com/alphagov), a
 platform for hosting government websites and information, as its first
 project (It now hosts several e-services as well)
+
+[SUSY NOTE: I think the following is already in the resources + tools appendix]
 
 ## Additional Resources + Tools
 
