@@ -20,7 +20,10 @@ and agency level policies that relate to Free and Open Source Software
 privacy and security; how to plan for and build organizational
 readiness to capture the full value of your DPG; tips for improving
 procurement, including sample contract language; and how to analyze an
-existing FOSS product for adoptability.  Key recommendations are highlighted at the beginning of every section, with additional recommendations and examples in the text. Suggestions for further reading can also be found in the text and complemented with
+existing FOSS product for adoptability.  Key recommendations are
+highlighted at the beginning of every section, with additional
+recommendations and examples in the text.  Suggestions for further
+reading can also be found in the text and complemented with
 a list of additional resources and tools in the
 [Appendix](/unicef/publicgoods-toolkit/appendix-resources-tools).  The
 paper also includes a checklist of recommendations and [brief overviews
@@ -59,8 +62,8 @@ APIs](/unicef/publicgoods-toolkit/appendix-resources-tools)).  The
 same holds true for open standards, which, among other things,
 describe how software should function.  We note a few unique points to
 be made about any differences between these DPG components in the
-paper.  However, the complexities around open data and AI models merit deeper treatment in a
-future revision.
+paper.  However, the complexities around open data and AI models merit
+deeper treatment in a future revision.
 
 Lastly, it's worth prefacing this operational toolkit with a brief
 summary of the benefits of an open approach.  You'll find numerous
@@ -76,8 +79,8 @@ measureable positives follow on from them.
 Re-usability breaks vendor lock-in and brings efficiency gains, lowers
 costs (and thus provides greater accessibility to broader
 populations), and focuses resources on local customization and
-innovation rather than foundational work.  As an example, although the government of
-Sierra Leone created the [Open Data Sierra
+innovation rather than foundational work.  As an example, although the
+government of Sierra Leone created the [Open Data Sierra
 Leone](https://opendatasl.gov.sl/) portal to promote government
 transparency and accountability, their current investment angle views
 these open data sets as important[resources for innovators and
@@ -249,9 +252,15 @@ boundaries.  DPGs are resources that enable entire communities to
 progress together.  Whenever government creates DPGs instead of
 proprietary resources, these are the policy goals it can create.
 
-The module on [Policy](/unicef/publicgoods-toolkit/policy) delves more deeply into recommended agency level policies on copyright, patent and trademarks for DPGs, while the [Procurement](/unicef/publicgoods-toolkit/community) module provides a few practical recommendations for managing licensing and usage concerns in working with vendors. 
+The module on [Policy](/unicef/publicgoods-toolkit/policy) delves more
+deeply into recommended agency level policies on copyright, patent and
+trademarks for DPGs, while the
+[Procurement](/unicef/publicgoods-toolkit/community) module provides a
+few practical recommendations for managing licensing and usage
+concerns in working with vendors.
 
-
-
-This paper is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). You can participate in its continued development and request changes at https://github.com/unicef/publicgoods-toolkit
-
+This paper is licensed under the [Creative Commons
+Attribution-ShareAlike 4.0 International (CC BY-SA
+4.0)](https://creativecommons.org/licenses/by-sa/4.0/).  You can
+participate in its continued development and request changes at
+https://github.com/unicef/publicgoods-toolkit.

@@ -2,27 +2,56 @@
 
 
 **KEY RECOMMENDATION**: When evaluating an open source product for
-adoption, look at its functionality, technical
-quality, and availability of support as well as the project's sustainability and responsiveness to its user base.
+adoption, look at its functionality, technical quality, and
+availability of support as well as the project's sustainability and
+responsiveness to its user base.
   
-**KEY RECOMMENDATION**: A project that's likely to develop a secure-as-possible product should have: a documented process for reporting security vulnerabilities; security patch releases; updated third-party dependencies; and possibly a Common Vulnerability Exposure number(s) (CVE) and a published security audit. 
+**KEY RECOMMENDATION**: A project that's likely to develop a
+secure-as-possible product should have: a documented process for
+reporting security vulnerabilities; security patch releases; updated
+third-party dependencies; and possibly a Common Vulnerability Exposure
+number(s) (CVE) and a published security audit.
 
-EXAMPLE: The financial inclusion DPG [Mifos](https://mifos.org/) has a [CVE](https://www.opencve.io/cve/CVE-2021-21385) related to the Mifos-Mobile Android Application for MifosX. The problem has been fixed, but the public documentation is a sign of a mature project that takes security seriously and is willing to enlist the support of global security researchers and developers to build a better product. The DHIS2 DPG also publishes [CVEs, along with a clear process for reporting vulnerabilities](https://dhis2.org/security).
+EXAMPLE: The financial inclusion DPG [Mifos](https://mifos.org/) has a
+[CVE](https://www.opencve.io/cve/CVE-2021-21385) related to the
+Mifos-Mobile Android Application for MifosX. The problem has been
+fixed, but the public documentation is a sign of a mature project that
+takes security seriously and is willing to enlist the support of
+global security researchers and developers to build a better
+product. The DHIS2 DPG also publishes [CVEs, along with a clear
+process for reporting vulnerabilities](https://dhis2.org/security).
 
-**KEY RECOMMENDATION**: The existence of vendors providing commercial support is practically a guarantee that the product is as stable
-and reliable as possible. If you are considering working with one of these vendors,
-you should find solid public evidence of their contributions to the product. 
+**KEY RECOMMENDATION**: The existence of vendors providing commercial
+support is practically a guarantee that the product is as stable and
+reliable as possible. If you are considering working with one of these
+vendors, you should find solid public evidence of their contributions
+to the product.
 
-EXAMPLE: The digital ID DPG [MOSIP](https://www.mosip.io/) supports a thriving community of several dozen commercial partners, such as [systems integrators and biometric solution providers](https://www.mosip.io/resource-partners/mosip-integrations). MOSIP's first fully functional release was in [February 2020, and its 1.2 long-term support version will be released soon](https://www.mosip.io/news-events/announcing-general-availability-of-mosip-release-1-1). 
+EXAMPLE: The digital ID DPG [MOSIP](https://www.mosip.io/) supports a
+thriving community of several dozen commercial partners, such as
+[systems integrators and biometric solution
+providers](https://www.mosip.io/resource-partners/mosip-integrations). MOSIP's
+first fully functional release was in [February 2020, and its 1.2
+long-term support version will be released
+soon](https://www.mosip.io/news-events/announcing-general-availability-of-mosip-release-1-1).
 
+**KEY RECOMMENDATION**: Thorough product installation and initial
+configuration documentation indicates a product that's actually meant
+to be used. A documented Application Programming Interface (API) is
+often important to supporting the full range of the programmatic
+functionality you'll probably need, especially if you will work with
+data at scale (although a lack of published APIs isn't uncommon for
+early stage open source products, but if this is the case, they should
+be on the project's roadmap). Relatedly, be sure to get a detailed
+understanding the product's ability to import/export data, as you will
+surely need to work with legacy data at some point. Data portability
+also enables you to switch systems or vendors, should the need arise.
 
-**KEY RECOMMENDATION**: Thorough product installation and initial configuration documentation indicates a product that's actually meant to be used. A documented Application Programming Interface (API) is often important to supporting the full range of the programmatic functionality you'll probably need, especially if you will work with data at scale (although a lack of published APIs isn't uncommon for early stage open source products, but if this is the case, they should be on the project's roadmap). Relatedly, be sure to get a detailed understanding the product's ability to import/export data, as you will surely need to work with legacy data at some point. Data portability also enables you to switch systems or vendors, should the need arise.
-
-EXAMPLE: The health information management system DPG DHIS2 publishes clear [documentation about installation and configuration as well as its Web API](https://docs.dhis2.org/en/home.html), which enables external systems (e.g. third-party software, web portals, and other internal DHIS2 modules) to securely access and manipulate DHIS2 data.
-
-
-
-
+EXAMPLE: The health information management system DPG DHIS2 publishes
+clear [documentation about installation and configuration as well as
+its Web API](https://docs.dhis2.org/en/home.html), which enables
+external systems (e.g. third-party software, web portals, and other
+internal DHIS2 modules) to securely access and manipulate DHIS2 data.
 
 A lot of open source products are available as
 commercial-off-the-shelf solutions; often they are fairly
@@ -118,7 +147,9 @@ that distinction is important we will note it.
 
   A good example of a [clearly documented process is from the Fedora
   Project](https://fedoraproject.org/wiki/Security_Bugs), whose Fedora
-  Linux is part of the DPG Resources collection. The DHIS2 DPG also publishes a [clear process for reporting vulnerabilities](https://dhis2.org/security).
+  Linux is part of the DPG Resources collection.  The DHIS2 DPG also
+  publishes a [clear process for reporting
+  vulnerabilities](https://dhis2.org/security).
 
   **KEY RECOMMENDATION**: Look at the project's web site or
   documentation to see what it says about reporting security
@@ -220,7 +251,7 @@ that distinction is important we will note it.
   such as adherence to national regulation, as well as the software
   itself, but they're still useful resources. The National Audit
   Office of Estonia [recently audited
-  X-Road(™)](https://eurosai-it.org/news/newsletter/1-2021/updates-from-itwg-members/estonia-x-road-and-audit)
+  X-Road](https://eurosai-it.org/news/newsletter/1-2021/updates-from-itwg-members/estonia-x-road-and-audit)
   and found that implementing agencies weren't adhering to some of the
   security policies we recommend in the Policy module (TBD: link)
 
@@ -271,10 +302,11 @@ have a very strong interest in the software's stability: unstable
 software costs them money, because it requires their staff to do more
 interrupt-driven work.
 
-**KEY RECOMMENDATION**: The existence of vendors providing commercial support is practically a guarantee that the product is as stable
-and reliable as possible. Looking through public reviews and a project's
-bug report database will also give you an idea of a product's stability and
-reliability. 
+**KEY RECOMMENDATION**: The existence of vendors providing commercial
+support is practically a guarantee that the product is as stable and
+reliable as possible. Looking through public reviews and a project's
+bug report database will also give you an idea of a product's
+stability and reliability.
 
 ## Scalability and Deployment Investment
 
@@ -770,43 +802,67 @@ very useful to have in-house, even if you also have a support vendor.)
 
 ## Internal Capacity Assessment
 
-
 TBD: Plan for this section is to collect the relevant points from all
 the other sections and examine what specific internal capacities would
 be needed to take advantage of or implement the advice given in those
 points.]
 
-[SUSY NOTE: I think OTS's deep implementation experience is needed here to outline what's most important and what's often overlooked in thinking about internal capacity. I started to draft some categories for how I'd approach this but I'm not sure I'm able to get to most salient and experiential-based insight]
+TBD from Susy: I think OTS's deep implementation experience is needed
+here to outline what's most important and what's often overlooked in
+thinking about internal capacity. I started to draft some categories
+for how I'd approach this but I'm not sure I'm able to get to most
+salient and experiential-based insight.  Draft categories:
 
-(draft categories)
+- Skills + capabilities (personnel resources)
 
--Skills + capabilities (personnel resources)
---Want to build base of knowledge and a community of practice, open source skills in personnel  
---https://producingoss.com/en/producingoss.html#funding-non-programming
+  + Want to build base of knowledge and a community of practice, open
+    source skills in personnel
 
---Don't forget phasing of project and skills you might need at different times. investing for influence can build up over time. staffing and vendors + modular contracts, see Procurement, also thoughts on budget for ongoing maintenance and operations
+  + https://producingoss.com/en/producingoss.html#funding-non-programming
 
---external relationships + partnerships (Mozilla as failure example with mobile OS) are ideally run in-house
+  + Don't forget phasing of project and skills you might need at
+    different times. investing for influence can build up over
+    time. staffing and vendors + modular contracts, see Procurement,
+    also thoughts on budget for ongoing maintenance and operations
 
---running privacy and security audits 
+  + external relationships + partnerships (Mozilla as failure example
+    with mobile OS) are ideally run in-house
 
---legal + regulatory compliance - specialized. don't surprise them https://producingoss.com/en/contracting.html#rfi-rfp-contract-language; [Everything a government attorney needs to know about open source software licensing](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/). The purpose of the document is to provide government legal counsel with a brief primer (not legal advice) on open source licenses.
+  + running privacy and security audits 
 
---resources to support scalability (see above section)
+  + legal + regulatory compliance - specialized. don't surprise them
+    https://producingoss.com/en/contracting.html#rfi-rfp-contract-language;
+    [Everything a government attorney needs to know about open source
+    software
+    licensing](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/).
+    The purpose of the document is to provide government legal counsel
+    with a brief primer (not legal advice) on open source licenses.
+
+  + resources to support scalability (see above section)
 
 - OSQA project roles, if don't have this internal should plan for this from vendor
 
 
--Culture
-George quote:"You can tackle infrastructure, but the cultural issues are the harder ones." 
-appendix re: culture and coding in the open 
+- Culture
 
--Processes + policies - general org health things of course, like strategy formation, clear decision making, accountability etc ; also eventually building open source related processes and policies. Templates to follow in license reviews, 
+  George quote: "You can tackle infrastructure, but the cultural
+  issues are the harder ones."
 
--Tools -- this concern is more if you are creating an entirely new open source community. start w/ communicatoins tools, source code management, issue tracker. Point to existing resources here. OSQA related tools? https://producingoss.com/en/technical-infrastructure.html;  https://todogroup.org/guides/management-tools/#why-you-need-special-tools-for-open-source-program-management
+  appendix re: culture and coding in the open 
 
+- Processes + policies - general org health things of course, like
+  strategy formation, clear decision making, accountability etc ; also
+  eventually building open source related processes and
+  policies. Templates to follow in license reviews,
 
+- Tools -- this concern is more if you are creating an entirely new
+  open source community. start w/ communicatoins tools, source code
+  management, issue tracker. Point to existing resources here. OSQA
+  related tools?
 
+  https://producingoss.com/en/technical-infrastructure.html;
+
+  https://todogroup.org/guides/management-tools/#why-you-need-special-tools-for-open-source-program-management
 
 ## Ecosystem Mapping for Adoptability
 

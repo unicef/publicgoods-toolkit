@@ -1,15 +1,24 @@
 # Community And Ecosystem
 
 **KEY RECOMMENDATION**: Communities and ecosystems around open source
-projects are not all the same. Project archetypes describe these differences and can help you understand a project's dynamics, health, and
-sustainability. This is useful when assessing an open source project for adoption or
-in creating your own open source project. These insights can help you set expections and plan investments. 
+projects are not all the same. Project archetypes describe these
+differences and can help you understand a project's dynamics, health,
+and sustainability. This is useful when assessing an open source
+project for adoption or in creating your own open source
+project. These insights can help you set expections and plan
+investments.
 
-EXAMPLE: The City of Paris'
-  [Lutece](https://lutece.paris.fr/lutece/), an open source platform
-  for municipal digital services, largely aligns with the Controlled Ecosystem archetype, in which a 'benevolent dictator' (here, the City of Paris) manages the core platform that 
- supports over [400 customized plugins created by cities and organizations
-  accross the globe](https://lutece.paris.fr/lutece/community.html). A team considering adopting Lutece and working with a vendor to create several specific extensions wouldn't worry if the vendor hasn't contributed to the main platform but would look for contribution to several existing extensions as a sign of experience and competence.
+EXAMPLE: The City of Paris' [Lutece](https://lutece.paris.fr/lutece/),
+an open source platform for municipal digital services, largely aligns
+with the Controlled Ecosystem archetype, in which a 'benevolent
+dictator' (here, the City of Paris) manages the core platform that
+supports over [400 customized plugins created by cities and
+organizations accross the
+globe](https://lutece.paris.fr/lutece/community.html). A team
+considering adopting Lutece and working with a vendor to create
+several specific extensions wouldn't worry if the vendor hasn't
+contributed to the main platform but would look for contribution to
+several existing extensions as a sign of experience and competence.
 
 **KEY RECOMMENDATION** Diversity among participants making the most
 resource investments in an open source project indicates stability,
@@ -18,33 +27,48 @@ diversity in areas like employers of contributors or of vendors
 providing support services, such as customization, deployment
 assistance, maintenance and operations, and training.
 
-EXAMPLE: [55 commerical businesses](https://mifos.org/directory) provide a broad array of supporting services around the financial inclusion DPG [Mifos](https://mifos.org/), from custom development and hosting to business consulting and deployment support. 
+EXAMPLE: [55 commerical businesses](https://mifos.org/directory)
+provide a broad array of supporting services around the financial
+inclusion DPG [Mifos](https://mifos.org/), from custom development and
+hosting to business consulting and deployment support.
 
-[TODO: MIFOS has a lot of partners but I don't see a lot of this showing up in the public repo. I quickly looked at dev forum mailing list and it seems pretty diverse, so I think the above is fair enough to say. Not sure if an example comes to someone else's mind? Mifos web site also says they have a marketplace/app store but I couldn't find a link or other reference online...]
+(TODO: MIFOS has a lot of partners but I don't see a lot of this
+showing up in the public repo. I quickly looked at dev forum mailing
+list and it seems pretty diverse, so I think the above is fair enough
+to say. Not sure if an example comes to someone else's mind? Mifos web
+site also says they have a marketplace/app store but I couldn't find a
+link or other reference online...)
 
 **KEY RECOMMENDATION**: Encouraging commercial participation can be
 useful to a DPG's adoption and sustainability, but take care to foster
 diverse commercial actors and be wary of creating commerical
 opportunities that could permit unfair advantage.
 
-EXAMPLE: The DPG [Mojaloop](https://mojaloop.io/) publishes a [list](https://mojaloop.io/mojaloop-business-directory) of consultants, systems integrators,
-training organizations, business operations supporters and other
-solution providers, vetted against a published list of criteria. They also [host open training,
-networking, and business development
-events](https://mojaloop.io/category/events/) to connect these commerical participants to new business opportunities. 
+EXAMPLE: The DPG [Mojaloop](https://mojaloop.io/) publishes a
+[list](https://mojaloop.io/mojaloop-business-directory) of
+consultants, systems integrators, training organizations, business
+operations supporters and other solution providers, vetted against a
+published list of criteria. They also [host open training, networking,
+and business development events](https://mojaloop.io/category/events/)
+to connect these commerical participants to new business
+opportunities.
 
 **KEY RECOMMENDATION**: Financial sustainability can look different across a project's
 stages. The types and sources of available funding options might change as a project
 progresses.
 
-EXAMPLE: Your agency might be able to cover seed funding, as was the case with the World Bank's Global Facility for Disaster Reduction and Recovery (GFDDR) with the [GeoNode project](https://geonode.org/). Philanthropic funds might help you pilot the project in particular locations, as was the case with the
+EXAMPLE: Your agency might be able to cover seed funding, as was the
+case with the World Bank's Global Facility for Disaster Reduction and
+Recovery (GFDDR) with the [GeoNode
+project](https://geonode.org/). Philanthropic funds might help you
+pilot the project in particular locations, as was the case with the
 [DHIS2](https://dhis2.org/), or to scale, as was the case with
-[OpenSRP](https://wiki.digitalsquare.io/index.php/Digital_Square_Investments_in_Global_Goods#Notice_B_Investments). Charging for use might cover ongoing maintenance costs. For example, the DPG [ODK](https://getodk.org/) is free as a self-hosted solution for
-offline data collection, but the organization also provides [cloud-based hosting at different pricing
-tiers](https://getodk.org/#odk-cloud). 
-
-
-
+[OpenSRP](https://wiki.digitalsquare.io/index.php/Digital_Square_Investments_in_Global_Goods#Notice_B_Investments). Charging
+for use might cover ongoing maintenance costs. For example, the DPG
+[ODK](https://getodk.org/) is free as a self-hosted solution for
+offline data collection, but the organization also provides
+[cloud-based hosting at different pricing
+tiers](https://getodk.org/#odk-cloud).
 
 Understanding how to work with, participate in, and foster a
 successful open source project is not just a matter of understanding
@@ -157,7 +181,7 @@ patterns and practices in successful open source projects that operate
 in similar contexts.  
  
 For example, in evaluating an existing open source project, you
-wouldn’t expect a "rocket ship" project to invest in supporting new
+wouldn't expect a "rocket ship" project to invest in supporting new
 contributors, and you'd want to plan any contribution and
 participation accordingly, with personnel with some level of open
 source familiarity.  Simlarly, if you're planning to create your own
@@ -180,7 +204,7 @@ available).
   take more points of view into account.  An example would be the
   [Apache HTTP Server project](https://httpd.apache.org/).  The DPG
   [Apache Fineract](https://fineract.apache.org), which provides core
-  financial services functionality for the world’s 2 billion
+  financial services functionality for the world's 2 billion
   underbanked and unbanked, might also fit here, or it could be viewed
   more as a controlled ecosystem (see below).  Again, exact
   categorization isn't as important how the exercise gets you thinking
@@ -225,7 +249,7 @@ available).
   own separate but duplicative solution.  For
   example:[Kubernetes](https://kubernetes.io/), an open-source system
   for automating deployment, scaling, and management of containerized
-  applications. [X-Road's(™) distributed data
+  applications. [X-Road's distributed data
   exchange](https://x-road.global/x-road-technology-overview) is a DPG
   example here as well.
 
@@ -291,7 +315,7 @@ available).
   [Lutece](https://lutece.paris.fr/lutece/), an open source platform
   for municipal digital services, is a controlled ecosystem project
   that supports over 400 plugins created by cities and organizations
-  accross the globe.  Estonia's DPG X-Road(™) (now managed by the Nordic
+  accross the globe.  Estonia's DPG X-Road (now managed by the Nordic
   Institute for Interoperability Solutions (NIIS)) fits here, with its
   [support for
   extensions](https://x-road.global/xroad-technology-partners-companies),
@@ -437,7 +461,9 @@ long, so let's leave off for the moment and not go deeper than we
 need.  Note: Victor
 [suggests](https://github.com/unicef/publicgoods-toolkit/pull/12#discussion_r651325121)
 including a mapping/analysis of some existing DPGs to the archetypes.
-We can add that analysis after doing some interviews.)<-- SUSY NOTE: some DPG examples added above>
+We can add that analysis after doing some interviews.)
+
+(TBD: from Susy: some DPG examples added above.)
 
 ## Community Diversity
 
@@ -462,7 +488,9 @@ services -- simply because these aspects of diversity are so often
 overlooked, and yet are so important to the health and success of a
 DPG.  This diversity is particularly important to projects that aren't
 speciality software libraries, although even there overreliance on one
-contributor type can be problematic. Note that it can take some sleuthing to figure out the backgrounds of contributors, who often use a non-work related identifier or even pseudonyms. 
+contributor type can be problematic.  Note that it can take some
+sleuthing to figure out the backgrounds of contributors, who often use
+a non-work related identifier or even pseudonyms.
 
 In considering diversity, including diversity of investment sources,
 it is useful to recall that participants tend to exercise control over
@@ -768,9 +796,11 @@ investment by commercial participants, they undertake to create
 commercial opportunities for participants.  For example, the [DPG
 Mojaloop publishes a list of consultants, systems integrators,
 training organizations, business operations supporters and other
-solution providers](https://mojaloop.io/mojaloop-business-directory), vetted against a published list of criteria. They also [host open training,
-networking, and business development
-events](https://mojaloop.io/category/events/) to connect these commerical participants to new business opportunities. Sometimes these
+solution providers](https://mojaloop.io/mojaloop-business-directory),
+vetted against a published list of criteria. They also [host open
+training, networking, and business development
+events](https://mojaloop.io/category/events/) to connect these
+commerical participants to new business opportunities.  Sometimes these 
 opportunities tend to reward more active project participants.  So
 long as these opportunities do not start to create monopolizable
 advantages, they can be effective ways to promote sustainability for
@@ -908,13 +938,13 @@ module. (TBD LINK)
  
 A final note on sustainability.  As noted, health -- and thus
 sustainability -- depends on whether a project is genuinely meeting
-the needs of its stakeholders, if it’s thoughtfully set up to be
+the needs of its stakeholders, if it's thoughtfully set up to be
 responsive to changing needs, and if a well diversified set of
 stakeholders is engaged and contributing.  In many project types,
 stakeholders should probably include a varied set of commercial
 actors.
  
-There’s also a related question of how DPGs can attract ongoing
+There's also a related question of how DPGs can attract ongoing
 financial investments, what novel options are out there, and how these
 might be applied to the underresourced area of maintenance.
  
@@ -926,20 +956,20 @@ companies found new clients for their GeoNode expertise, which gave
 them additional incentive to continue contributing to GeoNode and
 invest in its success (and this infusion of input from an expanded
 user base made the product better).  George Gelaga-King, a Software
-Engineer from Sierra Leone’s Directorate of Science and Technology &
+Engineer from Sierra Leone's Directorate of Science and Technology &
 Innovation, confirmed the value of thinking about how to attract
 private actors by creating economic opportunities.  Depending on local
 circumstances and regulation, agencies themselves might even be able
 to offer commercial services around a DPG.
  
 (TODO: Can we ask George for a more specific quote about this?  The
-interview notes didn’t provide anything exact.  If there's a recording
+interview notes didn't provide anything exact.  If there's a recording
 we can pull it from there, or we can suggest something based on notes
 and make sure he's ok with it?  Or we can just pull the above.)
  
-However, fostering commercial engagement doesn’t exclude other
+However, fostering commercial engagement doesn't exclude other
 options. GeoNode also worked with universities and other NGOs and
-intergovernmental organizations. It’s notable how the engagement of
+intergovernmental organizations. It's notable how the engagement of
 just one PhD student helped distribute GeoNode knowledge and expertise
 as he moved jobs between different agencies and organizations.
  
@@ -967,7 +997,7 @@ Collaborative financing is also an option, as NORAD helped bring to
 the [Modular Open Source Identity Platform
 (MOSIP)](https://www.mosip.io/index.php).  A university team did
 directly support MOSIP, but the collaboration was limited, so outside
-funding from the [World Bank’s Identification for Development
+funding from the [World Bank's Identification for Development
 (ID4D)](https://id4d.worldbank.org) rounded out the financial needs.
 Collaborative financing can be managed through intergovernmental
 organizations, like the World Bank, or through an NGO, like the
@@ -981,7 +1011,11 @@ approaches.
  
 (TBD: from Karl: I'm not sure that all these named quotes are what we
 want.  Will check with UNICEF about this.)
-(SUSY: Totally understood. There's not a lot of good case study examples to support some of our points, so I turned to quotes from the interviews where I thought they could bring in the experiential insight)
+
+(TBD: response from Susy: Totally understood.  There's not a lot of
+good case study examples to support some of our points, so I turned to
+quotes from the interviews where I thought they could bring in the
+experiential insight.)
 
 George Gelaga-King spoke of how pooling financial and personnel
 resources across agencies to create a DPG is also an option, although
@@ -1002,8 +1036,8 @@ bonds](https://www.oecd.org/cfe/leed/SIBs-State-Play-Lessons-Final.pdf) (also
 known as development impact bonds) are another method of bringing
 private capital to the creation and maintenance of public goods. By
 definition, they seem like they would help bring more funding to the
-long-term maintenance needs of DPGs. They’ve received a lot of
-attention and some uptake, but to our knowledge, this model hasn’t
+long-term maintenance needs of DPGs. They've received a lot of
+attention and some uptake, but to our knowledge, this model hasn't
 been used by a DPG.
  
 Social impact investment funds take varied shapes and can function
@@ -1019,7 +1053,7 @@ private development projects is a similar option, like the ["percent
 for art"
 programs](https://en.unesco.org/creativity/policy-monitoring-platform/percent-art-scheme)
 that require private developers to allocate a certain percentage of
-the project’s budget to creating and maintaining public art. For some
+the project's budget to creating and maintaining public art. For some
 countries, creating a new tax on a company's IPO value could ensure
 capital gains help to pay for existing (and future) public
 infrastructure that created the conditions for the company's
@@ -1029,7 +1063,7 @@ Direct crowdfunding and sponsorship might also be a viable financing
 option in some cases.  GitHub recently launched [GitHub
 Sponsors](https://github.com/sponsors) to let individuals and
 companies donate directly to GitHub hosted open source projects.  And
-there are surely other options we haven’t come across or considered
+there are surely other options we haven't come across or considered
 here.
 
 Lastly, charging for use might be an option as well.  For example, the
@@ -1048,11 +1082,13 @@ The predication can be generalized by incorporating other risk
 frameworks.  The new social enterprise would offer subscriptions to
 the insights.
 
-The most important take-away is to think about your DPG’s financial
+The most important take-away is to think about your DPG's financial
 sustainability from a project lifecycle viewpoint.  Early design and
 feasibility work might be funded through research grants to a partner
 academic institute.  Seed funding might be at a low enough threshold
-for your agency to cover, as it was for the World Bank's Global Facility for Disaster Reduction and Recovery (GFDDR) with the GeoNode project, or you
+for your agency to cover, as it was for the World Bank's Global
+Facility for Disaster Reduction and Recovery (GFDDR) with the GeoNode
+project, or you
 might complement your investment in an external vendor with funding
 from a social impact investor.  Philanthropic funds might help you
 pilot the project in particular locations, as was the case with the
@@ -1064,7 +1100,7 @@ Mojaloop](https://appdevelopermagazine.com/the-gates-foundation-chats-about-moja
 The DPG [Primero](https://www.primero.org/resources) is a
 collaborative effort across aid organizations and agencies that
 started with initial seed funding of $1.5 million from the United
-States Agency for International Development’s (USAID) Office of
+States Agency for International Development's (USAID) Office of
 Foreign Disaster Assistance (OFDA) and the United States Center for
 Disease Control (CDC).  [Ongoing platform development costs are funded
 by UNICEF, while countries fund the costs for customizing the platform

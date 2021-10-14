@@ -11,27 +11,52 @@ the right vendor to the right task, break vendor lock-in, and reduce
 risks associated with any one vendor. It works best with an agile
 development model and modular technical design.
 
-EXAMPLE: California's modular contracting approach in overhauling some legacy systems in their Child Welfare system enabled them to work with multiple vendors to [dramatically reduce their delivery timeline from years to months](https://18f.gsa.gov/2016/11/15/modular-procurement-state-local-government/).
+EXAMPLE: California's modular contracting approach in overhauling some
+legacy systems in their Child Welfare system enabled them to work with
+multiple vendors to [dramatically reduce their delivery timeline from
+years to
+months](https://18f.gsa.gov/2016/11/15/modular-procurement-state-local-government/).
 
-**KEY RECOMMENDATION**: It is more important to attract
-bids from vendors who are experienced at open source development than
-to attract vendors who are experienced at government contracting. Conduct FOSS-specific outreach early in the RFP lifecycle and ensure solicitations are promoted in media specifically aimed at open source developers, not just at government software vendors.
+**KEY RECOMMENDATION**: It is more important to attract bids from
+vendors who are experienced at open source development than to attract
+vendors who are experienced at government contracting. Conduct
+FOSS-specific outreach early in the RFP lifecycle and ensure
+solicitations are promoted in media specifically aimed at open source
+developers, not just at government software vendors.
 
 **KEY RECOMMENDATION**: No matter what happens with intellectual
 property rights at the contracting stage, you must have the ability to
 deploy, (re)distribute, and modify the software under a suitable open
-source license (see the [DPG standard](https://digitalpublicgoods.net/standard/)). Contracts should prevent any vendor from encumbering further development and distribution on either trademark
-or patent grounds and expressly forbid satisfying
-any deliverable with software that includes any 'forever proprietary' component. Lastly, you should require acceptance of code into the open source repository as part of the definition of contractual
-delivery in software milestones. 
+source license (see the [DPG
+standard](https://digitalpublicgoods.net/standard/)). Contracts should
+prevent any vendor from encumbering further development and
+distribution on either trademark or patent grounds and expressly
+forbid satisfying any deliverable with software that includes any
+'forever proprietary' component. Lastly, you should require acceptance
+of code into the open source repository as part of the definition of
+contractual delivery in software milestones.
 
-[NOTE: We could rewrite the above recommendation to point out that granting exclusivity to a vendor for a bounded period could be a strategic move -- this would help us bring in the LA county example -- but I think that makes the recommendation too confusing. This is just a section where I found it hard to find specific examples.]
+(TBD: We could rewrite the above recommendation to point out that
+granting exclusivity to a vendor for a bounded period could be a
+strategic move -- this would help us bring in the LA county example --
+but I think that makes the recommendation too confusing. This is just
+a section where I found it hard to find specific examples.)
 
 
 
-This module describes a few procurement tips, such as modular contracting and open source quality assurance practices, that can help you better attract and manage vendors to create a successful open source DPG. 
+This module describes a few procurement tips, such as modular
+contracting and open source quality assurance practices, that can help
+you better attract and manage vendors to create a successful open
+source DPG.
 
-This module complements the Digital Impact Alliance's (DIAL) [Procurement of Digital Technology](https://procurement-digitalimpactalliance.org/) guide. That high level, comprehensive guide is aimed at helping government agencies manage general digital spend, from strategic planning through lifecycle management. This module dives more deeply into specifics around procurement related to open source software, particularly working with vendors. 
+This module complements the Digital Impact Alliance's (DIAL)
+[Procurement of Digital
+Technology](https://procurement-digitalimpactalliance.org/)
+guide. That high level, comprehensive guide is aimed at helping
+government agencies manage general digital spend, from strategic
+planning through lifecycle management. This module dives more deeply
+into specifics around procurement related to open source software,
+particularly working with vendors.
 
 Free and Open Source Software (FOSS) has rapidly become successful in
 the commercial sector.  Few modern enterprises can thrive without
@@ -134,13 +159,15 @@ point for state and local technology procurement as well (18F also
 addresses [non-federal modular contracting](
 https://18f.gsa.gov/2016/11/15/modular-procurement-state-local-government>)).
 
-This [modular approach to contracts has several benefits](https://github.com/18F/Modular-Contracting-And-Agile-Development/blob/master/_strategies/modular-procurement.md), beginning most importantly with
-breaking vendor lock-in.  At any point, a well-procured effort should
-provide recourse to multiple, credible vendors, each of whom has
-familiarity with the software, experience working with the other
-teams, and is able to work well with the agency's open source
-approach.  Every vendor becomes replaceable because none by itself is
-so crucial to the process that it cannot be replaced.
+This [modular approach to contracts has several
+benefits](https://github.com/18F/Modular-Contracting-And-Agile-Development/blob/master/_strategies/modular-procurement.md),
+beginning most importantly with breaking vendor lock-in.  At any
+point, a well-procured effort should provide recourse to multiple,
+credible vendors, each of whom has familiarity with the software,
+experience working with the other teams, and is able to work well with
+the agency's open source approach.  Every vendor becomes replaceable
+because none by itself is so crucial to the process that it cannot be
+replaced.
 
 With that goal in mind, 18F and others in the industry recommend
 structuring procurement as multiple contracts distributed among a
@@ -220,11 +247,12 @@ flexibility to accomodate customizations and better support local
 business and talent development.  As an example, [UNICEF contracted
 with a commercial software develoment
 vendor](https://www.unicef.org/evaluation/media/946/file/Primero.pdf)
-to create the open source [Primero](https://www.primero.org/) platform.  Deploying agencies can
-find their own vendors to design and build Primero forms and
-workflows, but if the project is complicated or the deploying agency
-is unable to source additional development and funds locally, UNICEF
-entered long-term agreements with four IT service providers to help.
+to create the open source [Primero](https://www.primero.org/) platform.
+Deploying agencies can find their own vendors to design and build
+Primero forms and workflows, but if the project is complicated or the
+deploying agency is unable to source additional development and funds
+locally, UNICEF entered long-term agreements with four IT service
+providers to help.
 
 Finally, we note that modular contracting aligns perfectly with the
 [Open Contracting Data Standard
@@ -250,7 +278,9 @@ challenge.  Smaller contracts for shorter periods of work provide less
 stability.  Vendors find themselves unable to make the long-term
 commitments needed to hire long-term employees instead of ad-hoc
 contractors tend not to stay as long.  That raises their costs, which
-of course eventually raises costs for your agency. Modular contracts can cause additional staffing complexity for vendors as well (see below, Vendor Staffing). (TBD LINK)
+of course eventually raises costs for your agency.  Modular contracts
+can cause additional staffing complexity for vendors as well (see
+below, Vendor Staffing). (TBD LINK)
 
 For these reasons, we suggest that agencies engaged in modular
 contracting place those contract modules in larger Master Services
@@ -665,9 +695,12 @@ expect less-experienced open source vendors to learn from the others.
 
 ## Data Protection and Security 
 
-Please see the Policy module (TBD LINK) for key points around security and data protection in vendor contracts, as well as the Appendix with some example contractural language (TBD LINK)  
+Please see the Policy module (TBD LINK) for key points around security
+and data protection in vendor contracts, as well as the Appendix with
+some example contractural language (TBD LINK)
 
-[SUSY NOTE: This is a new section that I felt should be noted here, even though it just refers to content elsewhere.]
+(TBD from Susy: This is a new section that I felt should be noted
+here, even though it just refers to content elsewhere.)
 
 ## Vendor Staffing
 

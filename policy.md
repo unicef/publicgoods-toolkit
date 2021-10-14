@@ -1,14 +1,26 @@
 # Policy
 
 **KEY RECOMMENDATION**: Use only well-known open source or open
-content licenses as defined by the [Digital Public Good Standard](https://digitalpublicgoods.net/standard/) and make sure copyright ownership is clearly
-established at the onset of a project.  Avoid mixing proprietary
-materials into a DPG, as this is not something you want to disentangle
-later, and resist the temptation to discourage commercial
-use of your DPG.  Indeed, commercial engagement can be very helpful to
-project sustainability, quality, and adoption.
+content licenses as defined by the [Digital Public Good
+Standard](https://digitalpublicgoods.net/standard/) and make sure
+copyright ownership is clearly established at the onset of a project.
+Avoid mixing proprietary materials into a DPG, as this is not
+something you want to disentangle later, and resist the temptation to
+discourage commercial use of your DPG.  Indeed, commercial engagement
+can be very helpful to project sustainability, quality, and adoption.
 
-EXAMPLE: The [MOSIP Digital ID Platform](https://www.mosip.io/) chose the [Mozilla Public License 2.0](https://docs.mosip.io/platform/license), a 'weak' copyleft license, so commercial partners and developers could create and distribute supporting software that interacts with the core open source MOSIP platform under *any* license, therefore broadening potential business models. MOSIP felt this approach would best attract diverse, committed commerical partners (e.g. system integrators, developers) to support customization and broader adoption as well as to build a [self-sustaining contributory ecosystem](https://documents1.worldbank.org/curated/ar/672901582561140400/pdf/Open-Source-for-Global-Public-Goods.pdf) that would keep the platform evolving. 
+EXAMPLE: The [MOSIP Digital ID Platform](https://www.mosip.io/) chose
+the [Mozilla Public License
+2.0](https://docs.mosip.io/platform/license), a 'weak' copyleft
+license, so commercial partners and developers could create and
+distribute supporting software that interacts with the core open
+source MOSIP platform under *any* license, therefore broadening
+potential business models. MOSIP felt this approach would best attract
+diverse, committed commerical partners (e.g. system integrators,
+developers) to support customization and broader adoption as well as
+to build a [self-sustaining contributory
+ecosystem](https://documents1.worldbank.org/curated/ar/672901582561140400/pdf/Open-Source-for-Global-Public-Goods.pdf)
+that would keep the platform evolving.
 
 
 **KEY RECOMMENDATION**: Trademarks can be powerful tools for branding
@@ -17,10 +29,11 @@ associated with it, and if so what the policy on ownership and
 enforcement of those trademarks should be, needs to be decided early
 and on a case-by-case basis.
 
-EXAMPLE: The Estonian Information System Authority maintains the trademark for the
-X-Road(™) DPG, even though its continued development is managed
-collaboratively across borders through the Nordic Institute for
-Interoperabilty Solutions. This control helps Estonia protect trust in its (and other's) X-Road(™) investments. 
+EXAMPLE: The Estonian Information System Authority maintains the
+trademark for the X-Road DPG, even though its continued development is
+managed collaboratively across borders through the Nordic Institute
+for Interoperabilty Solutions. This control helps Estonia protect
+trust in its (and other's) X-Road investments.
 
 
 **KEY RECOMMENDATION**: Secrecy doesn't equal security.  Open source
@@ -32,11 +45,23 @@ Investment Fund (OSTIF)](https://ostif.org) connect open-source
 projects with funding and logistical support for security audits and
 reviews.
 
-**KEY RECOMMENDATION**: Building for “high bar” cybersecurity and privacy
-regulation, such as the General Data Protection Regulation (GDPR) -- even if your DPG's country of deployment doesn't have strong regulation -- puts you in a better position to maintain a secure, trusted DPG that protects the most vulnerable and can be adopted beyond national borders. Protecting privacy and security requires
-continuous attention, starting from project inception. Privacy guidelines, pre-engagement diligence with vendors, and standardized templates and contracts will help you create a trustworthy DPG and meet the [DPG standard](https://digitalpublicgoods.net/standard/). 
+**KEY RECOMMENDATION**: Building for "high bar" cybersecurity and
+privacy regulation, such as the General Data Protection Regulation
+(GDPR) -- even if your DPG's country of deployment doesn't have strong
+regulation -- puts you in a better position to maintain a secure,
+trusted DPG that protects the most vulnerable and can be adopted
+beyond national borders. Protecting privacy and security requires
+continuous attention, starting from project inception. Privacy
+guidelines, pre-engagement diligence with vendors, and standardized
+templates and contracts will help you create a trustworthy DPG and
+meet the [DPG standard](https://digitalpublicgoods.net/standard/).
 
-EXAMPLE: MOSIP's [design principles around security and privacy](https://www.mosip.io/uploads/resources/5c97366200053Architectural%20Principle%20-%20Privacy%20and%20Security.pdf) -- reflected in its technical architecture and approach to handling vulnerabilities, threats, and audits -- have paved the way for adoption across countries with different regulatory environments, including India, Philippines, Ethiopia, Guinea, Sri Lanka and Morocco. 
+EXAMPLE: MOSIP's [design principles around security and
+privacy](https://www.mosip.io/uploads/resources/5c97366200053Architectural%20Principle%20-%20Privacy%20and%20Security.pdf)
+-- reflected in its technical architecture and approach to handling
+vulnerabilities, threats, and audits -- have paved the way for
+adoption across countries with different regulatory environments,
+including India, Philippines, Ethiopia, Guinea, Sri Lanka and Morocco.
 
 
 **KEY RECOMMENDATION**: Avoid misconceptions around open approaches
@@ -44,13 +69,21 @@ and privacy by clarifying the distinction between the DPG itself and
 the data it holds and manages with high-level decision makers and
 elected officials.  
 
-**KEY RECOMMENDATION**: Government procurement can be a powerful tool, creating open source commons around which entrepreneurial businesses and public-private partnerships can grow. Collaboration with academia and investment in education -- particularly early, comprehensive education to improve tech
-skills beyond digital literacy -- strengthens innovation and grows the talent pool. 
+**KEY RECOMMENDATION**: Government procurement can be a powerful tool,
+creating open source commons around which entrepreneurial businesses
+and public-private partnerships can grow. Collaboration with academia
+and investment in education -- particularly early, comprehensive
+education to improve tech skills beyond digital literacy --
+strengthens innovation and grows the talent pool.
 
-EXAMPLE: In Rwanda, Partners in Health (PIH) and the Kigali Institute of
-Science and Technology have a [partnership to train students to
-further develop and implement the OpenMRS DPG](https://openmrs.org/2010/12/03/open-source-health-information-business-ecosystems-in-resource-poor-environments/), while the Rwandan Development Board has paired graduates with seed capital and mentorship to help them create new health information technology support businesses to service over 400 clinics across the country.
-
+EXAMPLE: In Rwanda, Partners in Health (PIH) and the Kigali Institute
+of Science and Technology have a [partnership to train students to
+further develop and implement the OpenMRS
+DPG](https://openmrs.org/2010/12/03/open-source-health-information-business-ecosystems-in-resource-poor-environments/),
+while the Rwandan Development Board has paired graduates with seed
+capital and mentorship to help them create new health information
+technology support businesses to service over 400 clinics across the
+country.
 
 
 
@@ -139,8 +172,9 @@ a primer on open source licensing would be helpful.
 
 At the most basic level, government agencies engaging with open source
 can start with basic knowledge of a handful of software licenses.
-Permitted software licenses under the [Digital Public Good standard](https://digitalpublicgoods.net/standard/) are listed in UNICEF's
-[GitHub
+Permitted software licenses under the [Digital Public Good
+standard](https://digitalpublicgoods.net/standard/) are listed in
+UNICEF's [GitHub
 repository](https://github.com/unicef/publicgoods-candidates/blob/main/docs/licenses.md).
 All of these open source licenses have in common the basic permissions
 to run, copy, modify, and distribute the software, including AI
@@ -350,13 +384,15 @@ mind about copyright and DPGs:
 * Use only well-known open source or open content licenses.
 
   When publishing a DPG, you should always publish it under one of the
-  well-known and widely-used existing licenses as defined in the [Digital Public Good Standard](https://digitalpublicgoods.net/standard/).  Never make up your own
-  license: even if you have excellent lawyers draft it, no one else
-  will be familiar with your new license, and thus others' ability to
-  use your DPG will be impeded by an unnecessary extra burden of
-  license evaluation.  For the same reason, avoid the rarer licenses
-  except when you have a specific and strong reason to prefer one of
-  them.
+  well-known and widely-used existing licenses as defined in the
+  [Digital Public Good
+  Standard](https://digitalpublicgoods.net/standard/).  Never make up
+  your own license: even if you have excellent lawyers draft it, no
+  one else will be familiar with your new license, and thus others'
+  ability to use your DPG will be impeded by an unnecessary extra
+  burden of license evaluation.  For the same reason, avoid the rarer
+  licenses except when you have a specific and strong reason to prefer
+  one of them.
 
 A note about public domain open source.  It exists, and by its name it
 sounds promising.  However, using it is not desirable because it does
@@ -409,11 +445,12 @@ license](https://digitalpublicgoods.net/standard/) for software.
   write the no-proprietary-materials requirement into contracts with
   vendors, so that there is no ambiguity on the matter.
 
- **KEY RECOMMENDATION**: Use only well-known open source or open
-content licenses as defined by the [Digital Public Good Standard](https://digitalpublicgoods.net/standard/) and make sure copyright ownership is clearly
-established at the oset of a project.  Avoid mixing proprietary
-materials into a DPG.  This is not something you want to disentangle
-later.
+  **KEY RECOMMENDATION**: Use only well-known open source or open
+  content licenses as defined by the [Digital Public Good
+  Standard](https://digitalpublicgoods.net/standard/) and make sure
+  copyright ownership is clearly established at the oset of a project.
+  Avoid mixing proprietary materials into a DPG.  This is not
+  something you want to disentangle later.
 
 
 ### Copyright and Jurisdiction
@@ -545,7 +582,7 @@ DPG [Sunbird](https://www.sunbird.org/) is managed by the EkStep
 Foundation, which is the main supporter and developer of the
 extensible Sunbird Learning and knowledge management platform.  The
 Estonian Information System Authority maintains the trademark for the
-X-Road(™) DPG, even though its continued development is now done
+X-Road DPG, even though its continued development is now done
 collaboratively across borders through the Nordic Institute for
 Interoperabilty Solutions.
 
@@ -761,7 +798,7 @@ territories:
 **KEY RECOMMENDATION**: Even if your country doesn't have formal
 cybersecurity regulation, consider acting as if it did, especially
 around data privacy (see Privacy below) as it's particularly important
-in protecting vulnerable populations.  Building for “high bar”
+in protecting vulnerable populations.  Building for "high bar"
 cybersecurity regulation puts you in a better position to maintain a
 secure and trusted DPG.
 
@@ -784,9 +821,9 @@ trying to protect, with "thing" being very broadly defined.  A threat
 is what you're trying to protect against.  Per the U.S.  National
 Institute of Standards and Technology, a
 [vulnerability](https://csrc.nist.gov/glossary/term/vulnerability) is
-a “weakness in an information system, system security procedures,
+a "weakness in an information system, system security procedures,
 internal controls, or implementation that could be exploited or
-triggered by a threat source.” There are different definitions of
+triggered by a threat source." There are different definitions of
 risk, but basically it's the potential for loss and the probability of
 this occurring (loss multiplied by probability).  (The ISO definition
 of risk, which the [UNDP also
@@ -803,7 +840,7 @@ collaboration with stakeholders, ideally including security experts --
 identify potential threats, estimate a rank of their severity, and
 start outlining possible mitigations.  Threat modeling can be done
 from perspectives that center on a systems or asset view, but also
-from “thinking with your evil hat on”: in other words, thinking
+from "thinking with your evil hat on": in other words, thinking
 through all the ways users could be put at risk by bad actors (indeed,
 one specific threat modeling exercise is called "persona non grata").
 This should happen very early in the development process, ideally when
@@ -853,9 +890,9 @@ certain standards at a specific point in time.  There are guides and
 models for doing security risk assessments, such as from NIST (see
 Appendix)(TBD LINK), as well as different models for calculating
 probability in risk.  They can be as simple as a rating system from
-“not likely” to “expected,” as the UNDP's guidance note [“Managing
+"not likely" to "expected," as the UNDP's guidance note ["Managing
 Risks Across UNDP Programming and
-Operations”](https://info.undp.org/sites/ERM/Shared%20Documents/UNDP%20ERM%20Guide_Sept2019.pdf)
+Operations"](https://info.undp.org/sites/ERM/Shared%20Documents/UNDP%20ERM%20Guide_Sept2019.pdf)
 defines, to a more complicated model.  Choose whatever seems most
 likely to be both fitting and usable by your team and stick to it.
 The DPG OpenMRS took pared-down versions of well documented and well
@@ -899,9 +936,9 @@ Lastly, DPGs should have a policy of requiring a **risk management
 plan** for all discrete projects.  As its name implies, a risk
 management plan is a key tool to ensure your DPG is continually
 monitoring for risks and prepared to respond in a predetermined,
-agreed upon way.  Again, the [UNDP's guidance note “Managing Risks
+agreed upon way.  Again, the [UNDP's guidance note "Managing Risks
 Across UNDP Programming and
-Operations”](https://info.undp.org/sites/ERM/Shared%20Documents/UNDP%20ERM%20Guide_Sept2019.pdf)
+Operations"](https://info.undp.org/sites/ERM/Shared%20Documents/UNDP%20ERM%20Guide_Sept2019.pdf)
 is useful.  Its outline of key points in any risk management plan
 include :
 
@@ -978,7 +1015,7 @@ Many aspects of a DPG's success rely on getting data privacy right,
 from building trust with end users to attracting funding.  Data
 privacy is complex, but perhaps the most important recommendation is
 that protecting privacy requires continuous attention.  Data privacy
-is not a “one and done” effort.  It depends upon a close understanding
+is not a "one and done" effort.  It depends upon a close understanding
 of the full lifecycle of data within the DPG project, thinking through
 privacy *from* whom and *for* whom, and under what (possibly changing)
 circumstances.  Recent controversy over the United Nations High
@@ -1073,7 +1110,7 @@ There are well-tested, comprehensive design guides distilled from
 years of experience developing successful products that support the
 OECD's Privacy Principles and its various derivations in national laws
 and regulations.  The approach in these guides is described as
-“privacy by design.”
+"privacy by design."
 
 **KEY RECOMMENDATION**: Following privacy guidelines can
 help you pay attention to the actual needs of your end users to create
@@ -1092,8 +1129,8 @@ a privacy by design approach as one that:
 * Embeds privacy into the technical design from the start rather than
   retrofitting it;
 
-* Views privacy in a positive-sum manner (“win-win”) and not as a
-  zero-sum (“either/or”)
+* Views privacy in a positive-sum manner ("win-win") and not as a
+  zero-sum ("either/or")
 
 * Develops end-to-end security with a view to full-lifecycle
   protection
@@ -1136,7 +1173,7 @@ and save resources down the line.
 
 As you read through privacy guidelines, consider how the
 open aspects of your DPG project can help you better understand and
-build for privacy.  Recall that areas of “openness” are all points of
+build for privacy.  Recall that areas of "openness" are all points of
 potential collaboration.  For example, could collectively drafting
 documentation help you bring in meaningful participation from
 marginalized population groups? How might an open, user-focused
@@ -1191,7 +1228,7 @@ following:
   mitigations and place restrictions on how data provided to them in
   order to peform the contracted service can be used, retained, and
   stored.  The [Estonian government's recent audit of
-  X-Road(™)](https://eurosai-it.org/news/newsletter/1-2021/updates-from-itwg-members/estonia-x-road-and-audit)
+  X-Road](https://eurosai-it.org/news/newsletter/1-2021/updates-from-itwg-members/estonia-x-road-and-audit)
   found that many national agencies didn't use data service agreements
   or rarely checked for compliance where they were in place.
   Alarmingly, no audited national agency confirmed that their
@@ -1312,12 +1349,14 @@ Program includes deploying the open source
 and coordination with the Ministry of Public
 Education](https://pdf.usaid.gov/pdf_docs/PA00WRTP.pdf).
 
-USAID is also helping to improve Uzbekistan's Information and Communication Technology
-(ICT)-based instruction for grades 5 -11 in all public schools to help
-support the Ministry's goal of creating an "IT Nation".  The Ministry of Public Education's [IT
-Nation initiative](https://pdf.usaid.gov/pdf_docs/PA00WRTP.pdf) aims to produce grade 11 graduates who are able to
-work in cyber security, software development and testing, network
-administration, graphic design, animation, and game design.
+USAID is also helping to improve Uzbekistan's Information and
+Communication Technology (ICT)-based instruction for grades 5 -11 in
+all public schools to help support the Ministry's goal of creating an
+"IT Nation".  The Ministry of Public Education's [IT Nation
+initiative](https://pdf.usaid.gov/pdf_docs/PA00WRTP.pdf) aims to
+produce grade 11 graduates who are able to work in cyber security,
+software development and testing, network administration, graphic
+design, animation, and game design.
 
 
 [DHIS2 is an example of this early focus in
@@ -1446,5 +1485,5 @@ to opportunities for local innovation policy alignment.
 For example, how might public-private partnerships be formed to develop commonly needed open
 source components? Might these also tie into a relationship with a
 local university? Could local government provide tax incentives, or
-even something as “simple” as consistent Internet access and a safe
+even something as "simple" as consistent Internet access and a safe
 space, for partnerships that engage local students?
