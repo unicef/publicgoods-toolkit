@@ -76,9 +76,9 @@ the software at a technical level; it also requires understanding the
 motivations and interrelationships of the people and organizations who
 do make up the project.  While we touch upon some aspects of finding
 or nurturing a broader DPG supportive ecosystem at the national level
-in the Introduction (TBD LINK), this module provides guidance on
+in the [Introduction](#introduction), this module provides guidance on
 understanding project-level communities and ecosystems.  The
-Adoptability module (TBD LINK) provides even more detailed
+[Adoptability module](adoptability.md#adoptability-assessment) provides even more detailed
 recommendations for putting this understanding into evaluating open
 source projects, including how to map a project's ecosystem.
 
