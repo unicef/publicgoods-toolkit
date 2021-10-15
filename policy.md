@@ -168,7 +168,7 @@ DPG supportive policies.
 Before we get into context-setting national and agency level policies,
 a primer on open source licensing would be helpful.
 
-## Major Software Licenses and License Categories {#foss-licensing}
+## Major Software Licenses and License Categories
 
 At the most basic level, government agencies engaging with open source
 can start with basic knowledge of a handful of software licenses.
@@ -469,7 +469,7 @@ subject of litigation in multiple jurisdictions.
 
 
 
-## Patent {#patent}
+## Patent
 
 A patent is also a monopoly right, like a copyright, but it is a
 monopoly on a method or a mechanism for doing something.  Like

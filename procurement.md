@@ -1,4 +1,10 @@
-# FOSS Procurement For Government Agencies {#procurement}
+# Procurement
+
+(TBD: The original title of this module -- that is, the title for its
+main section, given above after the single "#" -- was as follows:
+"FOSS Procurement For Government Agencies {#procurement}".  Karl
+simplified it in order to match the relatively simple top-level names
+of the other modules, but he is open to feedback on that decision!)
 
 (TODO: Find more sample RFP or contract language to illustrate more
 points.  Include here or in Appendix.  UPDATE: see ref:f9f71f8d,

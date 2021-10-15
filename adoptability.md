@@ -114,7 +114,7 @@ Typically, the organizations that provide product-shaped offerings are
 also deeply involved in the project.  As you'll see below, that's one
 of the things to look for when evaluating both projects and vendors.
 
-## Security
+## Assessing Security
 
 There are no guarantees when it comes to computer and network
 security.  Even the largest companies and the most careful, thorough
@@ -694,8 +694,6 @@ spectrum, one will find a project's lead developer heroically also
 playing the support role.  That often works, but is sometimes an
 indication that the project overly depends on one person who might
 move on or burn out.
-
-## Internal Capacity Assessment
 
 (TODO: Maybe a note here about using open forums!  It looks like Mifos
 moved from https://discourse.mifos.org to Slack?  Or this is a good

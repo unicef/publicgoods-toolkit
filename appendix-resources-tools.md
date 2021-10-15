@@ -1,4 +1,4 @@
-# **Appendix: Resources and Tools
+# Appendix: Resources and Tools
 
 Additional resources and tools are listed by topical module. 
 
@@ -7,8 +7,6 @@ purpose of this appendix and how it relates to the other appendices.
 Well, as per our discussion on 2021-10-13, we're maybe going to create
 some more topic-specific appendixes, so some of this will get moved to
 one of those then.
-
-## **Introduction**
 
 (TBD: Write introductory paragraphs.  Add a few resources for
 networking if possible.
@@ -38,7 +36,7 @@ talent and support at any sort of commercial start-up accelerator or
 incubator, which if not physically local might still be accessible and
 helpful to you online.
 
-**Benefits of Open Source**
+## Benefits of Open Source
 
 * The World Bank report [Open Source for Global Public
   Goods](https://openknowledge.worldbank.org/handle/10986/33401)
@@ -141,7 +139,7 @@ example, see a [recent job posting for a community
 managaer](https://www.kobotoolbox.org/join-our-team/project-community-engagement-coordinator.html)
 from the the team behind the Kobo Toolbox DPG (accessed Sept. 2021).
 
-## **COMMUNITY** 
+## Resources and Tools Appendix: Community
 
 This [2018 slide presentation of project
 archetypes](https://opentechstrategies.com/files/presentations/2018-finos/finos-presentation.html)
@@ -192,7 +190,7 @@ a thriving open source community. Some of our favorites include:
 
 * Code of conduct - https://wiki.openmrs.org/display/RES/OpenMRS+Code+of+Conduct
 
-## **POLICY**
+## Resources and Tools Appendix: Policy
 
 **Integrated Policy Approaches**
 
@@ -322,7 +320,7 @@ is similarly straightforward:
 * Unreleased policy should be kept closed.
 
 
-## **ADOPTABILITY**
+## Resources and Tools Appendix: Adoptability
 
 The [Open Source Maturity
 Model](https://en.wikipedia.org/wiki/OpenSource_Maturity_Model) is
@@ -334,7 +332,7 @@ weighting. More background is in this article by Bernard Golden in
 Review](https://timreview.ca/article/145), (May 2008).
 
 
-## **PROCUREMENT**
+## Resources and Tools Appendix: Procurement
 
 The Digital Impact Alliance's [Procurement Of Digital
 Technology](https://procurement-digitalimpactalliance.org/) is a
