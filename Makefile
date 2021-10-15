@@ -41,8 +41,47 @@ pdf: pdf-preamble $(SOURCES)
           cat $${name} >> .everything.md;                                 \
           echo "" >> .everything.md;                                      \
         done
+        # We want intra-document links to work in both GitHub
+        # and in the PDF.  This is complicated because on
+        # GitHub, cross-file links should specify both the
+        # destination file and the anchor in that file, like...
+        # 
+        # [Adoptability Module](adoptability.md#adoptability-assessment)
+        # 
+        # ...while in the PDF, we don't want the filename, because
+        # there are no file boundaries within the PDF: everything is
+        # combined in to one giant Markdown input, and the only thing
+        # that matters within that input is anchor names.
+        # 
+        # (By the way, remember that anchor names are usually
+        # calculated from the Markdown section titles; it's rare that
+        # we explicitly write an anchor name as such in the source
+        # text.)
+        # 
+        # Our solution is to automatically pre-process that giant
+        # combined-Markdown input before handing it off to pandoc
+        # for conversion to PDF.  Specifically, we convert, e.g.,
+        # 
+        # [Adoptability Module](adoptability.md#adoptability-assessment)
+        # 
+        # to
+        # 
+        # [Adoptability Module](#adoptability-assessment)
+        # 
+        # That's what the 'sed' expression below does :-).
+        # 
+        # Note that this means we need unique anchor names across the
+        # whole project.  For example, we can't have a subsection
+        # named "## Resources" in one file and a section with the
+        # exact same name in another file, because Markdown would
+        # create two anchors both named "#resources", and that anchor
+        # name would then be non-unique within the combined PDF.
+	@sed -E -e 's/]\([-_.a-zA-Z0-9]+.md#/](#/g' \
+	     < .everything.md > .everything.md.tmp
+	@mv .everything.md.tmp .everything.md
 	@pandoc --pdf-engine=pdflatex                                     \
                 -f markdown-raw_tex                                       \
+	        --fail-if-warnings                                        \
                 --standalone                                              \
                 -V colorlinks                                             \
                 -V urlcolor=NavyBlue                                      \
