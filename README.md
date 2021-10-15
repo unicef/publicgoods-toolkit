@@ -58,6 +58,11 @@ This toolkit is the work of the [UNICEF Office of Innovation](https://www.unicef
 
 6. It is made open source and/or published under Creative Commons – Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) where possible and unless otherwise specified 
 
+## Contributing
+
+Please see the [contribution guide](CONTRIBUTING.md) for information
+on how to contribute to this toolkit.
+
 ## :memo: License
 
 This repository is primarily content, and it is licensed under a [Creative Commons Attribution ShareAlike 4.0 International License](LICENSE.md).
