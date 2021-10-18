@@ -2,7 +2,7 @@
 
 # We name the sources explicitly, instead of just saying *.md, because
 # there are some Markdown files that shouldn't be included.
-SOURCES := introduction.md community.md policy.md readiness.md procurement.md adoptability.md
+SOURCES := introduction.md community.md policy.md readiness.md procurement.md adoptability.md appendix-*.md
 
 all: pdf
 
