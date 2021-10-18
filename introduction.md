@@ -24,10 +24,9 @@ existing FOSS product for adoptability.  Key recommendations are
 highlighted at the beginning of every section, with additional
 recommendations and examples in the text.  Suggestions for further
 reading can also be found in the text and complemented with
-a list of additional resources and tools in the
-[Appendix](/unicef/publicgoods-toolkit/appendix-resources-tools).  The
-paper also includes a checklist of recommendations and [brief overviews
-of select exemplary 'open' projects, including a few DPGs]([Appendix](/unicef/publicgoods-toolkit/appendix-examples).
+a list of additional resources and tools in the .  The
+paper also includes a checklist of recommendations and brief overviews
+of select exemplary 'open' projects, including a few DPGs (see [Appendix: Examples](appendix-examples.md#appendix-examples)).
 
 Countries have different levels of knowledge and capabilities in open
 technologies and open development models.  We believe this guide is
@@ -36,7 +35,7 @@ where you might stand in such maturity.  If you feel that your
 organization or team would benefit from more grounding and support,
 there are numerous resources and networks out there to help, and we
 list a few in the
-[Appendix](/unicef/publicgoods-toolkit/appendix-resources-tools).
+[Appendix: Resources and Tools](appendix-resources-tools.md#appendix-resources-and-tools).
 
 The paper largely describes how to understand, evaluate, and use
 existing open source projects in a DPG.  Even those creating entirely
@@ -45,7 +44,7 @@ software.  However, there are additional considerations for creating
 and managing a new open source project.  We occasionally call
 attention to these points throughout the paper, but we also include a
 must-read set of more in-depth resources in the
-[Appendix](/unicef/publicgoods-toolkit/appendix-resources-tools).
+[Appendix: Resources and Tools](appendix-resources-tools.md#appendix-resources-and-tools).
 
 This paper also focuses on operational points about open source
 *software* because software -- the collection of things that makes
@@ -57,8 +56,7 @@ the DPG [AI Agro]( https://rentadrone.cl/developers/ai-agro), with its
 machine learning algorithms and computer vision program [source
 code](https://github.com/RentadroneCL/AI-Agro).  Open data is made
 useful by the software surrounding its creation and access (see the
-[Appendix on
-APIs](/unicef/publicgoods-toolkit/appendix-resources-tools)).  The
+[Appendix: APIs](appendix-apis.md#introduction-to-apis-for-non-technical-readers)).  The
 same holds true for open standards, which, among other things,
 describe how software should function.  We note a few unique points to
 be made about any differences between these DPG components in the
@@ -69,7 +67,7 @@ Lastly, it's worth prefacing this operational toolkit with a brief
 summary of the benefits of an open approach.  You'll find numerous
 online research papers and case studies on the topic.  We list a few
 in the
-[Appendix](/unicef/publicgoods-toolkit/appendix-resources-tools).
+[Appendix: Resources and Tools](appendix-resources-tools.md#resources-and-tools-benefits-of-open-source).
 Experience shows that the main benefits to governments are how open
 approaches drive re-use; easier, faster, and broader cooperation
 across organizational boundaries; and greater local control.  These
@@ -83,7 +81,7 @@ innovation rather than foundational work.  As an example, although the
 government of Sierra Leone created the [Open Data Sierra
 Leone](https://opendatasl.gov.sl/) portal to promote government
 transparency and accountability, their current investment angle views
-these open data sets as important[resources for innovators and
+these open data sets as important [resources for innovators and
 investors](https://media.un.org/en/asset/k17/k17a9bg6o8), and they are
 figuring out how they can better support innovation linked to this
 open data.  Open source and open data can increase the speed of
@@ -91,7 +89,8 @@ distribution and adoption of innovations as well.  The Philippine
 government was able to [roll out its National Digital Vaccination
 Certificate program in three
 months](https://media.un.org/en/asset/k17/k17a9bg6o8) by re-using and
-adapting the open source vaccination portal CoWIN from India.  The
+adapting the Digital Infrastructure for Vaccination Open Credentialing (DIVOC) system
+ from India.  The
 Nigeria Centre for Disease Control (NCDC) deployed the DPG
 [SORMAS](https://sormas.org/), an open source mobile product for
 outbreak and epidemic surveillance, [to 30 districts in *14
@@ -103,9 +102,6 @@ the COVID pandemic to get payments to frontline health workers and
 volunteers, can ['scale horizontally' to send payments to teachers and
 schools](https://media.un.org/en/asset/k17/k17a9bg6o8).
 
-(TODO: confirm Philippines used CoWIN, I couldn't hear clearly in the
-presentation or confirm quickly through a search but it makes sense)
-
 Open source and open data provide an "off the shelf," low friction
 model for collaboration to create and manage digital goods.  These
 collaborations -- often around foundational, shared infrastructure --
@@ -116,13 +112,11 @@ for developing *local* economies and talent, as evidenced by the new
 companies that grew to service [Nigeria's implementation of
 OpenMRS](https://openmrs.org/2010/12/03/open-source-health-information-business-ecosystems-in-resource-poor-environments/).
 
-(TODO: DPG example w/ stats on collaboration growth? will have to dig...)
-
 Lastly, the transparency and digital sovereignty of open source and
 open data -- how they enable locally controlled and developed
 solutions as well as local accountability -- are necessary to
 [building greater trust in digital solutions for achieving the
-SDGs](https://digitalpublicgoods.net/blog/the-transformative-role-of-academia-digital-public-goods.
+SDGs](https://digitalpublicgoods.net/blog/the-transformative-role-of-academia-digital-public-goods).
 Trust is often overlooked, perhaps because it's somewhat intangible
 and hard to measure.  Yet the organizations behind OpenMRS found that
 much of their success was based on the [shared ownership and
@@ -252,10 +246,10 @@ boundaries.  DPGs are resources that enable entire communities to
 progress together.  Whenever government creates DPGs instead of
 proprietary resources, these are the policy goals it can create.
 
-The module on [Policy](/unicef/publicgoods-toolkit/policy) delves more
+The module on [Policy](policy.md#policy) delves more
 deeply into recommended agency level policies on copyright, patent and
 trademarks for DPGs, while the
-[Procurement](/unicef/publicgoods-toolkit/community) module provides a
+[Procurement](procurement.md#procurement) module provides a
 few practical recommendations for managing licensing and usage
 concerns in working with vendors.
 

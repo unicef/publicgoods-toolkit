@@ -141,12 +141,12 @@ innovation policies.
 
 Detailed recommendations for putting some of these policy
 considerations into practice are generally found in the later modules
-on [Procurement]((TBD LINK) and [Adoptability Assessment](TBD LINK).
+on [Procurement](procurement.md#procurement) and [Adoptability](adoptability.md#adoptability-assessment).
 For example, while we touch upon procurement policy as a
 national-level tool here, detailed procurement policy recommendations
-useful at a DPG level are in the [Procurement](TBD LINK), and
-assessing security when evaluating an open source project is in
-[Adoptability Assessment](TBD LINK).  The exceptions to this are data
+useful at a DPG level are in the [Procurement](procurement.md#procurement) module, and
+assessing security when evaluating an open source project is in the
+[Adoptability](adoptability.md#adoptability-assessment) module.  The exceptions to this are data
 privacy and cybersecurity policy at a national level, for which we
 also cover detailed recommendations here.
 
@@ -158,9 +158,8 @@ that are useful in that context, but we don't delve deeply into
 building a case for this advocacy angle.  Yet there's a lot to be said
 here, particularly from the standpoint of opening up a government's
 service infrastructure.  For those interested, we encourage you to
-check on the example of Estonia that we include in the [Appendix](TBD
-LINK to examples appendix) examples.  Estonia's comprehensive, highly
-integrative, and 'open' approach to e-government is rightfully lauded,
+check on the example of Estonia that we include in the [Appendix: Examples](appendix-examples.md#appendix-examples).  Estonia's comprehensive, highly
+integrative, and open approach to e-government is rightfully lauded,
 and although their origin story is unique, there are lessons there for
 all governments wanting to craft a forward-thinking integrated set of
 DPG supportive policies.
@@ -200,8 +199,6 @@ requirement that when you distribute software, open source permissions
 attach to some or all of your improvements.  We usually distinguish
 between "weak" and "strong" copyleft as a way to categorize licenses
 by how strict their copyleft requirements are.
-
-(TBD: Do we want a diagram of the license spectrum here?)
 
 These three categories, "permissive," "weak copyleft," and "strong
 copyleft" are well-recognized terms in the open source industry, and
@@ -302,7 +299,7 @@ The DPG [VIPS](https://nibio.no/en/services/vips), created by the
 Norwegian Institute of Bioeconomy Research (NIBIO), provides an open
 source platform for decision support in integrated management of
 pests, diseases and weeds.  Their work is [licensed under AGPL, with a
-specific exemption for forecasting
+specific exemptions for forecasting
 models](https://gitlab.nibio.no/VIPS/VIPSCommon/-/blob/4bd37abda46a0de0765ae6fd936686a1307d7d4d/LICENSE.txt).
 This helps them to drive open sharing and collaboration around the
 core platform but supports as broad a range of local and international
@@ -321,8 +318,7 @@ license you choose can affect potential downstream business models.
 This isn't inherently a bad thing - indeed, these limitations were
 created in order to encourage the growth of a softare commons -- but
 are to be considered.  Mapping out your DPG's ecosystem is a helpful
-exercise here (see [Community and
-Ecosystem](/unicef/publicgoods-toolkit/community)).
+exercise here; see the [Adoptability](adoptability.md#ecosystem-mapping-for-adoptability) module.
 
 ## Copyright
 
@@ -397,13 +393,10 @@ mind about copyright and DPGs:
 A note about public domain open source.  It exists, and by its name it
 sounds promising.  However, using it is not desirable because it does
 not provide an explicit license, which is problematic for various
-reasons [See [Appendix Resources and
-Tools](/unicef/publicgoods-toolkit/appendix-resources-tools).  These
+reasons; see [Appendix: Resources and Tools](appendix-resources-tools.md#resources-and-tools-policy) for more about this.  These
 reasons are why the [Digital Public Goods Alliance requires an Open
 Source Initiative approved
 license](https://digitalpublicgoods.net/standard/) for software.
-
-(TODO: public domain + data, content?)
 
 
 * Establish copyright ownership clearly.
@@ -420,8 +413,8 @@ license](https://digitalpublicgoods.net/standard/) for software.
   people.
 
   The question of which of these copyright ownership scenarios is best
-  for a given DPG is discussed further in the [Procurement
-  Module](#procurement). The high-level policy point here is merely that the
+  for a given DPG is discussed further in the [Procurement](procurement.md#procurement) 
+  module. The high-level policy point here is merely that the
   decision of copyright *ownership* -- which is independent from the
   choice of license -- should be made purposefully, not determined by
   accident based on who drafted a contract or on some quirk of
@@ -441,7 +434,7 @@ license](https://digitalpublicgoods.net/standard/) for software.
   source; this is easy to find out by just checking the license, it's
   just that one must remember to do so.
 
-  As the [Procurement](#procurement) module discusses, it is good to
+  As the [Procurement](procurement.md#procurement) module discusses, it is good to
   write the no-proprietary-materials requirement into contracts with
   vendors, so that there is no ambiguity on the matter.
 
@@ -507,13 +500,7 @@ infringement claims, but fortunately they are fairly rare.
 However, one can at least take some steps when procuring a DPG to
 ensure that everyone involved in building it or in being an official
 distributor takes steps to avoid being a source of patent infringement
-claims themselves.  This is discussed further in the [Procurement
-Module](#procurement).
-
-(TBD: Note that some FOSS licenses have patent-related provisions, but
-those provisions are usually fairly lightweight and it may not be
-worth discussing it in depth in this toolkit, except for the mention
-already made re Apache License in the Introduction Module.)
+claims themselves.  This is discussed further in the [Procurement](procurement.md#procurement) module.
 
 ## Trademark
 
@@ -570,14 +557,13 @@ It is okay for an organization to have a trademark on the name or logo
 of a DPG (or of some aspect of a DPG).  In some cases it may even be
 desirable: while a DPG can be "forked" -- that is, anyone can make a
 divergent version with their own changes, perhaps even with changes
-that the original authors disagree with (see the [Adoptability](TBD
-LINK) module) -- it may be beneficial to the public to force the fork
+that the original authors disagree with (see the [Adoptability](adoptability.md#adoptability) module) -- it may be beneficial to the public to force the fork
 to distinguish itself clearly from the original, that is, to avoid
 being an impostor.  Trademarks can be powerful tools for preventing
 abuse and thus protecting trust in a DPG's brand.  Indeed the
 technology industry has a [long history in using trademark protection
-of open source projects in this
-way](https://producingoss.com/en/trademarks.html).  Trademark for the
+of open source projects](https://producingoss.com/en/trademarks.html) in this
+way.  Trademark for the
 DPG [Sunbird](https://www.sunbird.org/) is managed by the EkStep
 Foundation, which is the main supporter and developer of the
 extensible Sunbird Learning and knowledge management platform.  The
@@ -639,9 +625,9 @@ back into improving the DPG.
 use of your DPG. Indeed, commercial engagement can be very helpful to
 project sustainability, quality, and even adoption.
 
-The Procurement module (TBD LINK) discusses the usefulness of using
+The [Procurement](procurement.md#procurement) module discusses the usefulness of using
 different commercial vendors simultaneously to improve project health,
-and the Community module (TBD LINK) also notes the relationship
+and the [Community](community.md#community-and-ecosystem) module also notes the relationship
 between commerical participation and project health and
 sustainability.
 
@@ -654,10 +640,9 @@ policy level, meaning national level security policies to which your
 DPG will likely need to adhere, and agency-level policies that you
 should implement to maximize security.  To learn more about assessing
 the security of an existing open source project-- and what you'll need
-to consider in creating your own -- see the Adoptability module.  (TBD
-LINK) Deeper considerations for creating secure applications are
+to consider in creating your own -- see the [Adoptability](adoptability.md#adoptability-assessment)  module. Deeper considerations for creating secure applications are
 beyond the scope of the paper, but we do share some resources relevant
-to security and coding in the open in the Appendix (TBD LINK), along
+to security and coding in the open in the [Appendix: Resources and Tools](appendix-resources-tools.md#appendix-resources-and-tools), along
 with a few other useful tools and resources.
 
 Before we get into some details around security policy, let's address
@@ -669,7 +654,7 @@ question of how to adequately invest in security despite a
 resource-and-capacity strained environment.
 
 Unfortunately, software systems can never be fully secure (for reasons
-we don't have space to cover here, but see the Appendix (TBD LINK) for
+we don't have space to cover here, but see the [Appendix: Resources and Tools](appendix-resources-tools.md#appendix-resources-and-tools) for
 a few thoughts), and neither open source nor closed source software is
 a priori more secure.  What is true about open source software is that
 its unique properties can more easily lead to its being more secure in
@@ -690,11 +675,10 @@ reviews.  The Linux Foundation, which has supported security audits
 and reviews across its open source projects for some time, recently
 combined funding and security resources with OSTIF in this area.  The
 Mozilla Foundation provides [awards-based funding for security
-audits](https://www.mozilla.org/en-US/moss/secure-open-source/).
+audits](https://www.mozilla.org/en-US/moss/secure-open-source/), as does the [Open Technology Fund](https://www.opentech.fund/labs/red-team-lab/). 
 
 Still, the open source vs.  closed source question around security
-isn't simple, so we've included additional resources in the Appendix
-(TBD LINK) for further reading.
+isn't simple, so we've included additional resources in the [Appendix: Resources and Tools](appendix-resources-tools.md#appendix-resources-and-tools) for further reading.
 
 We also recognize that working in a low-resource environment can make
 the security and privacy investments we outline here seem out of touch
@@ -747,7 +731,7 @@ security, creates mechanisms for overseeing cybersecurity incidents,
 defines cybercrimes, and drives investment in critical infrastructure.
 It's often intertwined with laws and regulation around data rights and
 protection -- particularly the rights of children in digital life,
-including protecting them from exploitation and abuse (see Privacy
+including protecting them from exploitation and abuse (see [Privacy](#data-privacy)
 below).  For example, Ghana passed the [Cybersecurity Act
 2020](https://cybersecurity.gov.gh/documents/Cybersecurity%20Act%202020%20(Act%201038).pdf)
 that addresses cyberstalking, child pornography, and sex trafficking.
@@ -797,7 +781,8 @@ territories:
 
 **KEY RECOMMENDATION**: Even if your country doesn't have formal
 cybersecurity regulation, consider acting as if it did, especially
-around data privacy (see Privacy below) as it's particularly important
+around data privacy (see [Privacy](#data-privacy)
+below) as it's particularly important
 in protecting vulnerable populations.  Building for "high bar"
 cybersecurity regulation puts you in a better position to maintain a
 secure and trusted DPG.
@@ -806,11 +791,10 @@ Like data privacy, security is an ongoing, dynamic process that
 requires constant attention in order to be responsive to an ever
 changing environment.  There is a surfeit of information online about
 how to protect and improve security at the agency and DPG level, and
-we link to a few useful additional resources in the Addendum (TBD
-LINK).  However, the next section provides a brief distillation of the
-essential agency-level policies that will help you meet the
-risk-assessement focus requirement of most cybersecurity regulation
-and maximize your DPG's security in practice: threat modeling,
+we link to a few useful additional resources in the [Appendix: Resources and Tools](appendix-resources-tools.md#appendix-resources-and-tools).  However, the next 
+section provides a brief distillation of the essential agency-level policies that 
+will help you meet the risk-assessement focus requirement of most cybersecurity 
+regulation and maximize your DPG's security in practice: threat modeling,
 security risk assessments, cost/benefit analyses and risk management
 plans.
 
@@ -861,8 +845,9 @@ path if needed.  Your threat model should be updated when there's any
 significant change to the project, including operational changes like
 switching vendors.  Carnegie Mellon's Software Engineering Institute
 has published an [overview of the most common threat modelling
-approaches from asset, system and persona
-perspectives](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=524448),
+approaches](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=524448) 
+from asset, system and persona
+perspectives,
 including STRIDE, DREAD, PASTA, Common Vulnerability Scoring System
 (CVSS), and LINDDUN.  The data flow map you will have created as part
 of putting your privacy policy into practice will be useful to many of
@@ -885,10 +870,10 @@ identified security threats (which don't necessarily equate 1:1 with
 regulatory non-compliance).  Security risk assessments are geared to
 be more diagnostic and forward-looking and to help you with project
 planning, as opposed to the security audits we note in the
-Adoptability module (TBD LINK), which analyze if security is meeting
+[Adoptability](adoptability.md#adoptability) module, which analyze if security is meeting
 certain standards at a specific point in time.  There are guides and
 models for doing security risk assessments, such as from NIST (see
-Appendix)(TBD LINK), as well as different models for calculating
+[Appendix: Resources and Tools](appendix-resources-tools.md#appendix-resources-and-tools) ), as well as different models for calculating
 probability in risk.  They can be as simple as a rating system from
 "not likely" to "expected," as the UNDP's guidance note ["Managing
 Risks Across UNDP Programming and
@@ -930,7 +915,6 @@ take.  But slogging through this will help you decide which
 mitigations to choose and, possibly, how these investments might be
 phased.
 
-(TODO: Any specific experience here to pull in? Mine is limited.  -Susy)
 
 Lastly, DPGs should have a policy of requiring a **risk management
 plan** for all discrete projects.  As its name implies, a risk
@@ -967,16 +951,6 @@ protect user data: See, for example, an open data RFP from the [Lacuna
 Fund](https://s31207.pcdn.co/wp-content/uploads/sites/11/2020/09/RFP-Language_23-Sept-1.pdf).
 
 
-([TODO: this could be a recommendation if we can point to good
-resources, like https://www.opentech.fund/labs/red-team-lab/ (I know
-it's very specific in focus and things are messy there), the Linux
-Foundation's work too, but I am not in the know enough to know if
-these are well functioning and what's more on the intl scene)
-
-(TBD: I am avoiding Common Criteria and open source b/c I'm unsure how
-applicable it is to DPGs, perhaps particularly those in non-Western
-countries)
-
 ## Data Privacy
 
 According to the United Nations Conference on Trade and Development
@@ -990,7 +964,7 @@ specifically regulate data privacy (and/or will be deployed from
 within that country), we still recommend that you build around global
 privacy principles and follow existing data privacy regulation (as the
 India based [neonatal health diagnostics DPG Avayana
-did](https://digitalpublicgoods.net/registry/avyantra-health-technologies.html).
+did](https://digitalpublicgoods.net/registry/avyantra-health-technologies.html)).
 Although not explicitly called out in the SDG, privacy is a
 fundamental human right recognized in the UN Declaration of Human
 Rights, among other international and regional treaties.  The EU's
@@ -1042,7 +1016,9 @@ across deployments, the team instituted an additional step during the
 design stage of deployment customization to be sure they were fully
 meeting the requirements of local regulation as well as of local aid
 workers, government agencies, and the vulnerable populations they
-serve (see Data Protection Impact Assessment below)(TBD LINK).
+serve; see [Data Protection Impact Assessment](#data-protection-impact-assessment).
+
+(TODO: Fix the above within-page internal reference, I can't seem to figure it out) 
 
 Data privacy also depends on thoughtful design matched with
 appropriate end-to-end security support.  The right privacy policies
@@ -1054,9 +1030,10 @@ has received an enforcement notice or faced any penalties or
 investigations or if they've been involved in a data breach.  If the
 vendor is a leading contributor to an open source project, you can
 also check out if that project follows the security items outlined in
-the Adoptability module (TBD LINK) and is keeping their own house in
+the [Adoptability](adoptabillity.md#adoptability-assessing-security) module and 
+if they keep their own house in
 order.  See the
-[Appendix](/unicef/publicgoods-toolkit/appendix-resources-tools) for
+[Appendix: Resources and Tools](appendix-resources-tools.md#appendix-resources-and-tools) for
 some sample questionnaires.
 
 **KEY RECOMMENDATION**: Protecting privacy requires continuous
@@ -1073,7 +1050,7 @@ areas of high sensitivity, such as personal health data.  Regional
 initiatives are largely driven by the desire to harmonize privacy law
 with trade and development needs (for reference, see the United
 Nations Conference on Trade and Development's report Data Protection
-Regulations and International Data Flows).  Many countries are just
+Regulations and International Data Flows in [Works Consulted](works-consulted.md#works-consulted)).  Many countries are just
 beginning to enforce comprehensive data protection regulation (e.g.
 Brazil, South Africa), much of it influenced by the EU's GDPR.
 Existing regulations across the globe are under revision as countries
@@ -1181,9 +1158,8 @@ development process pull these groups in more?
 
 The DPG [Oky](https://okyapp.info) is a menstruation and health
 tracking application that provides girls with accurate, empowering
-information about a subject that's too often stigmatized.  [Girls and
-their needs and interests were placed at the center of the
-product](https://www.unicef.org/innovation/stories/oky-co-created-girls-girls)
+information about a subject that's too often stigmatized.  [The needs and interests
+ of girls were placed at the product's center](https://www.unicef.org/innovation/stories/oky-co-created-girls-girls)
 from early design sessions through co-creation and testing.  Over [400
 girls from Mongolia and
 Indonesia](https://thecaseforher.medium.com/meet-oky-14207f86892)
@@ -1227,14 +1203,14 @@ following:
   require that they implement adequate security risk planning and
   mitigations and place restrictions on how data provided to them in
   order to peform the contracted service can be used, retained, and
-  stored.  The [Estonian government's recent audit of
+  stored.  The Estonian government's recent [audit of
   X-Road](https://eurosai-it.org/news/newsletter/1-2021/updates-from-itwg-members/estonia-x-road-and-audit)
   found that many national agencies didn't use data service agreements
   or rarely checked for compliance where they were in place.
   Alarmingly, no audited national agency confirmed that their
   suporting vendors had adequate processes in place to ensure data
   integrity and confidentiality and to mitigate security risks.  See
-  the Appendix (TBD LINK) for sample language.
+  the [Appendix: Resources and Tools](appendix-resources-tools.md#appendix-resources-and-tools) for sample language.
 
 * Data protection addendums and managing "subprocessors": One of the
   GDPR's forward leaps is enforcing a clear contract-based framework
@@ -1244,14 +1220,14 @@ following:
   essence, the agency that determines the purposes and means of the
   processing of personal data) and a processor (the agency or other
   body, such a vendor, that processes personal data on behalf of the
-  controller) (See [following EU
+  controller). (See the [following EU
   guidance](https://www.gdpreu.org/the-regulation/key-concepts/data-controllers-and-processors)
   for a more detailed definition of controller and processor).  In
   order to speed up the approval process and provide flexibility to
   change along with data protection laws and regulation, these terms
   are commonly put in a separate Data Protection Addendum, rather than
-  in the main service agreement (see the FOSS Procurement for
-  Government Agencies module)(TBD LINK).  Key points in a data
+  in the main service agreement (see the [Procurement](procurement.md#procurement) module).
+  Key points in a data
   protection addendum include requiring the vendor to adhere to
   security and privacy standard and to indemnify you for costs,
   damages and loss if the contract is breached.  This [simple
@@ -1271,8 +1247,8 @@ following:
   which is to say, almost all DPGs.  This is a good practice that's
   common across private industry, as it helps to educate everyone
   involved and shake out potential issues.  There are checklists
-  around DPIAs, descriptions of the DPIA process, and sample templates
-  [here](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-impact-assessments/).
+  around DPIAs, descriptions of the DPIA process, and sample templates from the UK
+  government [here](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-impact-assessments/).
   The DPG [Primero](https://www.primero.org/) [uses
   DPIAs](https://www.unicef.org/evaluation/media/946/file/Primero.pdf)
   during the country-specific design stage to ensure the the right
@@ -1304,23 +1280,16 @@ and data audits will help you meet GDPR requirements and are good
 sound security policies.
 
 (TODO: This paper is supposed to focus on country-level DPGs, but
-obviously apps and data travel across borders and there are regional
+obviously apps and data travel across borders (esp around SDG-supporting apps, 
+I'd think) and there are regional
 frameworks and growing interest in int'l regulatory frameworks, esp
 around data and AI.  This is a whole paper in itself.  Not sure how to
-cover top points simply and esp how to keep this to operational focus.
-Gov't collection of personal data is under particular scrutiny, and I
-think this bears calling out - surveillance concerns, Max Schrems case
-also causing more complexity with cross-border transfers as well...
-Maybe someone with a real privacy background might be able to more
-quickly summarize and/or identify useful recommendations here.  I
-couldn't do this simply.  Resources:
-https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en,
-https://edpb.europa.eu/sites/default/files/consultation/edpb_recommendations_202001_supplementarymeasurestransferstools_en.pdf,
-etc.)
+cover top points simply and esp how to keep this to operational focus. Maybe
+point out that this could be covered in a future addition?]
 
-## Aligning FOSS Policy With National/Legal Policy
 
-[NOTE: I feel like we've covered enough Legal policy above, so I'd remove Legal from the subtitle here.  Indeed, maybe rewrite to Aligning with Education + Innovation Policy]
+## Aligning with Education + Innovation Policy
+
 
 ### Education Policy 
 
@@ -1359,7 +1328,7 @@ software development and testing, network administration, graphic
 design, animation, and game design.
 
 
-[DHIS2 is an example of this early focus in
+DHIS2 is an example of this [early focus on the transformative role of academia in
 action](https://digitalpublicgoods.net/blog/the-transformative-role-of-academia-digital-public-goods/).
 The OpenSRP DPG, a mobile platform that helps frontline health workers
 deliver better healthcare, was [founded by several design and software
@@ -1389,7 +1358,7 @@ and local policies to strengthen innovation (e.g.  innovation hubs,
 R&D investments, support for open science, educational grants).
 
 In Rwanda, Partners in Health (PIH) and the Kigali Institute of
-Science and Technology have a [partnership to train students to
+Science and Technology have a partnership to [train students to
 further develop and implement the OpenMRS
 DPG](https://openmrs.org/2010/12/03/open-source-health-information-business-ecosystems-in-resource-poor-environments/),
 which was adopted by the Rwandan Ministry of Health.  Graduates have
@@ -1415,15 +1384,15 @@ buiding is not all about code skills and contribution and that
 adjacent activities like creating good documentation, providing
 support, user experience design, working to make a community more
 inclusive, and product 'evangelizing' are important to most project
-types (see Adoptability) (TBD LINK)).  Indeed, upcoming research from
+types (see the [Adoptability](adoptability.md#adoptability-assessment) module).  Indeed, upcoming research from
 the Ford Foundation found that non-code contribution from university
 students in Bangladesh were critical to making software avilaable to
 diverse, global populations.  The OpenSRP project's list
-of[contribution
+of [contribution
 types](https://smartregister.org/governance-structure/) gives you an
 idea of the possible breadth here.
 
-(TODO: is "not yet published" above ok to cite)
+(TODO: is "not yet published" above ok to cite?)
 
 **KEY RECOMMENDATION**: Think through your DPG's local ecosystem and
 consider opportunities for collaboration with educators, and keep in
@@ -1447,8 +1416,8 @@ output to national economic growth and, perhaps increasingly, to
 attaining [sustainable development
 goals](https://www.oecd-ilibrary.org/sites/sti_in_outlook-2018-9-en/index.html?itemId=/content/component/sti_in_outlook-2018-9-en).
 Innovation policy tools are broad, with approaches specific to each
-locale, including tools such as IP protection (noted above) but also
-education policy (also noted above), competition law, industrial
+locale, including tools such as [IP protection](#major-software-licenses-and-license-categories), but also
+education policy [noted above](#education-policy), competition law, industrial
 policy, approaches to international trade, business regulation,
 government investment in public research, and tax structures on
 private companies -- to name a few!

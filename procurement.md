@@ -10,7 +10,8 @@ of the other modules, but he is open to feedback on that decision!)
 points.  Include here or in Appendix.  UPDATE: see ref:f9f71f8d,
 currently in appendix-resources-tools.md -- we now have this sample
 RFP and contract language.  As that note says, let's put it into an
-appendix and refer to it there.)
+appendix and refer to it there. We are looking to get permissions to use that 
+and are also looking for other sources)
 
 **KEY RECOMMENDATION**: Modular contracting can help to better connect
 the right vendor to the right task, break vendor lock-in, and reduce
@@ -41,14 +42,6 @@ forbid satisfying any deliverable with software that includes any
 'forever proprietary' component. Lastly, you should require acceptance
 of code into the open source repository as part of the definition of
 contractual delivery in software milestones.
-
-(TBD: We could rewrite the above recommendation to point out that
-granting exclusivity to a vendor for a bounded period could be a
-strategic move -- this would help us bring in the LA county example --
-but I think that makes the recommendation too confusing. This is just
-a section where I found it hard to find specific examples.)
-
-
 
 This module describes a few procurement tips, such as modular
 contracting and open source quality assurance practices, that can help
@@ -86,7 +79,7 @@ defined.  These boundaries often reflect organizational divisions as
 much as technical ones.
 
 **FURTHER READING**: The [US Government Accountability Office
-published a guide](https://www.gao.gov/assets/600/593091.pdf)in 2012
+published a guide](https://www.gao.gov/assets/600/593091.pdf) in 2012
 that is a useful resource for government agencies engaged in agile
 development.
   
@@ -123,8 +116,8 @@ which is the first in a two-part series. Another useful resource is
 this [blog
 post](https://blog.fedecarg.com/2008/06/28/a-modular-approach-to-web-development),
 which focuses on web development. See also the section on
-Extensibility in
-[Adoptability](/unicef/publicgoods-toolkit/adoptability)
+Extensibility in the
+[Adoptability](adoptability.md#adoptability-assessment) module.
 
 Generally speaking, though, government has lagged behind.  While
 governments have begun to embrace open source approaches, actual open
@@ -286,7 +279,7 @@ commitments needed to hire long-term employees instead of ad-hoc
 contractors tend not to stay as long.  That raises their costs, which
 of course eventually raises costs for your agency.  Modular contracts
 can cause additional staffing complexity for vendors as well (see
-below, Vendor Staffing). (TBD LINK)
+below, [Vendor Staffing](#vendor-staffing)).
 
 For these reasons, we suggest that agencies engaged in modular
 contracting place those contract modules in larger Master Services
@@ -307,8 +300,7 @@ Agreements for more efficiency and flexibility.
 
 **FURTHER READING**: The Obama administration in the United States
 produced a useful and very [comprehensive guide to modular
-contracting](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/guidance/modular-approaches-for-information-technology.pdf)
-in 2012.
+contracting](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/guidance/modular-approaches-for-information-technology.pdf).
  
 ## Open Source Solicitation
 
@@ -374,8 +366,7 @@ procurement rules).
 
 Second, it is important to be clear in describing project requirements
 and emphasizing the need for open source deliverables, process, and
-experience (see Open Source Quality Assurance below for more on this
-(TBD LINK); text in the Appendix (TBD LINK) can be copied as merited
+experience (see [Open Source Quality Assurance](#open-source-quality-assurance) below for more on this; text in the [Appendix: Sample Contract Language](appendix-sample-contract.md#appendix-sample-contract-language) can be copied as merited
 for the RFP as well).  The phrase "open source" applies in contexts
 other than software (e.g., open source intelligence), so be sure to
 spell out the full phrase "open source software" for vendors searching
@@ -517,7 +508,7 @@ which a primary vendor predominates have either considered or adopted
 similar arrangements.
 
 It is worth making one final point about rights.  As we touched upon
-earlier in the Introduction (TBD LINK) and Policy modules (TBD LINK),
+earlier in the [Introduction](introduction.md#introduction) and [Policy](policy.md#policy) modules,
 open source licenses commonly deal with copyrights.  They do not
 adequately address trademarks and are uneven in their handling of
 patents.  Contracts must secure terms that prevent a vendor from
@@ -569,8 +560,7 @@ process, agencies must have ways to bring recalcitrant vendors into
 process compliance.  Otherwise, the project risks failure across
 multiple teams.  To prepare for such situations, we recommend
 instituting Open Source Quality Assurance ("OSQA") at the project
-management level.  See the [Appendix: Resources and
-Tools](/unicef/publicgoods-toolkit/appendix-resources-tools) for a
+management level.  See the [Appendix: Sample Contract Language](appendix-sample-contract.md#open-source-quality-assurance) for a
 detailed sample OSQA statement of work.
 
 OSQA is a set of practices designed to ensure that an open source
@@ -601,8 +591,7 @@ requirements early in vendor engagement signals your seriousness about
 open source success and puts vendors on notice, which is particularly
 helpful when relying on vendors that don't have much open source
 experience. For a fuller description of what OSQA entails, please see
-a samplestatement of work that includes OSQA in the Appendix (TBD
-LINK).
+a samplestatement of work that includes OSQA in the  [Appendix: Sample Contract Language](appendix-sample-contract.md#open-source-quality-assurance).
 
 There are a variety of OSQA techniques one can introduce.  OSQA "sits
 on the tree" and enforces standards at the pull request stage.  This
@@ -701,12 +690,9 @@ expect less-experienced open source vendors to learn from the others.
 
 ## Data Protection and Security 
 
-Please see the Policy module (TBD LINK) for key points around security
-and data protection in vendor contracts, as well as the Appendix with
-some example contractural language (TBD LINK)
-
-(TBD from Susy: This is a new section that I felt should be noted
-here, even though it just refers to content elsewhere.)
+Please see the [Policy](policy.md#policy) module for key points around security
+and data protection in vendor contracts, as well as the [Appendix: Sample Contract Language](appendix-sample-contract.md#appendix-sample-contract-language)
+for some relevant, example contractural language.
 
 ## Vendor Staffing
 

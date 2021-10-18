@@ -47,9 +47,10 @@ understanding the product's ability to import/export data, as you will
 surely need to work with legacy data at some point. Data portability
 also enables you to switch systems or vendors, should the need arise.
 
-EXAMPLE: The health information management system DPG DHIS2 publishes
-clear [documentation about installation and configuration as well as
-its Web API](https://docs.dhis2.org/en/home.html), which enables
+EXAMPLE: The health information management system DPG [DHIS2 publishes
+clear documentation](https://docs.dhis2.org/en/home.html) about installation and
+ configuration as well as
+its Web API, which enables
 external systems (e.g. third-party software, web portals, and other
 internal DHIS2 modules) to securely access and manipulate DHIS2 data.
 
@@ -76,8 +77,8 @@ it from several different perspectives:
 3. **Sustainability.** The long-term sustainability of the project: is
    there just one lone developer working in her spare time, or, at the
    other extreme, are there multiple companies paying developers to
-   collaborate on maintaining and extending the project?  (See also
-   the [Community and Ecosystem module](TBD: link to community.md))
+   collaborate on maintaining and extending the project?  (See
+   the [Community](community.md#community-and-ecosystem) module
    for more on this topic.)
 
 4. **Responsiveness.** Historically, how responsive is the project to
@@ -96,10 +97,6 @@ The sections that follow elaborate on some of the areas above and form
 a kind of checklist that you can use to evaluating an open source
 product for adoption as a DPG.
 
-(TODO: do we want to say anything about software maturity models, or
-is that too in the weeds? Readers might be familiar with the Global
-Goods Maturity Model
-https://wiki.digitalsquare.io/index.php/Global_Goods_Maturity .)
 
 Throughout this module we will sometimes use the word "product" and
 sometimes use the word "project".  They are closely related but
@@ -203,11 +200,10 @@ that distinction is important we will note it.
   database.
 
 **FURTHER READING**: For a particularly clear exposition of how one
-  large open source project uses CVE numbers, see
-  [debian.org/security/cve-compatibility](https://www.debian.org/security/cve-compatibility)
+  large open source project uses CVE numbers, see the [Debian project's description](https://www.debian.org/security/cve-compatibility).
   For a more detailed explanation of how CVE numbers are acquired,
   used, and evaluated, see
-  [producingoss.com/en/publicity.html#security](https://producingoss.com/en/publicity.html#security).
+  [Producing Open Source](https://producingoss.com/en/publicity.html#security).
 
   [Mozilla's security web
   site](https://www.mozilla.org/en-US/security/) is another example of
@@ -233,17 +229,14 @@ that distinction is important we will note it.
   good sign.  The results of the audit, which review security issues
   at a particular point in time, should be publicly available from the
   project's home site (after any important issues found by the audit
-  have been fixed and released, of course).
+  have been fixed and released, of course). 
 
   If you are seriously considering using a product for especially
   sensitive data, then you might commission a security audit if you
   have the resources to do so and offer to make the results available
   to the project.  You would send those results in however the project
   requests; typically, that would just be via their normal security
-  reporting channels.  [Security audits funded by
-  Mozilla](https://wiki.mozilla.org/MOSS/Secure_Open_Source/Completed),
-  such as for the open source Thunderbird email product, are publicly
-  posted.
+  reporting channels.  
 
   If the product has been implemented broadly, you might find public
   audit documentation that's specific to individual
@@ -253,7 +246,7 @@ that distinction is important we will note it.
   Office of Estonia [recently audited
   X-Road](https://eurosai-it.org/news/newsletter/1-2021/updates-from-itwg-members/estonia-x-road-and-audit)
   and found that implementing agencies weren't adhering to some of the
-  security policies we recommend in the Policy module (TBD: link)
+  security policies we recommend in the [Policy](policy.md#policy) module.
 
   **KEY RECOMMENDATION**: See if any security audits are publicly available.  
 
@@ -367,8 +360,8 @@ you will want to import into the system, even if you don't know at the
 time of the evaluation and procurement that that legacy data exists.
 And there are many reasons why you might be interested in exporting
 data even if you are not migrating away from the system to something
-else (see the section "Programmatic Control (APIs)" [Programmatic
-Control (APIs)](TBD: link to section below) for more about these).
+else (see the below section [Programmatic
+Control](#programmatic-control-apis) for more about these).
 Moreover, open projects must ensure they [support extraction or
 importation of non-PII data in a non-proprietary
 format](https://digitalpublicgoods.net/standard/) in order to qualify
@@ -424,9 +417,7 @@ from/to it.
 It is unfortunate that such a key concept is hidden behind the
 technical acronym 'API.'  If you aren't already familiar with what
 APIs do, please take a moment to read the Introduction to APIs for
-Non-Technical Readers section in the [Appendix](TBD: link to API
-appendix) as well as the example of Open Referral, also in the
-[Appedix](TBD: link to examples appendix), then come back here.
+Non-Technical Readers section in the [Appendix: APIs](appendix-apis.md#appendix-introduction-to-apis-for-non-technical-readers) as well as the example of Open Referral in the [Appendix: Examples](appendix-examples.md#appendix-examples), then come back here.
 
 Having a documented API as part of a service is very important.  APIs
 make many things possible. The read-only side of an API enables
@@ -451,10 +442,10 @@ BAO Systems to create [programmatic connectivity to Microsoft
 PowerBI](https://community.dhis2.org/t/dhis2-to-powerbi-connector-is-ready-check-out-the-video-test-it-use-it-and-give-us-feedback/37043). The
 DPG [Avyantra](https://www.avyantra.com/) uses machine learning to
 improve diagnoses of infants affected by neonatal sepsis. Their
-application's modular approach and use of APIs make it more easily
-[extendable to diagnosis of other critical medical conditions in
+application's modular approach and use of [APIs make it more easily
+[extendable](https://digitalpublicgoods.net/registry/avyantra-health-technologies.html) to diagnosing other critical medical conditions in
 neonates, infants and
-children](https://digitalpublicgoods.net/registry/avyantra-health-technologies.html). The
+children. The
 DPG DHIS2 is also being used in [new sectors like education and
 logistics](https://dhis2.org/education).
 
@@ -505,12 +496,11 @@ modules" are the most common, though sometimes "components" is
 
 All of these things refer to the same basic idea: the ability to
 extend the system's functionality by adding new code from the outside
-in certain well-defined ways (see [Programmatic Control (APIs)](TBD:
-link to section) above).  Sometimes a system is even extensible in
+in certain well-defined ways (see [Programmatic
+Control](#programmatic-control-apis) section above).  Sometimes a system is even extensible in
 more than one programming language, though often there is a primary
 supported language that most users prefer and that is supported
-best. A system based on a modular architecture (see [Procurement](TBD:
-link to Procurement), with loosely coupled software components, is one
+best. A system based on a modular architecture (see [Procurement](procurement.md#procurement)), with loosely coupled software components, is one
 that's more easily extensible.
 
 Some well-known and widely-used open source systems owe much of their
@@ -695,13 +685,8 @@ playing the support role.  That often works, but is sometimes an
 indication that the project overly depends on one person who might
 move on or burn out.
 
-(TODO: Maybe a note here about using open forums!  It looks like Mifos
-moved from https://discourse.mifos.org to Slack?  Or this is a good
-point for OSQA section.  Apache Fineract's all seemed old, 2018].
-Mojaloop also seemed pretty thin.)
-
 **RECOMMENDATION**: User support forums are useful resources in
-your evaluation. Don't hesistate to ask questions.
+your evaluation (just as open user support forums will be important to others evaluating your DPG). Don't hesistate to ask questions.
 
 ## Influence and Participation
 
@@ -713,7 +698,7 @@ DPGs, that possibility very much exists, and this should be taken into
 account when evaluating both a particular DPG and your own current
 capacity for taking advantage of that opportunity (for more on the
 latter point, refer to the next section [Internal Capacity
-Assessment](TBD: link to #internal-capacity-assessment).
+Assessment](#internal-capacity-assessment).
 
 The evaluative question being asked here is: "What
 routes does the project have for us to convert our own usage, and
@@ -732,10 +717,10 @@ vendors are often the organizations that have the greatest motivation
 to maintain a long-term contributor relationship with the project and
 that have the experience in the project's technical culture to know
 what goals can be accomplished in what periods of time.  This is why
-evaluating the vendor's relationship with the project (as discussed in
-[Commercial Support Availability](TBD: link to
-#commercial-support-availability) as well as [Community](TBD: link to
-Community) is so important: the vendor can influence the project on
+evaluating the vendor's relationship with the project (as discussed above in
+[Commercial Support Availability](#commercial-support-availability) as well as in 
+the 
+[Community](community.md#community) module) is so important: the vendor can influence the project on
 your behalf.
 
 It's also important to evaluate the project to make sure it has routes
@@ -752,7 +737,7 @@ committee by an existing member.  Recall too that open source projects
 later in their lifecycle are often less open to influence, as they
 will generally prioritize stability.  This is usually true for modular
 projects as well, although their exensibility does give you a path for
-influence (see the [Community](/unicef/publicgoods-toolkit/community) module).
+influence (see the [Community](community.md#community) module).
 
 Project governance documents
 are useful insofar as they describe the formal structure of how
@@ -876,7 +861,8 @@ them.
 
 When you're about to make an investment in a DPG, such as by deploying
 it for sustained use, it can be very helpful to take a step back and
-explicitly map out that ecosystem, in a quick, lightweight exercise. (This exercise is equally useful in planning to create a new DPG.)
+explicitly map out that ecosystem, in a quick, lightweight exercise. (This exercise 
+is equally useful in planning to create a new DPG.)
 
 Making such a map can reveal both gaps and opportunities.  For
 example, an ecosystem map might reveal a gap by showing that the main

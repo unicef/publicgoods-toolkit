@@ -76,9 +76,8 @@ the software at a technical level; it also requires understanding the
 motivations and interrelationships of the people and organizations who
 do make up the project.  While we touch upon some aspects of finding
 or nurturing a broader DPG supportive ecosystem at the national level
-in the Introduction (TBD LINK), this module provides guidance on
-understanding project-level communities and ecosystems.  The
-Adoptability module (TBD LINK) provides even more detailed
+in the [Introduction](introduction.md#introduction), this module provides guidance on
+understanding project-level communities and ecosystems.  The [Adoptability](adoptability.md#adoptability-assessment) module provides even more detailed
 recommendations for putting this understanding into evaluating open
 source projects, including how to map a project's ecosystem.
 
@@ -142,7 +141,7 @@ understanding existing ecosystems and their project's place within
 them.  In order to plan a project that builds on or collaborates with
 other open source efforts, agencies must know their own projects and
 also know what to expect from other community participants. Again, the
-Adoptability module (TBD LINK) describes how to map a project's
+[Adoptability](adoptability.md#adoptability-assessment) module describes how to map a project's
 ecosystem.
 
 Open source projects operate in many different ways.  Experienced open
@@ -322,7 +321,8 @@ available).
   as does the DPG [Primero](https://www.primero.org).
   
   The multi-faceted DPG Mifos is an interesting example of how a
-  modular technical architecture (see Procurement)(TBD LINK) can lend
+  modular technical architecture (see [Procurement](procurement.md#procurement) module) 
+  can lend
   itself to having individual components run as quite different
   projects.  It's also a good example of a thoughtfully phased
   approach to DPG development that's taken advantage of the existing
@@ -351,10 +351,10 @@ available).
   X is more of a controlled ecosystem, with extensions and
   customization around a core platform.
 
-  See Commercial Participants (TBD LINK) below for more insight into
+  See [Commercial Participants](#commercial-participants) below for more insight into
   how Mifos's extensibility helps them engage commercial partners to
   expand their market and reach. Assessing software extensibility is
-  also covered in the Adoptability module (TBD LINK).
+  also covered in the [Adoptability](adoptability.md#adoptability-assessment) module.
 
 * [Single Maintainer Houseplant](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf#section*.11)
 
@@ -456,14 +456,6 @@ approximations that change over time, this is a key level-setting
 exercise for your team when assessing an open source project or
 planning to create your own, and it should be periodically revisited.
 
-(TBD: There is more to say here of course, but this section is getting
-long, so let's leave off for the moment and not go deeper than we
-need.  Note: Victor
-[suggests](https://github.com/unicef/publicgoods-toolkit/pull/12#discussion_r651325121)
-including a mapping/analysis of some existing DPGs to the archetypes.
-We can add that analysis after doing some interviews.)
-
-(TBD: from Susy: some DPG examples added above.)
 
 ## Community Diversity
 
@@ -518,7 +510,7 @@ Open
 Source](https://opendri.org/wp-content/uploads/2017/03/OpenDRI-and-GeoNode-a-Case-Study-on-Institutional-Investments-in-Open-Source.pdf) presents
 how the Global Facility for Disaster Reduction and Recovery (GFDRR)
 invested in a diversified set of partners, in part by using modular
-contracting (see also Procurement), ultimately creating a successfully
+contracting (see also [Procurement](procurement.md#procurement)), ultimately creating a successfully
 self-sustaining open source project.
 
 **KEY RECOMMENDATION** Diversity among those making the most resource
@@ -561,11 +553,6 @@ CHAOSS working group does provide open source software for running
 analytics on GitHub and GitLab, which are among most popular
 repository management services, as well as on issue tracking systems,
 but again, these take some know-how to use.
-
-(TBD: SUSY NOTE: It looks like CHAOSS will also run analytics for
-requesters, but I don't think this is a very good/tried program and
-don't think we should recommend, but I wanted to point this out.
-UNICEF might want to mention plans for their own service.)
 
 Still, even a novice can gain some useful insights by looking at
 activity over time in the bug tracker and the record of change, and
@@ -628,8 +615,8 @@ a project.  They are not, however, very informative on their own.
 There are two other relatively obvious tasks that should complement
 the quick glance at a project's bug tracker that we describe above.
 First, a little web surfing can take you to valuable project
-discussion forums, news release (see also the Adoptability module)
-(TBD LINK) and other public information and can also help you evaluate
+discussion forums, news release (see also the [Adoptability](adoptability.md#adoptability-assessment)
+module and other public information and can also help you evaluate
 if the project has the level of community 'scaffolding'
 (documentation, clear governance processes, security vulnerability
 reporting) that you'd expect for such a project type and its maturity.
@@ -663,7 +650,7 @@ considerations, but we're describing an ideal state here.
 
 Note that many aspects of open source project community health are
 also discussed, implicitly and sometimes explicitly, in the
-Adoptability module (TBD LINK).
+[Adoptability](adoptability.md#adoptability-assessment) module.
 
 
 ## Non-Commercial Participants
@@ -687,8 +674,7 @@ motivated by equity concerns -- making sure the product is available
 and usable in contexts where it might not otherwise be -- or a desire
 to avoid having public data or public goods monopolized in a
 proprietary system (with the attendant risks of vendor lock-in, as
-described in Adoptability: Data Portability and Avoiding Vendor
-Lock-In)(TBD LINK)
+described in the [Adoptability](adoptability.md#adoptability-assessment) module).
 
 Such participants often act in the project through vendors, and the
 vendors of course have a commercial interest as well.  In these cases,
@@ -731,7 +717,7 @@ restricted to non-commercial use, so agencies should be sure to look
 at *which* Creative Commons license applies to materials they use.
 
 In the case of open source software all commonly used licenses allow
-commerical use, as noted in the Introduction (TBD LINK).  In fact,
+commerical use, as noted in the [Introduction](introduction.md#introduction).  In fact,
 most community participants would classify software whose license
 disallows commercial use as "not open source".  The Open Source
 Initiative offers what many community participants agree is an
@@ -794,9 +780,9 @@ business.
 Some DPG projects go even a step further.  As a way to spur further
 investment by commercial participants, they undertake to create
 commercial opportunities for participants.  For example, the [DPG
-Mojaloop publishes a list of consultants, systems integrators,
+Mojaloop publishes a directory](https://mojaloop.io/mojaloop-business-directory) of consultants, systems integrators,
 training organizations, business operations supporters and other
-solution providers](https://mojaloop.io/mojaloop-business-directory),
+solution providers,
 vetted against a published list of criteria. They also [host open
 training, networking, and business development
 events](https://mojaloop.io/category/events/) to connect these
@@ -827,7 +813,7 @@ adoption by establishing [community
 chapters](https://mifos.org/resources/community/mifos-chapters/).
 These local volunteer organizations help communities use and shape
 Mifos to their particular needs, and they provide feedback to the main
-project (see the Appendix(TBD LINK) for how Mozilla supports a much
+project (see the [Appendix: Resources and Tools](appendix-resources-tools.md#appendix-resources-tools) for how Mozilla supports a much
 less centralized volunteer community around the Common Voice open data
 project).
 
@@ -844,8 +830,8 @@ matures, its rate of user acquisition slows down, the rate at which
 new contributors come in likewise slows down, and, in the long run,
 the rate of new feature development slows as well.
 
-Projects that have an extensible design (see Extensibility section in
-the [Adoptability](TBD LINK) module) often have a longer lifecycle,
+Projects that have an extensible design (see Extensibility section in the
+the [Adoptability](adoptability.md#adoptability-assessment ) module) often have a longer lifecycle,
 though this may be correlation rather than causation: longer-lived
 projects tend to become extensible, and innovation can continue to
 happen in the plugin ecosystem even after the software's core has
@@ -907,11 +893,6 @@ understanding of and support for your new direction, but this is a
 costly and fraught thing to do and would require thorough planning and
 much foresight.
 
-(TBD: I left this here as FYI for OTS/UNICEF, there was an earlier
-discussion point re: including point about forks (TBD: Victor
-[agrees](https://github.com/unicef/publicgoods-toolkit/pull/12#discussion_r651332349)
-Believe this is taken care of.)
-
 It's notable that content DPGs and software DPGs have different lifecycle
 dynamics.  Software lends itself toward endless improvement.  There's
 always a feature to add, a new library to adopt, or a new platform to
@@ -933,9 +914,8 @@ have one's needs met within a certain period of time.  This can be a
 signal of investment, become more willing themselves to invest.
 
 More specific recommendations around lifecycle and maturity in
-assessing a project's adoptability are covered in the Adoptability
-module. (TBD LINK)
- 
+assessing a project's adoptability are covered in the [Adoptability](adoptability.md#adoptability-assessment) module. 
+
 A final note on sustainability.  As noted, health -- and thus
 sustainability -- depends on whether a project is genuinely meeting
 the needs of its stakeholders, if it's thoughtfully set up to be
@@ -950,22 +930,14 @@ might be applied to the underresourced area of maintenance.
  
 Again, creating opportunities for private companies to commercially
 benefit is one option.  The GFDDR used the power of modular
-contracting (see Procurement (TBD LINK)) to bring in multiple vendors
+contracting (see the [Procurement](procurement.md#procurement) module) to bring in multiple vendors
 to develop GeoNode.  As adoption of GeoNode grew, many of these
 companies found new clients for their GeoNode expertise, which gave
 them additional incentive to continue contributing to GeoNode and
 invest in its success (and this infusion of input from an expanded
-user base made the product better).  George Gelaga-King, a Software
-Engineer from Sierra Leone's Directorate of Science and Technology &
-Innovation, confirmed the value of thinking about how to attract
-private actors by creating economic opportunities.  Depending on local
+user base made the product better).  Depending on local
 circumstances and regulation, agencies themselves might even be able
-to offer commercial services around a DPG.
- 
-(TODO: Can we ask George for a more specific quote about this?  The
-interview notes didn't provide anything exact.  If there's a recording
-we can pull it from there, or we can suggest something based on notes
-and make sure he's ok with it?  Or we can just pull the above.)
+to offer paid services around a DPG.
  
 However, fostering commercial engagement doesn't exclude other
 options. GeoNode also worked with universities and other NGOs and
@@ -1026,7 +998,7 @@ paramount and not see the value of collaborating to get to an 80%
 solution that they can then refine.  However, solving shared problems
 while permitting flexibility for differentiation is core to the open
 source approach, as well as to modular architectures and extensibility
-(see Procurement and Adoptability (TBD LINK)).  Still, the complexity
+(see [Procurement](procurement.md#procurement) and [Adoptability](adoptability.md#adoptability-assessment) modules).  Still, the complexity
 posed by internal agency collaboration is precisely why centralized
 digital services agencies are often at the forefront of government
 digital transformation.
