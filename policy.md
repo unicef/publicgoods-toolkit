@@ -307,9 +307,9 @@ forecasting models as possible, including any that might have been
 developed for commercial purposes or that have restrictive licenses
 for some historical reason.
 
-The [Open Source Initiative](https://opensource.org/licenses) provide
-overviews of their approved licenses, along with a useful [FAQ](
-https://opensource.org/licenses).
+The [Open Source Initiative](https://opensource.org/licenses) provides
+overviews of their approved licenses, along with a useful
+[FAQ](https://opensource.org/faq).
 
 **RECOMMENDATION**: Remember that the processes, culture and
 practices that support open source collaboration ultimately matter

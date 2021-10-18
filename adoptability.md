@@ -785,10 +785,10 @@ very useful to have in-house, even if you also have a support vendor.)
 
 ## Internal Capacity Assessment
 
-TBD: Plan for this section is to collect the relevant points from all
+(TBD: Plan for this section is to collect the relevant points from all
 the other sections and examine what specific internal capacities would
 be needed to take advantage of or implement the advice given in those
-points.]
+points.)
 
 TBD from Susy: I think OTS's deep implementation experience is needed
 here to outline what's most important and what's often overlooked in
