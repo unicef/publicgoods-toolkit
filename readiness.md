@@ -33,8 +33,7 @@ orchestrating participants to focus on areas of needed innovation.
 This module presents a somewhat abstract but experientially
 based view of organizational readiness, including models to consider
 referencing, and practical advice for how to move your team along the
-path to masterful open source execution.  The Adoptability module (TBD
-LINK) delves more deeply into specific open source capabilities you'll
+path to masterful open source execution.  The [Adoptability](adoptability.md#adoptability-assessment) module delves more deeply into specific open source capabilities you'll
 need to effectively adopt or build an open source product.
 
 Most government teams are not yet prepared to travel this capability

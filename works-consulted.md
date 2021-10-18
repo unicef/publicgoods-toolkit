@@ -92,6 +92,9 @@ default/files/documents/1864/Software_Global_Goods_Valuation_Framework_VFinal.pd
 
 * https://www.mosip.io/uploads/resources/5cc84b0a08284Country%20Engagement%20Principles_v2.pdf
  
+ * United
+Nations Conference on Trade and Development's report Data Protection
+Regulations and International Data Flows
 
 * https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/guidance/modular-approaches-for-information-technology.pdf
 
