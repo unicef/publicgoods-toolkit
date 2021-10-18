@@ -413,7 +413,8 @@ license](https://digitalpublicgoods.net/standard/) for software.
   people.
 
   The question of which of these copyright ownership scenarios is best
-  for a given DPG is discussed further in the [Procurement](procurement.md#procurement). The high-level policy point here is merely that the
+  for a given DPG is discussed further in the [Procurement](procurement.md#procurement) 
+  module. The high-level policy point here is merely that the
   decision of copyright *ownership* -- which is independent from the
   choice of license -- should be made purposefully, not determined by
   accident based on who drafted a contract or on some quirk of
@@ -674,7 +675,7 @@ reviews.  The Linux Foundation, which has supported security audits
 and reviews across its open source projects for some time, recently
 combined funding and security resources with OSTIF in this area.  The
 Mozilla Foundation provides [awards-based funding for security
-audits](https://www.mozilla.org/en-US/moss/secure-open-source/).
+audits](https://www.mozilla.org/en-US/moss/secure-open-source/), as does the [Open Technology Fund](https://www.opentech.fund/labs/red-team-lab/). 
 
 Still, the open source vs.  closed source question around security
 isn't simple, so we've included additional resources in the [Appendix: Resources and Tools](appendix-resources-tools.md#appendix-resources-and-tools) for further reading.
@@ -914,7 +915,6 @@ take.  But slogging through this will help you decide which
 mitigations to choose and, possibly, how these investments might be
 phased.
 
-(TODO: Any specific experience here to pull in? Mine is limited.  -Susy)
 
 Lastly, DPGs should have a policy of requiring a **risk management
 plan** for all discrete projects.  As its name implies, a risk
@@ -949,13 +949,6 @@ additional funding and resources for security reviews.  Indeed, many
 grant RFPs require applicants to describe in detail how they will
 protect user data: See, for example, an open data RFP from the [Lacuna
 Fund](https://s31207.pcdn.co/wp-content/uploads/sites/11/2020/09/RFP-Language_23-Sept-1.pdf).
-
-
-([TODO: this could be a recommendation if we can point to good
-resources, like https://www.opentech.fund/labs/red-team-lab/ (I know
-it's very specific in focus and things are messy there), the Linux
-Foundation's work too, but I am not in the know enough to know if
-these are well functioning and what's more on the intl scene?)
 
 
 ## Data Privacy
@@ -1025,7 +1018,7 @@ meeting the requirements of local regulation as well as of local aid
 workers, government agencies, and the vulnerable populations they
 serve; see [Data Protection Impact Assessment](#data-protection-impact-assessment).
 
-(TODO: Fix the aobve within-page internal reference) 
+(TODO: Fix the above within-page internal reference, I can't seem to figure it out) 
 
 Data privacy also depends on thoughtful design matched with
 appropriate end-to-end security support.  The right privacy policies
@@ -1291,16 +1284,9 @@ obviously apps and data travel across borders (esp around SDG-supporting apps,
 I'd think) and there are regional
 frameworks and growing interest in int'l regulatory frameworks, esp
 around data and AI.  This is a whole paper in itself.  Not sure how to
-cover top points simply and esp how to keep this to operational focus.
-Gov't collection of personal data is under particular scrutiny, and I
-think this bears calling out - surveillance concerns, Max Schrems case
-also causing more complexity with cross-border transfers as well...
-Maybe someone with a real privacy background might be able to more
-quickly summarize and/or identify useful recommendations here.  I
-couldn't do this simply.  Maybe we just note this will be covered in the future. Resources:
-https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en,
-https://edpb.europa.eu/sites/default/files/consultation/edpb_recommendations_202001_supplementarymeasurestransferstools_en.pdf,
-etc.)
+cover top points simply and esp how to keep this to operational focus. Maybe
+point out that this could be covered in a future addition?]
+
 
 ## Aligning with Education + Innovation Policy
 

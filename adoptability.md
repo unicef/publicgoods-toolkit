@@ -47,9 +47,10 @@ understanding the product's ability to import/export data, as you will
 surely need to work with legacy data at some point. Data portability
 also enables you to switch systems or vendors, should the need arise.
 
-EXAMPLE: The health information management system DPG DHIS2 publishes
-clear [documentation about installation and configuration as well as
-its Web API](https://docs.dhis2.org/en/home.html), which enables
+EXAMPLE: The health information management system DPG [DHIS2 publishes
+clear documentation](https://docs.dhis2.org/en/home.html) about installation and
+ configuration as well as
+its Web API, which enables
 external systems (e.g. third-party software, web portals, and other
 internal DHIS2 modules) to securely access and manipulate DHIS2 data.
 
@@ -76,7 +77,7 @@ it from several different perspectives:
 3. **Sustainability.** The long-term sustainability of the project: is
    there just one lone developer working in her spare time, or, at the
    other extreme, are there multiple companies paying developers to
-   collaborate on maintaining and extending the project?  (See also
+   collaborate on maintaining and extending the project?  (See
    the [Community](community.md#community-and-ecosystem) module
    for more on this topic.)
 
@@ -441,10 +442,10 @@ BAO Systems to create [programmatic connectivity to Microsoft
 PowerBI](https://community.dhis2.org/t/dhis2-to-powerbi-connector-is-ready-check-out-the-video-test-it-use-it-and-give-us-feedback/37043). The
 DPG [Avyantra](https://www.avyantra.com/) uses machine learning to
 improve diagnoses of infants affected by neonatal sepsis. Their
-application's modular approach and use of APIs make it more easily
-[extendable to diagnosis of other critical medical conditions in
+application's modular approach and use of [APIs make it more easily
+[extendable](https://digitalpublicgoods.net/registry/avyantra-health-technologies.html) to diagnosing other critical medical conditions in
 neonates, infants and
-children](https://digitalpublicgoods.net/registry/avyantra-health-technologies.html). The
+children. The
 DPG DHIS2 is also being used in [new sectors like education and
 logistics](https://dhis2.org/education).
 
@@ -717,7 +718,8 @@ to maintain a long-term contributor relationship with the project and
 that have the experience in the project's technical culture to know
 what goals can be accomplished in what periods of time.  This is why
 evaluating the vendor's relationship with the project (as discussed above in
-[Commercial Support Availability](#commercial-support-availability) as well as the 
+[Commercial Support Availability](#commercial-support-availability) as well as in 
+the 
 [Community](community.md#community) module) is so important: the vendor can influence the project on
 your behalf.
 

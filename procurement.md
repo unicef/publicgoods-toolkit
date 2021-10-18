@@ -79,7 +79,7 @@ defined.  These boundaries often reflect organizational divisions as
 much as technical ones.
 
 **FURTHER READING**: The [US Government Accountability Office
-published a guide](https://www.gao.gov/assets/600/593091.pdf)in 2012
+published a guide](https://www.gao.gov/assets/600/593091.pdf) in 2012
 that is a useful resource for government agencies engaged in agile
 development.
   
@@ -300,8 +300,7 @@ Agreements for more efficiency and flexibility.
 
 **FURTHER READING**: The Obama administration in the United States
 produced a useful and very [comprehensive guide to modular
-contracting](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/guidance/modular-approaches-for-information-technology.pdf)
-in 2012.
+contracting](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/guidance/modular-approaches-for-information-technology.pdf).
  
 ## Open Source Solicitation
 
@@ -367,7 +366,7 @@ procurement rules).
 
 Second, it is important to be clear in describing project requirements
 and emphasizing the need for open source deliverables, process, and
-experience (see [Open Source Quality Assurance](#open-source-quality-assurance) below for more on this; text in the [Appendix: Sample Contract](appendix-sample-contract.md#appendix-sample-contract-language) can be copied as merited
+experience (see [Open Source Quality Assurance](#open-source-quality-assurance) below for more on this; text in the [Appendix: Sample Contract Language](appendix-sample-contract.md#appendix-sample-contract-language) can be copied as merited
 for the RFP as well).  The phrase "open source" applies in contexts
 other than software (e.g., open source intelligence), so be sure to
 spell out the full phrase "open source software" for vendors searching
@@ -561,7 +560,7 @@ process, agencies must have ways to bring recalcitrant vendors into
 process compliance.  Otherwise, the project risks failure across
 multiple teams.  To prepare for such situations, we recommend
 instituting Open Source Quality Assurance ("OSQA") at the project
-management level.  See the [Appendix: Sample Contract](appendix-sample-contract.md#open-source-quality-assurance) for a
+management level.  See the [Appendix: Sample Contract Language](appendix-sample-contract.md#open-source-quality-assurance) for a
 detailed sample OSQA statement of work.
 
 OSQA is a set of practices designed to ensure that an open source
@@ -592,7 +591,7 @@ requirements early in vendor engagement signals your seriousness about
 open source success and puts vendors on notice, which is particularly
 helpful when relying on vendors that don't have much open source
 experience. For a fuller description of what OSQA entails, please see
-a samplestatement of work that includes OSQA in the  [Appendix: Sample Contract](appendix-sample-contract.md#open-source-quality-assurance).
+a samplestatement of work that includes OSQA in the  [Appendix: Sample Contract Language](appendix-sample-contract.md#open-source-quality-assurance).
 
 There are a variety of OSQA techniques one can introduce.  OSQA "sits
 on the tree" and enforces standards at the pull request stage.  This
@@ -692,7 +691,7 @@ expect less-experienced open source vendors to learn from the others.
 ## Data Protection and Security 
 
 Please see the [Policy](policy.md#policy) module for key points around security
-and data protection in vendor contracts, as well as the [Appendix: Sample Contract](appendix-sample-contract.md#appendix-sample-contract-language)
+and data protection in vendor contracts, as well as the [Appendix: Sample Contract Language](appendix-sample-contract.md#appendix-sample-contract-language)
 for some relevant, example contractural language.
 
 ## Vendor Staffing

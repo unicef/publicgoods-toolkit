@@ -76,7 +76,7 @@ the software at a technical level; it also requires understanding the
 motivations and interrelationships of the people and organizations who
 do make up the project.  While we touch upon some aspects of finding
 or nurturing a broader DPG supportive ecosystem at the national level
-in the Introduction [Introduction](introduction.md#introduction), this module provides guidance on
+in the [Introduction](introduction.md#introduction), this module provides guidance on
 understanding project-level communities and ecosystems.  The [Adoptability](adoptability.md#adoptability-assessment) module provides even more detailed
 recommendations for putting this understanding into evaluating open
 source projects, including how to map a project's ecosystem.
@@ -510,7 +510,7 @@ Open
 Source](https://opendri.org/wp-content/uploads/2017/03/OpenDRI-and-GeoNode-a-Case-Study-on-Institutional-Investments-in-Open-Source.pdf) presents
 how the Global Facility for Disaster Reduction and Recovery (GFDRR)
 invested in a diversified set of partners, in part by using modular
-contracting (see also Procurement), ultimately creating a successfully
+contracting (see also [Procurement](procurement.md#procurement)), ultimately creating a successfully
 self-sustaining open source project.
 
 **KEY RECOMMENDATION** Diversity among those making the most resource
@@ -616,7 +616,7 @@ There are two other relatively obvious tasks that should complement
 the quick glance at a project's bug tracker that we describe above.
 First, a little web surfing can take you to valuable project
 discussion forums, news release (see also the [Adoptability](adoptability.md#adoptability-assessment)
-and other public information and can also help you evaluate
+module and other public information and can also help you evaluate
 if the project has the level of community 'scaffolding'
 (documentation, clear governance processes, security vulnerability
 reporting) that you'd expect for such a project type and its maturity.
@@ -830,8 +830,8 @@ matures, its rate of user acquisition slows down, the rate at which
 new contributors come in likewise slows down, and, in the long run,
 the rate of new feature development slows as well.
 
-Projects that have an extensible design (see Extensibility section in
-the [Adoptability](adoptability.md#adoptability-assessment) module) often have a longer lifecycle,
+Projects that have an extensible design (see Extensibility section in the
+the [Adoptability](adoptability.md#adoptability-assessment ) module) often have a longer lifecycle,
 though this may be correlation rather than causation: longer-lived
 projects tend to become extensible, and innovation can continue to
 happen in the plugin ecosystem even after the software's core has
@@ -998,7 +998,7 @@ paramount and not see the value of collaborating to get to an 80%
 solution that they can then refine.  However, solving shared problems
 while permitting flexibility for differentiation is core to the open
 source approach, as well as to modular architectures and extensibility
-(see [Procurement](procurement.md#procurement)and [Adoptability](adoptability.md#adoptability-assessment) modules).  Still, the complexity
+(see [Procurement](procurement.md#procurement) and [Adoptability](adoptability.md#adoptability-assessment) modules).  Still, the complexity
 posed by internal agency collaboration is precisely why centralized
 digital services agencies are often at the forefront of government
 digital transformation.

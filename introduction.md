@@ -81,7 +81,7 @@ innovation rather than foundational work.  As an example, although the
 government of Sierra Leone created the [Open Data Sierra
 Leone](https://opendatasl.gov.sl/) portal to promote government
 transparency and accountability, their current investment angle views
-these open data sets as important[resources for innovators and
+these open data sets as important [resources for innovators and
 investors](https://media.un.org/en/asset/k17/k17a9bg6o8), and they are
 figuring out how they can better support innovation linked to this
 open data.  Open source and open data can increase the speed of
@@ -89,7 +89,8 @@ distribution and adoption of innovations as well.  The Philippine
 government was able to [roll out its National Digital Vaccination
 Certificate program in three
 months](https://media.un.org/en/asset/k17/k17a9bg6o8) by re-using and
-adapting the open source vaccination portal CoWIN from India.  The
+adapting the Digital Infrastructure for Vaccination Open Credentialing (DIVOC) system
+ from India.  The
 Nigeria Centre for Disease Control (NCDC) deployed the DPG
 [SORMAS](https://sormas.org/), an open source mobile product for
 outbreak and epidemic surveillance, [to 30 districts in *14
@@ -100,9 +101,6 @@ evaluting how their OpenG2P implementation, initially deployed during
 the COVID pandemic to get payments to frontline health workers and
 volunteers, can ['scale horizontally' to send payments to teachers and
 schools](https://media.un.org/en/asset/k17/k17a9bg6o8).
-
-(TODO: confirm Philippines used CoWIN, I believe that's what I heard in the
-presentation but I couldn't confirm this through a search)
 
 Open source and open data provide an "off the shelf," low friction
 model for collaboration to create and manage digital goods.  These
@@ -118,7 +116,7 @@ Lastly, the transparency and digital sovereignty of open source and
 open data -- how they enable locally controlled and developed
 solutions as well as local accountability -- are necessary to
 [building greater trust in digital solutions for achieving the
-SDGs](https://digitalpublicgoods.net/blog/the-transformative-role-of-academia-digital-public-goods.
+SDGs](https://digitalpublicgoods.net/blog/the-transformative-role-of-academia-digital-public-goods).
 Trust is often overlooked, perhaps because it's somewhat intangible
 and hard to measure.  Yet the organizations behind OpenMRS found that
 much of their success was based on the [shared ownership and
