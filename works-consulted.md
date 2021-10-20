@@ -91,10 +91,22 @@ default/files/documents/1864/Software_Global_Goods_Valuation_Framework_VFinal.pd
 * https://www.mosip.io/uploads/resources/5c97366200053Architectural%20Principle%20-%20Privacy%20and%20Security.pdf
 
 * https://www.mosip.io/uploads/resources/5cc84b0a08284Country%20Engagement%20Principles_v2.pdf
+
+* https://ico.org.uk/media/for-organisations/guide-to-the-general-data-protection-regulation-gdpr-1-0.pdf
+(checklist here https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/contracts)
+
+* OECD Recommendation of the Council concerning
+Guidelines Governing the Protection of Privacy and Transborder Flows of
+Personal Data (“OECD Privacy Guidelines”) [C(80)58/FINAL as amended
+
+* OECD (2021), "Understanding the digital security of products: An in-depth analysis", OECD Digital Economy Papers, No. 305, OECD Publishing, Paris, https://doi.org/10.1787/abea0b69-en.
+https://www.oecd-ilibrary.org/docserver/abea0b69-en.pdf?expires=1634616440&id=id&accname=guest&checksum=952B457A4563BDB21EB39D0DB3D5E961
  
  * United
 Nations Conference on Trade and Development's report Data Protection
 Regulations and International Data Flows
+
+* Goggin, Gerard. “COVID-19 apps in Singapore and Australia: reimagining healthy nations with digital technology.” Media International Australia vol. 177,1 (2020): 61–75. doi:10.1177/1329878X20949770
 
 * https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/guidance/modular-approaches-for-information-technology.pdf
 
