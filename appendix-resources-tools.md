@@ -209,7 +209,7 @@ adjacent work like documentation, running trainings, and managing key
 partners, as well as typical community management tasks like ensuring
 new contributors can find appropriate work to do.  For an example, see
 a [recent job posting for a community
-managaer](https://www.kobotoolbox.org/join-our-team/project-community-engagement-coordinator.html)
+manager](https://www.kobotoolbox.org/join-our-team/project-community-engagement-coordinator.html)
 from the the team behind the Kobo Toolbox DPG (accessed Sept. 2021).
 
 **Regarding external financing, the [Guidelines for Funding Open
