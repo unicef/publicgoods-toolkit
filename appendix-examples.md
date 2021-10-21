@@ -222,7 +222,7 @@ create benefits that can be used by jurisdictions who might not take
 up tool-making on a large scale themselves**.
 
 
-### Product: OpenGeo
+### Product: GeoNode
 
 When the World Bank considered its mission and the mapping tools
 available to support decision-making by governments, it realized there
@@ -237,15 +237,15 @@ Other open source efforts arose to interoperate
 entire GIS sector enjoys much more open source support than it did
 before.
 
-Today, various tools from the original OpenGeo codebase have migrated
+Today, various tools from the original GeoNode codebase have migrated
 to other projects, been integrated in proprietary tools from new
 vendors (chiefly BoundlessGeo), and are all available at significantly
-lower cost than before. Overall, World Bank's OpenGeo investment in
+lower cost than before. Overall, World Bank's GeoNode investment in
 open source is a realistic take of success at using open source to
 achieve goals in a sustainable way.  The work demonstrates that **open
 source investment can create many different types of outcomes**.
 
-For an analysis of OpenGeo's open source work, please see [A Case
+For an analysis of GeoNode's open source work, please see [A Case
 Study On Institutional Investments In Open
 Source](https://opendri.org/wp-content/uploads/2017/03/OpenDRI-and-GeoNode-a-Case-Study-on-Institutional-Investments-in-Open-Source.pdf).
 
