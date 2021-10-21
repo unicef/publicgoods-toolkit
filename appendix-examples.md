@@ -1,8 +1,9 @@
 # Appendix: Examples
 
-This appendix provides brief summaries of a few open projects -- largely open 
-source projects -- that exemplify a topic or recommendation covered in this paper,
-or that were interesting projects and products in some way. Not all are DPGs. 
+This appendix provides brief summaries of a few open projects --
+largely open source projects -- that exemplify a topic or
+recommendation covered in this paper, or that were interesting
+projects and products in some way.  Not all are DPGs.
 
 ### Open Source and Collaboration : Canada's Covid Exposure Notifications Mobile App
 
@@ -77,8 +78,8 @@ this code repository was created by the Ministry of Economic Affairs
 as well as the Information Systems Authority, as **a key goal of the
 government's use of open source -- as well as of open data, available
 through [the Open Government Data Portal](https://avaandmed.eesti.ee/)
--- is to encourage the private sector to also develop commecial or non-commercial
-services using the same common infrastructure**.
+-- is to encourage the private sector to also develop commecial or
+non-commercial services using the same common infrastructure**.
 
 In recent years, **Estonia has used its open approach to software
 development and data to its advantage in working across
@@ -112,55 +113,56 @@ code repository, free to the public**, with limited exceptions.
 
 ### Policy: Singapore 
 
-The **Republic of Singapore has thoughtfully engaged private industry** to spur 
-greater innovation and help deliver digitized government services more broadly 
-and quickly.
+The **Republic of Singapore has thoughtfully engaged private
+industry** to spur greater innovation and help deliver digitized
+government services more broadly and quickly.
 
-For example, [Singapore partnered with private industry](https://media.un.org/en/asset/k17/k17a9bg6o8)
-to provide subsidized, 
-affordable mobile plans for seniors. This helped remove one barrier to this 
-vulnerable population's use of Singapore's 
-digital services -- such as the Singapore Financial Data Exchange (SGFinDex), 
-which 
-aims to help citizens with financial planning, among other things.
+For example, [Singapore partnered with private
+industry](https://media.un.org/en/asset/k17/k17a9bg6o8) to provide
+subsidized, affordable mobile plans for seniors.  This helped remove
+one barrier to this vulnerable population's use of Singapore's digital
+services -- such as the Singapore Financial Data Exchange (SGFinDex),
+which aims to help citizens with financial planning, among other
+things.
 
-In 2017, the Government Technology Agency of Singapore
-(GovTech) launched APEX, a centralised data exchange platform that helps
-agencies share data amongst themselves and with
-private companies through a published set of **open [APIs](https://www.developer.tech.gov.sg/technologies/data-and-apis/apex)**. 
+In 2017, the Government Technology Agency of Singapore (GovTech)
+launched APEX, a centralised data exchange platform that helps
+agencies share data amongst themselves and with private companies
+through a published set of **open
+[APIs](https://www.developer.tech.gov.sg/technologies/data-and-apis/apex)**.
 
-Along with APEX, the core of Singapore's digitization strategy rests in its national 
-digital identity platform, called [SingPass](https://www.singpass.gov.sg/main). 
-SingPass gives citizens access to over 1,700 digital services. 
-[Over 70% of Singapore residents rely on the service](https://media.un.org/en/asset/k17/k17a9bg6o8), 
-which is supported by an array of [open APIS](https://www.singpass.gov.sg/main/businesses) 
-that help private industry (and other government agencies) leverage common 
-infrastructure 
-for things like identity 
-verification and document signing. For example, Grab -- a 'super app' that helps users 
-order food, book hotels, find rides, get groceries delivered, and more -- relies 
-on [SingPass's MyInfo digital identity profile](https://www.grab.com/sg/press/tech-product/grab-creates-safer-more-secure-grabpay-e-wallet-with-new-user-verification-feature/)
-for user verification. 
+Along with APEX, the core of Singapore's digitization strategy rests
+in its national digital identity platform, called
+[SingPass](https://www.singpass.gov.sg/main).  SingPass gives citizens
+access to over 1,700 digital services.  [Over 70% of Singapore
+residents rely on the
+service](https://media.un.org/en/asset/k17/k17a9bg6o8), which is
+supported by an array of [open
+APIS](https://www.singpass.gov.sg/main/businesses) that help private
+industry (and other government agencies) leverage common
+infrastructure for things like identity verification and document
+signing. For example, Grab -- a 'super app' that helps users order
+food, book hotels, find rides, get groceries delivered, and more --
+relies on [SingPass's MyInfo digital identity
+profile](https://www.grab.com/sg/press/tech-product/grab-creates-safer-more-secure-grabpay-e-wallet-with-new-user-verification-feature/)
+for user verification.
 
-**Singapore was one of the first governments to deliver a community-driven, mobile 
-COVID contact-tracing app**, pioneering the use of Bluetooth wireless communication 
-in this space. The government open sourced their reference implementation of the 
-BlueTrace protocol, [OpenTrace](https://github.com/OpenTrace-community). 
-
-
-[Singapore 
-works to harmonize ICT regulation, help regional businesses 
-reach wider audiences, and strengthen the regional digital economy](https://media.un.org/en/asset/k17/k17a9bg6o8) through bilateral 
-digital economy agreements (e.g. [cybersecurity agreements](https://ccdcoe.org/incyder-articles/asean-cyber-developments-centre-of-excellence-for-singapore-cybercrime-convention-for-the-philippines-and-an-open-ended-working-group-for-everyone/) with Australia, Canada, 
-Estonia, France, Germany, India, Japan, the Netherlands, the UK and the US)
-and regional mechanisms, such  
-as the ASEAN data management framework and the ASEAN model contractual clauses for 
-cross border data flows. 
+**Singapore was one of the first governments to deliver a
+community-driven, mobile COVID contact-tracing app**, pioneering the
+use of Bluetooth wireless communication in this space. The government
+open sourced their reference implementation of the BlueTrace protocol,
+[OpenTrace](https://github.com/OpenTrace-community).
 
 
- 
-
-
+[Singapore works to harmonize ICT regulation, help regional businesses
+reach wider audiences, and strengthen the regional digital
+economy](https://media.un.org/en/asset/k17/k17a9bg6o8) through
+bilateral digital economy agreements (e.g. [cybersecurity
+agreements](https://ccdcoe.org/incyder-articles/asean-cyber-developments-centre-of-excellence-for-singapore-cybercrime-convention-for-the-philippines-and-an-open-ended-working-group-for-everyone/)
+with Australia, Canada, Estonia, France, Germany, India, Japan, the
+Netherlands, the UK and the US) and regional mechanisms, such as the
+ASEAN data management framework and the ASEAN model contractual
+clauses for cross border data flows.
 
 
 ### Open Source Readiness : United States Web Design System
@@ -250,34 +252,43 @@ Source](https://opendri.org/wp-content/uploads/2017/03/OpenDRI-and-GeoNode-a-Cas
 
 ### Product: SORMAS
 
-[SORMAS](https://sormas.org/) (Surveillance Outbreak Response Management & 
-Analysis System) is an open-source, mobile health platform
-that supports "[the collection, organisation and analysis of real-time data for 
-both disease surveillance and
-outbreak response, and has been designed specifically to
-operate in 
-resource-poor settings](https://health.bmz.de/wp-content/uploads/studies/GHPC_SORMAS_full_version_final.pdf)." 
-It was created to address the West African Ebola outbreak in 2014/15 through 
-a public-private partnership between German and Nigerian public health and 
-research institutions and a private software company.
+[SORMAS](https://sormas.org/) (Surveillance Outbreak Response
+Management & Analysis System) is an open-source, mobile health
+platform that supports "[the collection, organisation and analysis of
+real-time data for both disease surveillance and outbreak response,
+and has been designed specifically to operate in resource-poor
+settings](https://health.bmz.de/wp-content/uploads/studies/GHPC_SORMAS_full_version_final.pdf)."
+It was created to address the West African Ebola outbreak in 2014/15
+through a public-private partnership between German and Nigerian
+public health and research institutions and a private software
+company.
 
-SORMAS was originally created in a closed model but ultimately moved to open 
-source in 2016. The reasons behind the project's move to 
-open source underscores its benefits: **[making sure the product remained free 
-from vendor lock-in; enabling faster adoption to different needs, including 
-advances in surveillance and outbreak management; able to more easily integrate 
-and interoperate with emerging digital health ecosystems; and fostering 
-collaboration between developers, epidemiologists and other health specialists 
-to further develop and maintain the product](https://health.bmz.de/wp-content/uploads/studies/GHPC_SORMAS_full_version_final.pdf)**. This is exactly what's happened: SORMAS's original process models were quickly 
-adopted to include 
-[monkeypox, cerebrospinal meningitis, Lassa fever and measles (this work done in Nigeria 2017-2018, which rolled out a model for monkeypox in *14 days*) and again to new COVID-19 coronavirus in 2020](https://health.bmz.de/wp-content/uploads/studies/GHPC_SORMAS_full_version_final.pdf). It now 
-[covers 19 infectious diseases](https://sormas.org/faq). Original deployments 
-were in Ghana and Nigera; Switzerland, France, Germany and Fiji implemented 
-SORMAS during the pandemic; and 
-[Afghanistan, Nepal, Burkina Faso and Côte d’Ivoire](https://sormas.org/faq) 
-are preparing for deployments. SORMAS 
-[interoperates with District Health Information Software 2 (DHIS2) and aligns with other popular digital platforms in the region, such as the electronic IDSR system and Epi Info](https://health.bmz.de/wp-content/uploads/studies/GHPC_SORMAS_full_version_final.pdf). 
-It's also a Digital Square-approved global good. 
+SORMAS was originally created in a closed model but ultimately moved
+to open source in 2016. The reasons behind the project's move to open
+source underscores its benefits: **[making sure the product remained
+free from vendor lock-in; enabling faster adoption to different needs,
+including advances in surveillance and outbreak management; able to
+more easily integrate and interoperate with emerging digital health
+ecosystems; and fostering collaboration between developers,
+epidemiologists and other health specialists to further develop and
+maintain the
+product](https://health.bmz.de/wp-content/uploads/studies/GHPC_SORMAS_full_version_final.pdf)**.
+This is exactly what's happened: SORMAS's original process models were
+quickly adopted to include [monkeypox, cerebrospinal meningitis, Lassa
+fever and measles (this work done in Nigeria 2017-2018, which rolled
+out a model for monkeypox in *14 days*) and again to new COVID-19
+coronavirus in
+2020](https://health.bmz.de/wp-content/uploads/studies/GHPC_SORMAS_full_version_final.pdf).
+It now [covers 19 infectious diseases](https://sormas.org/faq).
+Original deployments were in Ghana and Nigera; Switzerland, France,
+Germany and Fiji implemented SORMAS during the pandemic; and
+[Afghanistan, Nepal, Burkina Faso and Côte
+d’Ivoire](https://sormas.org/faq) are preparing for deployments.
+SORMAS [interoperates with District Health Information Software 2
+(DHIS2) and aligns with other popular digital platforms in the region,
+such as the electronic IDSR system and Epi
+Info](https://health.bmz.de/wp-content/uploads/studies/GHPC_SORMAS_full_version_final.pdf).
+It's also a Digital Square-approved global good.
 
 
 ### Product: OpenHMIS
@@ -295,12 +306,10 @@ program requirements.  The State of Georgia leads development of
 helps states efficiently collect this information.
 
 **OpenHMIS is an example of where open source can play a lead role in
-making government operations more efficient**.  Because every state has
-to collect much the same data and submit it to HUD in much the same
-way, the software to support that data collection and submission has
-the same core requirements in every state.  Whenever that circumstance
-exists (and it exists quite often), there is an opportunity to develop
-an open source approach that eases the path to compliance for all
-states.
-
-
+making government operations more efficient**.  Because every state
+has to collect much the same data and submit it to HUD in much the
+same way, the software to support that data collection and submission
+has the same core requirements in every state.  Whenever that
+circumstance exists (and it exists quite often), there is an
+opportunity to develop an open source approach that eases the path to
+compliance for all states.

@@ -1,36 +1,40 @@
 # Appendix: Sample Contract Language 
 
-This appendix lists sample contract language around security and data protection
-as well as Open Source Quality Assurance. 
+This appendix lists sample contract language around security and data
+protection as well as Open Source Quality Assurance.
 
 ## Sample Contract Language: Security and Data Protection 
 
-The EU publishes a modular set of GDPR-compliant [Sample Standard Contractural Clauses](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en) 
-that cover data transfers between EU and non-EU countries. These documents 
-include sections on data protection safeguards, use of subprocessors, redress,
-liability, and more. The EU also provides a template
-[data processing agreement](https://gdpr.eu/data-processing-agreement), [privacy 
-notice](https://gdpr.eu/privacy-notice/), and [right to erasure form](https://gdpr.eu/right-to-erasure-request-form/).
+The EU publishes a modular set of GDPR-compliant [Sample Standard
+Contractural
+Clauses](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en)
+that cover data transfers between EU and non-EU countries.  These
+documents include sections on data protection safeguards, use of
+subprocessors, redress, liability, and more.  The EU also provides a
+template [data processing
+agreement](https://gdpr.eu/data-processing-agreement), [privacy
+notice](https://gdpr.eu/privacy-notice/), and [right to erasure
+form](https://gdpr.eu/right-to-erasure-request-form/).
 
-Note that you'll often hear the terms data processing agreement and data 
-protection addendum used interchangably. They serve the same purpose.
+Note that you'll often hear the terms data processing agreement and
+data protection addendum used interchangably.  They serve the same
+purpose.
 
-Below, you'll find somewhat simpler sample contract language covering key data 
-protection (not completely GDPR compliant) and security procedures issues. These examples 
-aren't comprehensive to all situations and needed areas of coverage, but they are 
-still useful guidance as you strike your own contracts with vendors. We include 
-this template 
-because of its more in-depth security requirements, which, again, may or may not 
-be relevant
-to your situation.
+Below, you'll find somewhat simpler sample contract language covering
+key data protection (not completely GDPR compliant) and security
+procedures issues.  These examples aren't comprehensive to all
+situations and needed areas of coverage, but they are still useful
+guidance as you strike your own contracts with vendors.  We include
+this template because of its more in-depth security requirements,
+which, again, may or may not be relevant to your situation.
 
-(TODO: Do we have better sample contract language on hand?  I've asked for permission 
-to use
-the following, haven't heard back yet. It's also still US-centric (SSAE‐16/SOC‐1) 
-although we can delete that if we get license. I'm unsure how cyber-liability
-insurance works in audience countries, and I'm also unsure if the security requirements
-are too onerous for some low resource environments, and if so, what to say. 
-Source for the following text: 
+(TODO: Do we have better sample contract language on hand?  I've asked
+for permission to use the following, haven't heard back yet.  It's
+also still US-centric (SSAE‐16/SOC‐1) although we can delete that if
+we get license.  I'm unsure how cyber-liability insurance works in
+audience countries, and I'm also unsure if the security requirements
+are too onerous for some low resource environments, and if so, what to
+say.  Source for the following text:
 https://www.eckertseamans.com/app/uploads/Steve-Foxman_Eckert-Seamans_DATA-PROTECTION-CLAUSES-101016-M1566466xA35AF.pdf)
 
 
