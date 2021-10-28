@@ -13,7 +13,8 @@ Source Guides*, Linux Foundation. [www.linuxfoundation.org/resources/open-source
 CivicDataLab, [state-of-foss.in/the-state-of-foss-report.pdf](https://state-of-foss.in/the-state-of-foss-report.pdf). PDF file. Accessed 15 Sept. 2021. 
 
 * Belinsky, Mark, and James Green, interview by James Vasile and Karl Fogel, 
-*Interview with Mark Belinsky and James Green*, [github.com/unicef/publicgoods-toolkit/blob/867886be05bb5093054012161e2d59c1912c7c51/interviews/mark-belinsky.md](https://github.com/unicef/publicgoods-toolkit/blob/867886be05bb5093054012161e2d59c1912c7c51/interviews/mark-belinsky.md). Accessed 
+*Interview with Mark Belinsky and James Green*, [github.com/unicef/publicgoods-toolkit/blob/\
+867886be05bb5093054012161e2d59c1912c7c51/interviews/mark-belinsky.md](https://github.com/unicef/publicgoods-toolkit/blob/867886be05bb5093054012161e2d59c1912c7c51/interviews/mark-belinsky.md). Accessed 
 30 Sept 2021.
 
 * Bollier, David. *Public Assets, Private Profits Reclaiming the American Commons 
@@ -30,13 +31,15 @@ Accessed 1 Sept. 2021.
 
 * Center for Innovation and Impact. *Software global goods valuation framework: 
 User’s guide*, Washington, DC,
-USA: United States Agency for International Development, 2019. [usaid.gov/sites/default/files/documents/1864/Software_Global_Goods_Valuation_Framework_VFinal.pdf](https://usaid.gov/sites/default/files/documents/1864/Software_Global_Goods_Valuation_Framework_VFinal.pdf). 
+USA: United States Agency for International Development, 2019. [usaid.gov/sites/default/files/documents/1864/\
+Software_Global_Goods_Valuation_Framework_VFinal.pdf](https://usaid.gov/sites/default/files/documents/1864/Software_Global_Goods_Valuation_Framework_VFinal.pdf). 
 PDF file. Accessed 15 Sept. 2021.
 
 * Cervantes, Mario and Soon Jeong Hong. *OECD Science, Technology and Innovation 
 Outlook 2018*. Adapting to Technological and Societal Disruption, Chapter 4, OECD, 
 2018,
-[www.oecd-ilibrary.org/sites/sti_in_outlook-2018-9-en/index.html?itemId=/content/component/sti_in_outlook-2018-9-en](https://www.oecd-ilibrary.org/sites/sti_in_outlook-2018-9-en/index.html?itemId=/content/component/sti_in_outlook-2018-9-en). 
+[www.oecd-ilibrary.org/sites/sti_in_outlook-2018-9-en/index.html?itemId=/content/component/\
+sti_in_outlook-2018-9-en](https://www.oecd-ilibrary.org/sites/sti_in_outlook-2018-9-en/index.html?itemId=/content/component/sti_in_outlook-2018-9-en). 
 Accessed 1 Sept. 2021. 
 
 * Chrzanowski, Pierre, et al. *Open Data Readiness Assessment: Sierra Leone*, World 
@@ -77,14 +80,16 @@ Accessed 1 Sept. 2021.
 Accessed 1 Sept. 2021. 
 
 * FinTech Open Source Foundation. *Open Source Readiness Assessment*, FinTech Open 
-Source Foundation, [www.finos.org/hubfs/FINOS/website/pages/community/Open%20Source%20Readiness%20Roadmap%20-%203.10.2018.png](https://www.finos.org/hubfs/FINOS/website/pages/community/Open%20Source%20Readiness%20Roadmap%20-%203.10.2018.png).  Accessed 1 Sept. 2021. 
+Source Foundation, [www.finos.org/hubfs/FINOS/website/pages/community/\
+Open%20Source%20Readiness%20Roadmap%20-%203.10.2018.png](https://www.finos.org/hubfs/FINOS/website/pages/community/Open%20Source%20Readiness%20Roadmap%20-%203.10.2018.png).  Accessed 1 Sept. 2021. 
 
 * Fogel, Karl. "Dissecting The Myth That Open Source Software Is Not Commercial," 
 *IEEE Software blog*, 10 April 2016, [blog.ieeesoftware.org/2016/04/dissecting-myth-that-open-source.html](https://blog.ieeesoftware.org/2016/04/dissecting-myth-that-open-source.html). 
 Accessed 1 Sept. 2021.
 
 * Fogel, Karl and James Vasile. *Guidelines for Funding Open Source Software Development*, 
-Arches Project, 16 Nov 2017, [www.archesproject.org/wp-content/uploads/2018/01/guidelines_funding_OSS.pdf](https://www.archesproject.org/wp-content/uploads/2018/01/guidelines_funding_OSS.pdf). 
+Arches Project, 16 Nov 2017, [www.archesproject.org/wp-content/uploads/2018/01/\
+guidelines_funding_OSS.pdf](https://www.archesproject.org/wp-content/uploads/2018/01/guidelines_funding_OSS.pdf). 
 PDF file. Accessed 1 Sept. 2021.
 
 * Fogel, Karl, and James Vasile. *Open Source Archetypes: A Framework For 
@@ -105,14 +110,16 @@ Development Programme and United Nations Children’s Development Fund,
 29 Sep. 2021, [media.un.org/en/asset/k17/k17a9bg6o8](https://media.un.org/en/asset/k17/k17a9bg6o8). Accessed 30 Sept. 2021.
 
 * Gelaga-King, George, interview by James Vasile, *Interview With George Gelaga-King*, 
-[github.com/unicef/publicgoods-toolkit/blob/867886be05bb5093054012161e2d59c1912c7c51/interviews/george-gelaga-king.md](https://github.com/unicef/publicgoods-toolkit/blob/867886be05bb5093054012161e2d59c1912c7c51/interviews/george-gelaga-king.md). 
+[github.com/unicef/publicgoods-toolkit/blob/867886be05bb5093054012161e2d59c1912c7c51/
+interviews/george-gelaga-king.md](https://github.com/unicef/publicgoods-toolkit/blob/867886be05bb5093054012161e2d59c1912c7c51/interviews/george-gelaga-king.md). 
 Accessed 30 Sept. 2021.
 
 * Gerber, Ben. OECD Privacy Principles. [oecdprivacy.org](http://oecdprivacy.org). Accessed 1 Sept. 2021.
 
 * Gerhard, Laura and Mark Headd. *Modular Contracting and Agile Development*, United 
 States 18F, 
-19 July 2018, [github.com/18F/Modular-Contracting-And-Agile-Development/blob/7e6468332bf1c87d56dc682ac4aa043b09686143/_strategies/modular-procurement.md](https://github.com/18F/Modular-Contracting-And-Agile-Development/blob/7e6468332bf1c87d56dc682ac4aa043b09686143/_strategies/modular-procurement.md). Accessed 1 Sept. 2021.
+19 July 2018, [github.com/18F/Modular-Contracting-And-Agile-Development/
+blob/7e6468332bf1c87d56dc682ac4aa043b09686143/_strategies/modular-procurement.md](https://github.com/18F/Modular-Contracting-And-Agile-Development/blob/7e6468332bf1c87d56dc682ac4aa043b09686143/_strategies/modular-procurement.md). Accessed 1 Sept. 2021.
 
 * Global Facility for Disaster Reduction and Recovery. *Open Data for Resilience 
 Initiative & GeoNode: A Case Study on Institutional Investments in Open Source*, 
@@ -141,7 +148,8 @@ Accessed 1 Sept. 2021.
 
 * Jansen, Slinger. “Measuring the Health of Open Source Software Ecosystems: 
 Beyond the Scope of Project Health,” *Information and Software Technology*, 
-Vol. 56, Nov. 1, 2014, [www.researchgate.net/publication/261715766_Measuring_the_Health_of_Open_Source_Software_Ecosystems_Beyond_the_Scope_of_Project_Health](https://www.researchgate.net/publication/261715766_Measuring_the_Health_of_Open_Source_Software_Ecosystems_Beyond_the_Scope_of_Project_Health). 
+Vol. 56, Nov. 1, 2014, [www.researchgate.net/publication/261715766_Measuring_the_Health_of_Open_Source_Software_\
+Ecosystems_Beyond_the_Scope_of_Project_Health](https://www.researchgate.net/publication/261715766_Measuring_the_Health_of_Open_Source_Software_Ecosystems_Beyond_the_Scope_of_Project_Health). 
 Accessed 1 Sept. 2021.
 
 * Joswiak, Naomi. *Open Government Case Study: Costing Sierra Leone’s Open Data 
@@ -179,7 +187,8 @@ PDF file. Accessed 1 Sept. 2021.
 
 * OECD. "Understanding the digital security of products: An in-depth analysis,” 
 *OECD Digital Economy Papers*, No. 305, OECD, 2021,
-[www.oecd-ilibrary.org/docserver/abea0b69-en.pdf?expires=1634616440&id=id&accname=guest&checksum=952B457A4563BDB21EB39D0DB3D5E961](https://www.oecd-ilibrary.org/docserver/abea0b69-en.pdf?expires=1634616440&id=id&accname=guest&checksum=952B457A4563BDB21EB39D0DB3D5E961). Accessed 15 Sept. 2021.
+[www.oecd-ilibrary.org/docserver/abea0b69-en.pdf?expires=1634616440&id=id&accname=guest\
+&checksum=952B457A4563BDB21EB39D0DB3D5E961](https://www.oecd-ilibrary.org/docserver/abea0b69-en.pdf?expires=1634616440&id=id&accname=guest&checksum=952B457A4563BDB21EB39D0DB3D5E961). Accessed 15 Sept. 2021.
 
 * *OMM Overview*. Qualipso International, [qualipso.icmc.usp.br/OMM](http://qualipso.icmc.usp.br/OMM). 
 Accessed 1 Sept. 2021. 
@@ -198,10 +207,12 @@ and Model Contractual Clauses on Cross Border Data Flows*,
 Accessed 1 Sept.  2021.
 
 * “Principles of Engagement: Modular Open Source Identity Platform,” *MOSIP docs*, 
-April 2019, [www.mosip.io/uploads/resources/5cc84b0a08284Country%20Engagement%20Principles_v2.pdf](https://www.mosip.io/uploads/resources/5cc84b0a08284Country%20Engagement%20Principles_v2.pdf). PDF file. 
+April 2019, [www.mosip.io/uploads/resources/\
+5cc84b0a08284Country%20Engagement%20Principles_v2.pdf](https://www.mosip.io/uploads/resources/5cc84b0a08284Country%20Engagement%20Principles_v2.pdf). PDF file. 
 Accessed 1 Sept. 2021.
 
-* “Privacy and Security by Design,” *MOSIP docs*, [www.mosip.io/uploads/resources/5c97366200053Architectural%20Principle%20-%20Privacy%20and%20Security.pdf](https://www.mosip.io/uploads/resources/5c97366200053Architectural%20Principle%20-%20Privacy%20and%20Security.pdf). PDF file. 
+* “Privacy and Security by Design,” *MOSIP docs*, [www.mosip.io/uploads/resources/\
+5c97366200053Architectural%20Principle%20-%20Privacy%20and%20Security.pdf](https://www.mosip.io/uploads/resources/5c97366200053Architectural%20Principle%20-%20Privacy%20and%20Security.pdf). PDF file. 
 Accessed 1 Sept. 2021.
 
 * Ramsden, Peter, et al. *Social Impact Bonds: State of Play and Lessons Learnt*, 
@@ -220,12 +231,16 @@ Accessed 1 Sept. 2021.
 
 * Scovetta, Michael, in collaboration with the Open Source Security Coalition. 
 *Threats, Risks, and Mitigations in the Open Source Ecosystem*, Open Source 
-Security Foundation, 28 July, 2020, [github.com/ossf/wg-identifying-security-threats/blob/efade108a2afa806daa500fe60fdb831cc7d9f38/publications/threats-risks-mitigations/v1.1/Threats,%20Risks,%20and%20Mitigations%20in%20the%20Open%20Source%20Ecosystem%20-%20v1.1.pdf](https://github.com/ossf/wg-identifying-security-threats/blob/efade108a2afa806daa500fe60fdb831cc7d9f38/publications/threats-risks-mitigations/v1.1/Threats,%20Risks,%20and%20Mitigations%20in%20the%20Open%20Source%20Ecosystem%20-%20v1.1.pdf). 
+Security Foundation, 28 July, 2020, [github.com/ossf/wg-identifying-security-threats/\
+blob/efade108a2afa806daa500fe60fdb831cc7d9f38/publications/\
+threats-risks-mitigations/v1.1/\
+Threats,%20Risks,%20and%20Mitigations%20in%20the%20Open%20Source%20Ecosystem%20-%20v1.1.pdf](https://github.com/ossf/wg-identifying-security-threats/blob/efade108a2afa806daa500fe60fdb831cc7d9f38/publications/threats-risks-mitigations/v1.1/Threats,%20Risks,%20and%20Mitigations%20in%20the%20Open%20Source%20Ecosystem%20-%20v1.1.pdf). 
 PDF file. Accessed 1 Sept. 2021.
 
 * Shevchenko, Nataliya, et al, *Threat Modeling: A Summary of Available Methods,* 
 Carnegie Mellon University Software Engineering Institute, July 2018,
- [resources.sei.cmu.edu/asset_files/WhitePaper/2018_019_001_524597.pdf](https://resources.sei.cmu.edu/asset_files/WhitePaper/2018_019_001_524597.pdf). 
+ [resources.sei.cmu.edu/asset_files/\
+WhitePaper/2018_019_001_524597.pdf](https://resources.sei.cmu.edu/asset_files/WhitePaper/2018_019_001_524597.pdf). 
  PDF file. Accessed 15 Sept. 2021.
 
 * Silenou Bernard C, et al, “Use of Surveillance Outbreak Response Management and 
@@ -239,14 +254,15 @@ Accessed 1 Sept. 2021.
 * Souppaya, M., and K. Scarfone. “Technical guide to information security testing 
 and assessment: Recommendations of the National Institute of Standards and 
 Technology,” *NIST Special Publication 800-115*, Gaithersburg, MD, USA: National 
-Institute of Standards and Technology, 2008, [.nist.gov/publications/technical-guide-information-security-testing-and-assessment](https://.nist.gov/publications/technical-guide-information-security-testing-and-assessment). Accessed 1 Sept. 2021.
+Institute of Standards and Technology, 2008, [www.nist.gov/publications/technical-guide-information-security-testing-and-assessment](https://www.nist.gov/publications/technical-guide-information-security-testing-and-assessment). Accessed 1 Sept. 2021.
 
 * Thomas, Edward, et al. *Evaluation of Innovation in UNICEF Work Case Study: 
 Primero*, UNICEF Evaluation Office, November 2019, [www.unicef.org/evaluation/media/946/file/Primero.pdf](https://www.unicef.org/evaluation/media/946/file/Primero.pdf). 
 PDF file. Accessed 1 Sept. 2021. 
 
 * TODO Group. "Moving to Strategic Use of Open Source," *OSPO 101, Module 2, 
-Section: Introducing Open Source Business Models*, TODO Group, [github.com/todogroup/ospo101/blob/main/module2/README.md#climbing-the-open-source-ladder](https://github.com/todogroup/ospo101/blob/main/module2/README.md#climbing-the-open-source-ladder). Accessed 1 Sept. 2021. 
+Section: Introducing Open Source Business Models*, TODO Group, [github.com/todogroup/ospo101/blob/main/
+module2/README.md#climbing-the-open-source-ladder](https://github.com/todogroup/ospo101/blob/main/module2/README.md#climbing-the-open-source-ladder). Accessed 1 Sept. 2021. 
 
 * US Government Accountability Office. "Effective Practices and Federal Challenges 
 in Applying Agile Methods," *Report to the Subcommittee on Federal Financial 
@@ -275,7 +291,8 @@ Sept. 2019, [info.undp.org/sites/ERM/Shared%20Documents/UNDP%20ERM%20Guide_Sept2
 PDF file. Accessed 1 Sept. 2021.
 
 * United Nations. *Report of the Secretary-General: Roadmap for Digital Cooperation*, 
-June 2020, [www.un.org/en/content/digital-cooperation-roadmap/assets/pdf/Roadmap_for_Digital_Cooperation_EN.pdf](https://www.un.org/en/content/digital-cooperation-roadmap/assets/pdf/Roadmap_for_Digital_Cooperation_EN.pdf). PDF file. Accessed 1 Sept. 2021. 
+June 2020, [www.un.org/en/content/digital-cooperation-roadmap/assets/pdf/\
+Roadmap_for_Digital_Cooperation_EN.pdf](https://www.un.org/en/content/digital-cooperation-roadmap/assets/pdf/Roadmap_for_Digital_Cooperation_EN.pdf). PDF file. Accessed 1 Sept. 2021. 
 
 * Vasile, James and Karl Fogel. “Ecosystem Mapping,” *Open Tech Strategies blog*, 
 24 June 2019,
@@ -284,7 +301,8 @@ June 2020, [www.un.org/en/content/digital-cooperation-roadmap/assets/pdf/Roadmap
 * Vassil, Kristjan. “Estonian e-Government Ecosystem: Foundation, Applications, 
 Outcomes,” *Background Paper, World Development Report 2016: Digital Dividends*, 
 International Bank for Reconstruction and Development, The World Bank, June 2015, 
-[thedocs.worldbank.org/en/doc/165711456838073531-0050022016/original/WDR16BPEstonianeGovecosystemVassil.pdf](https://thedocs.worldbank.org/en/doc/165711456838073531-0050022016/original/WDR16BPEstonianeGovecosystemVassil.pdf). 
+[thedocs.worldbank.org/en/doc/165711456838073531-0050022016/original/\
+WDR16BPEstonianeGovecosystemVassil.pdf](https://thedocs.worldbank.org/en/doc/165711456838073531-0050022016/original/WDR16BPEstonianeGovecosystemVassil.pdf). 
 PDF file. Accessed 1 Sept. 2021. 
 
 * Walli, Stephen R. “What Does an Adult Look Like in an Open Source Community?” 
