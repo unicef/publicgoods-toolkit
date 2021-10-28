@@ -1077,7 +1077,7 @@ areas of high sensitivity, such as personal health data.  Regional
 initiatives are largely driven by the desire to harmonize privacy law
 with trade and development needs (for reference, see the United
 Nations Conference on Trade and Development's report Data Protection
-Regulations and International Data Flows in [Works Consulted](works-consulted.md#works-consulted)).  Many countries are just
+Regulations and International Data Flows in [Appendix: Works Consulted](appendix-works-consulted.md#appendix-works-consulted)).  Many countries are just
 beginning to enforce comprehensive data protection regulation (e.g.
 Brazil, South Africa), much of it influenced by the EU's GDPR.
 Existing regulations across the globe are under revision as countries
