@@ -40,6 +40,7 @@ pdf: pdf-preamble $(SOURCES)
 	@for name in pdf-preamble.yaml $(SOURCES); do                     \
           cat $${name} >> .everything.md;                                 \
           echo "" >> .everything.md;                                      \
+          echo "" >> .everything.md;                                      \
         done
         # We want intra-document links to work in both GitHub
         # and in the PDF.  This is complicated because on
