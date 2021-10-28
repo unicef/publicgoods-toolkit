@@ -28,14 +28,19 @@ guidance as you strike your own contracts with vendors.  We include
 this template because of its more in-depth security requirements,
 which, again, may or may not be relevant to your situation.
 
-(TODO: Do we have better sample contract language on hand?  I've asked
-for permission to use the following, haven't heard back yet.  It's
+(TODO: Do we have better sample contract language on hand? I haven't come across 
+any.....Stephen Foxman, 
+author of the folloiwng, agreed to our use of the following under the CC-BY 4.0 license, 
+as long as we make it clear that this license extends only to the clauses that he drafted 
+or modified, and not to his personal identity or any identification or branding 
+utilized by his law firm. I can forward this email to UNICEF for safekeeping. 
+We'll have to include language to this point. It's
 also still US-centric (SSAE‐16/SOC‐1) although we can delete that if
 we get license.  I'm unsure how cyber-liability insurance works in
 audience countries, and I'm also unsure if the security requirements
 are too onerous for some low resource environments, and if so, what to
 say.  Source for the following text:
-https://www.eckertseamans.com/app/uploads/Steve-Foxman_Eckert-Seamans_DATA-PROTECTION-CLAUSES-101016-M1566466xA35AF.pdf)
+https://www.eckertseamans.com/app/uploads/Steve-Foxman_Eckert-Seamans_DATA-PROTECTION-CLAUSES-101016-M1566466xA35AF.pdf)]
 
 
 ***Disclaimer*** *: The following clauses are examples of actual data protection

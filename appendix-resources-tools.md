@@ -99,6 +99,14 @@ source health, following a rather academic framework, and applies an
 abbreviated version across its main communities.  The network analysis
 visualizations are particularly powerful.
 
+We also recommend a review of the [Open Source Ecosystem Health Operationalization
+(OSEHO)
+framework](https://www.researchgate.net/publication/261715766_Measuring_the_Health_of_Open_Source_Software_Ecosystems_Beyond_the_Scope_of_Project_Health). 
+Talking through the paper's understanding of broader project ecosystems -- noting 
+that project health does not necessarily equate with ecosystem health - can be 
+particularly useful to teams looking to build an open source product whose 
+success in adoption and contribution depends on a broader ecosystem.
+
 **Creating your own open source community**
 
 There's a rich set of online materials about how to create and nurture
