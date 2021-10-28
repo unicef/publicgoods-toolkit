@@ -4,7 +4,7 @@
 included referenced blogs, journal articles, and reports in works
 cited -- things from which I pulled direct insights. There are some 
 judgment calls in this approach. As this paper is mainly meant for the web, we 
-have hyperlinks intead of in-text citations.]
+have hyperlinks intead of in-text citations.)
 
 * Aniszczyk, Chris, et al. *Creating an Open Source Program, Linux Foundation Open 
 Source Guides*, Linux Foundation. https://www.linuxfoundation.org/resources/open-source-guides/creating-an-open-source-program. Accessed 15 Sept. 2021. 
