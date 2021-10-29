@@ -262,7 +262,7 @@ OECD's recent report, [Understanding the digital security of products:
 An in-depth
 analysis](https://www.oecd-ilibrary.org/science-and-technology/understanding-the-digital-security-of-products_abea0b69-en),
 provides a timely overview of the "dynamics that shape the digital
-security of products in various markets," especially the dynamics
+security of products in various markets", especially the dynamics
 across the value chain behind digital products.  It also outlines
 suggested responses for policy makers, some of which make sense at an
 agency level.  It's an excellent paper and recommended reading.
@@ -365,7 +365,7 @@ stay proprietary because of security concerns?
 The UK government has publicly wrangled with these issues and come up
 with useful guidance.  It's notable that their stance on how much code
 to develop through an open source model has changed from "most" to
-"all, with very limited exceptions."  In short, their experience
+"all, with very limited exceptions".  In short, their experience
 taught them that open sourcing code was actually a great way to
 confirm and enhance security, perhaps even particularly for code
 related to managing security.  When following and enforcing [strong

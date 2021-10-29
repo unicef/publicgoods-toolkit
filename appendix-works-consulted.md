@@ -69,7 +69,7 @@ Infrastructures Final Report*, Digital Public Goods Alliance, June 2021,
 PDF file.  Accessed 15 Sept. 2021.
 
 * Digital Public Goods Alliance. "The Transformative Role of Academia & Digital 
-Public Goods," *Digital Public Goods Alliance blog post*, 19 Aug. 2021,  [digitalpublicgoods.net/blog/the-transformative-role-of-academia-digital-public-goods](https://digitalpublicgoods.net/blog/the-transformative-role-of-academia-digital-public-goods). Accessed 1 Sept. 2021.
+Public Goods", *Digital Public Goods Alliance blog post*, 19 Aug. 2021,  [digitalpublicgoods.net/blog/the-transformative-role-of-academia-digital-public-goods](https://digitalpublicgoods.net/blog/the-transformative-role-of-academia-digital-public-goods). Accessed 1 Sept. 2021.
 
 * European Commission. *GDPR Data Controllers and Data Processors*, 
 [www.gdpreu.org/the-regulation/key-concepts/data-controllers-and-processors](https://www.gdpreu.org/the-regulation/key-concepts/data-controllers-and-processors). 
@@ -83,7 +83,7 @@ Accessed 1 Sept. 2021.
 Source Foundation, [www.finos.org/hubfs/FINOS/website/pages/community/\
 Open%20Source%20Readiness%20Roadmap%20-%203.10.2018.png](https://www.finos.org/hubfs/FINOS/website/pages/community/Open%20Source%20Readiness%20Roadmap%20-%203.10.2018.png).  Accessed 1 Sept. 2021. 
 
-* Fogel, Karl. "Dissecting The Myth That Open Source Software Is Not Commercial," 
+* Fogel, Karl. "Dissecting The Myth That Open Source Software Is Not Commercial", 
 *IEEE Software blog*, 10 April 2016, [blog.ieeesoftware.org/2016/04/dissecting-myth-that-open-source.html](https://blog.ieeesoftware.org/2016/04/dissecting-myth-that-open-source.html). 
 Accessed 1 Sept. 2021.
 
@@ -248,7 +248,7 @@ Analysis System for Human Monkeypox Outbreak, Nigeria, 2017–2019,” *Emerging
 Infectious Disease*, 2020;26(2):345-349. doi:10.3201/eid2602.191139. 
 
 * Smith, Dawn. "Open Source Health Information Business Ecosystems in Resource-Poor 
-Environments," *OpenMRS blog*, 3 Dec 2010, [openmrs.org/2010/12/03/open-source-health-information-business-ecosystems-in-resource-poor-environments](https://openmrs.org/2010/12/03/open-source-health-information-business-ecosystems-in-resource-poor-environments). 
+Environments", *OpenMRS blog*, 3 Dec 2010, [openmrs.org/2010/12/03/open-source-health-information-business-ecosystems-in-resource-poor-environments](https://openmrs.org/2010/12/03/open-source-health-information-business-ecosystems-in-resource-poor-environments). 
 Accessed 1 Sept. 2021.
 
 * Souppaya, M., and K. Scarfone. “Technical guide to information security testing 
@@ -260,12 +260,12 @@ Institute of Standards and Technology, 2008, [www.nist.gov/publications/technica
 Primero*, UNICEF Evaluation Office, November 2019, [www.unicef.org/evaluation/media/946/file/Primero.pdf](https://www.unicef.org/evaluation/media/946/file/Primero.pdf). 
 PDF file. Accessed 1 Sept. 2021. 
 
-* TODO Group. "Moving to Strategic Use of Open Source," *OSPO 101, Module 2, 
+* TODO Group. "Moving to Strategic Use of Open Source", *OSPO 101, Module 2, 
 Section: Introducing Open Source Business Models*, TODO Group, [github.com/todogroup/ospo101/blob/main/
 module2/README.md#climbing-the-open-source-ladder](https://github.com/todogroup/ospo101/blob/main/module2/README.md#climbing-the-open-source-ladder). Accessed 1 Sept. 2021. 
 
 * US Government Accountability Office. "Effective Practices and Federal Challenges 
-in Applying Agile Methods," *Report to the Subcommittee on Federal Financial 
+in Applying Agile Methods", *Report to the Subcommittee on Federal Financial 
 Management, Government Information, Federal Services, and International Security, 
 Committee on Homeland Security and Governmental Affairs United States Senate*, 
 United States Government Accountability Office, July 2012, [www.gao.gov/assets/600/593091.pdf](https://www.gao.gov/assets/600/593091.pdf).  

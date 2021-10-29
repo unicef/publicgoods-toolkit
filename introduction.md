@@ -103,7 +103,7 @@ volunteers, can ['scale horizontally' to new application areas, such as
 sending payments to teachers and
 schools](https://media.un.org/en/asset/k17/k17a9bg6o8).
 
-Open source provides an "off the shelf," low friction
+Open source provides an "off the shelf", low friction
 model for collaboration to create and manage digital goods.  These
 collaborations -- often around foundational, shared infrastructure --
 lower barriers to entry, encourage innovation in areas of more value,

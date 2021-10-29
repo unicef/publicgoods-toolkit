@@ -434,7 +434,7 @@ archetypes among the projects it encounters, its own projects will
 tend to fall into just a few categories.  Many government projects
 lean toward "Wide Open" dynamics, and that archetype is a good default
 starting point for consideration.  Less often one finds "Controlled
-Ecosystem," "Multi-Vendor Infrastructure," and "Trusted Vendor"
+Ecosystem", "Multi-Vendor Infrastructure", and "Trusted Vendor"
 archetypes.  All of these are candidates for projects led by or
 originating in government agencies, depending on strategic and policy
 needs.
@@ -728,7 +728,7 @@ work.
 
 The most frequent form of non-commercial DPG licenses are creative works
 publised under a Creative Commons license "NC" license.  The "NC"
-stands for "non-commercial."  Not all Creative Commons work is
+stands for "non-commercial".  Not all Creative Commons work is
 restricted to non-commercial use, so agencies should be sure to look
 at *which* Creative Commons license applies to materials they use.
 
@@ -736,7 +736,7 @@ In the case of open source software, all commonly used licenses allow
 commerical use, as noted in the [Introduction](introduction.md#introduction).  
 In fact,
 most community participants would classify software whose license
-disallows commercial use as "not open source."  The Open Source
+disallows commercial use as "not open source".  The Open Source
 Initiative (OSI) offers what many community participants agree is an
 authoritative definition of open source, which excludes
 software that discriminates against commercial use.  All commonly-used
@@ -748,7 +748,7 @@ At the same time, some open source community members are offering
 the [Hippocratic License](https://firstdonoharm.dev/).  These licenses restrict 
 the use of DPGs
 when their use might contravene various social values.  Regardless of
-whether or not we call these licenses "open source," people working on
+whether or not we call these licenses "open source", people working on
 DPGs in a government context might well come across DPGs that use
 these licenses.  This is a space to watch, and for now, the DPG standard does *not*
 include any of these ethical source license types. 

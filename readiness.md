@@ -148,7 +148,7 @@ and skill-building allows a team to maximize the value of those
 experimental investments.  It prioritizes reflective analysis and
 learning.  It gives permission to fail.  Those can be useful to teams
 seeking adaptability.  When considering McAffer's model, we might
-relabel his "tolerance" phase as "experimentation."
+relabel his "tolerance" phase as "experimentation".
 
 **KEY RECOMMENDATION**: Look for the places where your lack of open
 source investment are causing problems that can be addressed by

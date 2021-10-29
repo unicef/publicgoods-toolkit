@@ -129,7 +129,7 @@ these policy considerations flow from the legal structures within
 which DPG usage and production takes place.  Among these structures,
 three of the most important are copyrights, patents, and trademarks.
 Although these are sometimes lumped together under the term
-"intellectual property," it's usually helpful to think of them
+"intellectual property", it's usually helpful to think of them
 separately, as they serve very different purposes.  We will discuss
 these, along with commerical use, in separate sections below.  Each
 such section starts with a basic explanation of the concept.
@@ -189,19 +189,19 @@ for your plans, and it *might* matter if you have plans to nurture
 commerical implementations.
 
 We broadly describe Free and Open Source Software ("FOSS") licenses as
-existing on a continuum from "permissive" to "restrictive."  The most
+existing on a continuum from "permissive" to "restrictive".  The most
 permissive licenses have the fewest restrictions.  They allow the
 broadest range of activity under the broadest range of conditions.
 The more restrictive licenses are still quite permissive but they
 condition those permissions on compliance with certain requirements.
 Among the commonly used licenses, those requirements concern
-"copyleft," which is the requirement that when you distribute
+"copyleft", which is the requirement that when you distribute
 software, open source permissions attach to some or all of your
 improvements.  We usually distinguish between "weak" and "strong"
 copyleft as a way to categorize licenses by how strict their copyleft
 requirements are.
 
-These three categories -- "permissive," "weak copyleft," and "strong
+These three categories -- "permissive", "weak copyleft", and "strong
 copyleft" -- are well-recognized terms in the open source industry, and
 often the first step in considering a license is to classify it with
 one of those labels.  They are a common shorthand that often signal
@@ -708,7 +708,7 @@ most to lose from any failure.  This area is ripe for more
 coordination and collective investment.  The open source approach
 shines again here. Indeed, the DPG OpenMRS found that the
 communities forming around the project have ["taken on a movement of
-self-organization,"](https://openmrs.org/2010/12/03/open-source-health-information-business-ecosystems-in-resource-poor-environments/)
+self-organization"](https://openmrs.org/2010/12/03/open-source-health-information-business-ecosystems-in-resource-poor-environments/),
 sharing resources and tips in a self-reinforcing cycle of improvement.
 We foresee the development of more templates geared towards
 low-resource environments by DPG type (e.g.  healthcare versus
@@ -836,7 +836,7 @@ risk, but basically it's the potential for loss and the probability of
 this occurring (loss multiplied by probability).  (The ISO definition
 of risk, which the [UNDP also
 follows](https://info.undp.org/sites/ERM/Shared%20Documents/UNDP%20ERM%20Guide_Sept2019.pdf)
-is "the effect of uncertainty on objectives.")  There are also
+is "the effect of uncertainty on objectives".)  There are also
 sophisticated models out there for calculating risk.
 
 **RECOMMENDATION**: Define security related terminology and
@@ -899,7 +899,7 @@ as from the United States National Institute of Standards and
 Technology (NIST) (see [Appendix: Resources and
 Tools](appendix-resources-tools.md#appendix-resources-and-tools) ), as
 well as different models for calculating probability in risk.  They
-can be as simple as a rating system from "not likely" to "expected,"
+can be as simple as a rating system from "not likely" to "expected",
 as the UNDP's guidance note ["Managing Risks Across UNDP Programming
 and
 Operations"](https://info.undp.org/sites/ERM/Shared%20Documents/UNDP%20ERM%20Guide_Sept2019.pdf)
@@ -1002,7 +1002,7 @@ technical details are often fuzzy on the distinction between software
 and the data used by that software.  As a result, when they learn that
 there's a plan to use open source software to manage sensitive data,
 they may worry because they heard that open source means that anyone
-can "see the code," and therefore the data is exposed. This is not true.
+can "see the code", and therefore the data is exposed. This is not true.
 
 **KEY RECOMMENDATION**: Avoid misconceptions around open source
 and privacy by clarifying the distinction between the DPG itself and
@@ -1114,7 +1114,7 @@ There are well-tested, comprehensive design guides distilled from
 years of experience developing successful products that support the
 OECD's Privacy Principles and its various derivations in national laws
 and regulations.  The approach in these guides is described as
-"privacy by design."
+"privacy by design".
 
 The World Bank's Identification for Development initiative summarizes
 a privacy by design approach as one that:

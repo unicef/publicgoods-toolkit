@@ -98,11 +98,11 @@ product for adoption as a DPG (or as part of a new DPG to be created).
 
 
 Throughout this module we will sometimes use the word "product" and
-sometimes use the word "project."  They are closely related but
+sometimes use the word "project".  They are closely related but
 emphasize different things.  The "product" is what you deploy and may
 also pay for: a packaged DPG, often accompanied by a support contract
 or at least by the potential availability of on-demand commercial
-support should you ever need it.  The "project," on the other hand, is
+support should you ever need it.  The "project", on the other hand, is
 the living software community in which developers and organizations
 collaborate to produce the software that is the core of the product, along 
 with documentation, support, and more (depending on the project type; see 
@@ -119,7 +119,7 @@ security.  Even the largest companies and the most careful, thorough
 government agencies still get hacked from time to time.  Adding a new
 software system to your existing portfolio only increases risk -- to
 use the language of computer security, you've expanded your "attack
-surface."
+surface".
 
 However, at the point when you are still evaluating a product, there
 are some steps you can take to lower that risk.  For the most part,
@@ -128,7 +128,7 @@ that would be a highly demanding technical task, and most procurement
 evaluation efforts do not have the capacity to undertake it.  Instead,
 you look for certain external signs that indicate whether the project
 has its security house reasonably well in order.  For the most part,
-these are evaluations of "project" more than of "product," but we will note 
+these are evaluations of "project" more than of "product", but we will note 
 where
 that distinction is important.
 
@@ -494,7 +494,7 @@ intended to work with data at scale.
 ## Extensibility
 
 Software system extensibility can come under many different names:
-"plugins," "add-ons," "add-ins," and "extensions" or "extension
+"plugins", "add-ons", "add-ins", and "extensions" or "extension
 modules" are the most common, though sometimes "components" is
 (confusingly) used too.
 
