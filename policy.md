@@ -189,7 +189,7 @@ for your plans, and it *might* matter if you have plans to nurture
 commerical implementations.
 
 We broadly describe Free and Open Source Software ("FOSS") licenses as
-existing on a continuum from "permissive" to "restrictve."  The most
+existing on a continuum from "permissive" to "restrictive."  The most
 permissive licenses have the fewest restrictions.  They allow the
 broadest range of activity under the broadest range of conditions.
 The more restrictive licenses are still quite permissive but they
