@@ -1321,7 +1321,7 @@ SDG-supporting apps, I'd think) and there are regional frameworks and
 growing interest in int'l regulatory frameworks, esp around data and
 AI.  This is a whole paper in itself.  Not sure how to cover top
 points simply and esp how to keep this to operational focus. Maybe
-point out that this could be covered in a future addition?]
+point out that this could be covered in a future addition?)
 
 
 ## Aligning with Education and Innovation Policy
