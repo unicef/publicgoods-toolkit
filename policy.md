@@ -1497,8 +1497,7 @@ related policies under Digital India) that mandates agencies strive to
 use open source software in all e-governance systems in order to
 ["prepare India for a knowledge based transformation into a digitally
 empowered society and a knowledge
-economy."](https://www.meity.gov.in/writereaddata/files/policy_on_adoption_of_oss.pdf
-)
+economy."](https://www.meity.gov.in/writereaddata/files/policy_on_adoption_of_oss.pdf)
 
 
 **KEY RECOMMENDATION**: Government procurement is possibly the
