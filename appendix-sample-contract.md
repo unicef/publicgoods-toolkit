@@ -28,14 +28,19 @@ guidance as you strike your own contracts with vendors.  We include
 this template because of its more in-depth security requirements,
 which, again, may or may not be relevant to your situation.
 
-(TODO: Do we have better sample contract language on hand?  I've asked
-for permission to use the following, haven't heard back yet.  It's
+(TODO: Do we have better sample contract language on hand? I haven't come across 
+any.....Stephen Foxman, 
+author of the folloiwng, agreed to our use of the following under the CC-BY 4.0 license, 
+as long as we make it clear that this license extends only to the clauses that he drafted 
+or modified, and not to his personal identity or any identification or branding 
+utilized by his law firm. I can forward this email to UNICEF for safekeeping. 
+We'll have to include language to this point. It's
 also still US-centric (SSAE‐16/SOC‐1) although we can delete that if
 we get license.  I'm unsure how cyber-liability insurance works in
 audience countries, and I'm also unsure if the security requirements
 are too onerous for some low resource environments, and if so, what to
 say.  Source for the following text:
-https://www.eckertseamans.com/app/uploads/Steve-Foxman_Eckert-Seamans_DATA-PROTECTION-CLAUSES-101016-M1566466xA35AF.pdf)
+https://www.eckertseamans.com/app/uploads/Steve-Foxman_Eckert-Seamans_DATA-PROTECTION-CLAUSES-101016-M1566466xA35AF.pdf)]
 
 
 ***Disclaimer*** *: The following clauses are examples of actual data protection
@@ -52,21 +57,21 @@ https://www.eckertseamans.com/app/uploads/Steve-Foxman_Eckert-Seamans_DATA-PROTE
 **Short and Concise Data Protection Clause**:
 
 **Data Protection**. Licensor acknowledges that it may have access to certain of 
-Licensee’s computer and communications systems and networks for the purposes set 
+Licensee's computer and communications systems and networks for the purposes set 
 forth in this Agreement. If any data is made available or accessible to Licensor, 
-its employees, agents or contractors, pertaining to Licensee’s business or financial 
-affairs, or to Licensee’s projects, transactions, clients or customers, Licensor 
+its employees, agents or contractors, pertaining to Licensee's business or financial 
+affairs, or to Licensee's projects, transactions, clients or customers, Licensor 
 will not store, copy, analyze, monitor or otherwise use that data except for the 
 purposes set forth in the License Agreement for the benefit of Licensee. Licensor 
 will comply fully with all applicable laws, regulations, and government orders 
-relating to personally identifiable information (“PII”) and data privacy with 
+relating to personally identifiable information ("PII") and data privacy with 
 respect to any such data that Licensor receives or has access to under the License 
 Agreement or in connection with the performance of any services for Licensee. 
 Licensor will otherwise protect PII and will not use, disclose, or transfer across 
 borders such PII except as necessary to perform under the License Agreement or as 
 authorized by the data subject or in accordance with applicable law. To the extent 
 that Licensor receives PII related to the performance of the License Agreement, 
-Licensor will protect the privacy and legal rights of Licensee’s personnel, 
+Licensor will protect the privacy and legal rights of Licensee's personnel, 
 clients, customers and contractors.
 
 __________________________________________
@@ -77,8 +82,8 @@ __________________________________________
 Customer Data (as defined below) will remain the property of Customer. Licensor 
 has no intellectual property rights or other claim to Customer Data that is 
 hosted, stored, or transferred to and from the Products or the cloud services 
-platform provided by Licensor, or to Customer’s Confidential Information. Licensor 
-will cooperate with Customer to protect Customer’s intellectual property rights 
+platform provided by Licensor, or to Customer's Confidential Information. Licensor 
+will cooperate with Customer to protect Customer's intellectual property rights 
 and Customer Data. Licensor will promptly notify Customer if Licensor becomes 
 aware of any potential infringement of those rights in accordance with the 
 provisions of this Agreement.
@@ -89,13 +94,13 @@ provisions of this Agreement.
 
 All Customer Data that will be hosted by Licensor 
 under this Agreement will be hosted at data centers maintained and operated by 
-[insert name] located in [insert location address or addresses] (the “ Data 
-Centers” ). For purposes of this Agreement and the Exhibits attached hereto 
-“Customer Data” shall include any Customer Confidential Information, and any 
+[insert name] located in [insert location address or addresses] (the " Data 
+Centers" ). For purposes of this Agreement and the Exhibits attached hereto 
+"Customer Data" shall include any Customer Confidential Information, and any 
 personally identifiable information relating to any customers, end users or 
-employees of Customer, its suppliers or contractors (“ Personal Data”), to which 
+employees of Customer, its suppliers or contractors (" Personal Data"), to which 
 Licensor has or may have access in connection with the operation or administration 
-of Licensor’s platform, or in connection with the performance of Professional 
+of Licensor's platform, or in connection with the performance of Professional 
 Services by Licensor for Customer under this Agreement or any applicable 
 Statement(s) of Work. All Customer Data stored or at rest in the Data Centers, 
 or in transport, will be encrypted in transport and will not be transferred to 
@@ -109,9 +114,9 @@ archiving of Customer Data. Licensor will comply with the requirements of Exhibi
 Licensor will further implement reasonable security standards that it determines 
 are necessary, but in no event less than industry standards, to protect (i) the 
 physical security of the Data Centers used to maintain Customer Data; and (ii) 
-Licensor’s network, all operating systems and software applications, and all data 
+Licensor's network, all operating systems and software applications, and all data 
 storage systems and media provided by Licensor or its licensors or contractors, 
-or operated or provided by Customer that connect or interface with Licensor’s 
+or operated or provided by Customer that connect or interface with Licensor's 
 Products, Software or platform, from being subject to any Disabling Devices (as 
 defined in Exhibit __ (Data Security) attached to this Agreement).
 
@@ -119,18 +124,18 @@ defined in Exhibit __ (Data Security) attached to this Agreement).
 
 Licensor has represented to Customer that Licensor will not 
 be permitted to access Customer Data stored or contained in the Products or 
-Licensor’s platform, and Licensor will have no ability to manipulate, modify or 
+Licensor's platform, and Licensor will have no ability to manipulate, modify or 
 control such Customer Data. If any support services or Professional Services 
 provided by Licensor may involve Licensor or its personnel having or requiring 
 access to Customer servers, Customer applications, and/or Customer Data, Licensor 
 \shall comply with the provisions of this Section and Exhibit __ (Data Security) 
-attached hereto, and, at Customer’s request, Licensor shall enter into an appropriate 
+attached hereto, and, at Customer's request, Licensor shall enter into an appropriate 
 separate agreement with Customer to govern such access and protect any Customer 
 Data that may be subject to such access. To the extent Customer grants Licensor 
 access to Customer Data, or Licensor has access to or stores or holds any Customer 
 Data, Licensor agrees to:
 (i) access and use the Customer Data solely for the purpose of providing Customer 
-with access to the Products, Software and Licensor’s platform, and to provide 
+with access to the Products, Software and Licensor's platform, and to provide 
 Professional Services to Customer in accordance with the terms and conditions of 
 this Agreement and any applicable Statement(s) of Work;
 (ii) maintain physical, technical, and administrative safeguards (including but 
@@ -138,7 +143,7 @@ not limited to those set forth in this Section, Exhibit __ (Data Security)
 attached to this Agreement, and in any event no less than industry standards in 
 the cloud computing/online services industry) to protect the Customer Data against 
 unauthorized access, use, or disclosure while it is accessible to or held by Licensor 
-(“Data Safeguards”); and
+("Data Safeguards"); and
 (iii) not disclose the Customer Data to any third party, except: (x) to its 
 employees, consultants or contractors who need to have access to such information 
 and solely for purposes of providing Professional Services to Customer, provided 
@@ -160,12 +165,12 @@ compliance criteria and data security procedures (or any successor report of a
 similar nature that is generally accepted in the industry and utilized by Licensor), 
 applicable to Licensor.
 
-Licensor’s security procedures will materially conform to the description thereof 
+Licensor's security procedures will materially conform to the description thereof 
 set forth in this Agreement and in attached Exhibit __ (Data Security), and as 
-further described in Licensor’s most recently completed SOC 1/SSAE 16 audit report 
+further described in Licensor's most recently completed SOC 1/SSAE 16 audit report 
 (or any successor report of a similar nature that is generally accepted in the 
-industry and utilized by Licensor). Upon Customer’s request, Licensor will provide 
-Customer with a copy of the audit results set forth in Licensor’s SOC 1/SSAE 16 
+industry and utilized by Licensor). Upon Customer's request, Licensor will provide 
+Customer with a copy of the audit results set forth in Licensor's SOC 1/SSAE 16 
 audit report.
 
 4.0 Data Breach. 
@@ -178,8 +183,8 @@ unauthorized access to any Customer Data or Personal Data by any unauthorized pe
 or third party, or becomes aware of any other security breach relating to Personal 
 Data held or stored by Licensor under this Agreement or in connection with the 
 performance of the Professional Services or other services performed under this 
-Agreement or any Statement(s) of Work (“Data Breach”), Licensor shall immediately 
-notify Customer in writing and shall fully cooperate with Customer at Licensor’s 
+Agreement or any Statement(s) of Work ("Data Breach"), Licensor shall immediately 
+notify Customer in writing and shall fully cooperate with Customer at Licensor's 
 expense to prevent or stop such Data Breach. In the event of such Data Breach, 
 Licensor shall fully and immediately comply with applicable laws, and shall take 
 the appropriate steps to remedy such Data Breach. Licensor will defend, indemnify 
@@ -205,13 +210,13 @@ prior written consent of Customer.
 EXHIBIT __ Data Security
 
 Notwithstanding anything to the contrary contained in the Master Services and 
-License Agreement to which this Exhibit is attached (“Agreement” ), and all other 
+License Agreement to which this Exhibit is attached ("Agreement" ), and all other 
 Exhibits thereto, and in addition to and not in lieu of other provisions in the 
 Agreement and the Exhibits thereto, Licensor agrees as follows:
 
 1.0 General Security Procedures
 
-1.1 Without limiting Licensor’s obligation of confidentiality as further described 
+1.1 Without limiting Licensor's obligation of confidentiality as further described 
 in the Agreement and herein, Licensor will be responsible for establishing and 
 maintaining an information security program that is designed to: (i) ensure the 
 security and confidentiality of Customer Data; (ii) protect against any anticipated
@@ -223,7 +228,7 @@ security and confidentiality of Customer Data; (ii) protect against any anticipa
  security program. Such individual will respond to Customer inquiries regarding 
  computer security and to be responsible for notifying Customer‐designated 
  contact(s) if a breach or an incident occurs, as further described herein. The 
- information security program will be audited annually as detailed in Licensor’s 
+ information security program will be audited annually as detailed in Licensor's 
  SSAE 16 and/or SOC 1 audit reports, which will be made available to Customer upon request.
 
 1.2 Licensor must conduct formal security awareness training, with a testing 
@@ -234,16 +239,16 @@ Training must be retained by Licensor, confirming that this training and
 subsequent annual recertification process have been completed, and available for 
 review by Customer.
 
-1.3 Customer will have the right to review Licensor’s information security program 
-prior to the commencement of Customer’s entry of data into the Products or delivery 
+1.3 Customer will have the right to review Licensor's information security program 
+prior to the commencement of Customer's entry of data into the Products or delivery 
 to Customer of any Professional Services and from time to time during the Term 
 of this Agreement. During the Term of the Agreement, from time to time with 
 proper notice and Licensor approval, which will not be unreasonably withheld, 
 Customer, at its own expense, will be entitled to perform, or to have performed, 
-an on‐site audit of Licensor’s information security program and facilities. In 
+an on‐site audit of Licensor's information security program and facilities. In 
 lieu of an on‐site audit, upon request by Customer, Licensor will use reasonable 
 efforts to complete, within forty‐five (45 days) of receipt, an Information 
-Security Assessment questionnaire provided by Customer regarding Licensor’s 
+Security Assessment questionnaire provided by Customer regarding Licensor's 
 information security program.
 
 1.4 In the event of any actual or apparent theft, unauthorized use or disclosure 
@@ -270,28 +275,28 @@ or ownership rights in such Customer Data.
 2.0 Network and Communications Security
 
 2.1 All Licensor connectivity to Customer computing systems and all attempts at 
-same will be only through Customer’s security gateways/firewalls and only through 
+same will be only through Customer's security gateways/firewalls and only through 
 Customer‐approved security procedures.
 
 2.2 Licensor will not access, and will not permit unauthorized persons or entities 
-to access, Customer computing systems and/or networks without Customer’s express 
+to access, Customer computing systems and/or networks without Customer's express 
 written authorization, and any such actual or attempted access will be consistent 
 with any such authorization.
 
-2.3 Licensor will take appropriate measures to ensure that Licensor’s systems 
-connecting to Customer’s systems and anything provided to Customer through such 
+2.3 Licensor will take appropriate measures to ensure that Licensor's systems 
+connecting to Customer's systems and anything provided to Customer through such 
 systems do not contain any Disabling Device. For purposes of this Agreement, 
-“Disabling Device” means any programs, mechanisms, programming devices, malware 
+"Disabling Device" means any programs, mechanisms, programming devices, malware 
 or other computer code (i) designed to disrupt, disable, harm, or otherwise 
 impede in any manner the operation of any software program or code, or any 
-computer system or network (commonly referred to as “malware”, “spyware”, “viruses”
- or “worms”); (ii) that would disable or impair the operation thereof or of any 
+computer system or network (commonly referred to as "malware", "spyware", "viruses"
+ or "worms"); (ii) that would disable or impair the operation thereof or of any 
  software, computer system or network in any way based on the elapsing of a 
  period of time or the advancement to a particular date or other numeral (referred 
- to as “time bombs”, “time locks”, or “drop dead” devices); (iii) is designed to
+ to as "time bombs", "time locks", or "drop dead" devices); (iii) is designed to
   or could reasonably be used to permit a party or any third party to access any 
-  computer system or network (referred to as “trojans”, “traps”, “access codes” 
-  or “trap door” devices); or (iv) is designed to or could reasonably be used to
+  computer system or network (referred to as "trojans", "traps", "access codes" 
+  or "trap door" devices); or (iv) is designed to or could reasonably be used to
    permit a party or any third party to track, monitor or otherwise report the 
    operation and use of any software program or any computer system or network 
    by the other party or any of its customers.
@@ -315,13 +320,13 @@ encrypted.
 Licensor will provide Customer with an annual, third party Penetration Test report. 
 During the term of this Agreement, Licensor will engage, at its own expense and 
 at least one time per year, a third party vendor reasonably acceptable to 
-Customer to perform penetration and vulnerability testing (“Penetration Tests”) 
-with respect to Licensor’s systems. The objective of such Penetration Tests is 
-to identify design and/or functionality issues in infrastructure of Licensor’s 
+Customer to perform penetration and vulnerability testing ("Penetration Tests") 
+with respect to Licensor's systems. The objective of such Penetration Tests is 
+to identify design and/or functionality issues in infrastructure of Licensor's 
 systems that could expose Customer Data and its computer and network equipment 
 and systems to risks from malicious activities. Penetration Tests will probe for
  weaknesses in network perimeters or other infrastructure elements as well as 
- weaknesses in process or technical countermeasures relating to Licensor’s systems
+ weaknesses in process or technical countermeasures relating to Licensor's systems
   that could be exploited by a malicious party. Penetration Tests will identify, 
   at a minimum, the following security vulnerabilities: invalidated or unsanitized 
   input; broken access control; broken authentication and session management; 
@@ -349,7 +354,7 @@ who has not authorized a background investigation, or whose background
 investigation has revealed the conviction of a felony or misdemeanor within the 
 previous seven (7) years, measured back from the time such Licensor employee 
 commences services pursuant to the Agreement, to the extent such felony or 
-misdemeanor relates to the suitability of the individual’s employment, except to
+misdemeanor relates to the suitability of the individual's employment, except to
  the extent prohibited by applicable law. If Licensor contracts, for any services, 
  with a third party that needs to be allowed or requires access to Customer Data, 
  the third party will undergo the same Licensor background checks as performed on 
@@ -369,16 +374,16 @@ __________________________________________
 [Cloud Provider] agrees to notify Customer within two (2) business days in writing 
 of any discovery by [Cloud Provider] of any breach or suspected breach of the 
 provisions of this Agreement or any loss or unauthorized use, disclosure, acquisition 
-of or access to any Customer Confidential Information and/or Customer’s business 
+of or access to any Customer Confidential Information and/or Customer's business 
 systems of which [Cloud Provider] becomes aware (any such breach or suspected 
-breach being referred to herein as a “Data Breach” ). Such notice shall summarize 
+breach being referred to herein as a "Data Breach" ). Such notice shall summarize 
 in reasonable detail the effect on Customer, if known, of the Data Breach and the 
 corrective action taken or to be taken by [Cloud Provider]. [Cloud Provider] 
 shall promptly take all appropriate or legally required corrective actions, and 
 shall cooperate fully with Customer in all reasonable and lawful efforts to 
 prevent, mitigate or rectify such Data Breach. In addition to the notice requirement 
 contained herein, [Cloud Provider] will also immediately report any such Data 
-Breach to Customer’s Legal Department at [insert telephone number or address]
+Breach to Customer's Legal Department at [insert telephone number or address]
 ___________________________________________
 
 **Insurance Clause for Cyber‐liability Insurance**.
@@ -386,7 +391,7 @@ ___________________________________________
 [Service Provider] agrees to purchase and maintain throughout the term of this 
 Agreement a technology/professional liability insurance policy, including 
 coverage for network security/data protection liability insurance (also called 
-“cyber liability”) covering liabilities for financial 
+"cyber liability") covering liabilities for financial 
 loss resulting or arising from acts, errors, or omissions, in rendering 
 technology/professional services or in connection with the specific services 
 described in this Agreement:

@@ -36,7 +36,7 @@ shaped a certain way) will receive answers also in an agreed-on format
 
 From here, it gets a bit more complex than lamp plugs and wall sockets,
 because the socket API is very simple: all the lamp can ask is "Please
-send electricity," to which the socket replies by doing so.  With a
+send electricity", to which the socket replies by doing so.  With a
 more complicated API, like those found in most computer programs, the
 conversation can go further than that.  For example, if one program
 sends this:

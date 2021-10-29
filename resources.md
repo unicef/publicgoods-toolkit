@@ -28,7 +28,7 @@ The following is a list of resources gathered that may be referenced in the tool
   * [Resources Guide for using Open Source for security and privacy protection](https://security-and-privacy-reference-architecture.readthedocs.io/en/latest/10-using-oss.html)
   * [UNCTAD: Data protection and regulations and international data flows: Implications for Trade and Development](https://unctad.org/en/pages/PublicationWebflyer.aspx?publicationid=1482)
   * [Policy research and Data Privacy](https://privacyinternational.org/blog/1456/privacy-developing-world-global-research-agenda)
-  * [Don’t be afraid to code in the open: here’s how to do it securely](https://technology.blog.gov.uk/2017/09/27/dont-be-afraid-to-code-in-the-open-heres-how-to-do-it-securely/). Blog post announcing that the UK Digital Service has updated it's guidance about when to keep source code closed and generally an evolved outlook on security.
+  * [Don't be afraid to code in the open: here's how to do it securely](https://technology.blog.gov.uk/2017/09/27/dont-be-afraid-to-code-in-the-open-heres-how-to-do-it-securely/). Blog post announcing that the UK Digital Service has updated it's guidance about when to keep source code closed and generally an evolved outlook on security.
 
 ## Guidance and frameworks for governments on developing relevant internal capacity within in order to scale DPGs
 
@@ -48,7 +48,7 @@ The following is a list of resources gathered that may be referenced in the tool
 
 ## Recommendations for Structuring Procurement
 
-  * [Procurement Of Digital Technology](https://procurement-digitalimpactalliance.org/): A buyer’s category management guide and resources for the Procurement of Digital Technologies in furthering the Sustainable Development Goals.
+  * [Procurement Of Digital Technology](https://procurement-digitalimpactalliance.org/): A buyer's category management guide and resources for the Procurement of Digital Technologies in furthering the Sustainable Development Goals.
 
 ## Options for financing digital public goods
   * [A Case Study on Institutional Investments In Open Source](https://opendri.org/wp-content/uploads/2017/03/OpenDRI-and-GeoNode-a-Case-Study-on-Institutional-Investments-in-Open-Source.pdf), prepared for the World Bank.
@@ -61,9 +61,9 @@ Indicators and tools for governments to assess the maturity and readiness for a 
 
 ## Making DPGs Scalable
 
-  * Enhanced Youth Engagement: Anushah Hossain’s research on the participation of FOSS communities in Bangladesh which found that non-code contributions are critical in making software available to diverse, global populations. Her findings revealed that university students largely drove communities around technology projects and that participants are motivated to seek opportunities for “socialization, leadership, and technical skills-training, and reputation building.”
+  * Enhanced Youth Engagement: Anushah Hossain's research on the participation of FOSS communities in Bangladesh which found that non-code contributions are critical in making software available to diverse, global populations. Her findings revealed that university students largely drove communities around technology projects and that participants are motivated to seek opportunities for "socialization, leadership, and technical skills-training, and reputation building."
   * [Beyond Scale: How to Make Your Digital Development Program Sustainable](https://digitalimpactalliance.org/research/beyond-scale-how-to-make-your-digital-development-program-sustainable/), Digital Impact Alliance (2017).
-  * [Guidelines for Sustainable Open Source Communities in the Public Sector](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/guidelines-creating-sustainable-open-source-communities). DIGIT, European Commission (2020). Given the growing importance of open source software in public administrations, the European Commission’s Open Source Software Repository (OSOR) published dedicated Guidelines for Sustainable Open Source Communities in the Public Sector.
+  * [Guidelines for Sustainable Open Source Communities in the Public Sector](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/guidelines-creating-sustainable-open-source-communities). DIGIT, European Commission (2020). Given the growing importance of open source software in public administrations, the European Commission's Open Source Software Repository (OSOR) published dedicated Guidelines for Sustainable Open Source Communities in the Public Sector.
   * [Key success factors of sustainable Open Source Communities](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/guidelines-creating-sustainable-open-source-communities). DIGIT, European Commission (2020). The purpose of this study is to lay the foundation for the Guidelines (mentioned above) by analyzing what determines the sustainability of public sector open source communities. More specifically, the objective of this study is to identify the key success and failure factors behind the establishment of sustainable open source communities in the public sector as well as to select and analyze relevant case studies of such communities.
   * [5 Things Digital Public Good Software Projects Need to Scale](https://digitalimpactalliance.org/5-things-digital-public-good-software-projects-need-to-scale/), Digital Impact Alliance (2020).
   

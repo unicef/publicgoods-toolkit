@@ -1,7 +1,7 @@
 # Introduction
 
 This operations-focused toolkit provides pragmatic, experience and
-evidence based advice for implementing Digital Public Goods (DPGs) at
+evidence-based advice for implementing Digital Public Goods (DPGs) at
 the country level.  These best practices should be useful to any
 organization interested in creating a DPG -- including commercial
 companies -- but its main audiences are national government agencies
@@ -18,17 +18,17 @@ and value of open source communities and project lifecycles; national
 and agency level policies that relate to Free and Open Source Software
 (FOSS), including intellectual property and FOSS licenses, data
 privacy and security; how to plan for and build organizational
-readiness to capture the full value of your DPG; tips for improving
+readiness to capture the full value of your open source DPG; tips for improving
 procurement, including sample contract language; and how to analyze an
 existing FOSS product for adoptability.  Key recommendations are
 highlighted at the beginning of every section, with additional
 recommendations and examples in the text.  Suggestions for further
 reading can also be found in the text and complemented with
-a list of additional resources and tools in the .  The
+a list of additional resources and tools in the [Appendix: Resources and Tools](appendix-resources-tools.md#appendix-resources-and-tools).  The
 paper also includes a checklist of recommendations and brief overviews
 of select exemplary 'open' projects, including a few DPGs (see [Appendix: Examples](appendix-examples.md#appendix-examples)).
 
-Countries have different levels of knowledge and capabilities in open
+Government agencies have different levels of knowledge and capabilities in open
 technologies and open development models.  We believe this guide is
 written straightforwardly enough that it will be useful no matter
 where you might stand in such maturity.  If you feel that your
@@ -55,7 +55,7 @@ programs.  They use data in particular ways to detect patterns, like
 the DPG [AI Agro]( https://rentadrone.cl/developers/ai-agro), with its
 machine learning algorithms and computer vision program [source
 code](https://github.com/RentadroneCL/AI-Agro).  Open data is made
-useful by the software surrounding its creation and access (see the
+additionally useful by the software surrounding its creation and access (see the
 [Appendix: APIs](appendix-apis.md#introduction-to-apis-for-non-technical-readers)).  The
 same holds true for open standards, which, among other things,
 describe how software should function.  We note a few unique points to
@@ -65,17 +65,17 @@ deeper treatment in a future revision.
 
 Lastly, it's worth prefacing this operational toolkit with a brief
 summary of the benefits of an open approach.  You'll find numerous
-online research papers and case studies on the topic.  We list a few
+online research papers and case studies on the topic.  We also list a few
 in the
 [Appendix: Resources and Tools](appendix-resources-tools.md#resources-and-tools-benefits-of-open-source).
-Experience shows that the main benefits to governments are how open
+Experience shows that the main benefits to governments are in how open
 approaches drive re-use; easier, faster, and broader cooperation
 across organizational boundaries; and greater local control.  These
 benefits are interrelated and self-reinforcing, and a plethora of
 measureable positives follow on from them.
 
 Re-usability breaks vendor lock-in and brings efficiency gains, lowers
-costs (and thus provides greater accessibility to broader
+costs (and can thus provide greater accessibility to broader
 populations), and focuses resources on local customization and
 innovation rather than foundational work.  As an example, although the
 government of Sierra Leone created the [Open Data Sierra
@@ -89,47 +89,53 @@ distribution and adoption of innovations as well.  The Philippine
 government was able to [roll out its National Digital Vaccination
 Certificate program in three
 months](https://media.un.org/en/asset/k17/k17a9bg6o8) by re-using and
-adapting the Digital Infrastructure for Vaccination Open Credentialing (DIVOC) system
- from India.  The
+adapting the DPG Digital Infrastructure for Vaccination Open Credentialing (DIVOC) 
+system from India.  The
 Nigeria Centre for Disease Control (NCDC) deployed the DPG
 [SORMAS](https://sormas.org/), an open source mobile product for
 outbreak and epidemic surveillance, [to 30 districts in *14
 days*](https://wwwnc.cdc.gov/eid/article/26/2/19-1139_article) in
 response to an outbreak of monkeypox.  Re-usability of core digital
 infrastructure can also be across domains or sectors.  Sierra Leone is
-evaluting how their OpenG2P implementation, initially deployed during
+evaluting how their DPG OpenG2P, initially deployed during
 the COVID pandemic to get payments to frontline health workers and
-volunteers, can ['scale horizontally' to send payments to teachers and
+volunteers, can ['scale horizontally' to new application areas, such as 
+sending payments to teachers and
 schools](https://media.un.org/en/asset/k17/k17a9bg6o8).
 
-Open source and open data provide an "off the shelf," low friction
+Open source provides an "off the shelf", low friction
 model for collaboration to create and manage digital goods.  These
 collaborations -- often around foundational, shared infrastructure --
 lower barriers to entry, encourage innovation in areas of more value,
-and can bring in more diverse participation.  These collaborations can
+and can bring in more diverse participation.  They can
 scale quickly, too.  Such characteristics create a rich environment
 for developing *local* economies and talent, as evidenced by the new
 companies that grew to service [Nigeria's implementation of
-OpenMRS](https://openmrs.org/2010/12/03/open-source-health-information-business-ecosystems-in-resource-poor-environments/).
+OpenMRS](https://openmrs.org/2010/12/03/open-source-health-information-business-ecosystems-in-resource-poor-environments/), 
+an open source electronic medical record platform tuned to the needs of low-resource 
+environments.
 
-Lastly, the transparency and digital sovereignty of open source and
-open data -- how they enable locally controlled and developed
+Lastly, the transparency and digital sovereignty of open source (and
+open data) -- how they enable locally controlled and developed
 solutions as well as local accountability -- are necessary to
-[building greater trust in digital solutions for achieving the
-SDGs](https://digitalpublicgoods.net/blog/the-transformative-role-of-academia-digital-public-goods).
-Trust is often overlooked, perhaps because it's somewhat intangible
+[building greater trust in digital solutions to achieve the United Nation's Sustainable
+Development goals (SDGs)](https://digitalpublicgoods.net/blog/the-transformative-role-of-academia-digital-public-goods).
+The world faces a [deepening crisis around falling trust in public
+institutions](https://www.un.org/development/desa/dspd/2021/07/trust-public-institutions/)
+that threatens government agencies' abilities to fulfill the SDGs.  Although there 
+are exceptions to this generalization, the
+decades since the advent of the Internet's global network have
+[amplified existing social, cultural and economic
+inequalities](https://www.un.org/en/content/digital-cooperation-roadmap/assets/pdf/Roadmap_for_Digital_Cooperation_EN.pdf), 
+which further erodes public trust in institution.  Trust is often
+overlooked as a benefit of open source, perhaps because it's somewhat intangible
 and hard to measure.  Yet the organizations behind OpenMRS found that
 much of their success was based on the [shared ownership and
 transparency of their open source
 approach](https://openmrs.org/2010/12/03/open-source-health-information-business-ecosystems-in-resource-poor-environments).
-Although there are obvious exceptions to this generalization, the
-decades since the advent of the Internet's global network have
-[amplified existing social, cultural and economic
-inequalities](https://www.un.org/en/content/digital-cooperation-roadmap/assets/pdf/Roadmap_for_Digital_Cooperation_EN.pdf).
-The world faces a [deepening crisis in trust in public
-institutions](https://www.un.org/development/desa/dspd/2021/07/trust-public-institutions/)
-that threatens government agencies' abilities to fulfill the UN's
-Sustainable Development Goals (SDGs).  Of course, open source
+
+
+  Of course, open source
 development and access are insufficient in themselves to creating
 trust, and they have to be managed well to have their greatest effect,
 especially for vulnerable populations and sensitive applications.  But
@@ -182,12 +188,16 @@ major consumer electronics product has at least some open-source
 software inside it.  It is increasingly rare to find any electronic
 device of significant complexity that is wholly proprietary.
 
-As open-source software spreads through the technology world sector by
+As open source software spreads through the technology world sector by
 sector, it has inspired open movements in adjacent fields and even
-distant domains. In this set of modules, we will focus on open-source
-software and related "digital public goods" (DPGs). These are
+distant domains. A noted, in this set of modules, we will focus on open source
+software and related DPGs. These are
 digital products that are freely shared in ways that invite
-permissionless copying and collaboration.
+permissionless copying and collaboration and "that adhere to privacy and other 
+applicable laws and best practices, do no harm, and help attain the SDGs," per the 
+[UN Secretary General's 
+Roadmap for Digital Cooperation](https://www.un.org/en/content/digital-cooperation-roadmap/assets/pdf/Roadmap_for_Digital_Cooperation_EN.pdf). 
+
 
 The focus on DPGs necessarily excludes a variety of sectors that have
 also seen "open" progress.  Open hardware, open government, open
@@ -237,7 +247,8 @@ collaborative dynamics*.  If the openness of a DPG creates new
 opportunities and is susceptible to improvement in open ways, we say
 it "behaves" in an open way.  That behavior is where the public
 benefits are.  It is where an agency's policy goals are met.  That
-behavior doesn't come from a license alone.
+behavior doesn't come from a license alone; see our description of Open Source
+Quality Assurance practices in the [Procurement](procurement.md#open-source-quality-assurance) moduler.
 
 As you consider these modules and apply them to your work, keep in
 mind what DPGs are best at: sharing costs, multiplying benefits,

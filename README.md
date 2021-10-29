@@ -3,7 +3,7 @@
 [![CC BY-SA 4.0][cc-by-sa-shield]](LICENSE.md)
 
 
-The [UNICEF Office of Innovation](https://www.unicef.org/innovation/) will be working with a research consultancy firm to research and synthesize resources to produce an “Operational Toolkit” including detailed and evidence based recommendations for implementing [digital public goods](https://github.com/unicef/publicgoods-candidates) (DPGs) at the country level. 
+The [UNICEF Office of Innovation](https://www.unicef.org/innovation/) will be working with a research consultancy firm to research and synthesize resources to produce an "Operational Toolkit" including detailed and evidence based recommendations for implementing [digital public goods](https://github.com/unicef/publicgoods-candidates) (DPGs) at the country level. 
 
 The purpose of this toolkit is to provide country governments and UN-affiliated agencies with country and product specific best practices and frameworks for deploying DPGs, specifically on:  
 
@@ -30,7 +30,7 @@ The purpose of this toolkit is to provide country governments and UN-affiliated 
  
 ## Background: 
 
-This toolkit is the work of the [UNICEF Office of Innovation](https://www.unicef.org/innovation/) as a co-champion of the [Digital Public Goods Alliance](https://digitalpublicgoods.net). The Alliance was launched with the aim of accelerating attainment of the Sustainable Development Goals in low- and middle-income countries by facilitating the discovery, development, use of, and investment in digital public goods. The Alliance, supported by the UN Secretary’s Roadmap for Digital Cooperation, defines digital public goods as: “open source software, open data, open AI models, open standards and open content that adhere to privacy and other applicable best practices, do no harm and are of high relevance for attainment of the UN’s 2030 Sustainable Development Goals (SDGs).” 
+This toolkit is the work of the [UNICEF Office of Innovation](https://www.unicef.org/innovation/) as a co-champion of the [Digital Public Goods Alliance](https://digitalpublicgoods.net). The Alliance was launched with the aim of accelerating attainment of the Sustainable Development Goals in low- and middle-income countries by facilitating the discovery, development, use of, and investment in digital public goods. The Alliance, supported by the UN Secretary's Roadmap for Digital Cooperation, defines digital public goods as: "open source software, open data, open AI models, open standards and open content that adhere to privacy and other applicable best practices, do no harm and are of high relevance for attainment of the UN's 2030 Sustainable Development Goals (SDGs)." 
 
 
 ## About the Toolkit: 
@@ -43,12 +43,12 @@ This toolkit is the work of the [UNICEF Office of Innovation](https://www.unicef
         * Case Studies of Successful DPGs implemented in countries and why they were successful 
     * A toolkit of resources that guide in the operations of deploying DPGs including:
         * Guides and recommendations for creating a policy environment and structures needed for deploying and scaling open-source solutions, including cybersecurity,  data privacy and protection 
-        * Frameworks and Tools for evaluating the value and costs of digital public goods, including frameworks to estimate the value of a DPG such as “social return on investment”, frameworks to evaluate both the development and ongoing costs of a DPG 
+        * Frameworks and Tools for evaluating the value and costs of digital public goods, including frameworks to estimate the value of a DPG such as "social return on investment", frameworks to evaluate both the development and ongoing costs of a DPG 
         * Readiness for a digital public good to be adopted at the country-level 
         * Recommendations for structuring a procurement process that is suitable for open source solutions 
         * Options for financing digital public goods as well as the related pros and cons
         * Guidance and frameworks for governments on developing relevant internal capacity within in order to scale DPGs, including the need to maintain quality 
-        * A “government adoptability” tool for governments to assess the maturity and readiness for a digital public good to be adopted at the country-level 
+        * A "government adoptability" tool for governments to assess the maturity and readiness for a digital public good to be adopted at the country-level 
 
 3. It is action oriented and references theory and evidence for further review  
 

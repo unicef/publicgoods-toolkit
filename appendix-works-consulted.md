@@ -21,16 +21,16 @@ CivicDataLab, [state-of-foss.in/the-state-of-foss-report.pdf](https://state-of-f
 in an Age of Market Enclosure*, New America Foundation, 2001, [learcenter.org/pdf/PA_Report%5B1%5D.pdf](https://learcenter.org/pdf/PA_Report%5B1%5D.pdf). 
 Accessed 15 Sept. 2021.
 
-* Cargnelutti, Federico. “A Modular Approach to Web Development,” *Federico 
+* Cargnelutti, Federico. "A Modular Approach to Web Development," *Federico 
 Cargnelutti blog*, 28 June 2008, [blog.fedecarg.com/2008/06/28/a-modular-approach-to-web-development](https://blog.fedecarg.com/2008/06/28/a-modular-approach-to-web-development). 
 Accessed 1 Sept. 2021.
 
-* The Case for Her. “Meet Oky: Period tracking for girls, by girls,” *Medium.com 
+* The Case for Her. "Meet Oky: Period tracking for girls, by girls," *Medium.com 
 blog post*, 14 July 2020, [thecaseforher.medium.com/meet-oky-14207f86892](https://thecaseforher.medium.com/meet-oky-14207f86892). 
 Accessed 1 Sept. 2021. 
 
 * Center for Innovation and Impact. *Software global goods valuation framework: 
-User’s guide*, Washington, DC,
+User's guide*, Washington, DC,
 USA: United States Agency for International Development, 2019. [usaid.gov/sites/default/files/documents/1864/\
 Software_Global_Goods_Valuation_Framework_VFinal.pdf](https://usaid.gov/sites/default/files/documents/1864/Software_Global_Goods_Valuation_Framework_VFinal.pdf). 
 PDF file. Accessed 15 Sept. 2021.
@@ -54,7 +54,7 @@ Integrity*, Deloitte, 2017,
 [www2.deloitte.com/content/dam/Deloitte/us/Documents/risk/us-risk-global-cybersecurity-compliance-integrity.pdf](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/risk/us-risk-global-cybersecurity-compliance-integrity.pdf). 
 PDF file. Accessed 1 Sept.  2021.
 
-* Digital Impact Alliance. *Procurement of Digital Technology: A buyer’s category 
+* Digital Impact Alliance. *Procurement of Digital Technology: A buyer's category 
 management guide and resources for the Procurement of Digital Technologies in 
 furthering the Sustainable Development Goals*, [procurement-digitalimpactalliance.org](https://procurement-digitalimpactalliance.org). 
 Accessed 15 Sept. 2021.
@@ -69,7 +69,7 @@ Infrastructures Final Report*, Digital Public Goods Alliance, June 2021,
 PDF file.  Accessed 15 Sept. 2021.
 
 * Digital Public Goods Alliance. "The Transformative Role of Academia & Digital 
-Public Goods," *Digital Public Goods Alliance blog post*, 19 Aug. 2021,  [digitalpublicgoods.net/blog/the-transformative-role-of-academia-digital-public-goods](https://digitalpublicgoods.net/blog/the-transformative-role-of-academia-digital-public-goods). Accessed 1 Sept. 2021.
+Public Goods", *Digital Public Goods Alliance blog post*, 19 Aug. 2021,  [digitalpublicgoods.net/blog/the-transformative-role-of-academia-digital-public-goods](https://digitalpublicgoods.net/blog/the-transformative-role-of-academia-digital-public-goods). Accessed 1 Sept. 2021.
 
 * European Commission. *GDPR Data Controllers and Data Processors*, 
 [www.gdpreu.org/the-regulation/key-concepts/data-controllers-and-processors](https://www.gdpreu.org/the-regulation/key-concepts/data-controllers-and-processors). 
@@ -83,7 +83,7 @@ Accessed 1 Sept. 2021.
 Source Foundation, [www.finos.org/hubfs/FINOS/website/pages/community/\
 Open%20Source%20Readiness%20Roadmap%20-%203.10.2018.png](https://www.finos.org/hubfs/FINOS/website/pages/community/Open%20Source%20Readiness%20Roadmap%20-%203.10.2018.png).  Accessed 1 Sept. 2021. 
 
-* Fogel, Karl. "Dissecting The Myth That Open Source Software Is Not Commercial," 
+* Fogel, Karl. "Dissecting The Myth That Open Source Software Is Not Commercial", 
 *IEEE Software blog*, 10 April 2016, [blog.ieeesoftware.org/2016/04/dissecting-myth-that-open-source.html](https://blog.ieeesoftware.org/2016/04/dissecting-myth-that-open-source.html). 
 Accessed 1 Sept. 2021.
 
@@ -106,7 +106,7 @@ PDF file. Accessed 1 Sept. 2021.
 
 * *From Open Software to Open Society - Digital Public Goods for Inclusive 
 Digital & Social Transformation*. Recording uploaded by the United Nations 
-Development Programme and United Nations Children’s Development Fund, 
+Development Programme and United Nations Children's Development Fund, 
 29 Sep. 2021, [media.un.org/en/asset/k17/k17a9bg6o8](https://media.un.org/en/asset/k17/k17a9bg6o8). Accessed 30 Sept. 2021.
 
 * Gelaga-King, George, interview by James Vasile, *Interview With George Gelaga-King*, 
@@ -126,33 +126,33 @@ Initiative & GeoNode: A Case Study on Institutional Investments in Open Source*,
 World Bank International Bank for Reconstruction and Development, 2017, 
 [opendri.org/wp-content/uploads/2017/03/OpenDRI-and-GeoNode-a-Case-Study-on-Institutional-Investments-in-Open-Source.pdf](https://opendri.org/wp-content/uploads/2017/03/OpenDRI-and-GeoNode-a-Case-Study-on-Institutional-Investments-in-Open-Source.pdf). PDF file. Accessed 1 Sept. 2021.
 
-* Goggin, Gerard. “COVID-19 apps in Singapore and Australia: reimagining healthy 
-nations with digital technology,” *Media International Australia*, vol. 177,1 (2020): 
+* Goggin, Gerard. "COVID-19 apps in Singapore and Australia: reimagining healthy 
+nations with digital technology," *Media International Australia*, vol. 177,1 (2020): 
 61–75. doi:10.1177/1329878X20949770. Accessed 1 Sept. 2021.
 
-* Harris, Richard. “The Gates Foundation chats about Mojaloop,” *App Developer 
+* Harris, Richard. "The Gates Foundation chats about Mojaloop," *App Developer 
 Magazine*, 1 Nov. 2017, [appdevelopermagazine.com/the-gates-foundation-chats-about-mojaloop](https://appdevelopermagazine.com/the-gates-foundation-chats-about-mojaloop). 
 Accessed 15 Sept. 2021.
 
 *  India Ministry of Communication & Information Technology Department of 
-Electronics & Information Technology. “Policy on Adoption of Open Source Software 
-for Government of India,” F. No. 1(3)/2014 – EG II, [www.meity.gov.in/writereaddata/files/policy_on_adoption_of_oss.pdf](https://www.meity.gov.in/writereaddata/files/policy_on_adoption_of_oss.pdf). 
+Electronics & Information Technology. "Policy on Adoption of Open Source Software 
+for Government of India," F. No. 1(3)/2014 – EG II, [www.meity.gov.in/writereaddata/files/policy_on_adoption_of_oss.pdf](https://www.meity.gov.in/writereaddata/files/policy_on_adoption_of_oss.pdf). 
 PDF file. Accessed 1 Sept. 2021. 
 
-* IT Governance. “GDPR Data Mapping: What is it and how to comply,” *IT Governance*,
+* IT Governance. "GDPR Data Mapping: What is it and how to comply," *IT Governance*,
 [www.itgovernance.co.uk/gdpr-data-mapping](https://www.itgovernance.co.uk/gdpr-data-mapping). Accessed 1 Sept. 2021. 
 
 * ITU. *Guide to Developing a National Cybersecurity Strategy - Strategic 
 engagement in cybersecurity*, ITU, 2018, [handle.itu.int/11.1002/pub/811cf62d-en](https://handle.itu.int/11.1002/pub/811cf62d-en). 
 Accessed 1 Sept. 2021.
 
-* Jansen, Slinger. “Measuring the Health of Open Source Software Ecosystems: 
-Beyond the Scope of Project Health,” *Information and Software Technology*, 
+* Jansen, Slinger. "Measuring the Health of Open Source Software Ecosystems: 
+Beyond the Scope of Project Health," *Information and Software Technology*, 
 Vol. 56, Nov. 1, 2014, [www.researchgate.net/publication/261715766_Measuring_the_Health_of_Open_Source_Software_\
 Ecosystems_Beyond_the_Scope_of_Project_Health](https://www.researchgate.net/publication/261715766_Measuring_the_Health_of_Open_Source_Software_Ecosystems_Beyond_the_Scope_of_Project_Health). 
 Accessed 1 Sept. 2021.
 
-* Joswiak, Naomi. *Open Government Case Study: Costing Sierra Leone’s Open Data 
+* Joswiak, Naomi. *Open Government Case Study: Costing Sierra Leone's Open Data 
 Program*,
 Results for Development, August 2017,
 [www.r4d.org/wp-content/uploads/R4D_OG-SierraLeone-CS_web.pdf](https://www.r4d.org/wp-content/uploads/R4D_OG-SierraLeone-CS_web.pdf). PDF file. 
@@ -161,7 +161,7 @@ Accessed Sept. 1, 2021.
 * Linksvayer, Mike. *A Maturity Model for Embracing Open Source*, GitHub, 
 [github.com/github/maturity-model](https://github.com/github/maturity-model). Accessed 1 Sept. 2021. 
 
-* McAffer, Jeff. “Open Source Engagement in Organizations,” *Jeff McAffer personal blog*,
+* McAffer, Jeff. "Open Source Engagement in Organizations," *Jeff McAffer personal blog*,
 7 Feb. 2019, [mcaffer.com/2019/02/Open-source-engagement](https://mcaffer.com/2019/02/Open-source-engagement).  Accessed 1 Sept. 2021. 
 
 * MEASURE Evaluation. *Implementation of the Uganda EMR: Results of a Security 
@@ -173,7 +173,7 @@ Accessed 15 Sept. 2021.
 [github.com/unicef/publicgoods-toolkit/blob/867886be05bb5093054012161e2d59c1912c7c51/interviews/kari-moe.md](https://github.com/unicef/publicgoods-toolkit/blob/867886be05bb5093054012161e2d59c1912c7c51/interviews/kari-moe.md). 
 Accessed 30 Sept. 2021.
 
-* Muciojad. “Documenting Technology Impact: Mifos ROI Model and Case Studies,” 
+* Muciojad. "Documenting Technology Impact: Mifos ROI Model and Case Studies," 
 *Mifos blog*, 8 July 2011, [mifos.org/blog/documenting-technology-impact-mifos-roi-model-case-studies](https://mifos.org/blog/documenting-technology-impact-mifos-roi-model-case-studies). 
 Accessed 1 Sept. 2021. 
 
@@ -185,7 +185,7 @@ Accessed 15 Sept. 2021.
 of Privacy and Transborder Flows of Personal Data*, OECD, 2013, [www.oecd.org/sti/ieconomy/2013-oecd-privacy-guidelines.pdf](https://www.oecd.org/sti/ieconomy/2013-oecd-privacy-guidelines.pdf). 
 PDF file. Accessed 1 Sept. 2021.
 
-* OECD. "Understanding the digital security of products: An in-depth analysis,” 
+* OECD. "Understanding the digital security of products: An in-depth analysis," 
 *OECD Digital Economy Papers*, No. 305, OECD, 2021,
 [www.oecd-ilibrary.org/docserver/abea0b69-en.pdf?expires=1634616440&id=id&accname=guest\
 &checksum=952B457A4563BDB21EB39D0DB3D5E961](https://www.oecd-ilibrary.org/docserver/abea0b69-en.pdf?expires=1634616440&id=id&accname=guest&checksum=952B457A4563BDB21EB39D0DB3D5E961). Accessed 15 Sept. 2021.
@@ -193,7 +193,7 @@ PDF file. Accessed 1 Sept. 2021.
 * *OMM Overview*. Qualipso International, [qualipso.icmc.usp.br/OMM](http://qualipso.icmc.usp.br/OMM). 
 Accessed 1 Sept. 2021. 
 
-* “OpenSource Maturity Model.” Wikipedia, Wikimedia Foundation, 2 March 2021, 
+* "OpenSource Maturity Model." Wikipedia, Wikimedia Foundation, 2 March 2021, 
 [en.wikipedia.org/wiki/OpenSource_Maturity_Model](https://en.wikipedia.org/wiki/OpenSource_Maturity_Model). Accessed 1 Sept. 2021. 
 
 * Perry, Jonathan. *Trust in Public Institutions: Trends and Implications for 
@@ -206,12 +206,12 @@ and Model Contractual Clauses on Cross Border Data Flows*,
 [www.pdpc.gov.sg/help-and-resources/2021/01/asean-data-management-framework-and-model-contractual-clauses-on-cross-border-data-flows](https://www.pdpc.gov.sg/help-and-resources/2021/01/asean-data-management-framework-and-model-contractual-clauses-on-cross-border-data-flows). 
 Accessed 1 Sept.  2021.
 
-* “Principles of Engagement: Modular Open Source Identity Platform,” *MOSIP docs*, 
+* "Principles of Engagement: Modular Open Source Identity Platform," *MOSIP docs*, 
 April 2019, [www.mosip.io/uploads/resources/\
 5cc84b0a08284Country%20Engagement%20Principles_v2.pdf](https://www.mosip.io/uploads/resources/5cc84b0a08284Country%20Engagement%20Principles_v2.pdf). PDF file. 
 Accessed 1 Sept. 2021.
 
-* “Privacy and Security by Design,” *MOSIP docs*, [www.mosip.io/uploads/resources/\
+* "Privacy and Security by Design," *MOSIP docs*, [www.mosip.io/uploads/resources/\
 5c97366200053Architectural%20Principle%20-%20Privacy%20and%20Security.pdf](https://www.mosip.io/uploads/resources/5c97366200053Architectural%20Principle%20-%20Privacy%20and%20Security.pdf). PDF file. 
 Accessed 1 Sept. 2021.
 
@@ -219,9 +219,9 @@ Accessed 1 Sept. 2021.
 OECD, 2016, [www.oecd.org/cfe/leed/SIBs-State-Play-Lessons-Final.pdf](https://www.oecd.org/cfe/leed/SIBs-State-Play-Lessons-Final.pdf). PDF 
 file. Accessed 1 Sept. 2021.
 
-* Rengaiah, Param. “On Modular Architectures: What they are and why you should care,” Medium.com blog post, 24 Feb. 2014, [medium.com/on-software-architecture/on-modular-architectures-53ec61f88ff4](https://medium.com/on-software-architecture/on-modular-architectures-53ec61f88ff4). Accessed 1 Sept. 2021.
+* Rengaiah, Param. "On Modular Architectures: What they are and why you should care," Medium.com blog post, 24 Feb. 2014, [medium.com/on-software-architecture/on-modular-architectures-53ec61f88ff4](https://medium.com/on-software-architecture/on-modular-architectures-53ec61f88ff4). Accessed 1 Sept. 2021.
 
-* Rodríguez, Rodrigo Gramajo. “DHIS2 to PowerBI connector is ready!” *DHIS2 
+* Rodríguez, Rodrigo Gramajo. "DHIS2 to PowerBI connector is ready!" *DHIS2 
 community posting*, Sept. 2019, [community.dhis2.org/t/dhis2-to-powerbi-connector-is-ready-check-out-the-video-test-it-use-it-and-give-us-feedback/37043](https://community.dhis2.org/t/dhis2-to-powerbi-connector-is-ready-check-out-the-video-test-it-use-it-and-give-us-feedback/37043). 
 Accessed 1 Sept. 2021. 
 
@@ -243,41 +243,41 @@ Carnegie Mellon University Software Engineering Institute, July 2018,
 WhitePaper/2018_019_001_524597.pdf](https://resources.sei.cmu.edu/asset_files/WhitePaper/2018_019_001_524597.pdf). 
  PDF file. Accessed 15 Sept. 2021.
 
-* Silenou Bernard C, et al, “Use of Surveillance Outbreak Response Management and 
-Analysis System for Human Monkeypox Outbreak, Nigeria, 2017–2019,” *Emerging 
+* Silenou Bernard C, et al, "Use of Surveillance Outbreak Response Management and 
+Analysis System for Human Monkeypox Outbreak, Nigeria, 2017–2019," *Emerging 
 Infectious Disease*, 2020;26(2):345-349. doi:10.3201/eid2602.191139. 
 
 * Smith, Dawn. "Open Source Health Information Business Ecosystems in Resource-Poor 
-Environments," *OpenMRS blog*, 3 Dec 2010, [openmrs.org/2010/12/03/open-source-health-information-business-ecosystems-in-resource-poor-environments](https://openmrs.org/2010/12/03/open-source-health-information-business-ecosystems-in-resource-poor-environments). 
+Environments", *OpenMRS blog*, 3 Dec 2010, [openmrs.org/2010/12/03/open-source-health-information-business-ecosystems-in-resource-poor-environments](https://openmrs.org/2010/12/03/open-source-health-information-business-ecosystems-in-resource-poor-environments). 
 Accessed 1 Sept. 2021.
 
-* Souppaya, M., and K. Scarfone. “Technical guide to information security testing 
+* Souppaya, M., and K. Scarfone. "Technical guide to information security testing 
 and assessment: Recommendations of the National Institute of Standards and 
-Technology,” *NIST Special Publication 800-115*, Gaithersburg, MD, USA: National 
+Technology," *NIST Special Publication 800-115*, Gaithersburg, MD, USA: National 
 Institute of Standards and Technology, 2008, [www.nist.gov/publications/technical-guide-information-security-testing-and-assessment](https://www.nist.gov/publications/technical-guide-information-security-testing-and-assessment). Accessed 1 Sept. 2021.
 
 * Thomas, Edward, et al. *Evaluation of Innovation in UNICEF Work Case Study: 
 Primero*, UNICEF Evaluation Office, November 2019, [www.unicef.org/evaluation/media/946/file/Primero.pdf](https://www.unicef.org/evaluation/media/946/file/Primero.pdf). 
 PDF file. Accessed 1 Sept. 2021. 
 
-* TODO Group. "Moving to Strategic Use of Open Source," *OSPO 101, Module 2, 
+* TODO Group. "Moving to Strategic Use of Open Source", *OSPO 101, Module 2, 
 Section: Introducing Open Source Business Models*, TODO Group, [github.com/todogroup/ospo101/blob/main/
 module2/README.md#climbing-the-open-source-ladder](https://github.com/todogroup/ospo101/blob/main/module2/README.md#climbing-the-open-source-ladder). Accessed 1 Sept. 2021. 
 
 * US Government Accountability Office. "Effective Practices and Federal Challenges 
-in Applying Agile Methods," *Report to the Subcommittee on Federal Financial 
+in Applying Agile Methods", *Report to the Subcommittee on Federal Financial 
 Management, Government Information, Federal Services, and International Security, 
 Committee on Homeland Security and Governmental Affairs United States Senate*, 
 United States Government Accountability Office, July 2012, [www.gao.gov/assets/600/593091.pdf](https://www.gao.gov/assets/600/593091.pdf).  
 PDF file. Accessed 1 Sept. 2021.
 
-* UK Information Commissioner’s Office. Guide to the General Data Protection Regulation (GDPR), 2 Aug. 2018, [ico.org.uk/media/for-organisations/guide-to-the-general-data-protection-regulation-gdpr-1-0.pdf](https://ico.org.uk/media/for-organisations/guide-to-the-general-data-protection-regulation-gdpr-1-0.pdf). PDF file. Accessed 1 Sept. 2021.
+* UK Information Commissioner's Office. Guide to the General Data Protection Regulation (GDPR), 2 Aug. 2018, [ico.org.uk/media/for-organisations/guide-to-the-general-data-protection-regulation-gdpr-1-0.pdf](https://ico.org.uk/media/for-organisations/guide-to-the-general-data-protection-regulation-gdpr-1-0.pdf). PDF file. Accessed 1 Sept. 2021.
 
-* UK Information Commissioner’s Office. *A Guide to ICO Audits*, June 2021, 
+* UK Information Commissioner's Office. *A Guide to ICO Audits*, June 2021, 
 [ico.org.uk/media/for-organisations/documents/2787/guide-to-data-protection-audits.pdf](https://ico.org.uk/media/for-organisations/documents/2787/guide-to-data-protection-audits.pdf). 
 DF file. Accessed 1 Sept. 2021.
 
-* UK Information Commissioner’s Office, *Data Protection Impact Assessments*. [ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-impact-assessments](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-impact-assessments)/. Accessed Sept. 1, 2021.
+* UK Information Commissioner's Office, *Data Protection Impact Assessments*. [ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-impact-assessments](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-impact-assessments)/. Accessed Sept. 1, 2021.
 
 * UK National Cybersecurity Centre. *Mitigating malware and ransomware attacks*, 
 UK National Cybersecurity Centre, 13 Feb. 2020, [www.ncsc.gov.uk/pdfs/guidance/mitigating-malware-and-ransomware-attacks.pdf](https://www.ncsc.gov.uk/pdfs/guidance/mitigating-malware-and-ransomware-attacks.pdf). PDF file. Accessed 1 Sept., 2021. 
@@ -294,18 +294,18 @@ PDF file. Accessed 1 Sept. 2021.
 June 2020, [www.un.org/en/content/digital-cooperation-roadmap/assets/pdf/\
 Roadmap_for_Digital_Cooperation_EN.pdf](https://www.un.org/en/content/digital-cooperation-roadmap/assets/pdf/Roadmap_for_Digital_Cooperation_EN.pdf). PDF file. Accessed 1 Sept. 2021. 
 
-* Vasile, James and Karl Fogel. “Ecosystem Mapping,” *Open Tech Strategies blog*, 
+* Vasile, James and Karl Fogel. "Ecosystem Mapping," *Open Tech Strategies blog*, 
 24 June 2019,
 [blog.opentechstrategies.com/2019/06/ecosystem-mapping](https://blog.opentechstrategies.com/2019/06/ecosystem-mapping). Accessed Sept. 1, 2021.
 
-* Vassil, Kristjan. “Estonian e-Government Ecosystem: Foundation, Applications, 
-Outcomes,” *Background Paper, World Development Report 2016: Digital Dividends*, 
+* Vassil, Kristjan. "Estonian e-Government Ecosystem: Foundation, Applications, 
+Outcomes," *Background Paper, World Development Report 2016: Digital Dividends*, 
 International Bank for Reconstruction and Development, The World Bank, June 2015, 
 [thedocs.worldbank.org/en/doc/165711456838073531-0050022016/original/\
 WDR16BPEstonianeGovecosystemVassil.pdf](https://thedocs.worldbank.org/en/doc/165711456838073531-0050022016/original/WDR16BPEstonianeGovecosystemVassil.pdf). 
 PDF file. Accessed 1 Sept. 2021. 
 
-* Walli, Stephen R. “What Does an Adult Look Like in an Open Source Community?” 
+* Walli, Stephen R. "What Does an Adult Look Like in an Open Source Community?" 
 *Opensource.com*, 20 April 2015, [opensource.com/life/15/4/what-does-an-adult-look-like-in-an-open-source-community](https://opensource.com/life/15/4/what-does-an-adult-look-like-in-an-open-source-community). 
 Accessed 1 Sept. 2021. 
 

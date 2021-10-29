@@ -22,7 +22,7 @@ the vibrant commercial community that grew around the project. In
 time, these contributors became so active and financially committed to
 the project's continued development that [GFDDR was able to scale back
 its
-investment](https://opendri.org/wp-content/uploads/2017/03/OpenDRI-and-GeoNode-a-Case-Study-on-Institutional-Investments-in-Open-Source.pdf).
+investment](https://opendri.org/wp-content/uploads/2017/03/OpenDRI-and-GeoNode-a-Case-Study-on-Institutional-Investments-in-Open-Source.pdf). This dynamic outcome is hard to capture in most models. 
 
 Open source is all about execution.  Reaping the benefits of open
 source investment requires completing a series of difficult steps
@@ -30,6 +30,7 @@ ranging from designing an initial strategy to building an appropriate
 community to leveraging the resulting dynamics for strategic
 advantage, whether that be scaling to broad adoption quickly or
 orchestrating participants to focus on areas of needed innovation.  
+
 This module presents a somewhat abstract but experientially
 based view of organizational readiness, including models to consider
 referencing, and practical advice for how to move your team along the
@@ -41,13 +42,14 @@ path and reap those rewards at scale.  They lag in their ability to
 execute, largely because they don't have enough experience,
 particularly as compared to private industry.  But governments can
 learn quickly from what's been tried and tested by others as they've
-built their organizational capacity to use open source development to
+built organizational capacity to use open source to
 its full potential.
 
 As an agency starts to climb the learning curve, it can be helpful to
 assess current abilities as a form of organizational readiness and to
-describe the journey to mastery as one of gaining capability.  To do
-that, we might locate current capabilities in a readiness model.
+describe the journey to mastery as one of gaining capability.  Practitioners often 
+describe this as climbing the "readiness ladder".  To do
+this, we might locate current capabilities in a readiness model.
 These clarify where an agency is in its journey to mastery and suggest
 next steps and likely results.  Often, teams use these models to
 identify areas for potential growth as well as potential pitfalls.
@@ -66,7 +68,7 @@ point the broader the organizational view matters.  When and under
 what conditions this occurs is very case dependent.
 
 There are several readiness models that go by various names.
-Practitioners often describe climbing the "readiness ladder".  We
+  We
 share a number of them here because it is often worth considering more
 than one when examining an organization or a particular team.
 
@@ -97,15 +99,15 @@ the big picture, rather than focusing exclusively on the details.
 **RECOMMENDATION**: Engage the team in a frank discussion about
 your open source readiness and locate the team and the organization on
 McAffer's engagement model.  What might this level mean for
-opportunities for growth, what might it mean for potential problems?
+opportunities for growth, and what might it mean for potential problems?
 Identify three key steps the people in that discussion can take to
-improve execuation capabilities at the team level and keep checking in
+improve execution capabilities at the team level and keep checking in
 as the team develops.
 
 On many teams, initial open source capabilities might be nascent.
-Most team members have not had significant (or perhaps even any)
+Team members might not have had significant (or perhaps even any)
 experience using open source strategies to create value.  The team
-works in an environment where FOSS investment is rare, and many do not
+likely works in an environment where FOSS investment is rare, and many do not
 see much reason to change that.  That lack of knowledge might
 translate in some quarters into hostility toward FOSS.  People will
 say "It can never work here" even as open source slowly seeps into
@@ -213,18 +215,18 @@ high in the organization tend to level off at this level of readiness.
 **RECOMMENDATION**: If you've been tracking your team's growth in
 execution capabilities and bringing others along on your learning
 journey, you should have a good *shared* understanding of what skills,
-processes and policies you need to execute successfully, along with
-proof points of the value such investments will bring.  (Remember that
-these skills can come from external vendors and the need to build
-local talent, as mentioned throughout this paper).  This will help you
+processes, and policies you need to execute successfully, along with
+proof points of the value such investments will bring.  This will help you
 present a strong recommendation to your organization's leadership and
 help you move from the Hype to Proficient stage in McAffer's readiness
-model.
+model. (Remember that
+these skills can come from external vendors as well as your internal team. Both 
+approaches help you build a deeper talent pool).  
 
 Another consideration for agencies climbing the readiness ladder is
 that the need for skilled open source practitioners will almost always
 exceed the supply.  The demand for open source skills is growing so
-fast, the world does not have enough experienced open source
+fast. The world does not have enough experienced open source
 strategists and developers to keep up.  A number of companies and
 universities have decided to address this problem by centralizing much
 of their open source expertise in an Open Source Programs Office
@@ -252,7 +254,7 @@ code inventories and open source repositories.
 
 
 
-**RECOMMENDATION** At the organizational level, Open Source
+**RECOMMENDATION**: At the organizational level, Open Source
 Program Offices can help teams work more effectively and efficiently
 in open source.  As you move up the readiness ladder, consider if such
 a centralized operational function would help the organization to
@@ -264,7 +266,7 @@ understanding of this value - and having that understanding more
 broadly shared across an organization and its supporters - is both a
 prerequisite to and a marker of moving along these readiness
 models. Moreover, organizational decision makers and funders will want
-to know the cost/benefit ratio or the return on their investment and
+to know the cost/benefit ratio or the return on their open source investment and
 might also want to compare the approach to alternatives.
 
 Ultimately, the value of your DPG will depend upon how well you've met
@@ -276,83 +278,26 @@ setting -- and the certainty of your measurements should improve with
 time.
 
 There are tools out there that can help you make some cost and benefit
-determinations, but none capture the full value of an open approach --
+determinations, but none capture the full value of an open source approach --
 especially specific to your context -- and it's likely that you'll
-need to modify some combination of these tools to your needs. Start
-from a holistic view of your project and map out potential benefits
-and related costs, being realistic about what you can actually measure
-and prioritizing what will have the most cost and/or the most benefit
-per the goals of your project. Not everything is relevant. See the
-Grameen Foundation's ROI analysis framework below for a good example
-of a thoughtfully bounded approach that's specific to their audience.
-
-The Digital Impact Alliance publishes a great overview of five
-different ways of valuing the impact of ICT investments, [A Valuing
-Impact Toolkit for ICT
-Investment](https://digitalimpactalliance.org/wp-content/uploads/2020/10/ICT4D-toolkit.pdf),
-that includes guidance on which might be most fitting, depending on
-factors such as available resources, skills and data -- important
-considerations for any organization but perhaps particularly for those
-in low-resource environments.
-
-To get much deeper into the cost assessment side of software, USAID
-has published the [Software Global Goods Valuation
-Framework](https://www.usaid.gov/cii/software-global-goods-valuation-framework)
-(with an accompanying spreadsheet) to assess cumulative development
-costs through an analysis of both retrospective and ongoing costs.
-Although aimed at digital health products, it fits other application
-areas as well.  Perhaps most interesting to this model is its
-inclusion of a method for analyzing the cost of code, called the
-Constructive Cost Model (COCOMO 81).
-
-For an example of how the World Bank measured the fiscal (not social)
-impact of Estonia's X-road project (a post facto measure), see
-[Estonian e-Government Ecosystem: Foundation, Applications,
-Outcomes](https://thedocs.worldbank.org/en/doc/165711456838073531-0050022016/original/WDR16BPEstonianeGovecosystemVassil.pdf),
-which extrapolates a narrow view of fiscal value from the number of
-queries made to the system.
-
-The Grameen Foundation published an [in-depth financial ROI
-framework](https://mifos.org/blog/documenting-technology-impact-mifos-roi-model-case-studies/)
-to help microfinance institutions (MFIs) forecast and analyze the
-benefits of adopting [Mifos](https://mifos.org/), the open source
-platform for microfinance. It highlights that the decision to adopt
-and deploy Mifos cannot be based only on the ROI analysis, noting the
-importance of understanding non-financial intangibles, like creating a
-better foundation for future innovation. The framework doesn't include
-these intangible, which can have different prioritization and value
-across implementations.
-
-Despite that limitation -- and the fact that the framework is unique
-to Mifos and MFIs and thus isn't an exact model for other projects to
-follow -- it's a well reasoned approach to a broader view of benefits
-(categorized as increased revenues and decreased costs specific to how
-MFIs function) and costs (categorized as project expenses, like data
-migration and staff time) that's worth reviewing. For those looking to
-create a DPG with the goal of broad adoption across different locales
-with slightly different contexts, it's worth studying how the Grameen
-Foundation created this tool to help MFIs more effectively adopt their
-DPG.
-
-Again, none of the above models quantify and incorporate the value of
-the intangible benefits of open source very well, although their costs
-are generally captured.
+need to modify some combination of these tools to your needs. 
 
 The World Bank's [Open Data for Resilience Initiative & GeoNode:A Case
 Study in Institutional Investments in Open
 Source](https://opendri.org/wp-content/uploads/2017/03/OpenDRI-and-GeoNode-a-Case-Study-on-Institutional-Investments-in-Open-Source.pdf
-) tries to bring in some intangibles in cost and valuation in a
-slightly more effective way.  Although it's hard to distill the
+) does a good job measuring key open source related intangibles.  Although it's 
+hard to distill the
 approach taken in the paper into a formal framework, it can be
 described as paying attention to areas of adjacent value.  This
 approach aligns pretty naturally with thinking of an open source
-project as part of an ecosystem, which will likely be the case for
+project as part of an ecosystem -- or a set of ecosystems, from contribution
+through adoption -- which will likely be the case for
 most DPGs that aim for broad social impact.
 
 Looking only at the cost of writing code themselves versus the value
-received from sharing costs with partners, it's estimated that the
+received from sharing costs with partners, it's conservatively estimated that the
 GeoNode project brought around a 200% return on investment (as of
-2017).  But the real value of open source development to the World
+2017).  But the *real* value of open source development to the World
 Bank's Global Facility for Disaster Reduction and Recovery (GFDRR),
 the leading organization behind GeoNode, was the self-sustaining open
 source GeoNode community that emerged and the benefits that community
@@ -365,6 +310,65 @@ in GeoNode.  A growing user base made it easier to identify and
 prioritize areas for improvement.  These are several of many aspects
 of GeoNode's community and ecosystem that prove there's greater value
 in open source than what's captured in existing valuation frameworks.
+
+However you ultimately decide to approach valuing your DPG, start from a 
+holistic view of your project and map out the potential benefits
+and related costs of open source, being realistic about what you can actually measure
+and prioritizing what will have the most cost and/or the most benefit
+per the goals of your project. Not everything is relevant. 
+
+Some valuation frameworks and tools we recommend reviewing and adapting include: 
+
+* The Digital Impact Alliance publishes a great overview of five
+different ways of valuing the impact of ICT investments, [A Valuing
+Impact Toolkit for ICT
+Investment](https://digitalimpactalliance.org/wp-content/uploads/2020/10/ICT4D-toolkit.pdf),
+that includes guidance on which might be most fitting, depending on
+factors such as available resources, skills and data -- important
+considerations for any organization but perhaps particularly for those
+in low-resource environments.
+
+* To get much deeper into the cost assessment side of software, USAID
+has published the [Software Global Goods Valuation
+Framework](https://www.usaid.gov/cii/software-global-goods-valuation-framework)
+(with an accompanying spreadsheet) to assess cumulative development
+costs through an analysis of both retrospective and ongoing costs.
+Although aimed at digital health products, it fits other application
+areas as well.  Perhaps most interesting to this model is its
+inclusion of a method for analyzing the cost of code, called the
+Constructive Cost Model (COCOMO 81).
+
+* For an example of how the World Bank measured the direct fiscal (not social)
+impact of Estonia's X-road project (a post facto measure), see
+[Estonian e-Government Ecosystem: Foundation, Applications,
+Outcomes](https://thedocs.worldbank.org/en/doc/165711456838073531-0050022016/original/WDR16BPEstonianeGovecosystemVassil.pdf),
+which extrapolates a narrow view of fiscal value from the number of
+queries made to the system.
+
+* The Grameen Foundation published an [in-depth financial ROI
+framework](https://mifos.org/blog/documenting-technology-impact-mifos-roi-model-case-studies/)
+to help microfinance institutions (MFIs) forecast and analyze the
+benefits of adopting the DPG [Mifos](https://mifos.org/), the open source
+platform for microfinance. It highlights that the decision to adopt
+and deploy Mifos cannot be based only on the ROI analysis, noting the
+importance of understanding non-financial intangibles, like creating a
+better foundation for future innovation. The framework doesn't include
+these intangibles, which can have different prioritization and value
+across implementations. Despite that limitation -- and the fact that the framework is unique
+to Mifos and MFIs and thus isn't an exact model for other projects to
+follow -- it's a well reasoned approach to a broader view of benefits
+(categorized as increased revenues and decreased costs specific to how
+MFIs function) and costs (categorized as project expenses, like data
+migration and staff time) that's worth reviewing. It's a thoughtfully bounded 
+approach that's specific to their context and audience.  For those looking to
+create a DPG with the goal of broad adoption across different locales
+with slightly different contexts, it's also worth studying how the Grameen
+Foundation created this tool to help MFIs more effectively adopt their
+DPG. 
+
+Again, none of the above models quantify and incorporate the value of
+the intangible benefits of open source very well, although their costs
+are generally captured.
 
 
 **KEY RECOMMENDATION**: Cost/benefit analyses and valuation frameworks

@@ -99,6 +99,14 @@ source health, following a rather academic framework, and applies an
 abbreviated version across its main communities.  The network analysis
 visualizations are particularly powerful.
 
+We also recommend a review of the [Open Source Ecosystem Health Operationalization
+(OSEHO)
+framework](https://www.researchgate.net/publication/261715766_Measuring_the_Health_of_Open_Source_Software_Ecosystems_Beyond_the_Scope_of_Project_Health). 
+Talking through the paper's understanding of broader project ecosystems -- noting 
+that project health does not necessarily equate with ecosystem health - can be 
+particularly useful to teams looking to build an open source product whose 
+success in adoption and contribution depends on a broader ecosystem.
+
 **Creating your own open source community**
 
 There's a rich set of online materials about how to create and nurture
@@ -254,7 +262,7 @@ OECD's recent report, [Understanding the digital security of products:
 An in-depth
 analysis](https://www.oecd-ilibrary.org/science-and-technology/understanding-the-digital-security-of-products_abea0b69-en),
 provides a timely overview of the "dynamics that shape the digital
-security of products in various markets," especially the dynamics
+security of products in various markets", especially the dynamics
 across the value chain behind digital products.  It also outlines
 suggested responses for policy makers, some of which make sense at an
 agency level.  It's an excellent paper and recommended reading.
@@ -357,7 +365,7 @@ stay proprietary because of security concerns?
 The UK government has publicly wrangled with these issues and come up
 with useful guidance.  It's notable that their stance on how much code
 to develop through an open source model has changed from "most" to
-"all, with very limited exceptions."  In short, their experience
+"all, with very limited exceptions".  In short, their experience
 taught them that open sourcing code was actually a great way to
 confirm and enhance security, perhaps even particularly for code
 related to managing security.  When following and enforcing [strong
