@@ -303,7 +303,7 @@ It now [covers 19 infectious diseases](https://sormas.org/faq).
 Original deployments were in Ghana and Nigera; Switzerland, France,
 Germany and Fiji implemented SORMAS during the pandemic; and
 [Afghanistan, Nepal, Burkina Faso and Côte
-d’Ivoire](https://sormas.org/faq) are preparing for deployments.
+d'Ivoire](https://sormas.org/faq) are preparing for deployments.
 SORMAS [interoperates with District Health Information Software 2
 (DHIS2) and aligns with other popular digital platforms in the region,
 such as the electronic IDSR system and Epi

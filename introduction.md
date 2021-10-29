@@ -193,9 +193,9 @@ sector, it has inspired open movements in adjacent fields and even
 distant domains. A noted, in this set of modules, we will focus on open source
 software and related DPGs. These are
 digital products that are freely shared in ways that invite
-permissionless copying and collaboration and “that adhere to privacy and other 
-applicable laws and best practices, do no harm, and help attain the SDGs,” per the 
-[UN Secretary General’s 
+permissionless copying and collaboration and "that adhere to privacy and other 
+applicable laws and best practices, do no harm, and help attain the SDGs," per the 
+[UN Secretary General's 
 Roadmap for Digital Cooperation](https://www.un.org/en/content/digital-cooperation-roadmap/assets/pdf/Roadmap_for_Digital_Cooperation_EN.pdf). 
 
 
