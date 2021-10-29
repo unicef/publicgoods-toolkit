@@ -153,8 +153,8 @@ contracting](https://18f.gsa.gov/tags/modular-contracting/)" in which
 large projects are procured via a set of small contracts, each to the
 vendor most suited for a particular task.  This is a good starting
 point for state and local technology procurement as well (18F also
-addresses [non-federal modular contracting](
-https://18f.gsa.gov/2016/11/15/modular-procurement-state-local-government>)).
+addresses [non-federal modular
+contracting](https://18f.gsa.gov/2016/11/15/modular-procurement-state-local-government>)).
 
 This [modular approach to contracts has several
 benefits](https://github.com/18F/Modular-Contracting-And-Agile-Development/blob/master/_strategies/modular-procurement.md),
