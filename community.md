@@ -186,7 +186,7 @@ multi-vendor infrastructure project, you'd want to invest in good API
 documentation early on.
 
 A complete discussion of each archetype is available in Mozilla's
-[report]((https://opentechstrategies.com/archetypes).  Below are just their names and brief descriptions, from which
+[report](https://opentechstrategies.com/archetypes).  Below are just their names and brief descriptions, from which
 one might draw some ideas of pattern each one represents.  (A [quick-reference
 chart](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2-quick-ref.pdf)
 is also available).

@@ -310,7 +310,7 @@ for some historical reason.
 
 The above licenses are all [DPG Standard](https://digitalpublicgoods.net/standard/), 
 which references Open Source Initiative(OSI) approved licenses. OSI provides more in-depth
-[overviews of their approved licenses]((https://opensource.org/licenses)), along with a useful
+[overviews of their approved licenses](https://opensource.org/licenses), along with a useful
 [FAQ](https://opensource.org/faq).
 
 **RECOMMENDATION**: Remember that the processes, culture, and
