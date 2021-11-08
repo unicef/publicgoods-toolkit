@@ -1,11 +1,12 @@
 # Community And Ecosystem
 
-**KEY RECOMMENDATION**: Communities and ecosystems around open source
+**KEY RECOMMENDATION**: Note how an open source community generally follows a 
+'project archetype.' Communities and ecosystems around open source
 projects are not all the same. Project archetypes describe these
 differences and can help you understand a project's dynamics, health,
 and sustainability. This is useful when assessing an open source
 project for adoption or in creating your own open source
-project. These insights can help you set expections and plan
+project, as these insights can help you set expections and plan
 investments.
 
 EXAMPLE: The City of Paris' [Lutece](https://lutece.paris.fr/lutece/),
@@ -20,10 +21,9 @@ several specific extensions wouldn't worry if the vendor hasn't
 contributed to the main platform but would look for contribution to
 several existing extensions as a sign of experience and competence.
 
-**KEY RECOMMENDATION** Diversity among participants making the most
-resource investments in an open source project indicates stability,
-resilience, and growth potential for most project archetypes. Look for
-diversity in areas like employers of contributors or of vendors
+**KEY RECOMMENDATION** Look for diverse resource-committing participants, which 
+indicate stability, resilience, and growth potential for most project archetypes. 
+Pay attention to diversity in areas like employers of contributors or of vendors
 providing support services, such as customization, deployment
 assistance, maintenance and operations, and training.
 
@@ -39,8 +39,8 @@ to say. Not sure if an example comes to someone else's mind? Mifos web
 site also says they have a marketplace/app store but I couldn't find a
 link or other reference online...)
 
-**KEY RECOMMENDATION**: Encouraging commercial participation can be
-useful to a DPG's adoption and sustainability, but take care to foster
+**KEY RECOMMENDATION**: Encourage commercial participation to improve a DPG's 
+adoption and sustainability, but take care to foster
 diverse commercial actors and be wary of creating commerical
 opportunities that could permit unfair advantage.
 
@@ -53,9 +53,10 @@ and business development events](https://mojaloop.io/category/events/)
 to connect these commerical participants to new business
 opportunities.
 
-**KEY RECOMMENDATION**: Financial sustainability can look different across a project's
-stages. The types and sources of available funding options might change as a project
-progresses.
+**KEY RECOMMENDATION**: Consider how you might approach financial
+sustainability differently across your DPG's project
+stages. The sources and types of funding options might change as a project
+progresses. 
 
 EXAMPLE: Your agency might be able to cover seed funding, as was the
 case with the World Bank's Global Facility for Disaster Reduction and
@@ -458,7 +459,7 @@ grows and adapts to its niche, its
 strategy and planning can and should move to a uniquely detailed view
 of its needs.  
 
-**KEY RECOMMENDATION**: Communities and ecosystems around open source
+**KEY RECOMMENDATION**: Note how communities and ecosystems around open-source
 projects are not all the same. Their differences matter in setting
 correct expectations around likely project dynamics, health, and
 sustainability. 
@@ -528,12 +529,11 @@ invested in a diversified set of partners, in part by using modular
 contracting (see also [Procurement](procurement.md#procurement)), ultimately creating a successfully
 self-sustaining open source project.
 
-**KEY RECOMMENDATION** Diversity among those making the most resource
-investments in an open source project indicates stability, resilience
-and growth potential for most project archetypes. Look for diversity
-in areas like employers of contributors or of vendors providing
-support services, such as customization, deployment assistance,
-maintenance and operations, and training.
+**KEY RECOMMENDATION** Look for diverse resource-committing participants, which 
+indicate stability, resilience, and growth potential for most project archetypes. 
+Pay attention to diversity in areas like employers of contributors or of vendors
+providing support services, such as customization, deployment
+assistance, maintenance and operations, and training.
  
 ## Community Health
 
@@ -848,6 +848,7 @@ useful to a DPG's adoption and sustainability, but take care to foster
 diverse commercial actors and be wary of creating commerical
 opportunities that could permit unfair advantage.
 
+
 ## Community Lifecycle, Longevity, and Sustainability
 
 All DPGs have a lifecycle.  That lifecycle may not be knowable in
@@ -1104,7 +1105,7 @@ digital skills and build the local workforce.
  
 **KEY RECOMMENDATION**: Consider how you might approach financial
 sustainability differently across your DPG's project
-stages. Monolithic funding isn't necessarily the answer. The types and
-sources of available funding options might change as a project
-progresses. This is true for projects with relatively low funding
-needs as well.
+stages. The sources and types of funding options might change as a project
+progresses. 
+
+

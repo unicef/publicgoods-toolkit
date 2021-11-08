@@ -7,10 +7,10 @@ simplified it in order to match the relatively simple top-level names
 of the other modules, but he is open to feedback on that decision!)
 
 
-**KEY RECOMMENDATION**: Modular contracting can help to better connect
+**KEY RECOMMENDATION**: Structure contracts as modular in order to better connect
 the right vendor to the right task, break vendor lock-in, and reduce
-risks associated with any one vendor. It works best with an agile
-development model and modular technical design and Open Source Quality Assurance
+risks associated with any one vendor. Modular contracting works best with an agile
+development model, a modular technical design, and Open Source Quality Assurance
 (OSQA) practices.
 
 EXAMPLE: California's modular contracting approach in overhauling some
@@ -19,24 +19,26 @@ multiple vendors to [dramatically reduce their delivery timeline from
 years to
 months](https://18f.gsa.gov/2016/11/15/modular-procurement-state-local-government/).
 
-**KEY RECOMMENDATION**: It is more important to attract bids from
-vendors who are experienced at open source development than to attract
-vendors who are experienced at government contracting. Conduct
+**KEY RECOMMENDATION**: Attract bids from
+vendors who are experienced at open-source development rather than
+vendors who are only experienced at government contracting. Conduct
 FOSS-specific outreach early in the RFP lifecycle and ensure
-solicitations are promoted in media specifically aimed at open source
+solicitations are promoted in media specifically aimed at open-source
 developers, not just at government software vendors.
 
-**KEY RECOMMENDATION**: No matter what happens with intellectual
-property rights at the contracting stage, you must have the ability to
-deploy, (re)distribute, and modify the software under a suitable open
-source license (see the [DPG
-standard](https://digitalpublicgoods.net/standard/)). Contracts should
+**KEY RECOMMENDATION**: Ensure you have the ability to
+deploy, (re)distribute, and modify the software under a suitable open-source, [DPG
+standard](https://digitalpublicgoods.net/standard/) license.  Contracts should
 prevent any vendor from encumbering further development and
 distribution on either trademark or patent grounds and expressly
 forbid satisfying any deliverable with software that includes any
 'forever proprietary' component. Lastly, you should require acceptance
-of code into the open source repository as part of the definition of
+of code into the open-source repository as part of the definition of
 contractual delivery in software milestones.
+
+**KEY RECOMMENDATION**: Integrate OSQA practices into procurement, vendor 
+management, and your own
+planning to ensure you gain the full benefits of open source. 
 
 This module describes a few procurement tips, such as modular
 contracting and open source quality assurance practices, like OSQA practices, 
@@ -255,10 +257,10 @@ Finally, we note that modular contracting aligns perfectly with the
 [Open Contracting Data Standard
 DPG](https://standard.open-contracting.org/latest/en/).
 
-**KEY RECOMMENDATION**: Modular contracting can help to better connect
+**KEY RECOMMENDATION**: Structure contracts as modular in order to better connect
 the right vendor to the right task, break vendor lock-in, and reduce
-risks associated with any one vendor. It works best with an agile
-development model and modular technical design.
+risks associated with any one vendor. Modular contracting works best with an agile
+development model and a modular technical design.
 
 One aspect of modular contracting that is sometimes overlooked is that
 it can be costly to conduct many smaller rounds of procurement.  Even
@@ -338,9 +340,9 @@ government is to succeed at open source, it needs to expand the pool
 of RFP respondents. This might mean dropping the requirement for a vendor to
 have experience and references around past government projects.
 
-**KEY RECOMMENDATION**: It is more important to attract bids from
-vendors who are experienced at open source development than to attract
-vendors who are experienced at government contracting.
+**KEY RECOMMENDATION**: Attract bids from
+vendors who are experienced at open-source development rather than 
+vendors who are only experienced at government contracting.
 
 There are several strategies procurement agencies use in this regard:
 
@@ -357,7 +359,7 @@ ethics and procurement rules.)
 
 **KEY RECOMMENDATION**: Conduct FOSS-specific outreach early in the
 RFP lifecycle and ensure solicitations are promoted in media
-specifically aimed at open source developers, not just at government
+specifically aimed at open-source developers, not just at government
 software vendors (in alignment with your agency's ethics and
 procurement rules).
 
@@ -456,11 +458,11 @@ key point.
 
 **KEY RECOMMENDATION**: No matter what happens with intellectual
 property rights at the contracting stage, you must have the ability to
-deploy, (re)distribute, and modify the software under a suitable open
-source license (see the [DPG standard](https://digitalpublicgoods.net/standard/)
+deploy, (re)distribute, and modify the software under a suitable open-source 
+license (see the [DPG standard](https://digitalpublicgoods.net/standard/)
 requirements around licensing).
 
-For third-party open source software, this means that an agency must
+For third-party open-source software, this means that an agency must
 receive that software, clearly labeled, in a manner compliant with
 their original open source license and under terms that are compatible
 with the intended license of the final product.  For code written by
@@ -577,15 +579,17 @@ procuring agency, the final product will struggle as it experiences
 all the complexity of modular contracting without the benefits.
 
 
-**KEY RECOMMENDATION**: Integrating Open Source Quality Assurance
-(OSQA) practices into procurement, vendor management and your own
-planning helps ensure vendors follow through on the open source
-development *process* as well as the product. Bringing up OSQA
+**KEY RECOMMENDATION**: Integrate OSQA practices into procurement, vendor 
+management, and your own
+planning to ensure vendors follow through on the open source
+development *process* as well as the product -- and that you gain the full 
+benefits of open source. Bringing up OSQA
 requirements early in vendor engagement signals your seriousness about
 open source success and puts vendors on notice, which is particularly
-helpful when relying on vendors that don't have much open source
+helpful when relying on vendors that don't have much open-source
 experience. For a fuller description of what OSQA entails, please see
-a sample statement of work that includes OSQA in the  [Appendix: Sample Contract Language](appendix-sample-contract.md#open-source-quality-assurance).
+a sample statement of work that includes OSQA in the 
+[Appendix: Sample Contract Language](appendix-sample-contract.md#open-source-quality-assurance).
 
 There are a variety of OSQA techniques one can introduce.  OSQA "sits
 on the tree" and enforces standards at the pull request stage.  This
@@ -639,7 +643,7 @@ deliverables.  That is, it allows an agency to enforce open source
 process compliance as a condition of being paid on time.
 
 **RECOMMENDATION**: You should require acceptance of code into the
-open source repository as part of the definition of contractual
+open-source repository as part of the definition of contractual
 delivery in software milestones.
 
 At every stage, the software should be ready for open source
@@ -675,7 +679,7 @@ processes as the project continues to develop.
 For most projects, we recommend adding OSQA capability earlier in the
 process and combining that role with other project management duties. In some 
 instances, this could fit well with a community manager role. This is what the 
-Bill and Melinda Gates Foundation funded for the DPG Mojaloop to ensure that code
+Bill and Melinda Gates Foundation [funded for the DPG Mojaloop to ensure that code
 contribution runs smoothly and prioritizes
 development of open-loop, pro-poor digital financial systems](https://appdevelopermagazine.com/the-gates-foundation-chats-about-mojaloop).
 Putting an OSQA role at the coordination center of a project helps to
