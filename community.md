@@ -963,17 +963,25 @@ in multiple vendors
 to develop GeoNode, an open source geospatial content management system.  As 
 adoption of GeoNode grew, many of these
 companies found new clients for their GeoNode expertise, which gave
-them additional incentive to continue contributing to GeoNode and
+them an additional incentive to continue contributing to GeoNode and
 invest in its success (and this infusion of input from an expanded
 user base made the product better).  Depending on local
 circumstances and regulation, agencies themselves might even be able
-to offer paid services around a DPG.
+to offer paid services around a DPG. 
+
+With GeoNode, GFDDR was able to stand up the
+early investment but scale back its commitment once GeoNode's broader 
+comerical and non-commercial ecosystem gained strength.  With the product's 
+foundation set, GFDDR instead made incremental investments to resource 
+features and new development it specifically needed. Open source's ability to 
+support such incremental commitments can also be attractive to external funders. 
+
  
 However, fostering commercial engagement doesn't exclude other
 options. GeoNode also worked with universities, NGOs, and
 intergovernmental organizations. It's notable how the engagement of
 just one PhD student helped distribute GeoNode knowledge and expertise
-as he moved jobs between different agencies and organizations.
+as he moved jobs between different agencies and organizations. 
  
 [Long-term collaborations
 between government ministries and academic institutions](https://github.com/unicef/publicgoods-toolkit/blob/867886be05bb5093054012161e2d59c1912c7c51/interviews/kari-moe.md) are a possible
