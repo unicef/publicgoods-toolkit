@@ -1,32 +1,37 @@
 # Introduction
 
-This operations-focused toolkit provides pragmatic, experience and
+This operations-focused toolkit provides pragmatic, experience- and
 evidence-based advice for implementing Digital Public Goods (DPGs) at
 the country level.  These best practices should be useful to any
 organization interested in creating a DPG -- including commercial
-companies -- but its main audiences are national government agencies
-and UN-affiliated agencies.  The toolkit was created through the
-support of the [UNICEF Office of
-Innovation](https://www.unicef.org/innovation/), as a co-champion of
-the [Digital Public Goods Alliance](https://digitalpublicgoods.net/).
+companies -- but its main audiences are decision-makers, project team leaders, 
+and project team members in national government agencies and UN-affiliated agencies.  
+It is a living document meant to be updated through public input as more 
+agencies build implementation experience with DPGs. You can
+participate in its continued development and suggest changes at
+https://github.com/unicef/publicgoods-toolkit.    
 
 The toolkit takes a topic-focused approach, presenting practical
 recommendations around guidelines, tools, and frameworks that will
-help you create a successful DPG.  It can be read as a whole or per
-individual module and topic.  Topics include: understanding the types
+help you create a successful DPG.  It does not cover software engineering 
+best practices or tips on specififc technology choices, but rather focuses on 
+higher level 
+topics like: understanding the types
 and value of open source communities and project lifecycles; national
 and agency level policies that relate to Free and Open Source Software
 (FOSS), including intellectual property and FOSS licenses, data
 privacy and security; how to plan for and build organizational
 readiness to capture the full value of your open source DPG; tips for improving
 procurement, including sample contract language; and how to analyze an
-existing FOSS product for adoptability.  Key recommendations are
+existing FOSS product for adoptability.  The toolkit can be read as a whole or by
+individual module and topic. Key recommendations are
 highlighted at the beginning of every section, with additional
 recommendations and examples in the text.  Suggestions for further
 reading can also be found in the text and complemented with
 a list of additional resources and tools in the [Appendix: Resources and Tools](appendix-resources-tools.md#appendix-resources-and-tools).  The
-paper also includes a checklist of recommendations and brief overviews
-of select exemplary 'open' projects, including a few DPGs (see [Appendix: Examples](appendix-examples.md#appendix-examples)).
+paper also includes overviews
+of select exemplary 'open' projects, including a few DPGs (see [Appendix: Examples](appendix-examples.md#appendix-examples)), 
+and suggests areas for future work.
 
 Government agencies have different levels of knowledge and capabilities in open
 technologies and open development models.  We believe this guide is
@@ -63,7 +68,7 @@ be made about any differences between these DPG components in the
 paper.  However, the complexities around open data and AI models merit
 deeper treatment in a future revision.
 
-Lastly, it's worth prefacing this operational toolkit with a brief
+It's worth prefacing this operational toolkit with a brief
 summary of the benefits of an open approach.  You'll find numerous
 online research papers and case studies on the topic.  We also list a few
 in the
@@ -264,8 +269,18 @@ trademarks for DPGs, while the
 few practical recommendations for managing licensing and usage
 concerns in working with vendors.
 
+# Future Development and License
+
+The toolkit was created through the
+support of the [UNICEF Office of
+Innovation](https://www.unicef.org/innovation/), as a co-champion of
+the [Digital Public Goods Alliance](https://digitalpublicgoods.net/), and is 
+open to continued development from the public.  Contribute your suggestions and 
+changes at
+https://github.com/unicef/publicgoods-toolkit.
+
 This paper is licensed under the [Creative Commons
 Attribution-ShareAlike 4.0 International (CC BY-SA
-4.0)](https://creativecommons.org/licenses/by-sa/4.0/).  You can
-participate in its continued development and request changes at
-https://github.com/unicef/publicgoods-toolkit.
+4.0)](https://creativecommons.org/licenses/by-sa/4.0/).  
+
+

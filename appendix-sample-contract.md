@@ -28,6 +28,13 @@ guidance as you strike your own contracts with vendors.  We include
 this template because of its more in-depth security requirements,
 which, again, may or may not be relevant to your situation.
 
+While this sample contract language is provided under the Creative Commons
+Attribution-ShareAlike 4.0 International (CC BY-SA
+4.0)](https://creativecommons.org/licenses/by-sa/4.0/), this license extends only 
+to the content below and not to the personal identity of the author or to any 
+identification or branding utilized by the author's law firm, Eckert Seamans.
+
+
 (TODO: Do we have better sample contract language on hand? I haven't come across 
 any.....Stephen Foxman, 
 author of the folloiwng, agreed to our use of the following under the CC-BY 4.0 license, 
