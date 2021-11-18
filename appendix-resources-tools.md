@@ -93,19 +93,21 @@ move through the slides.
 Mozilla, the non-profit managed company behind the Firefox web browser
 and other open, web-focused products, recently published a [report on
 its numerous, varied contributor
-communities](https://report.mozilla.community)(see the .pdf version).
+communities](https://report.mozilla.community) (see the .pdf version).
 This report posits a vision for comprehensively understanding open
-source health, following a rather academic framework, and applies an
+source health, following a rather academic approach called the 
+[Open Source Ecosystem Health Operationalization
+(OSEHO) framework](https://www.researchgate.net/publication/261715766_Measuring_the_Health_of_Open_Source_Software_Ecosystems_Beyond_the_Scope_of_Project_Health), 
+and applies an
 abbreviated version across its main communities.  The network analysis
-visualizations are particularly powerful.
+visualizations in this report are particularly powerful.
 
-We also recommend a review of the [Open Source Ecosystem Health Operationalization
-(OSEHO)
-framework](https://www.researchgate.net/publication/261715766_Measuring_the_Health_of_Open_Source_Software_Ecosystems_Beyond_the_Scope_of_Project_Health). 
+For those who want to go deeper into community health, we recommend a review of 
+this OSHEO framework. 
 Talking through the paper's understanding of broader project ecosystems -- noting 
-that project health does not necessarily equate with ecosystem health - can be 
+that project health does not necessarily equate with ecosystem health -- can be 
 particularly useful to teams looking to build an open source product whose 
-success in adoption and contribution depends on a broader ecosystem.
+success in adoption and contribution depends on a broader ecosystem. 
 
 **Creating your own open source community**
 
@@ -196,10 +198,11 @@ algorithms](https://github.com/RentadroneCL/AI-Agro) are available on
 GitHub, with a simple overview of their project on that makes it clear
 what they plan to work on, how to contribute, and how to join the
 community discussion on Discourse.  If we had to peg this as an
-archetype, it's probably most akin to a Speciality Library.  They're
-open to anyone participating, but they're likely to only attract those
-who have the skills and expertise to contribute.  They are following
-open source best practices, but they don't need to build for a broader
+archetype, it's probably most akin to the Rocketship to Mars type.  They're
+open to anyone participating, but they're unlikely to invest in bringing people 
+onbaord unless they are clearly aligned and have needed skills. They are following
+open source best practices in order to create trust around their product, but 
+they don't need to build for a broader
 mass audience.
 
 As another example, the DPG Primero created a [global, inter-agency
@@ -219,6 +222,16 @@ new contributors can find appropriate work to do.  For an example, see
 a [recent job posting for a community
 manager](https://www.kobotoolbox.org/join-our-team/project-community-engagement-coordinator.html)
 from the the team behind the Kobo Toolbox DPG (accessed Sept. 2021).
+
+**Clear guidance around *how* to contribute and what the project is looking 
+for with contributions** is as important as community governance and management.  
+The UNICEF Innovation team maintains a [public repository of best practices and 
+resources](https://github.com/unicef/inventory) around working 'openly' in creating 
+and managing digital public goods that includes some tips on how to write good 
+contributor guidelines to help direct participants into your project's particular 
+needs and workflow. It also includes some tips on documentation, which, again, is 
+another area for community contribution.
+
 
 **Regarding external financing, the [Guidelines for Funding Open
 Source Software
@@ -247,6 +260,19 @@ successful e-government service ecosystem.
 The Open Source Initiative provides a simple explanation of the
 [problems of public domain
 software](https://opensource.org/faq#public-domain)
+
+**Trademark**
+
+The UNICEF Innovation team's [repository of best practices and 
+resources](https://github.com/unicef/inventory) expands on our description of the  
+[relationship between open source and trademark protection](https://github.com/unicef/inventory/blob/main/content/legal-policy/trademark.en.adoc) and includes a brief case study and links to useful 
+trademark policies and additional readings. We particularly like the Linux Foundation's 
+tips on how to create a trademark program to encourage compatibile, 'conforming' 
+products. (Note that conforming does not automatically equate with certification, 
+which requires 
+an higher level of scrutiny and testing and -- for most jursicitions - an additional 
+set of legal requirements).
+ 
 
 **Security**
 

@@ -1,19 +1,18 @@
 # Open Source Readiness
 
-**KEY RECOMMENDATION**: The path to building organizational capacity
-to execute well on an open source DPG can roughly follow 'readiness
-models' developed through experience in private industry. Consider
-starting with skill-building experiments in places where your lack of
-open source investment are causing problems (e.g. lack of
-re-usability) that could be addressed by relatively small-scale,
-lower-risk investments.
+**KEY RECOMMENDATION**: Evaluate teams against organizational open-source 
+'readiness models' 
+to guide capacity 
+development.  
 
-**KEY RECOMMENDATION**: Cost/benefit analyses and valuation frameworks
-can be useful and necessary tools in building a case for an open
-approach, but they don't capture the full value of open source
-investments.  Be sure to include areas of 'adjacent value' when
-assessing and reporting on the overall value of your DPG. These can be
-multipliers to your project's valuation.
+**KEY RECOMMENDATION**: Identify small-scale, lower-risk investments for skill-building 
+experiments. These can often be aimed at places where your lack of open-source investment 
+is 
+causing problems (e.g. lack of re-usability).
+
+**KEY RECOMMENDATION**: Be sure to include areas
+of 'adjacent value' when assessing the overall value of your DPG.
+These can be multipliers to your project's valuation. 
 
 EXAMPLE: The [GeoNode project](https://geonode.org/), initiated by the
 World Bank's Global Facility for Disaster Reduction and Recovery
@@ -103,7 +102,7 @@ pragmatic.  We've found that stepping back every so often to reflect
 using such shared language and concepts helps teams stay grounded in
 the big picture, rather than focusing exclusively on the details.
 
-**RECOMMENDATION**: Engage the team in a frank discussion about
+**KEY RECOMMENDATION**: Engage the team in a frank discussion about
 your open source readiness and locate the team and the organization on
 McAffer's engagement model.  What might this level mean for
 opportunities for growth, and what might it mean for potential problems?
@@ -159,7 +158,7 @@ relabel his "tolerance" phase as "experimentation".
 
 **KEY RECOMMENDATION**: Look for the places where your lack of open
 source investment are causing problems that can be addressed by
-small-scale, low-risk, experimental engagement.  Start there, being
+small-scale, low-risk experiments.  Start there, being
 sure to label these experiments as skill-building exercises.  Think
 about how you can engage your larger team or organization as you
 develop, making the learning relevant to their own needs and goals and
@@ -382,12 +381,9 @@ Again, none of the above models quantify and incorporate the value of
 the intangible benefits of open source very well, although their costs
 are generally captured.
 
-
-**KEY RECOMMENDATION**: Cost/benefit analyses and valuation frameworks
-can be useful and necessary tools, but remember that they don't capture
-the full value of open source investments.  Be sure to include areas
+**KEY RECOMMENDATION**: Be sure to include areas
 of 'adjacent value' when assessing the overall value of your DPG.
-These can be multipliers to your project's valuation.
+These can be multipliers to your project's valuation. 
 
 All of the above describes a path from the very beginning toward
 eventual mastery of open source.  Our discussion focused on readiness

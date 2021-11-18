@@ -1,11 +1,11 @@
 # Policy
 
-**KEY RECOMMENDATION**: Use only well-known licenses as defined by the [Digital Public Good
-Standard](https://digitalpublicgoods.net/standard/) and make sure
-copyright ownership is clearly established at the onset of a project.
-Avoid mixing proprietary materials into a DPG, as this is not
-something you want to disentangle later, and resist the temptation to
-discourage commercial use of your DPG.  Indeed, commercial engagement
+**KEY RECOMMENDATION**: Use a well-known license as defined by the [Digital Public Good
+Standard](https://digitalpublicgoods.net/standard/). Clearly establish
+copyright ownership at the onset of a project and
+avoid mixing in proprietary materials, as this is not
+something you want to disentangle later. Resist the temptation to
+discourage commercial use of your DPG. Indeed, commercial engagement
 can be very helpful to project sustainability, quality, and adoption.
 
 EXAMPLE: The DPG [MOSIP Digital ID Platform](https://www.mosip.io/) chose
@@ -24,11 +24,11 @@ developers can create and
 distribute MOSIP-supporting software under *any* license.
 
 
-**KEY RECOMMENDATION**: Trademarks can be powerful tools for branding
-and building trust.  Whether a particular DPG should have trademarks
-associated with it, and if so what the policy on ownership and
-enforcement of those trademarks should be, needs to be decided early
-and on a case-by-case basis.
+**KEY RECOMMENDATION**: Decide early on whether to use trademark protection for 
+branding and building conformance and trust.  Whether a particular DPG should have 
+trademarks associated with it, and if so what the policy on ownership and
+enforcement of those trademarks should be, needs to be decided on a case-by-case 
+basis.
 
 EXAMPLE: The Estonian Information System Authority maintains the
 trademark for the X-Road DPG, a data exchange platform, even though its continued development is
@@ -37,22 +37,24 @@ for Interoperabilty Solutions. This control helps Estonia protect
 trust in its (and other's) X-Road investments.
 
 
-**KEY RECOMMENDATION**: Secrecy doesn't equal security.  Open source
-provides conditions for stronger security, along with opportunities
-for collaboration and cost sharing to improve security. 
+**KEY RECOMMENDATION**: Do not rely on security through obscurity: secrecy doesn't 
+equal security. Open source software provides the conditions for stronger security
+than proprietary software.  Evaluate how open source might bring new opportunities for 
+collaboration and 
+and cost sharing around improving security. 
 
 EXAMPLE: Organizations like the non-profit [Open Source Technology
 Investment Fund (OSTIF)](https://ostif.org) connect open-source
 projects with funding and logistical support for security audits and
 reviews.
 
-**KEY RECOMMENDATION**: Building for "high bar" cybersecurity and
+**KEY RECOMMENDATION**: Build for "high bar" cybersecurity and
 privacy regulation, such as the General Data Protection Regulation
 (GDPR) -- even if your DPG's country of deployment doesn't have strong
-regulation -- puts you in a better position to maintain a secure,
+regulation -- to be in a better position to maintain a secure,
 trusted DPG that protects the most vulnerable and can be adopted
-beyond national borders. Protecting privacy and security requires
-continuous attention, starting from project inception. Privacy
+beyond national borders.  Pay continuous attention to privacy and security from 
+the moment of project inception. Privacy
 guidelines, pre-engagement diligence with vendors, and standardized
 templates and contracts will help you create a trustworthy DPG and
 meet the [DPG standard](https://digitalpublicgoods.net/standard/).
@@ -65,17 +67,18 @@ adoption across countries with different regulatory environments,
 including India, Philippines, Ethiopia, Guinea, Sri Lanka and Morocco.
 
 
-**KEY RECOMMENDATION**: Avoid misconceptions around open approaches
-and privacy by clarifying the distinction between the DPG itself and
-the data it holds and manages with high-level decision makers and
-elected officials.  
+**KEY RECOMMENDATION**: Separate open-source DPG *software* from DPG *data* in the 
+minds
+of high-level decision makers and elected officials to avoid misconceptions 
+around open approaches and privacy.
 
-**KEY RECOMMENDATION**: Government procurement can be a powerful tool,
-creating open source commons around which entrepreneurial businesses
-and public-private partnerships can grow. Collaboration with academia
-and investment in education -- particularly early, comprehensive
+**KEY RECOMMENDATION**: Use the power of government procurement and academic 
+collaborations to create open-source commons around which entrepreneurial businesses
+and public-private partnerships can grow. Consider how education investments in 
+education -- particularly 
+early, comprehensive
 education to improve tech skills beyond digital literacy --
-strengthens innovation and grows the talent pool.
+can strengthen innovation and grow the talent pool.
 
 EXAMPLE: In Rwanda, Partners in Health (PIH) and the Kigali Institute
 of Science and Technology have a [partnership to train students to
@@ -447,12 +450,11 @@ license](https://digitalpublicgoods.net/standard/) for software.
   write the no-proprietary-materials requirement into contracts with
   vendors, so that there is no ambiguity on the matter.
 
-  **KEY RECOMMENDATION**: Use only well-known open source or open
-  content licenses as defined by the [Digital Public Good
-  Standard](https://digitalpublicgoods.net/standard/) and make sure
-  copyright ownership is clearly established at the onset of a project.
-  Avoid mixing proprietary materials into a DPG.  This is not
-  something you want to disentangle later.
+  **KEY RECOMMENDATION**: Use a well-known license as defined by the [Digital Public Good
+Standard](https://digitalpublicgoods.net/standard/). Clearly establish
+copyright ownership at the onset of a project and
+avoid mixing in proprietary materials, as this is not
+something you want to disentangle later. 
 
 
 ### Copyright and Jurisdiction
@@ -594,15 +596,15 @@ public's interest is still only an inconvenience at worst.  It cannot
 stop circulation and usage of the DPG, in the end; it might, at most,
 force a change of the DPG's name.
 
+**KEY RECOMMENDATION**: Decide early on whether to use trademark protection for 
+branding and building conformance and trust.  Whether a particular DPG should have 
+trademarks associated with it, and if so what the policy on ownership and
+enforcement of those trademarks should be, needs to be decided on a case-by-case 
+basis.
+
 The [Appendix: Resources and
 Tools](appendix-resources-tools.md#appendix-resources-and-tools) includes more 
 tips on trademark policy. 
-
-**KEY RECOMMENDATION**: Trademarks can be powerful tools for branding
-and building trust. Whether a particular DPG should have trademarks
-associated with it, and if so what the policy on ownership and
-enforcement of those trademarks should be, needs to be decided early
-and on a case-by-case basis.
 
 
 ## Commercial Use
@@ -738,9 +740,11 @@ resources or next steps.  UNICEF might know more about what
 coordination, capacity building and support might be going on this
 area? Or a program of their own that might be in the future?)
 
-**KEY RECOMMENDATION**: Secrecy doesn't equal security.  Open source
-provides conditions for stronger security, along with opportunities
-for collaboration and cost sharing around improving security.  
+**KEY RECOMMENDATION**: Do not rely on security through obscurity: secrecy doesn't 
+equal security. Open source software provides the conditions for stronger security
+than proprietary software.  Evaluate how open source might bring new opportunities 
+for collaboration and 
+and cost sharing around improving security. 
 
 Looking at your DPG ecosystem, are there possible partnerships and joint
 funding for security audits of the common open source software on
@@ -808,13 +812,12 @@ territories:
 
 * Periodically testing your security program
 
-**KEY RECOMMENDATION**: Even if your country doesn't have formal
-cybersecurity regulation, consider acting as if it did, especially
-around data privacy (see [Privacy](#data-privacy)
-below) as it's particularly important
-to protecting vulnerable populations.  Building for "high bar"
-cybersecurity regulation puts you in a better position to maintain a
-secure and trusted DPG.
+**KEY RECOMMENDATION**: Build for "high bar" cybersecurity and
+privacy regulation, such as the General Data Protection Regulation
+(GDPR) -- even if your DPG's country of deployment doesn't have strong
+regulation -- to be in a better position to maintain a secure,
+trusted DPG that protects the most vulnerable and can be adopted
+beyond national borders. 
 
 Like data privacy, security is an ongoing, dynamic process that
 requires constant attention in order to be responsive to an ever-changing environment.  
@@ -1012,10 +1015,10 @@ there's a plan to use open source software to manage sensitive data,
 they may worry because they heard that open source means that anyone
 can "see the code", and therefore the data is exposed. This is not true.
 
-**KEY RECOMMENDATION**: Avoid misconceptions around open source
-and privacy by clarifying the distinction between the DPG itself and
-the data it holds and manages with high-level decision makers and
-elected officials.
+**KEY RECOMMENDATION**: Separate open source DPG *software* from DPG *data* in the 
+minds
+of high-level decision makers and elected officials to avoid misconceptions 
+around open approaches and privacy.
 
 Many aspects of a DPG's success rely on getting data privacy right,
 from building trust with end users to attracting funding.  Data
@@ -1070,8 +1073,8 @@ Resources and
 Tools](appendix-resources-tools.md#appendix-resources-and-tools) for
 some sample security questionnaires.
 
-**KEY RECOMMENDATION**: Protecting privacy requires continuous
-attention, and it really starts from project inception.  Invest
+**KEY RECOMMENDATION**: Pay continuous attention to privacy and security from 
+the moment of project inception.  Invest
 well in your pre-engagement diligence with vendors around privacy and
 security.  Create standardized data privacy and security questions for
 these vendor assessments.
@@ -1446,10 +1449,10 @@ idea of the possible breadth of community participation.
 (TODO: is "not yet published" above ok to cite?)
 
 **KEY RECOMMENDATION**: Think through your DPG's local ecosystem and
-consider opportunities for collaboration with educators, keeping in
+consider opportunities for collaboration with academia, keeping in
 mind that non-coding contributions are also very valuable.  Although
-building local talent takes time, this early investment can pay off in
-a stronger talent pool within 5-10 years as welll as unearth earlier benefits.
+building local talent takes time, early investment to improve tech skills beyond 
+digital literacy can strengthen innovation and grow the talent pool.
 
 For example, could you team up with secondary schools on a series of
 open source hackathons to introduce students to your DPG and solve a few
@@ -1510,7 +1513,9 @@ empowered society and a knowledge
 economy."](https://www.meity.gov.in/writereaddata/files/policy_on_adoption_of_oss.pdf)
 
 
-**KEY RECOMMENDATION**: Government procurement is possibly the
+**KEY RECOMMENDATION**: Use the power of government procurement to create open 
+source commons around which innovative, entrepreneurial businesses
+and public-private partnerships can grow. Government procurement is possibly the
 greatest lever for more alignment between FOSS policy and national
 innovation policy.  Again, Estonia's approach to service digitization
 and open source, public-private partnerships, government procurement
@@ -1518,4 +1523,7 @@ and its astutely comprehensive innovation policy is one to study.  At
 a local level, consider your DPG's ecosystem.  Points of
 alignment between your technology needs and those of local government point
 to opportunities for local innovation policy alignment.  
+
+
+
 

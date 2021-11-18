@@ -1,13 +1,13 @@
 # Adoptability Assessment
 
 
-**KEY RECOMMENDATION**: When evaluating an open source product for
-adoption, look at its functionality, technical quality, and
+**KEY RECOMMENDATION**: Review functionality, technical quality, and
 availability of support as well as the project's sustainability and
-responsiveness to its user base.
+responsiveness to its user base when evaluating an open source product for
+adoption.
   
-**KEY RECOMMENDATION**: A project that's likely to develop a
-secure-as-possible product should have: a documented process for
+**KEY RECOMMENDATION**: To understand if a project is likely to develop a
+secure-as-possible product, look for: a documented process for
 reporting security vulnerabilities; security patch releases; updated
 third-party dependencies; and for more mature projects, possibly a Common Vulnerability 
 Exposure
@@ -22,28 +22,33 @@ global security researchers and developers to build a better
 product. The DHIS2 DPG also publishes [CVEs, along with a clear
 process for reporting vulnerabilities](https://dhis2.org/security).
 
-**KEY RECOMMENDATION**: The existence of multiple, diverse vendors providing commercial
+**KEY RECOMMENDATION**: If possible, work with vendors that can show solid, public 
+evidence of their contributions to the project. The existence of multiple, diverse 
+vendors providing commercial
 support is practically a guarantee that the product is as stable and
-reliable as possible. If you are considering working with one of these
-vendors, you should find solid public evidence of their contributions
-to the product.
+reliable as possible, while looking through public reviews and the
+bug report database will give you additional insight into a product's
+stability and reliability.
 
 EXAMPLE: The digital ID DPG [MOSIP](https://www.mosip.io/) supports a
 thriving community of several dozen commercial partners, such as
 [systems integrators and biometric solution
 providers](https://www.mosip.io/resource-partners/mosip-integrations). 
 
-**KEY RECOMMENDATION**: Thorough product installation and initial
-configuration documentation indicates a product that's actually meant
-to be used. A documented Application Programming Interface (API) is
-often important to supporting the full range of the programmatic
+**KEY RECOMMENDATION**: Thorough product installation and initial configuration 
+documentation indicates 
+a product that's actually meant to be used. Also ensure that documented 
+Application 
+Programming Interfaces (APIs) are available. These are necessary to the full 
+range of the programmatic
 functionality you'll probably need, especially if you will work with
 data at scale (although a lack of published APIs isn't uncommon for
 early stage open source products, but if this is the case, they should
-be on the project's roadmap). Relatedly, be sure to get a detailed
+be on the project's roadmap). Lastly, be sure to get a detailed
 understanding the product's ability to import/export data, as you will
 surely need to work with legacy data at some point. Data portability
-also enables you to switch systems or vendors, should the need arise.
+also enables you to switch systems or vendors, should the need arise. 
+
 
 EXAMPLE: The health information management system DPG [DHIS2 publishes
 clear documentation](https://docs.dhis2.org/en/home.html) about installation and
@@ -53,17 +58,19 @@ external systems (e.g. third-party software, web portals, and other
 internal DHIS2 modules) to securely access and manipulate DHIS2 data. The DPG 
 MOSIP also publishes [good documentation on its APIs](https://docs.mosip.io/platform/apis). 
 
-A lot of open source products are available as
+A lot of open-source products are available as
 commercial-off-the-shelf solutions; often they are fairly
 straightforward to integrate and do not require much customization.
+
 This modules outlines *general* but essential points to consider in assessing such
 solutions for adoption suitability.  
 
 **FUTURE WORK**: What are software engineering best practices and deeper 
 technology choice considerations for DPGs, such as how to build for scalability?
 
-To evaluate an open source product for adoption, you need to look at
-it from several different perspectives:
+
+**KEY RECOMMENDATION**: To evaluate an open source product for adoption, you 
+need to look at it from several different perspectives:
 
 1. **Functionality.** Whether it has the functionality you need,
    either right now or plausibly planned on a roadmap (a roadmap that
@@ -98,7 +105,6 @@ it from several different perspectives:
 The sections that follow elaborate on some of the areas above and form
 a kind of checklist that you can use in evaluating an open source
 product for adoption as a DPG (or as part of a new DPG to be created).
-
 
 Throughout this module we will sometimes use the word "product" and
 sometimes use the word "project".  They are closely related but
@@ -302,10 +308,11 @@ have a very strong interest in the software's stability: unstable
 software costs them money because it requires their staff to do more
 interrupt-driven work.
 
-**KEY RECOMMENDATION**: The existence of multiple, diverse vendors providing commercial
+**KEY RECOMMENDATION**: The existence of multiple, diverse 
+vendors providing commercial
 support is practically a guarantee that the product is as stable and
-reliable as possible. Looking through public reviews and a project's
-bug report database will also give you an idea of a product's
+reliable as possible, while looking through public reviews and the
+bug report database will give you additional insight into a product's
 stability and reliability.
 
 ## Scalability and Deployment Investment
@@ -486,8 +493,9 @@ there is some reasonable explanation for the omission, the lack of an
 API should be considered a serious point against enterprise-wide
 adoption of the system.
 
-**KEY RECOMMENDATION**: Having a documented API as part of a service
-is very important to supporting a full range of the functionality
+**KEY RECOMMENDATION**: Ensure the availability of documented Application 
+Programming Interfaces (APIs), which are very important to supporting a full 
+range of the functionality
 you'll likely need. Check documentation and search for examples on the
 Internet of people using that API to accomplish real-world tasks. Lack
 of published APIs isn't uncommon for early stage open source products,
@@ -650,11 +658,11 @@ If the project has a vendor listing page (see, for example, the DPG
 directory](https://mojaloop.io/business-directory/)), the vendor should
 be on that list.
 
-**KEY RECOMMENDATIONS**: It's a good sign if an open source product
+**KEY RECOMMENDATIONS**: If possible, work with vendors that can show solid, public 
+evidence of their contributions to the project.  Again, it's a good sign if an open 
+source product
 has commercial support around it, such as consulting and development
-companies. If you are considering working with one of these vendors,
-you should find solid public evidence of their contributions and
-engagement.
+companies. 
 
 ## Non-Commercial Support Availability
 
@@ -693,7 +701,8 @@ indication that the project overly depends on one person who might
 move on or burn out.
 
 **RECOMMENDATION**: User support forums are useful resources in
-your evaluation (just as open user support forums will be important to others evaluating your DPG). Don't hesistate to ask questions.
+your evaluation (just as open user support forums will be important to others 
+evaluating your DPG). Don't hesitate to ask questions.
 
 ## Influence and Participation
 
@@ -761,7 +770,7 @@ available) will allow you to make rough guesses about the possibility
 and usefulness of having long-term influence in the project and about
 what sort of commitment of resources that influence might require.
 
-**KEY RECOMMENDATION**: Open source projects have lifecycles, and the
+**RECOMMENDATION**: Open source projects have lifecycles, and the
 maturity level of a project will generally dictate your ability to
 influence and level/type of investment needed.
 
@@ -894,9 +903,9 @@ Ecosystem mapping can reveal gaps in the landscape. For example,
 such support is important and the ecosystem does not provide it, you
 will have to find anther way to fill this gap.
 
-**RECOMMENDATION**: A simple ecosystem map can help you think through what other 
-adoptability factors might be relevant. What in the ecosystem actors, their types, 
-and their distribution gives you additional insight? For the project's likely 
+**RECOMMENDATION**: A simple ecosystem map can help you think through other 
+adoptability factors that might be relevant.  What in the ecosystem actors, their 
+types, and their distribution gives you additional insight? For the project's likely 
 archetype, what would you expect to see in that ecosystem? Are there problematic 
 gaps or useful opportunties? 
 
