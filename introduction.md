@@ -1,32 +1,44 @@
 # Introduction
 
-This operations-focused toolkit provides pragmatic, experience and
+This operations-focused toolkit provides pragmatic, experience- and
 evidence-based advice for implementing Digital Public Goods (DPGs) at
 the country level.  These best practices should be useful to any
 organization interested in creating a DPG -- including commercial
-companies -- but its main audiences are national government agencies
-and UN-affiliated agencies.  The toolkit was created through the
-support of the [UNICEF Office of
-Innovation](https://www.unicef.org/innovation/), as a co-champion of
-the [Digital Public Goods Alliance](https://digitalpublicgoods.net/).
+companies -- but their main audiences are decision-makers, project team leaders, 
+and project team members in national government and UN-affiliated 
+agencies.  It is a living document meant to be updated through public input as more 
+agencies develop implementation and management experience with DPGs. You can
+participate in its continued development and suggest changes at
+https://github.com/unicef/publicgoods-toolkit.    
 
 The toolkit takes a topic-focused approach, presenting practical
-recommendations around guidelines, tools, and frameworks that will
-help you create a successful DPG.  It can be read as a whole or per
-individual module and topic.  Topics include: understanding the types
-and value of open source communities and project lifecycles; national
-and agency level policies that relate to Free and Open Source Software
+recommendations around guidelines, tools, and frameworks to
+help agencies create a successful DPG.  It does not cover software engineering 
+best practices or tips on specific technology choices, but rather focuses on 
+higher level 
+topics, including: 
+* Understanding the types
+and value of open source communities and project lifecycles
+* National
+and agency-level policies that relate to Free and Open Source Software
 (FOSS), including intellectual property and FOSS licenses, data
-privacy and security; how to plan for and build organizational
-readiness to capture the full value of your open source DPG; tips for improving
-procurement, including sample contract language; and how to analyze an
-existing FOSS product for adoptability.  Key recommendations are
+privacy, and security
+* How to plan for and build organizational
+readiness to capture the full value of your open source DPG
+* Tips for improving
+procurement, including sample contract language
+* How to analyze an
+existing FOSS product for adoptability  
+
+The toolkit can be read as a whole or by
+individual module and topic. Key recommendations are
 highlighted at the beginning of every section, with additional
 recommendations and examples in the text.  Suggestions for further
 reading can also be found in the text and complemented with
 a list of additional resources and tools in the [Appendix: Resources and Tools](appendix-resources-tools.md#appendix-resources-and-tools).  The
-paper also includes a checklist of recommendations and brief overviews
-of select exemplary 'open' projects, including a few DPGs (see [Appendix: Examples](appendix-examples.md#appendix-examples)).
+paper also includes overviews
+of select exemplary 'open' projects, including a few DPGs (see [Appendix: Examples](appendix-examples.md#appendix-examples)) 
+and suggests areas for future work.
 
 Government agencies have different levels of knowledge and capabilities in open
 technologies and open development models.  We believe this guide is
@@ -63,7 +75,7 @@ be made about any differences between these DPG components in the
 paper.  However, the complexities around open data and AI models merit
 deeper treatment in a future revision.
 
-Lastly, it's worth prefacing this operational toolkit with a brief
+It's worth prefacing this operational toolkit with a brief
 summary of the benefits of an open approach.  You'll find numerous
 online research papers and case studies on the topic.  We also list a few
 in the
@@ -75,7 +87,7 @@ benefits are interrelated and self-reinforcing, and a plethora of
 measureable positives follow on from them.
 
 Re-usability breaks vendor lock-in and brings efficiency gains, lowers
-costs (and can thus provide greater accessibility to broader
+costs (and can thus help provide greater accessibility to broader
 populations), and focuses resources on local customization and
 innovation rather than foundational work.  As an example, although the
 government of Sierra Leone created the [Open Data Sierra
@@ -92,11 +104,11 @@ months](https://media.un.org/en/asset/k17/k17a9bg6o8) by re-using and
 adapting the DPG Digital Infrastructure for Vaccination Open Credentialing (DIVOC) 
 system from India.  The
 Nigeria Centre for Disease Control (NCDC) deployed the DPG
-[SORMAS](https://sormas.org/), an open source mobile product for
+[SORMAS](https://sormas.org/), an open-source mobile product for
 outbreak and epidemic surveillance, [to 30 districts in *14
 days*](https://wwwnc.cdc.gov/eid/article/26/2/19-1139_article) in
 response to an outbreak of monkeypox.  Re-usability of core digital
-infrastructure can also be across domains or sectors.  Sierra Leone is
+infrastructure can also apply across domains or sectors.  Sierra Leone is
 evaluting how their DPG OpenG2P, initially deployed during
 the COVID pandemic to get payments to frontline health workers and
 volunteers, can ['scale horizontally' to new application areas, such as 
@@ -112,7 +124,7 @@ scale quickly, too.  Such characteristics create a rich environment
 for developing *local* economies and talent, as evidenced by the new
 companies that grew to service [Nigeria's implementation of
 OpenMRS](https://openmrs.org/2010/12/03/open-source-health-information-business-ecosystems-in-resource-poor-environments/), 
-an open source electronic medical record platform tuned to the needs of low-resource 
+an open-source electronic medical record platform tuned to the needs of low-resource 
 environments.
 
 Lastly, the transparency and digital sovereignty of open source (and
@@ -127,15 +139,15 @@ are exceptions to this generalization, the
 decades since the advent of the Internet's global network have
 [amplified existing social, cultural and economic
 inequalities](https://www.un.org/en/content/digital-cooperation-roadmap/assets/pdf/Roadmap_for_Digital_Cooperation_EN.pdf), 
-which further erodes public trust in institution.  Trust is often
+which is further eroding public trust in key institutions.  Trust is often
 overlooked as a benefit of open source, perhaps because it's somewhat intangible
 and hard to measure.  Yet the organizations behind OpenMRS found that
 much of their success was based on the [shared ownership and
-transparency of their open source
+transparency of their open-source
 approach](https://openmrs.org/2010/12/03/open-source-health-information-business-ecosystems-in-resource-poor-environments).
 
 
-  Of course, open source
+  Of course, open-source
 development and access are insufficient in themselves to creating
 trust, and they have to be managed well to have their greatest effect,
 especially for vulnerable populations and sensitive applications.  But
@@ -144,7 +156,7 @@ trustworthy ways to bring about the transformative changes we need for
 more sustainable, inclusive societies.
 
 
-## A Brief History of Open Source Collaboration
+## A Brief History of Open-Source Collaboration
 
 Software has always been shared.  Few significant software development
 efforts have ever been solo acts.  Early programmers tended to be
@@ -188,9 +200,9 @@ major consumer electronics product has at least some open-source
 software inside it.  It is increasingly rare to find any electronic
 device of significant complexity that is wholly proprietary.
 
-As open source software spreads through the technology world sector by
+As open-source software spreads through the technology world sector by
 sector, it has inspired open movements in adjacent fields and even
-distant domains. A noted, in this set of modules, we will focus on open source
+distant domains. A noted, in this toolkit we will focus on open-source
 software and related DPGs. These are
 digital products that are freely shared in ways that invite
 permissionless copying and collaboration and "that adhere to privacy and other 
@@ -202,7 +214,7 @@ Roadmap for Digital Cooperation](https://www.un.org/en/content/digital-cooperati
 The focus on DPGs necessarily excludes a variety of sectors that have
 also seen "open" progress.  Open hardware, open government, open
 science, and open organizations are all interesting applications of
-the original open source vision.  Any government agency interested in
+the original open-source vision.  Any government agency interested in
 DPGs might also be interested in those topics.  They are not DPGs,
 though, so this set of modules will not cover them.  Instead, we focus
 on:
@@ -264,8 +276,18 @@ trademarks for DPGs, while the
 few practical recommendations for managing licensing and usage
 concerns in working with vendors.
 
+# Future Development and License
+
+The toolkit was created through the
+support of the [UNICEF Office of
+Innovation](https://www.unicef.org/innovation/), as a co-champion of
+the [Digital Public Goods Alliance](https://digitalpublicgoods.net/), and is 
+open to continued input and development from the public.  You can help by 
+contributing your suggestions and 
+changes at
+https://github.com/unicef/publicgoods-toolkit.
+
 This paper is licensed under the [Creative Commons
 Attribution-ShareAlike 4.0 International (CC BY-SA
-4.0)](https://creativecommons.org/licenses/by-sa/4.0/).  You can
-participate in its continued development and request changes at
-https://github.com/unicef/publicgoods-toolkit.
+4.0)](https://creativecommons.org/licenses/by-sa/4.0/).  
+

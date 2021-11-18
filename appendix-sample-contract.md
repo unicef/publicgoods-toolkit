@@ -23,10 +23,19 @@ purpose.
 Below, you'll find somewhat simpler sample contract language covering
 key data protection (not completely GDPR compliant) and security
 procedures issues.  These examples aren't comprehensive to all
-situations and needed areas of coverage, but they are still useful
+situations and needed areas of coverage, and there are some US-centric sections 
+(e.g. references to SSAE‐16/SOC‐1), but they 
+are still useful
 guidance as you strike your own contracts with vendors.  We include
 this template because of its more in-depth security requirements,
 which, again, may or may not be relevant to your situation.
+
+While this sample contract language is provided under the Creative Commons
+Attribution-ShareAlike 4.0 International (CC BY-SA
+4.0)](https://creativecommons.org/licenses/by-sa/4.0/), this license extends only 
+to the content below and not to the personal identity of the author or to any 
+identification or branding utilized by the author's law firm, Eckert Seamans.
+
 
 (TODO: Do we have better sample contract language on hand? I haven't come across 
 any.....Stephen Foxman, 

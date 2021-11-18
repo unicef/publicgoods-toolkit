@@ -32,10 +32,17 @@ advantage, whether that be scaling to broad adoption quickly or
 orchestrating participants to focus on areas of needed innovation.  
 
 This module presents a somewhat abstract but experientially
-based view of organizational readiness, including models to consider
+based view of organizational readiness for open source, including models to consider
 referencing, and practical advice for how to move your team along the
 path to masterful open source execution.  The [Adoptability](adoptability.md#adoptability-assessment) module delves more deeply into specific open source capabilities you'll
-need to effectively adopt or build an open source product.
+need to effectively adopt or build an open-source product.  Note that the use of 
+the term 'team' here also includs external vendors. 
+
+**FUTURE WORK**: What have DPG creators learned about building local vendor and 
+labor capacity and readiness?  What are typical readiness and capacity growth
+patterns for 
+organizations working with open data and AI models, and how might this apply to 
+agencies building DPGs?  
 
 Most government teams are not yet prepared to travel this capability
 path and reap those rewards at scale.  They lag in their ability to
@@ -54,7 +61,7 @@ These clarify where an agency is in its journey to mastery and suggest
 next steps and likely results.  Often, teams use these models to
 identify areas for potential growth as well as potential pitfalls.
 They are most useful for those early in their open source progress,
-and this module focuses on those beginning stages.
+and this module focuses on those beginning stages. 
 
 It is useful for an agency to consider its maturity on an organization
 wide basis, but creation of an open source DPG is usually executed by
@@ -281,6 +288,11 @@ There are tools out there that can help you make some cost and benefit
 determinations, but none capture the full value of an open source approach --
 especially specific to your context -- and it's likely that you'll
 need to modify some combination of these tools to your needs. 
+
+**FUTURE WORK**: Can we identify a common but customizable approach to DPG valuation 
+that takes into account how open approaches -- for content, data, and software --
+create areas of new value and models for how these could have future multiplier
+effects?  
 
 The World Bank's [Open Data for Resilience Initiative & GeoNode:A Case
 Study in Institutional Investments in Open

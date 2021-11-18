@@ -363,7 +363,8 @@ procurement rules).
 
 Second, it is important to be clear in describing project requirements
 and emphasizing the need for open source deliverables, process, and
-experience (see [Open Source Quality Assurance](#open-source-quality-assurance) below for more on this; text in the [Appendix: Sample Contract Language](appendix-sample-contract.md#appendix-sample-contract-language) can be copied as merited
+experience (see [Open Source Quality Assurance](#open-source-quality-assurance) 
+below for more on this; text in the [Appendix: Sample Contract Language](appendix-sample-contract.md#appendix-sample-contract-language) can be copied as merited
 for the RFP as well).  The phrase "open source" applies in contexts
 other than software (e.g., open source intelligence), so be sure to
 spell out the full phrase "open source *software*" for vendors searching
