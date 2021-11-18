@@ -35,17 +35,20 @@ thriving community of several dozen commercial partners, such as
 [systems integrators and biometric solution
 providers](https://www.mosip.io/resource-partners/mosip-integrations). 
 
-**KEY RECOMMENDATION**: Ensure the availability of documented Application 
-Programming Interfaces (APIs), which are necessary to the full range of the programmatic
+**KEY RECOMMENDATION**: Thorough product installation and initial configuration 
+documentation indicates 
+a product that's actually meant to be used. Also ensure that documented 
+Application 
+Programming Interfaces (APIs) are available. These are necessary to the full 
+range of the programmatic
 functionality you'll probably need, especially if you will work with
 data at scale (although a lack of published APIs isn't uncommon for
 early stage open source products, but if this is the case, they should
-be on the project's roadmap). Relatedly, be sure to get a detailed
+be on the project's roadmap). Lastly, be sure to get a detailed
 understanding the product's ability to import/export data, as you will
 surely need to work with legacy data at some point. Data portability
-also enables you to switch systems or vendors, should the need arise. Lastly, 
-thorough product installation and initial configuration documentation indicates 
-a product that's actually meant to be used. 
+also enables you to switch systems or vendors, should the need arise. 
+
 
 EXAMPLE: The health information management system DPG [DHIS2 publishes
 clear documentation](https://docs.dhis2.org/en/home.html) about installation and
@@ -55,13 +58,7 @@ external systems (e.g. third-party software, web portals, and other
 internal DHIS2 modules) to securely access and manipulate DHIS2 data. The DPG 
 MOSIP also publishes [good documentation on its APIs](https://docs.mosip.io/platform/apis). 
 
-[TODO: note that the above section is the summary of key recommendations + 
-examples, while the 
-following paragraph is the start of the module, with the first
-key recommendation following. This distinction is lost in the online formatting
-and it might all read oddly.....]
-
-A lot of open source products are available as
+A lot of open-source products are available as
 commercial-off-the-shelf solutions; often they are fairly
 straightforward to integrate and do not require much customization.
 This module outlines key points to consider in assessing such
@@ -700,7 +697,7 @@ move on or burn out.
 
 **RECOMMENDATION**: User support forums are useful resources in
 your evaluation (just as open user support forums will be important to others 
-evaluating your DPG). Don't hesistate to ask questions.
+evaluating your DPG). Don't hesitate to ask questions.
 
 ## Influence and Participation
 

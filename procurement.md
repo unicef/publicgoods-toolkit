@@ -7,7 +7,7 @@ simplified it in order to match the relatively simple top-level names
 of the other modules, but he is open to feedback on that decision!)
 
 
-**KEY RECOMMENDATION**: Structure contracts as modular in order to better connect
+**KEY RECOMMENDATION**: Use modular contracting to better connect
 the right vendor to the right task, break vendor lock-in, and reduce
 risks associated with any one vendor. Modular contracting works best with an agile
 development model, a modular technical design, and Open Source Quality Assurance
@@ -19,7 +19,7 @@ multiple vendors to [dramatically reduce their delivery timeline from
 years to
 months](https://18f.gsa.gov/2016/11/15/modular-procurement-state-local-government/).
 
-**KEY RECOMMENDATION**: Attract bids from
+**KEY RECOMMENDATION**: Take explicit steps to attract bids from
 vendors who are experienced at open-source development rather than
 vendors who are only experienced at government contracting. Conduct
 FOSS-specific outreach early in the RFP lifecycle and ensure
@@ -257,7 +257,7 @@ Finally, we note that modular contracting aligns perfectly with the
 [Open Contracting Data Standard
 DPG](https://standard.open-contracting.org/latest/en/).
 
-**KEY RECOMMENDATION**: Structure contracts as modular in order to better connect
+**KEY RECOMMENDATION**: Modular contracting can help to better connect
 the right vendor to the right task, break vendor lock-in, and reduce
 risks associated with any one vendor. Modular contracting works best with an agile
 development model and a modular technical design.
@@ -340,7 +340,7 @@ government is to succeed at open source, it needs to expand the pool
 of RFP respondents. This might mean dropping the requirement for a vendor to
 have experience and references around past government projects.
 
-**KEY RECOMMENDATION**: Attract bids from
+**KEY RECOMMENDATION**: Take explicit steps to attract bids from
 vendors who are experienced at open-source development rather than 
 vendors who are only experienced at government contracting.
 

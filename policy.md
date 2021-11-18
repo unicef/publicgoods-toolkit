@@ -37,9 +37,10 @@ for Interoperabilty Solutions. This control helps Estonia protect
 trust in its (and other's) X-Road investments.
 
 
-**KEY RECOMMENDATION**: Do not rely on security through obscurity. Secrecy doesn't 
-equal security, while open source provides the conditions for stronger security. 
-Evalute how open source might bring new opportunities for collaboration and 
+**KEY RECOMMENDATION**: Do not rely on security through obscurity: secrecy doesn't 
+equal security. Open source software provides the conditions for stronger security
+than proprietary software.  Evaluate how open source might bring new opportunities for 
+collaboration and 
 and cost sharing around improving security. 
 
 EXAMPLE: Organizations like the non-profit [Open Source Technology
@@ -52,8 +53,8 @@ privacy regulation, such as the General Data Protection Regulation
 (GDPR) -- even if your DPG's country of deployment doesn't have strong
 regulation -- to be in a better position to maintain a secure,
 trusted DPG that protects the most vulnerable and can be adopted
-beyond national borders. Recognize that protecting privacy and security requires
-continuous attention, starting from project inception. Privacy
+beyond national borders.  Pay continuous attention to privacy and security from 
+the moment of project inception. Privacy
 guidelines, pre-engagement diligence with vendors, and standardized
 templates and contracts will help you create a trustworthy DPG and
 meet the [DPG standard](https://digitalpublicgoods.net/standard/).
@@ -731,9 +732,10 @@ resources or next steps.  UNICEF might know more about what
 coordination, capacity building and support might be going on this
 area? Or a program of their own that might be in the future?)
 
-**KEY RECOMMENDATION**: Do not rely on security through obscurity. Secrecy doesn't 
-equal security, while open source provides the conditions for stronger security. 
-Evalute how open source might bring new opportunities for collaboration and 
+**KEY RECOMMENDATION**: Do not rely on security through obscurity: secrecy doesn't 
+equal security. Open source software provides the conditions for stronger security
+than proprietary software.  Evaluate how open source might bring new opportunities 
+for collaboration and 
 and cost sharing around improving security. 
 
 Looking at your DPG ecosystem, are there possible partnerships and joint
@@ -1063,8 +1065,8 @@ Resources and
 Tools](appendix-resources-tools.md#appendix-resources-and-tools) for
 some sample security questionnaires.
 
-**KEY RECOMMENDATION**: Recognize that protecting privacy and security requires
-continuous attention, starting from project inception.  Invest
+**KEY RECOMMENDATION**: Pay continuous attention to privacy and security from 
+the moment of project inception.  Invest
 well in your pre-engagement diligence with vendors around privacy and
 security.  Create standardized data privacy and security questions for
 these vendor assessments.
