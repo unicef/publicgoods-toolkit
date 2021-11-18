@@ -94,7 +94,10 @@ shape the environment in which digital public goods (DPGs) function as
 well as how to design public agency level policies to encourage use
 and production of DPGs in ways that support the
 requirements of the [DPG
-standard](https://digitalpublicgoods.net/standard/).  It also provides
+standard](https://digitalpublicgoods.net/standard/).  It is aimed to help project 
+leaders and agency decision-makers implement successful DPGs, rather than to help
+policymakers craft good guidelines and rules at a national level.  This module 
+also provides
 an overview of open source licensing.
 
 Government policies impact every aspect of a DPG, directly and
@@ -124,7 +127,8 @@ leveraging DPGs."  SUSY adds: leaving this comment here until we
 confirm this revision works.  There's a lot more that could be said
 here of course but I'm not sure it's useful to an operational focused
 toolkit.  Advocacy to create an appropriately integrated, supportive,
-self-reinforcing policy environment seems out of scope.)
+self-reinforcing policy environment seems out of scope and these policy makers
+aren't the audience, as I understand it?)
 
 In this module, we narrow in on a few high-level policy considerations
 that DPGs are most likely to encounter and need to consider.  Many of
@@ -153,7 +157,7 @@ security when evaluating an open source project is in the
 exceptions to this are data privacy and cybersecurity policy at a
 national level, for which we also cover some recommendations here.
 
-This section's *operational* focus does not consider how agencies
+Again, this section's *operational* focus does not consider how agencies
 might also want to *advocate for changes* to national policies,
 particularly in how relevant policies might interrelate to create an
 environment more supportive of DPGs.  There are certainly points here
@@ -169,7 +173,7 @@ are lessons there for all governments wanting to craft a
 forward-thinking integrated set of DPG supportive policies.
 
 Before we get into context-setting national and agency level policies,
-a primer on open source licensing would be helpful.
+a primer on open-source licensing would be helpful.
 
 ## Major Software Licenses and License Categories
 
@@ -569,7 +573,7 @@ that the original authors disagree with (see the
 beneficial to the public to force the fork to distinguish itself
 clearly from the original, that is, to avoid being an impostor.
 Trademarks can be powerful tools for preventing abuse and thus
-protecting trust in a DPG's brand.  Indeed the technology industry has
+protecting trust in a DPG's brand.  Indeed, the technology industry has
 a [long history in using trademark protection of open source
 products](https://producingoss.com/en/trademarks.html) in this way.
 Trademark for the DPG [Sunbird](https://www.sunbird.org/) is managed
@@ -597,6 +601,10 @@ branding and building conformance and trust.  Whether a particular DPG should ha
 trademarks associated with it, and if so what the policy on ownership and
 enforcement of those trademarks should be, needs to be decided on a case-by-case 
 basis.
+
+The [Appendix: Resources and
+Tools](appendix-resources-tools.md#appendix-resources-and-tools) includes more 
+tips on trademark policy. 
 
 
 ## Commercial Use
@@ -1087,6 +1095,10 @@ grapple with protecting individual rights and advancing the public
 good while addressing the fast pace of technology innovation and the
 alarming power of large technology platforms.
 
+**FUTURE WORK**: What are the privacy considerations -- legal and ethical -- and 
+related best practice recommendations around the various types of 
+open data, from non-personally-identifiable but user-contributed data to sensor data?
+
 While this paper can't review the nuances and implications of all data
 privacy and protection laws, see the [GDPR](#GDPR) section below for
 practical advice that we feel is applicable to all projects.
@@ -1318,13 +1330,11 @@ addendums, running Data Protection Impact Assessments, data mapping
 and data audits will help you meet GDPR requirements and are good
 sound security policies.
 
-(TODO: This paper is supposed to focus on country-level DPGs, but
-obviously apps and data travel across borders (esp around
-SDG-supporting apps, I'd think) and there are regional frameworks and
-growing interest in int'l regulatory frameworks, esp around data and
-AI.  This is a whole paper in itself.  Not sure how to cover top
-points simply and esp how to keep this to operational focus. Maybe
-point out that this could be covered in a future addition?)
+**FUTURE WORK**: The original toolkit's focus is on country-level DPGs, but
+people -- and their needs -- travel across borders. Regional security and privacy 
+frameworks are growing, with the goal of harmonization, along with more pressure 
+for broader international frameworks. What are the possible implications for DPGs 
+at an operational and mangagement level? 
 
 
 ## Aligning with Education and Innovation Policy

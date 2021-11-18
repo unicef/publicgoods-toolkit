@@ -61,8 +61,13 @@ MOSIP also publishes [good documentation on its APIs](https://docs.mosip.io/plat
 A lot of open-source products are available as
 commercial-off-the-shelf solutions; often they are fairly
 straightforward to integrate and do not require much customization.
-This module outlines key points to consider in assessing such
-solutions for adoption suitability.
+
+This modules outlines *general* but essential points to consider in assessing such
+solutions for adoption suitability.  
+
+**FUTURE WORK**: What are software engineering best practices and deeper 
+technology choice considerations for DPGs, such as how to build for scalability?
+
 
 **KEY RECOMMENDATION**: To evaluate an open source product for adoption, you 
 need to look at it from several different perspectives:
@@ -900,8 +905,7 @@ will have to find anther way to fill this gap.
 
 **RECOMMENDATION**: A simple ecosystem map can help you think through other 
 adoptability factors that might be relevant.  What in the ecosystem actors, their 
-types, 
-and their distribution gives you additional insight? For the project's likely 
+types, and their distribution gives you additional insight? For the project's likely 
 archetype, what would you expect to see in that ecosystem? Are there problematic 
 gaps or useful opportunties? 
 

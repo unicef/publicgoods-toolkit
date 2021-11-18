@@ -83,7 +83,16 @@ understanding project-level open source communities and ecosystems.  The
 [Adoptability](adoptability.md#adoptability-assessment) module provides even more 
 detailed
 recommendations for applying this understanding to evaluating open
-source projects, including how to map a project's ecosystem.
+source projects, including how to map a project's ecosystem. The [Appendix: Resources and Tools](appendix-resources-tools.md#appendix-resources-tools) also provides some insight into creating and nuturing
+an open-source community, but this is also a topic for future toolkit development.
+
+**FUTURE WORK**: Are there unique lessons to be learned from community development 
+around
+DPGs, which often function in more low-resource environments and target 
+vulnerable populations that often can't easily become an engaged base of end-users? 
+Is there a useful development model for DPG ecosystems with government, NGO, 
+academia, and commercial actors?
+
 
 DPG efforts run on the collective motivations of all of their
 participants.  A healthy project often gathers around itself a diverse
@@ -145,7 +154,8 @@ understanding existing ecosystems and their project's place within
 them.  In order to plan a project that builds on or collaborates with
 other open source efforts, agencies must know their own projects and
 also know what to expect from other community participants. Again, the
-[Adoptability](adoptability.md#adoptability-assessment) module describes how to map a project's
+[Adoptability](adoptability.md#adoptability-assessment) module describes how to 
+map a project's
 ecosystem.
 
 Open source projects operate in many different ways.  Experienced open
@@ -181,13 +191,15 @@ in similar contexts.
 For example, in evaluating an existing open source project, you
 wouldn't expect a "rocket ship" project to invest in supporting new
 contributors, and you'd want to plan any contribution and
-participation accordingly, brining in vendors or your own personnel with some level of open
+participation accordingly, bringing in vendors or your own personnel with some 
+level of open
 source familiarity.  Similarly, if you're planning to create your own
 multi-vendor infrastructure project, you'd want to invest in good API
 documentation early on.
 
 A complete discussion of each archetype is available in Mozilla's
-[report](https://opentechstrategies.com/archetypes).  Below are just their names and brief descriptions, from which
+[report](https://opentechstrategies.com/archetypes).  Below are just their names 
+and brief descriptions, from which
 one might draw some ideas of pattern each one represents.  (A [quick-reference
 chart](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2-quick-ref.pdf)
 is also available).
@@ -412,7 +424,7 @@ Google's strategic need.  Instead, one can classify that project as
 B2B Open Source, which is a much less inviting model.
 
 In government, we see this type of cautious approach around crucial
-infrastructure.  Election infrastructure projects, for example, has a
+infrastructure.  Election infrastructure projects, for example, have a
 very high bar for participation and is only useful to government
 agencies and the vendors who serve them.  Such projects might try to
 be Wide Open but will in practice tend toward a blend of the
@@ -475,10 +487,6 @@ planning to create your own, and it should be periodically revisited.
 
 ## Community Diversity
 
-(TODO: UNICEF wants "Justin" to review this section on health and
-diversity?  (Followup note: Karl suspects that's a transcription error
-and that it's actually Jameson.))
-
 There are many ways to think about the diversity of an open source
 project community.  Do its contributors come from a wide variety of
 geographic or cultural origins?  Do they represent a wide variety of
@@ -490,15 +498,15 @@ Does the project have diverse paths by which someone can contribute
 Any of these dimensions of diversity may be relevant for adoption of a
 DPG, and its useful to think about what dimensions matter as you
 create your ecosystem map.  However, we especially urge consideration
-of diversity of investment -- i.e., employer diversity among the
+of diversity of *investment* -- i.e., employer diversity among the
 various contributors, and diversity among vendors offering support
 services -- simply because these aspects of diversity are so often
-overlooked, and yet are so important to the health and success of a
+overlooked and yet are so important to the health and success of a
 DPG.  This diversity is particularly important to projects that aren't
 speciality software libraries, although even there overreliance on one
 contributor type can be problematic.  Note that it can take some
 sleuthing to figure out the backgrounds of contributors, who often use
-a non-work related identifier or even pseudonyms.
+non-work related identifiers or even pseudonyms.
 
 In considering diversity, including diversity of investment sources,
 it is useful to recall that participants tend to exercise control over
@@ -526,7 +534,8 @@ Open
 Source](https://opendri.org/wp-content/uploads/2017/03/OpenDRI-and-GeoNode-a-Case-Study-on-Institutional-Investments-in-Open-Source.pdf) presents
 how the Global Facility for Disaster Reduction and Recovery (GFDRR)
 invested in a diversified set of partners, in part by using modular
-contracting (see also [Procurement](procurement.md#procurement)), ultimately creating a successfully
+contracting (see also [Procurement](procurement.md#procurement)), ultimately 
+creating a successfully
 self-sustaining open source project.
 
 **KEY RECOMMENDATION** Look for diverse resource-committing participants, which 
@@ -563,7 +572,7 @@ source project -- come ultimately from those users.
 
 Some of these details can be gleaned from an open source project's
 code repository.  Unfortunately, the tools for analyzing metrics are
-complicated for decision makers without some technical know-how.  The
+complicated for decision-makers without some technical know-how.  The
 CHAOSS working group does provide open source software for running
 analytics on GitHub and GitLab, which are among most popular
 repository management services, as well as on issue tracking systems,
@@ -750,8 +759,13 @@ the use of DPGs
 when their use might contravene various social values.  Regardless of
 whether or not we call these licenses "open source", people working on
 DPGs in a government context might well come across DPGs that use
-these licenses.  This is a space to watch, and for now, the DPG standard does *not*
+these licenses.  This is a space to watch, perhaps especially as AI adoption grows.
+For now, the DPG standard does *not*
 include any of these ethical source license types. 
+
+**FUTURE WORK**: What are the additional ethical considerations specific to 
+machine-learning models and their related data and working with children and 
+vulnerable populations, and how are these best managed? 
 
 In considering commercial vs non-commercial communities, agencies
 should keep in mind that most jurisdictions have defined "commercial"
@@ -941,7 +955,8 @@ one's organization or through a consultant or vendor.  This can be a
 signal of investment, become more willing themselves to invest.
 
 More specific recommendations around lifecycle and maturity in
-assessing a project's adoptability are covered in the [Adoptability](adoptability.md#adoptability-assessment) module. 
+assessing a project's adoptability are covered in the
+ [Adoptability](adoptability.md#adoptability-assessment) module. 
 
 A final note on sustainability.  As noted, health -- and thus
 sustainability -- depends on whether a project is genuinely meeting
@@ -1082,6 +1097,14 @@ prediction
 services](https://digitalpublicgoods.net/registry/project-aedes.html) by incorporating other risk
 frameworks.  The new social enterprise would offer subscriptions to
 the insights.
+
+**FUTURE WORK**: How could government agencies play a role in enabling 
+innovative financial investments in DPGs to help with sustainability? Are some 
+financing methods -- or collection of methods -- 
+more suitable to particular areas and applications? (e.g. improving health versus 
+monitoring climate change impacts?)  What are the pros and cons of these methods? 
+What patterns might we discover when more DPGs are created and deployed?
+
 
 The most important take-away is to think about your DPG's financial
 sustainability from a project lifecycle viewpoint.  Early design and
