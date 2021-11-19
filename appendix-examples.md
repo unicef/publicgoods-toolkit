@@ -1,7 +1,7 @@
 # Appendix: Examples
 
 This appendix provides brief summaries of a few open projects --
-largely open source projects -- that exemplify a topic or
+largely open-source projects -- that exemplify a topic or
 recommendation covered in this paper, or that were interesting
 projects and products in some way.  Not all are DPGs.
 
@@ -49,7 +49,7 @@ support multi-jurisdictional adoption.
 
 ### VITAM
 
-[VITAM](https://www.programmevitam.fr/) is an open source project used
+[VITAM](https://www.programmevitam.fr/) is an open-source project used
 throughout France by jurisdictions and private companies to manage
 archiving of government documents.
 
@@ -68,7 +68,7 @@ support such tools.
 
 Open Referral publishes an API [Open Referral Human Services Data API
 (HSDA)](https://github.com/openreferral/api-specification) and related
-open source tools to support their mission.  More importantly, they've
+open-source tools to support their mission.  More importantly, they've
 engaged in several years of advocacy to spur adoption into existing
 solutions and by a variety of governments and agencies.  **Open Referral
 is a prime example of how open APIs mixed with a little technology and
@@ -88,12 +88,12 @@ open IT infrastructure.**
 
 Estonia's earliest guidance focused on how to efficiently build
 interoperable infrastructure that was thoughtfully user-centric. Open
-standards for interoperability, use of open source solutions and
+standards for interoperability, use of open-source solutions and
 attention to privacy were key points of guidance. Most of Estonia's
-e-services software is now open source. The government eventually
+e-services software is now open-source. The government eventually
 created an [e-state code repository for its
 software](https://koodivaramu.eesti.ee/users/sign_in):
-koodivaramu.eesti.ee (based on open source GitLab). It's notable that
+koodivaramu.eesti.ee (based on open-source GitLab). It's notable that
 this code repository was created by the Ministry of Economic Affairs
 as well as the Information Systems Authority, as **a key goal of the
 government's use of open source -- as well as of open data, available
@@ -170,7 +170,7 @@ for user verification.
 **Singapore was one of the first governments to deliver a
 community-driven, mobile COVID contact-tracing app**, pioneering the
 use of Bluetooth wireless communication in this space. The government
-open sourced their reference implementation of the BlueTrace protocol,
+open-sourced their reference implementation of the BlueTrace protocol,
 [OpenTrace](https://github.com/OpenTrace-community).
 
 
@@ -189,7 +189,7 @@ clauses for cross border data flows.
 
 A recommendation in evaluating Open Source Readiness -- and in moving
 up the 'readiness ladder' -- is to **look for places where
-collaboration through open source co-development could address common
+collaboration through open-source co-development could address common
 problems through small-scale, low-risk and even experimental
 engagements. Solving common problems can drive quick efficiencies and
 financial savings and build goodwill for greater collaboration.**
@@ -204,22 +204,22 @@ An example of a successful "low fruit, high shared reward" approach is
 the [United States Web Design
 System](https://designsystem.digital.gov/) (USWDS).  (Infrastructure
 for web site development and management has often been an area of
-early open source DPG collaboration). This [open source design
+early open-source DPG collaboration). This [open-source design
 system](https://github.com/uswds) helps federal agencies build
 accessible, mobile-friendly websites and saves significant time and
 effort. Not all of the thousands of web sites managed by over 400 US
 federal agencies need different forms, buttons and search bars!  USWDS
-was an early open source project across seven federal agencies, including 18F
-and Digital Government Services. A shared [open source web analytics
+was an early open-source project across seven federal agencies, including 18F
+and Digital Government Services. A shared [open-source web analytics
 solution](https://analytics.usa.gov/) was published around the same
-time. **The reliance on open source development and attention to
+time. **The reliance on open-source development and attention to
 community development has fostered vibrant participation from hundreds
 of government employees across agencies as well as volunteers from
 non-profit organizations, like Code for America.**
 
 ### Product: Checkbook NYC
 
-The city of New York operates an open source financial transparency
+The city of New York operates an open-source financial transparency
 application called [Checkbook
 NYC](https://www.checkbooknyc.com/spending_landing/yeartype/B/year/123).
 It allows citizens, journalists, and government contractors to see
@@ -249,12 +249,12 @@ available to support decision-making by governments, it realized there
 was a gap in the ecosystem.  Existing, entrenched vendors were not
 meeting all the mapping needs of civil society organizations.  Their
 tools were also prohibitively expensive.  The World Bank kick-started an
-open source project to fill the gap and lower prices and later successfully
+open-source project to fill the gap and lower prices and later successfully
 transitioned that effort to a community of organizations that took up
 development.  Vendors joined the ecosystem to support the product.
-Other open source efforts arose to interoperate
+Other open-source efforts arose to interoperate
 (e.g. [QGIS](https://qgis.org/en/site/forusers/download.html)).  The
-entire GIS sector enjoys much more open source support than it did
+entire GIS sector enjoys much more open-source support than it did
 before.
 
 Today, various tools from the original GeoNode codebase have migrated
@@ -265,7 +265,7 @@ open source is a realistic take of success at using open source to
 achieve goals in a sustainable way.  The work demonstrates that **open
 source investment can create many different types of outcomes**.
 
-For an analysis of GeoNode's open source work, please see [A Case
+For an analysis of GeoNode's open-source work, please see [A Case
 Study On Institutional Investments In Open
 Source](https://opendri.org/wp-content/uploads/2017/03/OpenDRI-and-GeoNode-a-Case-Study-on-Institutional-Investments-in-Open-Source.pdf).
 
@@ -322,7 +322,7 @@ Management Information System.  It is a data-collection effort used to
 inform policy at the state level.  States that receive federal support
 to address homelessness collect information to comply with funding
 program requirements.  The State of Georgia leads development of
-[OpenHMIS](http://openhmis.pcni.org/), an open source package that
+[OpenHMIS](http://openhmis.pcni.org/), an open-source package that
 helps states efficiently collect this information.
 
 **OpenHMIS is an example of where open source can play a lead role in
@@ -331,5 +331,5 @@ has to collect much the same data and submit it to HUD in much the
 same way, the software to support that data collection and submission
 has the same core requirements in every state.  Whenever that
 circumstance exists (and it exists quite often), there is an
-opportunity to develop an open source approach that eases the path to
+opportunity to develop an open-source approach that eases the path to
 compliance for all states.

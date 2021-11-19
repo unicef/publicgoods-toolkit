@@ -438,7 +438,7 @@ necessary data breach notification, forensics, credit protection services, publi
 
 ## Sample Contract Language: Open Source Quality Assurance 
 
-Below is an example **Statement of Work** for an open source project that includes points around Open Source Quality Assurance (OSQA). 
+Below is an example **Statement of Work** for an open-source project that includes points around Open Source Quality Assurance (OSQA). 
 
 **Overview**
 

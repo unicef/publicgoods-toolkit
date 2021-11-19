@@ -61,7 +61,7 @@ and helpful to you online.
 
 * The [Standard for Public Code](https://standard.publiccode.net),
   listed as a DPG itself, "gives public organizations a model for
-  building their own open source solutions to enable successful future
+  building their own open-source solutions to enable successful future
   reuse by similar public organizations in other places.  It includes
   guidance for policy makers, city administrators, developers and
   vendors." It lists straightforward tips, from how to welcome new
@@ -72,9 +72,9 @@ and helpful to you online.
   Toolkit](https://github.com/GSA/code-gov-open-source-toolkit): This
   is a United States government-wide project facilitated by the
   Code.gov team to produce "how to" documentation pertaining to
-  federal source code and open source software.  It provides guidance
+  federal source code and open-source software.  It provides guidance
   to agencies for creating and maintaining federal source code
-  inventories and open source repositories.  It's a mix of high-level
+  inventories and open-source repositories.  It's a mix of high-level
   and very specific tips and includes links to good additional
   resources.
 
@@ -106,13 +106,13 @@ For those who want to go deeper into community health, we recommend a review of
 this OSHEO framework. 
 Talking through the paper's understanding of broader project ecosystems -- noting 
 that project health does not necessarily equate with ecosystem health -- can be 
-particularly useful to teams looking to build an open source product whose 
+particularly useful to teams looking to build an open-source product whose 
 success in adoption and contribution depends on a broader ecosystem. 
 
-**Creating your own open source community**
+**Creating your own open-source community**
 
 There's a rich set of online materials about how to create and nurture
-a thriving open source community.  Some of our favorites include:
+a thriving open-source community.  Some of our favorites include:
 
 * The EU's [Guidelines for Sustainable Open Source Communities in the
   Public
@@ -120,14 +120,14 @@ a thriving open source community.  Some of our favorites include:
   (2020).  This aligns with the recommendations covered here, from a
   needs and readiness assessment to planning for long term
   sustainability.  It also includes a lits of key considerations to
-  building your own open source community.
+  building your own open-source community.
 
 * [Producing Open Source Software: How to Run a Successful Free
   Software Project](https://producingoss.com/en/index.html) reviews
-  the nuts and bolts of starting an open source project, as does the
+  the nuts and bolts of starting an open-source project, as does the
   TODO Group's [Starting an Open Source
   Project](https://todogroup.org/guides/starting/).  RedHat's
-  [Guidebook for open source community management: The Open Source Way
+  [Guidebook for open-source community management: The Open Source Way
   2.0](https://www.redhat.com/en/blog/guidebook-open-source-community-management-open-source-way-20)
   is another general guide that also includes a 'Community 101'
   primer.
@@ -153,8 +153,8 @@ a thriving open source community.  Some of our favorites include:
   community development and management, such as for volunteers
   collecting data or managing other data preparation and maintenance
   tasks.  In order to help its volunteer communities around languages
-  and voice data grow quickly and independently, the open source, open
-  data project Common Voice published a ['community
+  and voice data grow quickly and independently, the open-source, open-data
+  project Common Voice published a ['community
   playbook'](https://common-voice.github.io/community-playbook).  This
   guidance helps Mozilla track data collection around the globe and
   ensure high quality while letting independent, local efforts grow
@@ -168,7 +168,7 @@ a thriving open source community.  Some of our favorites include:
   
 * [Mozilla's Community Participation Guidelines
   (CPG)](https://www.mozilla.org/en-US/about/governance/policies/participation/)
-  is a great model to consider copying for your own open source
+  is a great model to consider copying for your own open-source
   project.  Mozilla's CPG is based on existing best practices and a
   good amount of hands-on experience and research into creating more
   inclusive contributor communities.  Note that it includes a clear
@@ -177,7 +177,7 @@ a thriving open source community.  Some of our favorites include:
   
 * The DPG OpenMRS has a good [code of
   conduct](https://wiki.openmrs.org/display/RES/OpenMRS+Code+of+Conduct)
-  that they adapted from the Ubuntu open source project.  [Mozilla's
+  that they adapted from the Ubuntu open-source project.  [Mozilla's
   2020 analysis of its contributor
   communities](https://report.mozilla.community/assets/report/Mozilla-Rebel-Alliance-Report-2020.pdf)
   also provides insight into how to support diversity and inclusion.
@@ -187,7 +187,7 @@ a thriving open source community.  Some of our favorites include:
   been translated into almost three dozen languages.
 
 Don't be put off by the thorough guides we cite above and feel that
-managing an open source project requires significant investment in
+managing an open-source project requires significant investment in
 community development and governance.  Deep investment isn't necessary
 for every project type.  For those where it makes sense, you should
 approach community development in phases and 'right size' investment
@@ -201,7 +201,7 @@ community discussion on Discourse.  If we had to peg this as an
 archetype, it's probably most akin to the Rocketship to Mars type.  They're
 open to anyone participating, but they're unlikely to invest in bringing people 
 onbaord unless they are clearly aligned and have needed skills. They are following
-open source best practices in order to create trust around their product, but 
+open-source best practices in order to create trust around their product, but 
 they don't need to build for a broader
 mass audience.
 
@@ -238,7 +238,7 @@ Source Software
 Development](https://www.archesproject.org/wp-content/uploads/2018/01/guidelines_funding_OSS.pdf])
 was written with an audience of public and private foundations in
 mind** and will give you a good sense of what many funders are likely
-to look for in a proposal that includes open source software
+to look for in a proposal that includes open-source software
 development.  Many of the points in these guidelines also show up in
 practical recommendations in this paper, but you might still benefit
 from glancing at this as you plan for your DPG.
@@ -296,8 +296,8 @@ agency level.  It's an excellent paper and recommended reading.
 The paper [Threats, Risks, and Mitigations in the Open Source
 Ecosystem](https://github.com/ossf/wg-identifying-security-threats/blob/main/publications/threats-risks-mitigations/v1.1/Threats%2C%20Risks%2C%20and%20Mitigations%20in%20the%20Open%20Source%20Ecosystem%20-%20v1.1.pdf)
 is a great overview of how to think about security from the
-perspective of an open source ecosystem (here, they use ecosystem to
-describe the set of things that comprise a specific open source
+perspective of an open-source ecosystem (here, they use ecosystem to
+describe the set of things that comprise a specific open-source
 project, such as developers, end users, technical architecture, and
 package libraries).
 
@@ -367,16 +367,16 @@ open project to succeed.  Regulation, policies and processes can set
 the boundaries of an environment and influence behaviour, but the
 execution is still up to individual human choice.
 
-Open source co-development often requires new tools and processes, and
+open-source co-development often requires new tools and processes, and
 that change must be supported by the organization's culture.  At its
-heart, open source collaboration requires communicating and coding in
+heart, open-source collaboration requires communicating and coding in
 the open.  This transparency brings the benefits outlined throughout
 this document, but it also opens the project -- and its human
 participants -- to feeling vulnerable to more criticism and being
-called out more easily for mistakes.  Open source collaboration can be
+called out more easily for mistakes.  open-source collaboration can be
 a significant change for a team or organization (recall our
 recommendation to consider if there is a low-risk project you can take
-on as an 'primer' open source experiment!).  Recognize that change
+on as an 'primer' open-source experiment!).  Recognize that change
 feels like a loss to many -- a loss of stability and what they knew
 about how to work -- and they will need leadership and guidance.  Be
 sure to keep conversations going in your team about how well your
@@ -384,13 +384,13 @@ organizational culture supports their needs.
 
 One of the greatest fears of many developers is to jeopardize a
 project's security and potentially harm real people.  Many might worry
-that open source code is itself a security vulnerability.  What if a
+that open-source code is itself a security vulnerability.  What if a
 mistake is made in the open? How can an agency decide what code should
 stay proprietary because of security concerns?
 
 The UK government has publicly wrangled with these issues and come up
 with useful guidance.  It's notable that their stance on how much code
-to develop through an open source model has changed from "most" to
+to develop through an open-source model has changed from "most" to
 "all, with very limited exceptions".  In short, their experience
 taught them that open sourcing code was actually a great way to
 confirm and enhance security, perhaps even particularly for code
@@ -427,7 +427,7 @@ is similarly straightforward:
 
 The [Open Source Maturity
 Model](https://en.wikipedia.org/wiki/OpenSource_Maturity_Model) is
-another way of evaluating an open source product for adoption.  It
+another way of evaluating an open-source product for adoption.  It
 covers the same points we review in the paper, but it has more of a
 process-oriented approach that also includes scoring and weighting.
 More background is in this article by Bernard Golden in [Technology

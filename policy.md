@@ -38,7 +38,7 @@ trust in its (and other's) X-Road investments.
 
 
 **KEY RECOMMENDATION**: Do not rely on security through obscurity: secrecy doesn't 
-equal security. Open source software provides the conditions for stronger security
+equal security. Open-source software provides the conditions for stronger security
 than proprietary software.  Evaluate how open source might bring new opportunities for 
 collaboration and 
 and cost sharing around improving security. 
@@ -98,7 +98,7 @@ standard](https://digitalpublicgoods.net/standard/).  It is aimed to help projec
 leaders and agency decision-makers implement successful DPGs, rather than to help
 policymakers craft good guidelines and rules at a national level.  This module 
 also provides
-an overview of open source licensing.
+an overview of open-source licensing.
 
 Government policies impact every aspect of a DPG, directly and
 indirectly, from the ease of creating new businesses and government
@@ -107,7 +107,7 @@ welfare to surveillance in the name of national security that
 erodes trust with vulnerable communities.  Government policies could
 encourage the creation of DPGs by linking early education investments
 in open source to fostering economic development (e.g.  India), or
-they could discourage DPGs by objecting to open source encryption
+they could discourage DPGs by objecting to open-source encryption
 methods that could help protect vulnerable populations or to openly sharing
 government data to help direct services to those most in need.
 Government policies work across borders as well, such as through
@@ -152,7 +152,7 @@ on [Procurement](procurement.md#procurement) and
 while we touch upon procurement policy as a national-level tool here,
 detailed procurement policy recommendations useful at a DPG level are
 in the [Procurement](procurement.md#procurement) module, and assessing
-security when evaluating an open source project is in the
+security when evaluating an open-source project is in the
 [Adoptability](adoptability.md#adoptability-assessment) module.  The
 exceptions to this are data privacy and cybersecurity policy at a
 national level, for which we also cover some recommendations here.
@@ -183,7 +183,7 @@ Permitted software licenses under the [Digital Public Good
 standard](https://digitalpublicgoods.net/standard/) are listed in
 UNICEF's [GitHub
 repository](https://github.com/unicef/publicgoods-candidates/blob/main/docs/licenses.md).
-All of these open source licenses have in common the basic permissions
+All of these open-source licenses have in common the basic permissions
 to run, copy, modify, and distribute the software, including AI
 models.  They each try to create a collaborative commons and a shared
 pool of value.  For all that these licenses differ from each other,
@@ -209,7 +209,7 @@ copyleft as a way to categorize licenses by how strict their copyleft
 requirements are.
 
 These three categories -- "permissive", "weak copyleft", and "strong
-copyleft" -- are well-recognized terms in the open source industry, and
+copyleft" -- are well-recognized terms in the open-source industry, and
 often the first step in considering a license is to classify it with
 one of those labels.  They are a common shorthand that often signal
 the most salient elements of a license for many purposes.
@@ -227,8 +227,8 @@ no significant restrictions.  Compliance with these licenses is
 bureaucratic and shouldn't ever affect the substance of a project.
 For the purposes of this discussion, the key takeaway is that
 permissive licenses allow you to make *proprietary* copies.  They
-allow you to take open source code and make things that themselves are
-not open source.
+allow you to take open-source code and make things that themselves are
+not open-source.
 
 The Apache Software License is similarly permissive and similarly
 bureaucratic.  Its primary differences from the other permissive
@@ -242,8 +242,8 @@ Beyond those permissive licenses, we start to see copyleft clauses.
 "Copyleft" is a play on words.  Whereas copyright is typically used to
 prevent people from sharing software, copyleft requires that
 permission to share attach to at least some of what you build.
-Copyleft restricts your ability to make non-open source software from
-open source ingredients.  It also means that companies using the
+Copyleft restricts your ability to make non-open-source software from
+open-source ingredients.  It also means that companies using the
 copyleft software would have to find revenue streams outside of
 controlling access to the source code.  This isn't inherently a bad
 thing!  There are plenty of revenue opportunities aside from such
@@ -321,8 +321,8 @@ which references Open Source Initiative(OSI) approved licenses. OSI provides mor
 [FAQ](https://opensource.org/faq).
 
 **RECOMMENDATION**: Remember that the processes, culture, and
-practices that support open source collaboration ultimately matter
-more to success than the particular open source license.  However, the
+practices that support open-source collaboration ultimately matter
+more to success than the particular open-source license.  However, the
 license you choose can affect potential downstream business models.
 This isn't inherently a bad thing - indeed, these limitations were
 created in order to encourage the growth of a software commons. Mapping out your 
@@ -573,7 +573,7 @@ beneficial to the public to force the fork to distinguish itself
 clearly from the original, that is, to avoid being an impostor.
 Trademarks can be powerful tools for preventing abuse and thus
 protecting trust in a DPG's brand.  Indeed, the technology industry has
-a [long history in using trademark protection of open source
+a [long history in using trademark protection of open-source
 products](https://producingoss.com/en/trademarks.html) in this way.
 Trademark for the DPG [Sunbird](https://www.sunbird.org/) is managed
 by the EkStep Foundation, which is the main supporter and developer of

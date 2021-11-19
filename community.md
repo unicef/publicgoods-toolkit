@@ -325,11 +325,11 @@ practices.
   so the presence of the dominant player does not usually imply a
   monopoly on support availability. 
   
-  The open source [WordPress web site builder](https://wordpress.com/)
+  The open-source [WordPress web site builder](https://wordpress.com/)
   is an example, where WordPress invests the most in developing the
   core platform but supports a range of indepdendent extension
   developers and professional services.  The City of Paris'
-  [Lutece](https://lutece.paris.fr/lutece/), an open source platform
+  [Lutece](https://lutece.paris.fr/lutece/), an open-source platform
   for municipal digital services, is a controlled ecosystem project
   that supports over 400 plugins created by cities and organizations
   accross the globe.  Estonia's DPG X-Road (now managed by the Nordic
@@ -345,15 +345,15 @@ practices.
   itself to having individual components run as quite different
   projects.  It's also a good example of a thoughtfully phased
   approach to DPG development that's taken advantage of the existing
-  global open source ecosystem.  
+  global open-source ecosystem.  
   
   Apache Fineract's back-end core banking
   functionality and open APIs were originally developed by the
   non-profit [Mifos](https://mifos.org) (Micro Finance Open Source)
   Initiative to encourage the growth of microfinance institutions.
-  Once Fineract's open source core platform was stable, Mifos transferred the
+  Once Fineract's open-source core platform was stable, Mifos transferred the
   code to the Apache Software Foundation, a non-profit organization
-  that hosts and fosters open source products (as noted above, the
+  that hosts and fosters open-source products (as noted above, the
   Apache HTTP server is probably its most well known product).  This
   cooperative division of labor let Apache Fineract develop on its own
   path - hosted by Apache, which has a track record of sustainable community 
@@ -370,8 +370,8 @@ practices.
   that's a complete 'off-the-shelf' solution, combining a web app
   (Mifos X Web App, formerly the Mifos Community App), a mobile app
   for field officers (Mifos Android), a mobile app for clients (Mifos
-  Mobile), open source Pentaho-based reports and a data import tool.  Each of the
-  Mifos extensions are also [open source
+  Mobile), open-source Pentaho-based reports and a data import tool.  Each of the
+  Mifos extensions are also [open-source
   DPGs](https://digitalpublicgoods.net/registry/).  In this way, Mifos
   X is more of a controlled ecosystem, with extensions and
   customization around a core platform.
@@ -477,10 +477,10 @@ sustainability.
 
 With an ecosystem map as background (see the [Adoptability](adoptability.md#ecosystem-mapping-for-adoptability) 
 module),consider what
-project archetype might roughly fit the open source project you're
+project archetype might roughly fit the open-source project you're
 evaluating or that you plan to launch. Although these maps are inexact
 approximations that change over time, this is a key level-setting
-exercise for your team when assessing an open source project or
+exercise for your team when assessing an open-source project or
 planning to create your own, and it should be periodically revisited.
 
 
@@ -535,7 +535,7 @@ how the Global Facility for Disaster Reduction and Recovery (GFDRR)
 invested in a diversified set of partners, in part by using modular
 contracting (see also [Procurement](procurement.md#procurement)), ultimately 
 creating a successfully
-self-sustaining open source project.
+self-sustaining open-source project.
 
 **KEY RECOMMENDATION** Look for diverse resource-committing participants, which 
 indicate stability, resilience, and growth potential for most project archetypes. 
@@ -750,7 +750,7 @@ software that discriminates against commercial use.  All commonly-used
 open-source licenses and most projects align on this point -- including the
  [DPG Standard](https://digitalpublicgoods.net/standard/).
 
-At the same time, some open source community members are offering
+At the same time, some open-source community members are offering
 "ethical source" licenses, such as 
 the [Hippocratic License](https://firstdonoharm.dev/).  These licenses restrict 
 the use of DPGs
@@ -899,7 +899,7 @@ In this instance, some community members might decide to make what's
 known as a 'hard fork' (or 'social fork') of the project.  This
 entails copying the source code and creating a separate open-source
 project that's able to develop in a new direction -- an action that's
-entirely impossible under a non-open source code license.  A well
+entirely impossible under a non-open-source code license.  A well
 known example of a hard fork would be the creation of LibreOffice from
 the OpenOffice code base, which was a mass market type open-source
 project sponsored by Sun Microsystems.  When Oracle acquired Sun
@@ -1045,7 +1045,7 @@ source approach, as well as to modular architectures and extensibility
 of inter-agency collaboration is precisely why centralized
 digital services agencies are often at the forefront of government
 digital transformation. In some instances, these might be areas for the lower-risk
- open source experiments we recommend for building skills and capacity (see the
+ open-source experiments we recommend for building skills and capacity (see the
  [Open Source Readiness](readiness.md#open-source-readiness) module.)
  
 [Social impact
@@ -1079,7 +1079,7 @@ existence.
 Direct crowdfunding and sponsorship might also be a viable financing
 option in some cases.  GitHub recently launched [GitHub
 Sponsors](https://github.com/sponsors) to let individuals and
-companies donate directly to GitHub hosted open source projects. 
+companies donate directly to GitHub-hosted open-source projects. 
 
 Lastly, charging for use might be an option as well.  For example, the
 DPG [ODK](https://getodk.org/) is free as a self-hosted solution for

@@ -312,7 +312,7 @@ contains information on open-source concerns that should be considered
 during that process but many points are also relevant in non-RFP
 requiring situations.
 
-First, it's essential to [include the requirement for open source
+First, it's essential to [include the requirement for open-source
 development and final product in the RFP stage](https://github.com/unicef/publicgoods-toolkit/blob/main/interviews/george-gelaga-king.md). 
 
 A common pitfall in procurement is beginning an RFI and RFP process
