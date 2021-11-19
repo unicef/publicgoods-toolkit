@@ -1,9 +1,8 @@
 # Adoptability Assessment
 
-
 **KEY RECOMMENDATION**: Review functionality, technical quality, and
 availability of support as well as the project's sustainability and
-responsiveness to its user base when evaluating an open source product for
+responsiveness to its user base when evaluating an open-source product for
 adoption.
   
 **KEY RECOMMENDATION**: To understand if a project is likely to develop a
@@ -43,7 +42,7 @@ Programming Interfaces (APIs) are available. These are necessary to the full
 range of the programmatic
 functionality you'll probably need, especially if you will work with
 data at scale (although a lack of published APIs isn't uncommon for
-early stage open source products, but if this is the case, they should
+early stage open-source products, but if this is the case, they should
 be on the project's roadmap). Lastly, be sure to get a detailed
 understanding the product's ability to import/export data, as you will
 surely need to work with legacy data at some point. Data portability
@@ -69,7 +68,7 @@ solutions for adoption suitability.
 technology choice considerations for DPGs, such as how to build for scalability?
 
 
-**KEY RECOMMENDATION**: To evaluate an open source product for adoption, you 
+**KEY RECOMMENDATION**: To evaluate an open-source product for adoption, you 
 need to look at it from several different perspectives:
 
 1. **Functionality.** Whether it has the functionality you need,
@@ -103,7 +102,7 @@ need to look at it from several different perspectives:
    project's development community?
 
 The sections that follow elaborate on some of the areas above and form
-a kind of checklist that you can use in evaluating an open source
+a kind of checklist that you can use in evaluating an open-source
 product for adoption as a DPG (or as part of a new DPG to be created).
 
 Throughout this module we will sometimes use the word "product" and
@@ -151,7 +150,7 @@ that distinction is important.
   until after the vulnerability is fixed and a new release of the
   product has been made.  (This means that such reports are not
   normal, publicly-posted bug tickets -- a rare exception to the rule
-  that information in an open source project is all publicly visible.)
+  that information in an open-source project is all publicly visible.)
 
   A good example of a [clearly documented security vulnerability reportin process 
   is from the Fedora
@@ -220,7 +219,7 @@ that distinction is important.
 
   [Mozilla's security web
   site](https://www.mozilla.org/en-US/security/) is another example of
-  how a commercial company that fosters numerous open source projects
+  how a commercial company that fosters numerous open-source projects
   communicates around security issues.
 
 * Are the project's dependencies up-to-date?
@@ -236,7 +235,7 @@ that distinction is important.
 
 * Has the project had a professional security audit performed?
 
-  It's not common for open source projects to have professional
+  It's not common for open-source projects to have professional
   security audits conducted, because such audits are expensive.
   However, it happens sometimes, and when it does happen that's a very
   good sign.  The results of the audit, which review security issues
@@ -518,7 +517,7 @@ supported language that most users prefer and that is supported
 best. A system based on a modular architecture, with loosely coupled software components, is one
 that's more easily extensible.
 
-Some well-known and widely-used open source systems owe much of their
+Some well-known and widely-used open-source systems owe much of their
 success and growth to being easily extensible in this fashion, such as: 
 [WordPress](https://wordpress.org/),
 [Drupal](https://www.drupal.org/),
@@ -526,7 +525,7 @@ success and growth to being easily extensible in this fashion, such as:
 [MediaWiki](https://www.mediawiki.org/),
 [Firefox](https://www.mozilla.org/firefox/new/), and
 [Chromium](https://www.chromium.org/).  Extensibility has a long
-history and is not confined to open source software, however.
+history and is not confined to open-source software, however.
 AutoCAD, a system for computer-aided drafting, has had an extension
 language since the mid-1980s, and Microsoft's Visual Studio
 development environment has a rich extension community primarily
@@ -583,7 +582,7 @@ has been designed properly.")
 
 ## Documentation
 
-Most open source software systems come with at least some
+Most open-source software systems come with at least some
 documentation -- that is, documentation that is officially maintained
 by the project itself and published together with the software.  Such
 documentation is actually a [DPG
@@ -666,7 +665,7 @@ companies.
 
 ## Non-Commercial Support Availability
 
-Open source projects often have quite responsive user support forums --
+Open-source projects often have quite responsive user support forums --
 places where anyone who has deployed or who uses the software can ask
 a question and get answers from experienced users (for example, see
 the [Apache HTTP Server user
@@ -745,7 +744,7 @@ vendor(s) to show where their past attempts to influence have been
 successful and how.  You can also do it directly, with a little more
 effort, by looking at the project's governance and the discussions
 that lead to new features and roadmap decisions.  Although any form of
-open source project governance can, in principle, be amenable to
+open-source project governance can, in principle, be amenable to
 influence, in practice projects that are run by committee are more
 reliably amenable to influence, because you have the possibility of
 being on that committee -- or, rather, of being represented on the

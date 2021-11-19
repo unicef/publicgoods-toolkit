@@ -13,11 +13,11 @@ The purpose of this toolkit is to provide country governments and UN-affiliated 
 
 3. **The sustainability of DPGs**: how could certain government agencies play a role in enabling innovative financial investment in DPGs so they are sustainable? 
 
-4. **The security of DPGs**: how could certain governments align an open source software with the national legal and policy frameworks especially around cybersecurity, data privacy and ownership? 
+4. **The security of DPGs**: how could certain governments align an open-source software with the national legal and policy frameworks especially around cybersecurity, data privacy and ownership? 
 
-5. **The readiness for nationwide use of DPGs**: how could certain governments build internal capacity to utilize, produce, run and maintain open source software, standards, content and AI models? How might governments encourage maintenance and incentivize quality for open source solutions and ensure that it is sustainable in a cost-effective way (i.e. requiring security audits)? 
+5. **The readiness for nationwide use of DPGs**: how could certain governments build internal capacity to utilize, produce, run and maintain open-source software, standards, content and AI models? How might governments encourage maintenance and incentivize quality for open-source solutions and ensure that it is sustainable in a cost-effective way (i.e. requiring security audits)? 
 
-6. **Procurement and Adoption**: What are low- and middle-income government procurement requirements, motivations for procurement, and the perceived risks for government related to adopting open source technologies? What are some recommendations for structuring a procurement process that is sustainable and equitable? What are open source projects that have been successfully adopted and what made them successful? 
+6. **Procurement and Adoption**: What are low- and middle-income government procurement requirements, motivations for procurement, and the perceived risks for government related to adopting open-source technologies? What are some recommendations for structuring a procurement process that is sustainable and equitable? What are open-source projects that have been successfully adopted and what made them successful? 
 
 7. **Product-Level Government Adoptability of DPGs**: What factors can governments use to evaluate the decision to deploy certain DPGs based on product-level criteria i.e. quality, maturity, security and utility?  
 
@@ -45,7 +45,7 @@ This toolkit is the work of the [UNICEF Office of Innovation](https://www.unicef
         * Guides and recommendations for creating a policy environment and structures needed for deploying and scaling open-source solutions, including cybersecurity,  data privacy and protection 
         * Frameworks and Tools for evaluating the value and costs of digital public goods, including frameworks to estimate the value of a DPG such as "social return on investment", frameworks to evaluate both the development and ongoing costs of a DPG 
         * Readiness for a digital public good to be adopted at the country-level 
-        * Recommendations for structuring a procurement process that is suitable for open source solutions 
+        * Recommendations for structuring a procurement process that is suitable for open-source solutions 
         * Options for financing digital public goods as well as the related pros and cons
         * Guidance and frameworks for governments on developing relevant internal capacity within in order to scale DPGs, including the need to maintain quality 
         * A "government adoptability" tool for governments to assess the maturity and readiness for a digital public good to be adopted at the country-level 
@@ -56,7 +56,7 @@ This toolkit is the work of the [UNICEF Office of Innovation](https://www.unicef
 
 5. It is formatted  in a way such that it could be transformed into modular, interactive online website that will be user-friendly and easy to navigate.  
 
-6. It is made open source and/or published under Creative Commons – Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) where possible and unless otherwise specified 
+6. It is made open-source and/or published under Creative Commons – Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) where possible and unless otherwise specified 
 
 ## Contributing
 
