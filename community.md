@@ -82,8 +82,8 @@ this module provides guidance on
 understanding project-level open-source communities and ecosystems.  The 
 [Adoptability](adoptability.md#adoptability-assessment) module provides even more 
 detailed
-recommendations for applying this understanding to evaluating open
-source projects, including how to map a project's ecosystem. The [Appendix: Resources and Tools](appendix-resources-tools.md#appendix-resources-tools) also provides some insight into creating and nuturing
+recommendations for applying this understanding to evaluating open-source
+projects, including how to map a project's ecosystem. The [Appendix: Resources and Tools](appendix-resources-tools.md#appendix-resources-tools) also provides some insight into creating and nuturing
 an open-source community, but this is also a topic for future toolkit development.
 
 **FUTURE WORK**: Are there unique lessons to be learned from community development 
@@ -451,8 +451,8 @@ archetypes.  All of these are candidates for projects led by or
 originating in government agencies, depending on strategic and policy
 needs.
 
-There are other cases where archetypes help us understand the open
-source world around us.  In each case, the archetypes are a rough lens
+There are other cases where archetypes help us understand the open-source
+world around us.  In each case, the archetypes are a rough lens
 that leads us to clarify our view of a product's position.  
 
 The archetypes, though, are just a starting point for consideration.  They 
@@ -1038,8 +1038,8 @@ who share your problem and are willing to collaborate to solve
 it.  Each agency might hold tight to a set of features it believes are
 paramount and not see the value of collaborating to get to an 80%
 solution that they can then refine.  However, solving shared problems
-while permitting flexibility for differentiation is core to the open
-source approach, as well as to modular architectures and extensibility
+while permitting flexibility for differentiation is core to the open-source
+approach, as well as to modular architectures and extensibility
 (see [Procurement](procurement.md#procurement) and 
 [Adoptability](adoptability.md#adoptability-assessment) modules).  Still, the benefits 
 of inter-agency collaboration is precisely why centralized

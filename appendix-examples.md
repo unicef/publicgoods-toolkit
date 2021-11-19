@@ -10,8 +10,8 @@ projects and products in some way.  Not all are DPGs.
 The Canadian Digital Service (CDS) is a centralized resource for the
 federal Canadian government that builds tools, technologies and
 processes that can be (re)used across agencies, with the goal of
-improving public services. Their products [are developed under open
-source
+improving public services. Their products [are developed under
+open-source
 models](https://digital.canada.ca/2020/02/24/why-open-source-matters)
 and freely available on GitHub. **All are licensed under the common
 MIT license in order to encourage broad collaboration and greater
@@ -110,8 +110,8 @@ collaborating on common digital infrastructure useful to each
 state. In 2017, it founded the Nordic Digital Infrastructure Institute
 to help govern and foster the joint development of basic e-service
 infrastructure across regional partners. Estonia, Finland and Iceland
-are members. Estonia moved the governance of X-Road, its open
-source data exchange software that powers much of its government
+are members. Estonia moved the governance of X-Road, its open-source
+data exchange software that powers much of its government
 e-services, to this new organization, along with a few other
 components. X-Road is under an MIT license, but the trademark is
 still held by the Estonian government, giving them the essential tool
@@ -262,8 +262,8 @@ to other projects, been integrated in proprietary tools from new
 vendors (chiefly BoundlessGeo), and are all available at significantly
 lower cost than before. Overall, World Bank's GeoNode investment in
 open source is a realistic take of success at using open source to
-achieve goals in a sustainable way.  The work demonstrates that **open
-source investment can create many different types of outcomes**.
+achieve goals in a sustainable way.  The work demonstrates that
+**open-source investment can create many different types of outcomes**.
 
 For an analysis of GeoNode's open-source work, please see [A Case
 Study On Institutional Investments In Open

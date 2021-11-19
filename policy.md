@@ -304,8 +304,8 @@ to receive a copy of the software and all open-source rights to run,
 copy, modify, and distribute it.
 
 The DPG [VIPS](https://nibio.no/en/services/vips), created by the
-Norwegian Institute of Bioeconomy Research (NIBIO), provides an open
-source platform for decision support in integrated management of
+Norwegian Institute of Bioeconomy Research (NIBIO), provides an
+open-source platform for decision support in integrated management of
 pests, diseases and weeds.  Their work is [licensed under AGPL, with a
 specific exemptions for forecasting
 models](https://gitlab.nibio.no/VIPS/VIPSCommon/-/blob/4bd37abda46a0de0765ae6fd936686a1307d7d4d/LICENSE.txt).

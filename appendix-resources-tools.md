@@ -94,8 +94,8 @@ Mozilla, the non-profit managed company behind the Firefox web browser
 and other open, web-focused products, recently published a [report on
 its numerous, varied contributor
 communities](https://report.mozilla.community) (see the .pdf version).
-This report posits a vision for comprehensively understanding open
-source health, following a rather academic approach called the 
+This report posits a vision for comprehensively understanding
+open-source health, following a rather academic approach called the 
 [Open Source Ecosystem Health Operationalization
 (OSEHO) framework](https://www.researchgate.net/publication/261715766_Measuring_the_Health_of_Open_Source_Software_Ecosystems_Beyond_the_Scope_of_Project_Health), 
 and applies an

@@ -658,8 +658,8 @@ directory](https://mojaloop.io/business-directory/)), the vendor should
 be on that list.
 
 **KEY RECOMMENDATIONS**: If possible, work with vendors that can show solid, public 
-evidence of their contributions to the project.  Again, it's a good sign if an open 
-source product
+evidence of their contributions to the project.  Again, it's a good sign if an
+open-source product
 has commercial support around it, such as consulting and development
 companies. 
 
