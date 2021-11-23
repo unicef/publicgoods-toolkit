@@ -412,7 +412,7 @@ license](https://digitalpublicgoods.net/standard/) for software.
 
 * Establish copyright ownership clearly.
 
-  open-source licenses are still copyright licenses, and therefore
+  Open-source licenses are still copyright licenses, and therefore
   they assume that the licensed work has a copyright holder.  It does
   not always matter greatly who that holder is: in some circumstances,
   it might be most appropriate for the public agency responsible for a
@@ -1400,7 +1400,7 @@ their digital skills but also help them develop skills needed for
 success in our deeply uncertain future, such as teamwork, critical
 thinking and problem solving, and communication.  Open-source
 learning doesn't have to be just in curriculum and teaching methods.
-Learning-by-doing programs, like hackathons and oopen innovation challenges, are 
+Learning-by-doing programs, like hackathons and open innovation challenges, are 
 fantastic ways
 to engage students in solving local problems that matter to them (and
 they're great ways to engage students in your DPG!).
