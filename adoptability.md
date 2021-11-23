@@ -1,9 +1,8 @@
 # Adoptability Assessment
 
-
 **KEY RECOMMENDATION**: Review functionality, technical quality, and
 availability of support as well as the project's sustainability and
-responsiveness to its user base when evaluating an open source product for
+responsiveness to its user base when evaluating an open-source product for
 adoption.
   
 **KEY RECOMMENDATION**: To understand if a project is likely to develop a
@@ -43,7 +42,7 @@ Programming Interfaces (APIs) are available. These are necessary to the full
 range of the programmatic
 functionality you'll probably need, especially if you will work with
 data at scale (although a lack of published APIs isn't uncommon for
-early stage open source products, but if this is the case, they should
+early stage open-source products, but if this is the case, they should
 be on the project's roadmap). Lastly, be sure to get a detailed
 understanding the product's ability to import/export data, as you will
 surely need to work with legacy data at some point. Data portability
@@ -69,7 +68,7 @@ solutions for adoption suitability.
 technology choice considerations for DPGs, such as how to build for scalability?
 
 
-**KEY RECOMMENDATION**: To evaluate an open source product for adoption, you 
+**KEY RECOMMENDATION**: To evaluate an open-source product for adoption, you 
 need to look at it from several different perspectives:
 
 1. **Functionality.** Whether it has the functionality you need,
@@ -103,7 +102,7 @@ need to look at it from several different perspectives:
    project's development community?
 
 The sections that follow elaborate on some of the areas above and form
-a kind of checklist that you can use in evaluating an open source
+a kind of checklist that you can use in evaluating an open-source
 product for adoption as a DPG (or as part of a new DPG to be created).
 
 Throughout this module we will sometimes use the word "product" and
@@ -151,7 +150,7 @@ that distinction is important.
   until after the vulnerability is fixed and a new release of the
   product has been made.  (This means that such reports are not
   normal, publicly-posted bug tickets -- a rare exception to the rule
-  that information in an open source project is all publicly visible.)
+  that information in an open-source project is all publicly visible.)
 
   A good example of a [clearly documented security vulnerability reportin process 
   is from the Fedora
@@ -197,7 +196,7 @@ that distinction is important.
   used, and evaluated, see
   [Producing Open Source](https://producingoss.com/en/publicity.html#security).  
   For a particularly clear exposition of how one
-  large open source project uses CVE numbers, see the [Debian GNU/Linux project's description](https://www.debian.org/security/cve-compatibility).
+  large open-source project uses CVE numbers, see the [Debian GNU/Linux project's description](https://www.debian.org/security/cve-compatibility).
   
 
   This may sound surprising, but if a project has a history of
@@ -220,7 +219,7 @@ that distinction is important.
 
   [Mozilla's security web
   site](https://www.mozilla.org/en-US/security/) is another example of
-  how a commercial company that fosters numerous open source projects
+  how a commercial company that fosters numerous open-source projects
   communicates around security issues.
 
 * Are the project's dependencies up-to-date?
@@ -236,7 +235,7 @@ that distinction is important.
 
 * Has the project had a professional security audit performed?
 
-  It's not common for open source projects to have professional
+  It's not common for open-source projects to have professional
   security audits conducted, because such audits are expensive.
   However, it happens sometimes, and when it does happen that's a very
   good sign.  The results of the audit, which review security issues
@@ -331,7 +330,7 @@ installed on one server machine, because that way is simplest to
 maintain.  But if your intended usage needs to scale to millions of
 users (or to [1.25 billion
 citizens](https://media.un.org/en/asset/k17/k17a9bg6o8), as is the
-case with India's open source digital ID solution), or to millions of
+case with India's open-source digital ID solution), or to millions of
 some other kind of data item, then you will likely need a more complex
 configuration, with the database portion of the software running on
 many separate servers, various kinds of monitoring and
@@ -498,7 +497,7 @@ Programming Interfaces (APIs), which are very important to supporting a full
 range of the functionality
 you'll likely need. Check documentation and search for examples on the
 Internet of people using that API to accomplish real-world tasks. Lack
-of published APIs isn't uncommon for early stage open source products,
+of published APIs isn't uncommon for early stage open-source products,
 but this situation (or lack of a roadmap) is unacceptable for products
 intended to work with data at scale.
 
@@ -518,7 +517,7 @@ supported language that most users prefer and that is supported
 best. A system based on a modular architecture, with loosely coupled software components, is one
 that's more easily extensible.
 
-Some well-known and widely-used open source systems owe much of their
+Some well-known and widely-used open-source systems owe much of their
 success and growth to being easily extensible in this fashion, such as: 
 [WordPress](https://wordpress.org/),
 [Drupal](https://www.drupal.org/),
@@ -526,7 +525,7 @@ success and growth to being easily extensible in this fashion, such as:
 [MediaWiki](https://www.mediawiki.org/),
 [Firefox](https://www.mozilla.org/firefox/new/), and
 [Chromium](https://www.chromium.org/).  Extensibility has a long
-history and is not confined to open source software, however.
+history and is not confined to open-source software, however.
 AutoCAD, a system for computer-aided drafting, has had an extension
 language since the mid-1980s, and Microsoft's Visual Studio
 development environment has a rich extension community primarily
@@ -564,7 +563,7 @@ prefer vendors that have demonstrated experience writing extensions,
 especially vendors who are well-represented in the public marketplace
  of extensions that may be used with the system (if any exist).
 
-**RECOMMENDATION**: An open source product's extensibility is
+**RECOMMENDATION**: An open-source product's extensibility is
 often a sign of maturity, as it's developed enough to have a stable
 foundation and pushes flexibility through extensions that can change
 more often to meet more specific, and varied, user needs. When you are
@@ -583,7 +582,7 @@ has been designed properly.")
 
 ## Documentation
 
-Most open source software systems come with at least some
+Most open-source software systems come with at least some
 documentation -- that is, documentation that is officially maintained
 by the project itself and published together with the software.  Such
 documentation is actually a [DPG
@@ -617,7 +616,7 @@ their proprietary documentation for functionality that is part of the
 public product.  Responsible vendors who are maintaining a healthy
 relationship with the project's development community will generally
 focus on improving the project's documentation rather than maintaining
-a separate, non-open source set of documentation that's just for their
+a separate, non-open-source set of documentation that's just for their
 customers.
 
 **KEY RECOMMENDATION**: Look at the product's installation and
@@ -659,14 +658,14 @@ directory](https://mojaloop.io/business-directory/)), the vendor should
 be on that list.
 
 **KEY RECOMMENDATIONS**: If possible, work with vendors that can show solid, public 
-evidence of their contributions to the project.  Again, it's a good sign if an open 
-source product
+evidence of their contributions to the project.  Again, it's a good sign if an
+open-source product
 has commercial support around it, such as consulting and development
 companies. 
 
 ## Non-Commercial Support Availability
 
-Open source projects often have quite responsive user support forums --
+Open-source projects often have quite responsive user support forums --
 places where anyone who has deployed or who uses the software can ask
 a question and get answers from experienced users (for example, see
 the [Apache HTTP Server user
@@ -690,7 +689,7 @@ The quality of non-commercial support can vary over time.  Some
 projects have a healthy, enduring culture and process to consistently
 maintain support.  Other projects overly depend on one or several
 individuals who take support upon themselves.  In assessing a
-project's ability to provide open source support, it can be useful to
+project's ability to provide open-source support, it can be useful to
 see who and how many people are providing that support over what time
 period.  The strongest signal of high-level support will be when help
 is provided in general by a community and there is a culture of
@@ -745,11 +744,11 @@ vendor(s) to show where their past attempts to influence have been
 successful and how.  You can also do it directly, with a little more
 effort, by looking at the project's governance and the discussions
 that lead to new features and roadmap decisions.  Although any form of
-open source project governance can, in principle, be amenable to
+open-source project governance can, in principle, be amenable to
 influence, in practice projects that are run by committee are more
 reliably amenable to influence, because you have the possibility of
 being on that committee -- or, rather, of being represented on the
-committee by an existing member.  Recall too that open source projects
+committee by an existing member.  Recall too that open-source projects
 later in their lifecycle are often less open to influence, as they
 will generally prioritize stability.  This is usually true for modular
 projects as well, although their exensibility does give you a path for
@@ -770,7 +769,7 @@ available) will allow you to make rough guesses about the possibility
 and usefulness of having long-term influence in the project and about
 what sort of commitment of resources that influence might require.
 
-**RECOMMENDATION**: Open source projects have lifecycles, and the
+**RECOMMENDATION**: Open-source projects have lifecycles, and the
 maturity level of a project will generally dictate your ability to
 influence and level/type of investment needed.
 

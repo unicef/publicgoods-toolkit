@@ -438,7 +438,7 @@ necessary data breach notification, forensics, credit protection services, publi
 
 ## Sample Contract Language: Open Source Quality Assurance 
 
-Below is an example **Statement of Work** for an open source project that includes points around Open Source Quality Assurance (OSQA). 
+Below is an example **Statement of Work** for an open-source project that includes points around Open Source Quality Assurance (OSQA). 
 
 **Overview**
 
@@ -449,7 +449,7 @@ Following the open-sourcing of Software, Vendor proposes to assist Client State 
   - Manage third-party contributions: Help manage code contributions and other contributions from third-party contributors.
 - Assist with public communications: Help inform governments and the civic technology community about Software's availability and capabilities.
  - Plan and advise on long-term maintenance: Help find or create an appropriate long-term home for the Software source code and related assets, to support long-term maintenance while also ensuring that State's needs with respect to Software continue to be met.  This involve forming or joining a consortium.
- - Develop open source contracting and procurement language: See description below.
+ - Develop open-source contracting and procurement language: See description below.
  - Advise on open source / open technology processes: See description below.
  - Hackathons / Events: Organize and/or assist in organizing hackathons and other events to promote actionable interest in Software.
 
@@ -471,9 +471,9 @@ Vendor will perform technical analysis and make technical and documentation impr
 
 Manage third-party contributions
 
-Many aspects of managing incoming open source contributions (core code, documentation, sample data, third-party deployment scripts, bug reports, etc) do not require deep technical expertise in the software.  Vendor proposes to handle, as an ongoing process, the parts of contribution management than can be separated from in-depth code review and technical decision-making.  State and Vendor would of course still make final decisions about what contributions to accept, and how, but Vendor would take care of the entry-level open source project management bureaucracy as much as possible, including but not necessarily limited to:
+Many aspects of managing incoming open-source contributions (core code, documentation, sample data, third-party deployment scripts, bug reports, etc) do not require deep technical expertise in the software.  Vendor proposes to handle, as an ongoing process, the parts of contribution management than can be separated from in-depth code review and technical decision-making.  State and Vendor would of course still make final decisions about what contributions to accept, and how, but Vendor would take care of the entry-level open-source project management bureaucracy as much as possible, including but not necessarily limited to:
 
- - Day-to-day communications with participants in the project's open source forums;
+ - Day-to-day communications with participants in the project's open-source forums;
  - First-pass review of contributions, to ensure proper formatting, description (log message), etc;
   - First-pass review of public bug reports, to have initial dialogue with the reporter, resolve duplicates, make sure proper reproduction recipes are included, answer common questions, spot trends in the user community, etc.
  - Monitoring of the public discussion forums, to make sure the right parties are talking to each other, to help gather a formal knowledge base (e.g., FAQ) about the software, and to flag important items for State and/or Vendor's attention
@@ -482,11 +482,11 @@ Many aspects of managing incoming open source contributions (core code, document
 - Management of public-facing documentation, to the extent that deep technical knowledge of Software is not required (which we anticipate being a fairly broad extent);
  - Coordinate with Vendor on contributions that are being accepted into the core code for general release, to make sure that the internal development process is plugged into the public forums in ways the community can use.
 
-We believe that this semi-separable part of contribution management is probably more than half of the typical public engagement overhead of running an open source project – speaking roughly, somewhere between 70% and 75% of that overhead.  Having Vendor handle this portion would allow Vendor to concentrate on technical review and on just the communications that directly involve core code or State-desired features, and maximize the project's ability to get the full advantage of public engagement, which, if done right, far outweighs the overhead.  Vendor would of course remain free to become as involved with public technical engagement as they wish to be & have the bandwidth to be, and Vendor would fully support them in this.
+We believe that this semi-separable part of contribution management is probably more than half of the typical public engagement overhead of running an open-source project – speaking roughly, somewhere between 70% and 75% of that overhead.  Having Vendor handle this portion would allow Vendor to concentrate on technical review and on just the communications that directly involve core code or State-desired features, and maximize the project's ability to get the full advantage of public engagement, which, if done right, far outweighs the overhead.  Vendor would of course remain free to become as involved with public technical engagement as they wish to be & have the bandwidth to be, and Vendor would fully support them in this.
 
 Assist with public communications
 
-Running an open source project with a primary stakeholder of State's size inevitably involves moments when messaging (about the inclusion or exclusion of a core feature, for example) must be done in a careful and well-considered manner, in ways that will be comprehensible by both the open source and civic technology communities – including government officials and other vendors.
+Running an open-source project with a primary stakeholder of State's size inevitably involves moments when messaging (about the inclusion or exclusion of a core feature, for example) must be done in a careful and well-considered manner, in ways that will be comprehensible by both the open-source and civic technology communities – including government officials and other vendors.
 
 There are more and less successful ways to send such messages.  The more successful ones leave all stakeholders feeling confident about the project and its future (even if their particular concern or bug was not addressed, or even was exacerbated).  The less successful ones leave some stakeholders feeling uncertain, and possibly reconsidering their involvement or their adoption of the software.  Vendor proposes to assist with such public communications, taking an advisory role in both drafting and reviewing them, in helping to determine which forums and media to broadcast such messages in, and in managing responses to incoming communications.
 
@@ -496,13 +496,13 @@ The Software's long-term maintenance may involve participation by multiple citie
 
 Vendor will provide both structural advice, negotiation help, and, if necessary, legal assistance in setting up or joining such a body, in such a way as to ensure that State's interests are protected along with the long-term health of the Software code.  We emphasize that the success of any such consortium-based maintenance plan depends much more on the technical success and adoption of Software itself than on the particular arrangement of the consortium: no shared maintenance effort can succeed if the software itself is not successful, while even a flawed shared maintenance arrangement can still succeed quite well if the software is fundamentally healthy and in demand.
 
-Develop open source contracting and procurement language
+Develop open-source contracting and procurement language
 
-Vendor will work with State to collect and analyze (from an open source development perspective) the State's experiences in the Software's procurement and development contract, and suggest language or process improvements that could help build open source practices into Software and future software projects from the start, in a way compatible with State's existing procurement procedures.
+Vendor will work with State to collect and analyze (from an open-source development perspective) the State's experiences in the Software's procurement and development contract, and suggest language or process improvements that could help build open-source practices into Software and future software projects from the start, in a way compatible with State's existing procurement procedures.
 
-Advise on open source / open technology processes
+Advise on open-source / open-technology processes
 
-During the phase leading up to the open sourcing, we discovered that various unforeseen questions related to open source processes and technology tend to arise.  Their exact topics and timing at least cannot be reliably predicted (for example, in the couple of weeks immediately prior to this draft SOW, we discussed open source databases and deployment procedures in some depth, security audit contracting & timing, and other things).  However, statistically, the overall rate and complexity of the questions is somewhat predictable, so we propose to simply budget for it explicitly in phase two.
+During the phase leading up to the open sourcing, we discovered that various unforeseen questions related to open-source processes and technology tend to arise.  Their exact topics and timing at least cannot be reliably predicted (for example, in the couple of weeks immediately prior to this draft SOW, we discussed open-source databases and deployment procedures in some depth, security audit contracting & timing, and other things).  However, statistically, the overall rate and complexity of the questions is somewhat predictable, so we propose to simply budget for it explicitly in phase two.
 
 Hackathons / Events
 
@@ -518,24 +518,24 @@ Schedule and costs
 
    - Open Source Program Manager:
 
-Minimum general experience:  Experience as a developer and community manager on multiple open source projects; experience releasing third-party code as open source; experience using and deploying open source software in large-scale enterprises.  Has active account on one or more public open source project hosting sites.
+Minimum general experience:  Experience as a developer and community manager on multiple open-source projects; experience releasing third-party code as open source; experience using and deploying open source software in large-scale enterprises.  Has active account on one or more public open-source project hosting sites.
 
-Function responsibility in project: Oversee entire engagement.  Coordinate technical work (including in-house and third-party technical work) to use open source community involvement as much as possible in meeting client's needs. Assist client with public messaging, with building a maintenance consortium, and with monitoring and maintaining consistency between different instantiations of the code base.  Monitor deployability and maintainability, including organizing and channeling third-party feedback on deployments and on data import/export process.  Organize hackathons and events related to the open source product.  Advise on open source and open technology process generally, including but not limited to advice on RFI/RFP language and contract language.
+Function responsibility in project: Oversee entire engagement.  Coordinate technical work (including in-house and third-party technical work) to use open-source community involvement as much as possible in meeting client's needs. Assist client with public messaging, with building a maintenance consortium, and with monitoring and maintaining consistency between different instantiations of the code base.  Monitor deployability and maintainability, including organizing and channeling third-party feedback on deployments and on data import/export process.  Organize hackathons and events related to the open-source product.  Advise on open-source and open-technology process generally, including but not limited to advice on RFI/RFP language and contract language.
 
 Minimum education + experience: [...] 
 
    - Open Source Project Manager:
 
-Minimum general experience:  Experience as a developer and manager on multiple open source projects.  Has active account on one or more public open source project hosting sites.
+Minimum general experience:  Experience as a developer and manager on multiple open-source projects.  Has active account on one or more public open-source project hosting sites.
 
-Function responsibility in project: Manage day-to-day interactions with client, especially on technical work.  Manage day-to-day interactions between Software Engineer and client's other contractors who are involved in technical work on the open source product.  Help ensure that all contributions, including those from client's other contractors and from third parties, are properly and consistently incorporated into public open source repositories as appropriate.  Monitor community forums, bug tracking database, wiki, documentation, etc.  Provide prioritization guidance on technical tasks.  Manage Open Source Software Engineers.
+Function responsibility in project: Manage day-to-day interactions with client, especially on technical work.  Manage day-to-day interactions between Software Engineer and client's other contractors who are involved in technical work on the open source product.  Help ensure that all contributions, including those from client's other contractors and from third parties, are properly and consistently incorporated into public open-source repositories as appropriate.  Monitor community forums, bug tracking database, wiki, documentation, etc.  Provide prioritization guidance on technical tasks.  Manage Open Source Software Engineers.
 
 Minimum education + experience:[...]
 
   - Open Source Software Engineer:
 
-Minimum general experience:  Experience as a developer on at least two open source projects.  Has active account on one or more open source project hosting sites.
+Minimum general experience:  Experience as a developer on at least two open-source projects.  Has active account on one or more open-source project hosting sites.
 
-Function responsibility in project: Make technical improvements to the open source product as required for successful deployment by third parties.  Code, document, and test various aspects of the product, including but not limited to the data import process, data export and APIs, and deployment scripts.  Coordinate with other engineers making technical contributions, including both engineers from client's other contractors and from involved third parties.  
+Function responsibility in project: Make technical improvements to the open-source product as required for successful deployment by third parties.  Code, document, and test various aspects of the product, including but not limited to the data import process, data export and APIs, and deployment scripts.  Coordinate with other engineers making technical contributions, including both engineers from client's other contractors and from involved third parties.  
 
 Minimum education + experience: [...]

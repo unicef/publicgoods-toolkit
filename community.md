@@ -1,16 +1,16 @@
 # Community And Ecosystem
 
-**KEY RECOMMENDATION**: Note how an open source community generally follows a 
-'project archetype.' Communities and ecosystems around open source
+**KEY RECOMMENDATION**: Note how an open-source community generally follows a 
+'project archetype.' Communities and ecosystems around open-source
 projects are not all the same. Project archetypes describe these
 differences and can help you understand a project's dynamics, health,
-and sustainability. This is useful when assessing an open source
-project for adoption or in creating your own open source
+and sustainability. This is useful when assessing an open-source
+project for adoption or in creating your own open-source
 project, as these insights can help you set expections and plan
 investments.
 
 EXAMPLE: The City of Paris' [Lutece](https://lutece.paris.fr/lutece/),
-an open source platform for municipal digital services, largely aligns
+an open-source platform for municipal digital services, largely aligns
 with the Controlled Ecosystem archetype, in which a 'benevolent
 dictator' (here, the City of Paris) manages the core platform that
 supports over [400 customized plugins created by cities and
@@ -72,18 +72,18 @@ offline data collection, but the organization also provides
 tiers](https://getodk.org/#odk-cloud).
 
 Understanding how to work with, participate in, and foster a
-successful open source project is not just a matter of understanding
+successful open-source project is not just a matter of understanding
 the software at a technical level; it also requires understanding the
 motivations and interrelationships of the people and organizations who
 do make up the project.  While we touch upon some aspects of finding
 or nurturing a broader DPG supportive ecosystem at the national level
 in the [Appendix: Resources and Tools](appendix-resources-tools.md#appendix-resources-tools), 
 this module provides guidance on
-understanding project-level open source communities and ecosystems.  The 
+understanding project-level open-source communities and ecosystems.  The 
 [Adoptability](adoptability.md#adoptability-assessment) module provides even more 
 detailed
-recommendations for applying this understanding to evaluating open
-source projects, including how to map a project's ecosystem. The [Appendix: Resources and Tools](appendix-resources-tools.md#appendix-resources-tools) also provides some insight into creating and nuturing
+recommendations for applying this understanding to evaluating open-source
+projects, including how to map a project's ecosystem. The [Appendix: Resources and Tools](appendix-resources-tools.md#appendix-resources-tools) also provides some insight into creating and nuturing
 an open-source community, but this is also a topic for future toolkit development.
 
 **FUTURE WORK**: Are there unique lessons to be learned from community development 
@@ -98,7 +98,7 @@ DPG efforts run on the collective motivations of all of their
 participants.  A healthy project often gathers around itself a diverse
 ecosystem in which many participants cooperate, each for their own
 reasons.  Those reasons need not be the same.  They might even be in
-tension or in outright competition with each other.  Open source
+tension or in outright competition with each other.  open-source
 processes excel at enabling many parties with divergent interests to
 cooperate and create shared value.
 
@@ -106,7 +106,7 @@ We can refer to the direct participants in an open project as the
 project's community.  In addition to that close community of
 cooperating participants, we find that successful projects gather a
 larger ecosystem around them.  This ecosystem is centered on the
-community, and also includes related open source efforts, users,
+community, and also includes related open-source efforts, users,
 integrators, clients, competitors, and stakeholders.  Anybody who has
 an interest in the project's output and operations is part of the
 ecosystem.
@@ -152,48 +152,47 @@ Even mission-driven participation is best understood as value-seeking
 One of the most important skills for agencies exploring open source is
 understanding existing ecosystems and their project's place within
 them.  In order to plan a project that builds on or collaborates with
-other open source efforts, agencies must know their own projects and
+other open-source efforts, agencies must know their own projects and
 also know what to expect from other community participants. Again, the
 [Adoptability](adoptability.md#adoptability-assessment) module describes how to 
 map a project's
 ecosystem.
 
-Open source projects operate in many different ways.  Experienced open
-source practitioners build nuanced open source strategies by
-pattern-matching against other open source projects.  They use those
-patterns to understand their own projects as well as other open
-source efforts around them.  This understanding guides their expectations, decisions,
+Open-source projects operate in many different ways.  Experienced
+open-source practitioners build nuanced open-source strategies by
+pattern-matching against other open-source projects.  They use those
+patterns to understand their own projects as well as other open-source
+efforts around them.  This understanding guides their expectations, decisions,
 and investments, such as how they 
-approach adopting an existing open source product or who they plan to recruit as new
-contributors to their own open source project.  Practitioners
+approach adopting an existing open-source product or who they plan to recruit as new
+contributors to their own open-source project.  Practitioners
 with a lot of experience have seen many different types of projects
 succeed and fail in all kinds of situations.  Less experienced
 practitioners pattern match against a smaller set, which is to say
-they might have only one or a small handful of open source approaches
+they might have only one or a small handful of open-source approaches
 and find it difficult to perform nuanced analysis.
 
-Mozilla [identified this experience gap as a general problem in open
-source](https://blog.mozilla.org/en/mozilla/whats-your-open-source-strategy-here-are-10-answers/) 
-and developed a set of open source project archetypes to give
+Mozilla [identified this experience gap as a general problem in
+open-source](https://blog.mozilla.org/en/mozilla/whats-your-open-source-strategy-here-are-10-answers/) 
+and developed a set of open-source project archetypes to give
 practitioners more patterns to match against.  
 
-The purpose of these archetypes is to lead people away from generic open
-source thinking and toward considering in more detail the behaviors
-and dynamics their open source investment seeks to create.  Each
+The purpose of these archetypes is to lead people away from generic
+open-source thinking and toward considering in more detail the behaviors
+and dynamics their open-source investment seeks to create.  Each
 archetype tends toward typical strategies, and categorizing projects
 by archetype can help in predicting behavior.  Similarly, where the
 strategies deviate, we can usually find deviation from the archetype
 too.  The more specific you are about what you want from open source
 in your particular context, the more you will be able to look for
-patterns and practices in successful open source projects that operate
+patterns and practices in successful open-source projects that operate
 in similar contexts.  
  
-For example, in evaluating an existing open source project, you
+For example, in evaluating an existing open-source project, you
 wouldn't expect a "rocket ship" project to invest in supporting new
 contributors, and you'd want to plan any contribution and
 participation accordingly, bringing in vendors or your own personnel with some 
-level of open
-source familiarity.  Similarly, if you're planning to create your own
+level of open source familiarity.  Similarly, if you're planning to create your own
 multi-vendor infrastructure project, you'd want to invest in good API
 documentation early on.
 
@@ -260,7 +259,7 @@ practices.
 * [Multi-Vendor Infrastructure](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf#section*.9)
 
   When a number of commercial organizations share a common need, it
-  makes sense for them to pool their resources into one open source
+  makes sense for them to pool their resources into one open-source
   project that meets that need, rather than each one developing their
   own separate but duplicative solution.  For
   example:[Kubernetes](https://kubernetes.io/), an open-source system
@@ -274,13 +273,13 @@ practices.
 
 * [Mass Market](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf#section*.14)
 
-  An open source project aimed at very broad user adoption.  Mass
+  An open-source project aimed at very broad user adoption.  Mass
   Market projects often have commercial sponsorship of some kind, and
   if they are successful they tend to have fairly elaborate mechanisms
   to help steer potential contributors to the right place -- because
   even a tiny fraction of the user base trying to file bug reports or
   send in improvements can be overwhelming if you have millions of
-  users.  The [LibreOffice](https://www.libreoffice.org/) open source
+  users.  The [LibreOffice](https://www.libreoffice.org/) open-source
   office suite is an example here, as is [Mozilla's Firefox
   browser](https://www.mozilla.org/en-US/firefox/).
 
@@ -297,16 +296,16 @@ practices.
 * [Trusted Vendor](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf#section*.16)
 
   A commercial organization with unique expertise may sometimes
-  maintain an open source project that simultaneously serves to
+  maintain an open-source project that simultaneously serves to
   advertise that expertise, to maintain it, and to provide leads on
   direct or indirect sources of revenue.  Interaction with these
   projects is sometimes equivalent to interaction with that particular
   vendor.  The [Coral web site commenting and community building
   platform](https://coralproject.net/) is such an example, with Vox
-  Media supporting the open source project, using it on their own new web site, 
+  Media supporting the open-source project, using it on their own new web site, 
   and making money through
   hosting, training and implementation help.  
-  The [Osano open source
+  The [Osano open-source
   cookie/consent management
   platform](https://github.com/osano/cookieconsent) could be
   categorized here. It's open to contribution but largely maintained
@@ -326,11 +325,11 @@ practices.
   so the presence of the dominant player does not usually imply a
   monopoly on support availability. 
   
-  The open source [WordPress web site builder](https://wordpress.com/)
+  The open-source [WordPress web site builder](https://wordpress.com/)
   is an example, where WordPress invests the most in developing the
   core platform but supports a range of indepdendent extension
   developers and professional services.  The City of Paris'
-  [Lutece](https://lutece.paris.fr/lutece/), an open source platform
+  [Lutece](https://lutece.paris.fr/lutece/), an open-source platform
   for municipal digital services, is a controlled ecosystem project
   that supports over 400 plugins created by cities and organizations
   accross the globe.  Estonia's DPG X-Road (now managed by the Nordic
@@ -346,15 +345,15 @@ practices.
   itself to having individual components run as quite different
   projects.  It's also a good example of a thoughtfully phased
   approach to DPG development that's taken advantage of the existing
-  global open source ecosystem.  
+  global open-source ecosystem.  
   
   Apache Fineract's back-end core banking
   functionality and open APIs were originally developed by the
   non-profit [Mifos](https://mifos.org) (Micro Finance Open Source)
   Initiative to encourage the growth of microfinance institutions.
-  Once Fineract's open source core platform was stable, Mifos transferred the
+  Once Fineract's open-source core platform was stable, Mifos transferred the
   code to the Apache Software Foundation, a non-profit organization
-  that hosts and fosters open source products (as noted above, the
+  that hosts and fosters open-source products (as noted above, the
   Apache HTTP server is probably its most well known product).  This
   cooperative division of labor let Apache Fineract develop on its own
   path - hosted by Apache, which has a track record of sustainable community 
@@ -371,8 +370,8 @@ practices.
   that's a complete 'off-the-shelf' solution, combining a web app
   (Mifos X Web App, formerly the Mifos Community App), a mobile app
   for field officers (Mifos Android), a mobile app for clients (Mifos
-  Mobile), open source Pentaho-based reports and a data import tool.  Each of the
-  Mifos extensions are also [open source
+  Mobile), open-source Pentaho-based reports and a data import tool.  Each of the
+  Mifos extensions are also [open-source
   DPGs](https://digitalpublicgoods.net/registry/).  In this way, Mifos
   X is more of a controlled ecosystem, with extensions and
   customization around a core platform.
@@ -386,13 +385,13 @@ practices.
 
   A single person started the project, has maintained it all along,
   and either has not wanted to or has not been able to expand its
-  developer base. (While this kind of open source project definitely
+  developer base. (While this kind of open-source project definitely
   exists, it is perhaps overrepresented in writings and public
   discussion about open source.)
 
 * [Bathwater](https://opentechstrategies.com/archetypes-files/open-source-archetypes-v2.pdf#section*.18)
 
-  A project whose source code has been published under an open source
+  A project whose source code has been published under an open-source
   license, but which is now being ignored by its original authors.
   The code was thrown over the wall, as the saying goes, and it is
   there for anyone else to pick up if they want.
@@ -402,7 +401,7 @@ practices.
 
 The most common archetype we observe in the wild is the "Wide Open"
 project.  This is normally what people think of when they imagine an
-open source project.  Wide Open projects take all comers and try to
+open-source project.  Wide Open projects take all comers and try to
 gather as much developer momentum as they can.  They skew toward shared
 governance models and cultivate a welcoming, inclusive air.  This
 approach is popular for a reason -- it's a pretty good default
@@ -410,8 +409,8 @@ starting point for a lot of projects, especially government-led open
 source.
 
 But not all projects fit that mold.  Sometimes you want to build an
-open source ecosystem and absolutely must retain a strong, controlling
-position to achieve the policy goals that drive your open source work.
+open-source ecosystem and absolutely must retain a strong, controlling
+position to achieve the policy goals that drive your open-source work.
 In industry, we see that, for example, with Google's Android work.
 There, one company makes the majority of the investment and benefits
 by steering the majority of the mobile market to its products,
@@ -431,8 +430,8 @@ be Wide Open but will in practice tend toward a blend of the
 characteristics of multivendor infrastructure and specialty library.
 
 Archetypes help us identify that Android is not like a stereotypical
-open source project.  They help us predict the dynamics around open
-source election infrastructure. They allow us to see a project's
+open-source project.  They help us predict the dynamics around
+open-source election infrastructure. They allow us to see a project's
 actual behavior rather than the expected or stereotypical behavior.
 We can use archetypes to reveal something about a project's strategy
 to help us form credible expectations about how the project will
@@ -452,8 +451,8 @@ archetypes.  All of these are candidates for projects led by or
 originating in government agencies, depending on strategic and policy
 needs.
 
-There are other cases where archetypes help us understand the open
-source world around us.  In each case, the archetypes are a rough lens
+There are other cases where archetypes help us understand the open-source
+world around us.  In each case, the archetypes are a rough lens
 that leads us to clarify our view of a product's position.  
 
 The archetypes, though, are just a starting point for consideration.  They 
@@ -478,16 +477,16 @@ sustainability.
 
 With an ecosystem map as background (see the [Adoptability](adoptability.md#ecosystem-mapping-for-adoptability) 
 module),consider what
-project archetype might roughly fit the open source project you're
+project archetype might roughly fit the open-source project you're
 evaluating or that you plan to launch. Although these maps are inexact
 approximations that change over time, this is a key level-setting
-exercise for your team when assessing an open source project or
+exercise for your team when assessing an open-source project or
 planning to create your own, and it should be periodically revisited.
 
 
 ## Community Diversity
 
-There are many ways to think about the diversity of an open source
+There are many ways to think about the diversity of an open-source
 project community.  Do its contributors come from a wide variety of
 geographic or cultural origins?  Do they represent a wide variety of
 skill levels?  Do they represent a wide variety of usage patterns?  Do
@@ -536,7 +535,7 @@ how the Global Facility for Disaster Reduction and Recovery (GFDRR)
 invested in a diversified set of partners, in part by using modular
 contracting (see also [Procurement](procurement.md#procurement)), ultimately 
 creating a successfully
-self-sustaining open source project.
+self-sustaining open-source project.
 
 **KEY RECOMMENDATION** Look for diverse resource-committing participants, which 
 indicate stability, resilience, and growth potential for most project archetypes. 
@@ -547,7 +546,7 @@ assistance, maintenance and operations, and training.
 ## Community Health
 
 The technology industry has been wrangling with how best to measure
-and understand open source community health metrics for some time.
+and understand open-source community health metrics for some time.
 There are frameworks that consider health from a comprehensive business ecosytem
 perspective, like the [Open Source Ecosystem Health Operationalization
 (OSEHO)
@@ -561,19 +560,19 @@ example, pull request efficiency might not be as important to a
 multi-vendor infrastructure type project as the rate at which partner
 contributors pick up high priority issues.
 
-In the big picture, an open source community's health and
+In the big picture, an open-source community's health and
 sustainability ultimately depends on the presence of a user base that
 needs the DPG and is willing, directly or indirectly, to invest in it.
 New contributors come from either those users or from the
 organizations that service those users; useful feature direction for
 the project's roadmap comes likewise from those users or their
-representatives; and bug reports -- the lifeblood of an active open
-source project -- come ultimately from those users.
+representatives; and bug reports -- the lifeblood of an active
+open-source project -- come ultimately from those users.
 
-Some of these details can be gleaned from an open source project's
+Some of these details can be gleaned from an open-source project's
 code repository.  Unfortunately, the tools for analyzing metrics are
 complicated for decision-makers without some technical know-how.  The
-CHAOSS working group does provide open source software for running
+CHAOSS working group does provide open-source software for running
 analytics on GitHub and GitLab, which are among most popular
 repository management services, as well as on issue tracking systems,
 but again, these take some know-how to use.
@@ -621,7 +620,7 @@ the added concern of project overreliance on individual unpaid
 volunteers, who suffer high burnout rates.  Of course, commercial
 participation can bring its own issues as noted below, including the
 potential to being prone to changing priorities more quickly than
-non-commercial participants.  In fact, at least one open source
+non-commercial participants.  In fact, at least one open-source
 stewardship organization has a rule that it will only accept projects
 as members if there is a sufficient diversity of employers across the
 project's individual maintainers.  Their logic is that if most of the
@@ -647,7 +646,7 @@ reporting) that you'd expect for such a project type and its maturity.
 Second, actually speaking to a variety of people involved in the
 project almost always leads to valuable insights. 
 
-**RECOMMENDATION**: To roughly assess the health of an open source
+**RECOMMENDATION**: To roughly assess the health of an open-source
 project, look at the bug tracker to understand the activity 'vibrancy'
 around the project.  The bug tracker, along with other web resources
 like user forums, should also give you some insight into the diversity
@@ -672,14 +671,13 @@ procurement rules might require choosing the lowest bidder or include
 other decisive factors that run counter to community health
 considerations, but we're describing an ideal state here.
 
-Note that many aspects of open source project community health are
+Note that many aspects of open-source project community health are
 also discussed, implicitly and sometimes explicitly, in the
 [Adoptability](adoptability.md#adoptability-assessment) module.
 
-
 ## Non-Commercial Participants
 
-Depending on the open source project, there may be fewer or more
+Depending on the open-source project, there may be fewer or more
 non-commercial participants than commercial ones; it varies from
 project to project.
 
@@ -705,7 +703,7 @@ vendors of course have a commercial interest as well.  In these cases,
 there can occasionally be conflicts between the two parties'
 motivations.  For example, the NGO client may want an API capability
 that the vendor is reluctant to add because the presence of that
-capability in the open source product would reduce the value of some
+capability in the open-source product would reduce the value of some
 proprietary offering of the vendor's.
 
 There is no general formula for avoiding nor for resolving such
@@ -741,7 +739,7 @@ stands for "non-commercial".  Not all Creative Commons work is
 restricted to non-commercial use, so agencies should be sure to look
 at *which* Creative Commons license applies to materials they use.
 
-In the case of open source software, all commonly used licenses allow
+In the case of open-source software, all commonly used licenses allow
 commerical use, as noted in the [Introduction](introduction.md#introduction).  
 In fact,
 most community participants would classify software whose license
@@ -749,10 +747,10 @@ disallows commercial use as "not open source".  The Open Source
 Initiative (OSI) offers what many community participants agree is an
 authoritative definition of open source, which excludes
 software that discriminates against commercial use.  All commonly-used
-open source licenses and most projects align on this point -- including the
+open-source licenses and most projects align on this point -- including the
  [DPG Standard](https://digitalpublicgoods.net/standard/).
 
-At the same time, some open source community members are offering
+At the same time, some open-source community members are offering
 "ethical source" licenses, such as 
 the [Hippocratic License](https://firstdonoharm.dev/).  These licenses restrict 
 the use of DPGs
@@ -761,7 +759,7 @@ whether or not we call these licenses "open source", people working on
 DPGs in a government context might well come across DPGs that use
 these licenses.  This is a space to watch, perhaps especially as AI adoption grows.
 For now, the DPG standard does *not*
-include any of these ethical source license types. 
+include any of these ethical-source license types. 
 
 **FUTURE WORK**: What are the additional ethical considerations specific to 
 machine-learning models and their related data and working with children and 
@@ -773,14 +771,14 @@ in a clear way as it applies to open licensing.  While governmental
 use would seem to be quite clearly non-commercial, in some
 jurisdictions, it might be less clear when vendors work on DPGs on
 behalf of government clients.  This is something to clarify early in
-evaluating an open source project.
+evaluating an open-source project.
 
 
 ## Commercial Participants
 
-All open source software licenses, by the most common definition,
+All open-source software licenses, by the most common definition,
 allow commercial as well as non-commercial use of the software, and it
-is typical for open source projects to have both commercial and
+is typical for open-source projects to have both commercial and
 non-commercial participants.  Some individuals may even represent both
 types at different times.
 
@@ -795,7 +793,7 @@ day's feature request.
 
 This economic value is understood as such quite literally by those
 participants.  For example, when a company that is very active in an
-important open source project is the willing target of an acquisition,
+important open-source project is the willing target of an acquisition,
 it works with the acquirer to place a monetary value -- a definite
 number -- on its relationship to and influence in that project.  That
 number is partly computed by looking at the individual employees at
@@ -812,13 +810,13 @@ long-term interest, and their quality of work is high, their
 motivations might be useful context but are largely their own
 business. 
 
-Some open source projects go even a step further.  As a way to spur further
+Some open-source projects go even a step further.  As a way to spur further
 investment by commercial participants, they undertake to create
 commercial opportunities for participants.  Sometimes these 
 opportunities tend to reward more active project participants.  So
 long as these opportunities do not start to create monopolizable
 advantages, they can be effective ways to promote sustainability for
-some DPG efforts.  (A review of an open source project's governance
+some DPG efforts.  (A review of an open-source project's governance
 documents, if available, can give you some additional sense of how
 well commercial engagement is steered towards the collective good.)  For example, 
 the [DPG
@@ -899,17 +897,17 @@ work may have to happen outside the current project community.
 
 In this instance, some community members might decide to make what's
 known as a 'hard fork' (or 'social fork') of the project.  This
-entails copying the source code and creating a separate open source
+entails copying the source code and creating a separate open-source
 project that's able to develop in a new direction -- an action that's
-entirely impossible under a non-open source code license.  A well
+entirely impossible under a non-open-source code license.  A well
 known example of a hard fork would be the creation of LibreOffice from
-the OpenOffice code base, which was a mass market type open source
+the OpenOffice code base, which was a mass market type open-source
 project sponsored by Sun Microsystems.  When Oracle acquired Sun
 Microsystems in 2010, it was clear to OpenOffice participants that
 OpenOffice's competitive alternative to Microsoft Office wasn't
 important to Oracle's business and would thus likely run into
 problems. So the OpenOffice community created a successful hard fork of OpenOffice and
-launched a *new* open source product and community around it called
+launched a *new* open-source product and community around it called
 [LibreOffice](https://www.libreoffice.org/).  Another hard fork is the
 Mifos X platform described above, although that decision was based on
 sound business strategy and planning.
@@ -919,7 +917,7 @@ terms of user confusion, potential legal wrangling over trademarks,
 and in-house and community resources, and they can harm community
 goodwill too.  Forking a project to meet your needs should always be a
 [last resort](https://producingoss.com/en/forks.html).  However,
-agencies should be aware that this is an option for open source
+agencies should be aware that this is an option for open-source
 projects that are at a stage of maturity in which the community has
 made it clear that stability is more important than new features.  In
 these instances, if there is no other alternative project that suits
@@ -929,7 +927,7 @@ direction.
 
 **RECOMMENDATION**: A 'hard fork' of a project to meet your needs
 should always be a last resort. Such an action might be appropriate
-for a mature open source product in which there is community
+for a mature open-source product in which there is community
 understanding of and support for your new direction, but this is a
 costly and fraught thing to do and would require thorough planning and
 foresight.
@@ -945,7 +943,7 @@ fixes to typos, but eventually the book is done.  Somebody might make
 a translation or undertake a second edition, but the original work is
 readily identifiable as a "finished" artifact.
 
-For software DPGs, it is also not necessarily a mistake to adopt an open source product
+For software DPGs, it is also not necessarily a mistake to adopt an open-source product
 that is still in its early stages, when it is not completely stable
 and some of its basic feature set may even be in flux.  But in that
 case, one must be ready to make the investment necessary to
@@ -975,7 +973,7 @@ benefit is one option.  The World Bank's Global Facility for Disaster Reduction
 and Recovery (GFDDR) used the power of modular
 contracting (see the [Procurement](procurement.md#procurement) module) to bring 
 in multiple vendors
-to develop GeoNode, an open source geospatial content management system.  As 
+to develop GeoNode, an open-source geospatial content management system.  As 
 adoption of GeoNode grew, many of these
 companies found new clients for their GeoNode expertise, which gave
 them an additional incentive to continue contributing to GeoNode and
@@ -1040,14 +1038,14 @@ who share your problem and are willing to collaborate to solve
 it.  Each agency might hold tight to a set of features it believes are
 paramount and not see the value of collaborating to get to an 80%
 solution that they can then refine.  However, solving shared problems
-while permitting flexibility for differentiation is core to the open
-source approach, as well as to modular architectures and extensibility
+while permitting flexibility for differentiation is core to the open-source
+approach, as well as to modular architectures and extensibility
 (see [Procurement](procurement.md#procurement) and 
 [Adoptability](adoptability.md#adoptability-assessment) modules).  Still, the benefits 
 of inter-agency collaboration is precisely why centralized
 digital services agencies are often at the forefront of government
 digital transformation. In some instances, these might be areas for the lower-risk
- open source experiments we recommend for building skills and capacity (see the
+ open-source experiments we recommend for building skills and capacity (see the
  [Open Source Readiness](readiness.md#open-source-readiness) module.)
  
 [Social impact
@@ -1081,7 +1079,7 @@ existence.
 Direct crowdfunding and sponsorship might also be a viable financing
 option in some cases.  GitHub recently launched [GitHub
 Sponsors](https://github.com/sponsors) to let individuals and
-companies donate directly to GitHub hosted open source projects. 
+companies donate directly to GitHub-hosted open-source projects. 
 
 Lastly, charging for use might be an option as well.  For example, the
 DPG [ODK](https://getodk.org/) is free as a self-hosted solution for

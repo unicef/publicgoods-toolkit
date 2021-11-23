@@ -38,7 +38,7 @@ trust in its (and other's) X-Road investments.
 
 
 **KEY RECOMMENDATION**: Do not rely on security through obscurity: secrecy doesn't 
-equal security. Open source software provides the conditions for stronger security
+equal security. Open-source software provides the conditions for stronger security
 than proprietary software.  Evaluate how open source might bring new opportunities for 
 collaboration and 
 and cost sharing around improving security. 
@@ -98,7 +98,7 @@ standard](https://digitalpublicgoods.net/standard/).  It is aimed to help projec
 leaders and agency decision-makers implement successful DPGs, rather than to help
 policymakers craft good guidelines and rules at a national level.  This module 
 also provides
-an overview of open source licensing.
+an overview of open-source licensing.
 
 Government policies impact every aspect of a DPG, directly and
 indirectly, from the ease of creating new businesses and government
@@ -107,7 +107,7 @@ welfare to surveillance in the name of national security that
 erodes trust with vulnerable communities.  Government policies could
 encourage the creation of DPGs by linking early education investments
 in open source to fostering economic development (e.g.  India), or
-they could discourage DPGs by objecting to open source encryption
+they could discourage DPGs by objecting to open-source encryption
 methods that could help protect vulnerable populations or to openly sharing
 government data to help direct services to those most in need.
 Government policies work across borders as well, such as through
@@ -152,7 +152,7 @@ on [Procurement](procurement.md#procurement) and
 while we touch upon procurement policy as a national-level tool here,
 detailed procurement policy recommendations useful at a DPG level are
 in the [Procurement](procurement.md#procurement) module, and assessing
-security when evaluating an open source project is in the
+security when evaluating an open-source project is in the
 [Adoptability](adoptability.md#adoptability-assessment) module.  The
 exceptions to this are data privacy and cybersecurity policy at a
 national level, for which we also cover some recommendations here.
@@ -183,7 +183,7 @@ Permitted software licenses under the [Digital Public Good
 standard](https://digitalpublicgoods.net/standard/) are listed in
 UNICEF's [GitHub
 repository](https://github.com/unicef/publicgoods-candidates/blob/main/docs/licenses.md).
-All of these open source licenses have in common the basic permissions
+All of these open-source licenses have in common the basic permissions
 to run, copy, modify, and distribute the software, including AI
 models.  They each try to create a collaborative commons and a shared
 pool of value.  For all that these licenses differ from each other,
@@ -209,7 +209,7 @@ copyleft as a way to categorize licenses by how strict their copyleft
 requirements are.
 
 These three categories -- "permissive", "weak copyleft", and "strong
-copyleft" -- are well-recognized terms in the open source industry, and
+copyleft" -- are well-recognized terms in the open-source industry, and
 often the first step in considering a license is to classify it with
 one of those labels.  They are a common shorthand that often signal
 the most salient elements of a license for many purposes.
@@ -227,8 +227,8 @@ no significant restrictions.  Compliance with these licenses is
 bureaucratic and shouldn't ever affect the substance of a project.
 For the purposes of this discussion, the key takeaway is that
 permissive licenses allow you to make *proprietary* copies.  They
-allow you to take open source code and make things that themselves are
-not open source.
+allow you to take open-source code and make things that themselves are
+not open-source.
 
 The Apache Software License is similarly permissive and similarly
 bureaucratic.  Its primary differences from the other permissive
@@ -242,8 +242,8 @@ Beyond those permissive licenses, we start to see copyleft clauses.
 "Copyleft" is a play on words.  Whereas copyright is typically used to
 prevent people from sharing software, copyleft requires that
 permission to share attach to at least some of what you build.
-Copyleft restricts your ability to make non-open source software from
-open source ingredients.  It also means that companies using the
+Copyleft restricts your ability to make non-open-source software from
+open-source ingredients.  It also means that companies using the
 copyleft software would have to find revenue streams outside of
 controlling access to the source code.  This isn't inherently a bad
 thing!  There are plenty of revenue opportunities aside from such
@@ -304,8 +304,8 @@ to receive a copy of the software and all open-source rights to run,
 copy, modify, and distribute it.
 
 The DPG [VIPS](https://nibio.no/en/services/vips), created by the
-Norwegian Institute of Bioeconomy Research (NIBIO), provides an open
-source platform for decision support in integrated management of
+Norwegian Institute of Bioeconomy Research (NIBIO), provides an
+open-source platform for decision support in integrated management of
 pests, diseases and weeds.  Their work is [licensed under AGPL, with a
 specific exemptions for forecasting
 models](https://gitlab.nibio.no/VIPS/VIPSCommon/-/blob/4bd37abda46a0de0765ae6fd936686a1307d7d4d/LICENSE.txt).
@@ -321,8 +321,8 @@ which references Open Source Initiative(OSI) approved licenses. OSI provides mor
 [FAQ](https://opensource.org/faq).
 
 **RECOMMENDATION**: Remember that the processes, culture, and
-practices that support open source collaboration ultimately matter
-more to success than the particular open source license.  However, the
+practices that support open-source collaboration ultimately matter
+more to success than the particular open-source license.  However, the
 license you choose can affect potential downstream business models.
 This isn't inherently a bad thing - indeed, these limitations were
 created in order to encourage the growth of a software commons. Mapping out your 
@@ -357,14 +357,14 @@ law, which we discuss [elsewhere](#patent) in this module.)
 d'auteurs" aspect of copyright law that exists in some jurisdictions.
 That may or may not be a useful detail for DPG policy.)
 
-Thus open source licenses are simply formal statements by the
+Thus open-source licenses are simply formal statements by the
 copyright holder, granting explicit permission to copy and share
-without limitation, including sharing modified versions.  Open source
+without limitation, including sharing modified versions.  open-source
 licenses originated with software, and therefore the most mature body
 of legal texts related to open licensing is found there (the
 non-software "open content" licenses are somewhat more recent,
 although at this point the oldest ones have existed for more than a
-decade and they have, like open source software licenses, undergone
+decade and they have, like open-source software licenses, undergone
 some revisions).  Importantly, the permission to share modified
 versions has been present since the beginning.  With software, the
 modifications one usually wants to make are things like fixing bugs or
@@ -373,22 +373,21 @@ improvements in one's own copy of the code -- one must be able to
 share those improvements with others in order for the code to truly be
 a digital *public* good.
 
-Copyright is the main concern of the common open source licenses, and
+Copyright is the main concern of the common open-source licenses, and
 most of the terms in them are about copyright permissions.  This is
 because in the absence of explicit permissions, copyright law would be
 an obstacle to sharing software source code.  In most jurisdictions,
 copyright prohibits permissionless sharing and re-use by default,
-whereas the point of open source licensing is to allow that sharing
+whereas the point of open-source licensing is to allow that sharing
 and re-use, that is, to create an environment with a different
 default.
-
 
 ### Copyright Policy
 
 From a policy perspective, there are a few major points to keep in
 mind about copyright and DPGs:
 
-* Use only well-known open source or open content licenses.
+* Use only well-known open-source or open content licenses.
 
   When publishing a DPG, you should always publish it under one of the
   well-known and widely-used existing licenses as defined in the
@@ -413,7 +412,7 @@ license](https://digitalpublicgoods.net/standard/) for software.
 
 * Establish copyright ownership clearly.
 
-  Open source licenses are still copyright licenses, and therefore
+  Open-source licenses are still copyright licenses, and therefore
   they assume that the licensed work has a copyright holder.  It does
   not always matter greatly who that holder is: in some circumstances,
   it might be most appropriate for the public agency responsible for a
@@ -435,15 +434,15 @@ license](https://digitalpublicgoods.net/standard/) for software.
 * Avoid mixing proprietary materials into a DPG.
 
   It is easy to accidentally incorporate proprietary material -- that
-  is, any copyrighted material that is *not* under an open source (or
-  open content) license -- into a DPG.  Such incorporation most often
+  is, any copyrighted material that is *not* under an open-source (or
+  open-content) license -- into a DPG.  Such incorporation most often
   happens through inattention: a resource is convenient and speeds up
   development of the DPG, and only long after it has been integrated
   does someone check the license and discover that the resource is not
   redistributable in a way that is compatible with DPGs.  There are
   also occasionally popular third-party code libraries that were
-  formerly open source but whose most recent releases are not open
-  source; this is easy to find out by just checking the license, but one must 
+  formerly open-source but whose most recent releases are not open-source;
+  this is easy to find out by just checking the license, but one must 
   remember to do so.
 
   As the [Procurement](procurement.md#procurement) module discusses, it is good to
@@ -459,10 +458,10 @@ something you want to disentangle later.
 
 ### Copyright and Jurisdiction
 
-It is likely that these open source licenses operate in standard ways
+It is likely that these open-source licenses operate in standard ways
 across most countries.  Copyright law is somewhat standardized among
-Berne Convention signatory countries, and most commentators treat open
-source licenses as having the same effect regardless of jurisdiction.
+Berne Convention signatory countries, and most commentators treat open-source
+licenses as having the same effect regardless of jurisdiction.
 At the same time, these licenses were written primarily with United
 States law in mind. Few licenses have been the subject of
 official, judicial interpretation.  The one exception is version 3 of
@@ -574,7 +573,7 @@ beneficial to the public to force the fork to distinguish itself
 clearly from the original, that is, to avoid being an impostor.
 Trademarks can be powerful tools for preventing abuse and thus
 protecting trust in a DPG's brand.  Indeed, the technology industry has
-a [long history in using trademark protection of open source
+a [long history in using trademark protection of open-source
 products](https://producingoss.com/en/trademarks.html) in this way.
 Trademark for the DPG [Sunbird](https://www.sunbird.org/) is managed
 by the EkStep Foundation, which is the main supporter and developer of
@@ -617,7 +616,7 @@ whole, commercial investment in DPGs is usually beneficial, because
 commercial entities have more reasons to work collaboratively on the
 DPG than to try (and likely fail) to monopolize its value.
 
-The open source (and open content) licenses that govern DPG distribution
+The open-source (and open-content) licenses that govern DPG distribution
 also set up an implicit economic structure that leans toward
 collaboration.  Because no entity can monopolize the DPG itself -- by
 definition, a DPG is available to all the public on equal terms -- any
@@ -656,7 +655,7 @@ vulnerabilities will also grow.  This section covers security at a
 policy level, meaning national level security policies to which your
 DPG will likely need to adhere and agency-level policies that you
 should implement to maximize security.  To learn more about assessing
-the security of an existing open source project-- and what you'll need
+the security of an existing open-source project-- and what you'll need
 to consider in creating your own -- see the 
 [Adoptability](adoptability.md#adoptability-assessment)  module. Deeper 
 considerations for creating secure applications are
@@ -666,7 +665,7 @@ to security and coding in the open in the
 Tools](appendix-resources-tools.md#appendix-resources-and-tools).
 
 Before we get into some details around security policy, let's address
-two questions.  First, the question of security and open source
+two questions.  First, the question of security and open-source
 software.  You'll likely be asked this by government administrators,
 others within your organization, and maybe even your most important
 stakeholders: the vulnerable populations you serve.  Second, the
@@ -677,11 +676,11 @@ Unfortunately, software systems can never be fully secure (for reasons
 we don't have space to cover here, but see the 
 [Appendix: Resources and
 Tools](appendix-resources-tools.md#appendix-resources-and-tools) for
-a few thoughts), and neither open source nor closed source software is
-a priori more secure.  What is true about open source software is that
+a few thoughts), and neither open-source nor closed-source software is
+a priori more secure.  What is true about open-source software is that
 its unique properties can more easily lead to its being more secure in
 more situations with more frequency.  This is not an automatic
-assumption to make, but the conditions are there.  First, open source
+assumption to make, but the conditions are there.  First, open-source
 security is more easily independently verifiable.  The code can be
 audited by anyone, including security experts and members of your user
 community, which can be great for building trust.  Problems can be
@@ -689,22 +688,22 @@ immediately fixed independently too (if there's the available talent
 to do the work), rather than relying on a private company to
 prioritize the security concern.  While private companies certainly
 invest in security for their proprietary products, there is a lot of energy around bringing
-cooperative, transparent attention to the problem of security in open
-source software.  For example, the non-profit [Open Source Technology
+cooperative, transparent attention to the problem of security in
+open-source software.  For example, the non-profit [Open Source Technology
 Investment Fund (OSTIF)](https://ostif.org) connects open-source
 projects with funding and logistical support for security audits and
 reviews.  The Linux Foundation, which has supported security audits
-and reviews across its open source projects for some time, recently
+and reviews across its open-source projects for some time, recently
 combined funding and security resources with OSTIF in this area. The
 Linux Foundation also supports the [Open Source Security
-Foundation](https://openssf.org), which is trying to address open
-source security at a systems level.  The Mozilla Foundation provides
+Foundation](https://openssf.org), which is trying to address
+open-source security at a systems level.  The Mozilla Foundation provides
 [awards-based funding for security
 audits](https://www.mozilla.org/en-US/moss/secure-open-source/), as
 does the [Open Technology
 Fund](https://www.opentech.fund/labs/red-team-lab/).
 
-Still, the open source vs.  closed source question around security
+Still, the open-source vs.  closed-source question around security
 isn't simple, so we've included additional resources in the [Appendix:
 Resources and
 Tools](appendix-resources-tools.md#appendix-resources-and-tools) for
@@ -715,7 +714,7 @@ the security and privacy investments we outline here seem out of touch
 -- and out of reach.  Everyone working to create DPGs wants strong
 security and privacy to protect vulnerable populations, which have the
 most to lose from any failure.  This area is ripe for more
-coordination and collective investment.  The open source approach
+coordination and collective investment.  The open-source approach
 shines again here. Indeed, the DPG OpenMRS found that the
 communities forming around the project have ["taken on a movement of
 self-organization"](https://openmrs.org/2010/12/03/open-source-health-information-business-ecosystems-in-resource-poor-environments/),
@@ -741,13 +740,13 @@ coordination, capacity building and support might be going on this
 area? Or a program of their own that might be in the future?)
 
 **KEY RECOMMENDATION**: Do not rely on security through obscurity: secrecy doesn't 
-equal security. Open source software provides the conditions for stronger security
+equal security. Open-source software provides the conditions for stronger security
 than proprietary software.  Evaluate how open source might bring new opportunities 
 for collaboration and 
 and cost sharing around improving security. 
 
 Looking at your DPG ecosystem, are there possible partnerships and joint
-funding for security audits of the common open source software on
+funding for security audits of the common open-source software on
 which stakeholders rely? How about help for collectively creating and
 managing security assessments? How might this link into local or national government
 investments in innovation, either around new government services or to
@@ -1011,11 +1010,11 @@ vendors.
 As an aside, policy makers, legislators, and other people far from the
 technical details are often fuzzy on the distinction between software
 and the data used by that software.  As a result, when they learn that
-there's a plan to use open source software to manage sensitive data,
+there's a plan to use open-source software to manage sensitive data,
 they may worry because they heard that open source means that anyone
 can "see the code", and therefore the data is exposed. This is not true.
 
-**KEY RECOMMENDATION**: Separate open source DPG *software* from DPG *data* in the 
+**KEY RECOMMENDATION**: Separate open-source DPG *software* from DPG *data* in the 
 minds
 of high-level decision makers and elected officials to avoid misconceptions 
 around open approaches and privacy.
@@ -1033,7 +1032,7 @@ registration program for Rohingya refugees underscores the complexity
 and sensitivity.
 
 UNICEF approached data protection and privacy extremely carefully with
-the DPG [Primero](https://www.primero.org), an open source platform
+the DPG [Primero](https://www.primero.org), an open-source platform
 that helps social services, humanitarian and development workers
 manage protection-related data, with live deployments in thirteen
 countries and dozens of others underway.  UNICEF is deeply concerned
@@ -1065,7 +1064,7 @@ is required to assess a vendor's privacy and data security practices,
 policies, and processes.  This is the time to find out if the vendor
 has received an enforcement notice or faced any penalties or
 investigations or if they've been involved in a data breach.  If the
-vendor is a leading contributor to an open source project, you can
+vendor is a leading contributor to an open-source project, you can
 also check out if that project follows the security items outlined in
 the [Adoptability](adoptabillity.md#adoptability-assessing-security)
 module and if they keep their own house in order.  See the [Appendix:
@@ -1164,7 +1163,7 @@ The World Bank's brief [ID4D
 research summary](https://www.id4africakhub.org/post/privacy-by-design-current-practices-in-estonia-india-and-austria)
 highlights the legal, operational, and technical controls used 
 in Estonia, India, and Austria to protect privacy and security. [Estonia's Citizen
-Portal](https://www.eesti.ee/et) is a great example of an open source project that has
+Portal](https://www.eesti.ee/et) is a great example of an open-source project that has
 followed privacy by design guidelines, particularly in how it gives
 users visibility -- and control -- over their data.  Estonia's
 Personal Data Usage Monitor service lets users see who's accessed
@@ -1205,7 +1204,7 @@ from early design sessions through co-creation and testing.  Over [400
 girls from Mongolia and
 Indonesia](https://thecaseforher.medium.com/meet-oky-14207f86892)
 helped create Oky's functions, look-and-feel, and approach to privacy.
-Because Oky is open source, private and public organizations across
+Because Oky is open-source, private and public organizations across
 the globe can create their own localized versions.
 
 **KEY RECOMMENDATION**: Pay attention to how the open, collaborative
@@ -1355,7 +1354,7 @@ infrastructure scaffolding behind making this possible, like
 consistent Internet connectivity and access to computers, as well as
 more fundamental issues like food security and general safety.  But an
 early and comprehensive education-focused approach to improving tech
-skills beyond digital literacy and fostering local open source tech
+skills beyond digital literacy and fostering local open-source tech
 and innovation is imperative.  
 
 Uzbekistan has been moving along this
@@ -1364,7 +1363,7 @@ infrastructure, like broadband access, and now revising curriculum to
 create future ICT developers and develop a [competitive
 workforce](https://media.un.org/en/asset/k17/k17a9bg6o8) and national
 economy (part of USAID's support for the Uzbekistan Education Reform
-Program includes deploying the open source
+Program includes deploying the open-source
 [OpenProject](https://www.openproject.org/) to help [project planning
 and coordination with the Ministry of Public
 Education](https://pdf.usaid.gov/pdf_docs/PA00WRTP.pdf)).
@@ -1390,18 +1389,18 @@ students](https://smartregister.org/governance-structure/).  It's now
 deployed in 17 countries, including Bangladesh, Kenya, Indonesia,
 Pakistan, and Zambia.
 
-After fundamental coding skills are in place, more sophisticated open
-source co-development tools can be integrated into curriculum and
+After fundamental coding skills are in place, more sophisticated
+open-source co-development tools can be integrated into curriculum and
 pedagogy.  Many students will already be familiar with some tenents of
-open source collaboration, as a lot of early education coding games
+open-source collaboration, as a lot of early education coding games
 and environments encourage kids to share and re-use code and projects.
 
 Familiarity with open source will not only help students increase
 their digital skills but also help them develop skills needed for
 success in our deeply uncertain future, such as teamwork, critical
-thinking and problem solving, and communication.  Open source
+thinking and problem solving, and communication.  Open-source
 learning doesn't have to be just in curriculum and teaching methods.
-Learning-by-doing programs, like hackathons and oopen innovation challenges, are 
+Learning-by-doing programs, like hackathons and open innovation challenges, are 
 fantastic ways
 to engage students in solving local problems that matter to them (and
 they're great ways to engage students in your DPG!).
@@ -1427,13 +1426,13 @@ outlines these points nicely within the context of India's education
 system and innovation capacities, making the case that increasing FOSS
 literacy will also help Indian businesses to move up the value chain.
 
-The demand for skilled developers with open source
+The demand for skilled developers with open-source
 skills is growing.  There's room in the international market for a
 country to cultivate a speciality in filling this need by better
 developing the labor force, starting at the university level, and
 adopting innovation related policies to attract business investment.
 
-Still, it's important to note that open source development and talent
+Still, it's important to note that open-source development and talent
 buiding is not all about code skills and contribution and that
 adjacent activities -- like creating good documentation, providing
 support, user experience design, working to make a community more
@@ -1455,7 +1454,7 @@ building local talent takes time, early investment to improve tech skills beyond
 digital literacy can strengthen innovation and grow the talent pool.
 
 For example, could you team up with secondary schools on a series of
-open source hackathons to introduce students to your DPG and solve a few
+open-source hackathons to introduce students to your DPG and solve a few
 specific problems? Is there an opportunity to collaborate with
 a local university around open source, or even a local digital
 strategy in which your DPG might fit? Remember that changes and
@@ -1480,7 +1479,7 @@ structures on private companies -- to name a few!
 
 Bringing open source into innovation policies can direct innovation
 investment and harness competition power to explore areas of new
-value.  Open source infrastructure provides a 'platform' around which entrepreneurial
+value.  Open-source infrastructure provides a 'platform' around which entrepreneurial
 businesses and ecosystems can grow. It can foster the needed
 interdisciplinary, public-private collaborations to quickly
 create and scale solutions to our most challenging problems.
@@ -1496,7 +1495,7 @@ health insights
 from the data -- can catalyze transformative change by directing private resources 
 and industry collaborations to 
 areas of new ideas and growth, as identified in innovation policy goals. 
-Indeed, it can be argued that strategically investing public funds into open source 
+Indeed, it can be argued that strategically investing public funds into open-source 
 digital infrastructure should be a core point of any innovation 
 policy. Building on the lessons from open source, we also urge policy makers to 
 take a broader view of innovation and recognize how openly shared resources can 
@@ -1505,16 +1504,16 @@ along with traditional commerical actor-focused models.
 
 India's government recognizes this value, and in 2015 the Ministry of
 Communication and Information Technology and Department of Electronics
-& Information Technology published a policy (part of three open source
-related policies under Digital India) that mandates agencies strive to
-use open source software in all e-governance systems in order to
+& Information Technology published a policy (part of three open-source-related
+policies under Digital India) that mandates agencies strive to
+use open-source software in all e-governance systems in order to
 ["prepare India for a knowledge based transformation into a digitally
 empowered society and a knowledge
 economy."](https://www.meity.gov.in/writereaddata/files/policy_on_adoption_of_oss.pdf)
 
 
-**KEY RECOMMENDATION**: Use the power of government procurement to create open 
-source commons around which innovative, entrepreneurial businesses
+**KEY RECOMMENDATION**: Use the power of government procurement to create
+open-source commons around which innovative, entrepreneurial businesses
 and public-private partnerships can grow. Government procurement is possibly the
 greatest lever for more alignment between FOSS policy and national
 innovation policy.  Again, Estonia's approach to service digitization

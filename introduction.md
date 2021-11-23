@@ -18,13 +18,13 @@ best practices or tips on specific technology choices, but rather focuses on
 higher level 
 topics, including: 
 * Understanding the types
-and value of open source communities and project lifecycles
+and value of open-source communities and project lifecycles
 * National
 and agency-level policies that relate to Free and Open Source Software
 (FOSS), including intellectual property and FOSS licenses, data
 privacy, and security
 * How to plan for and build organizational
-readiness to capture the full value of your open source DPG
+readiness to capture the full value of your open-source DPG
 * Tips for improving
 procurement, including sample contract language
 * How to analyze an
@@ -50,15 +50,15 @@ list a few in the
 [Appendix: Resources and Tools](appendix-resources-tools.md#appendix-resources-and-tools).
 
 The paper largely describes how to understand, evaluate, and use
-existing open source projects in a DPG.  Even those creating entirely
-new projects will find themselves also relying on existing open source
+existing open-source projects in a DPG.  Even those creating entirely
+new projects will find themselves also relying on existing open-source
 software.  However, there are additional considerations for creating
-and managing a new open source project.  We occasionally call
+and managing a new open-source project.  We occasionally call
 attention to these points throughout the paper, but we also include a
 must-read set of more in-depth resources in the
 [Appendix: Resources and Tools](appendix-resources-tools.md#appendix-resources-and-tools).
 
-This paper also focuses on operational points about open source
+This paper also focuses on operational points about open-source
 *software* because software -- the collection of things that makes
 computers work -- is what makes a DPG functional in the real world.
 Software is the common denominator across the components of the DPG
