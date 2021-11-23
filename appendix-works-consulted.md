@@ -99,6 +99,9 @@ Purposeful Open Source*, 28 October 2019, Open Tech Strategies,
 * Fogel, Karl. *Producing Open Source Software: How to Run a Successful Free 
 Software Project*, 14 Aug. 2020, [producingoss.com](https://producingoss.com). Accessed 1 Sept. 2021.
 
+* Foxman, Stephen M.  Sample Contract Clauses. https://www.eckertseamans.com/app/uploads/Steve-Foxman_Eckert-Seamans_DATA-PROTECTION-CLAUSES-101016-M1566466xA35AF.pdf).  
+Eckert Seamans. PDF file.  Accessed 1 Sept. 2021.
+
 * Fredriksson, Torbjörn, et al. *The Study on Data Protection Regulations and 
 International Data Flows: Implications for Trade and Development*, UNCTAD Division 
 on Technology and Logistics, 19 Apr 2016, [unctad.org/system/files/official-document/dtlstict2016d1_en.pdf](https://unctad.org/system/files/official-document/dtlstict2016d1_en.pdf). 
@@ -228,6 +231,7 @@ Accessed 1 Sept. 2021.
 * RTI International. *Uzbekistan Education Reform Program, Quarterly Report, Year 
 1 Quarters 1 + 2*, United States Agency for International Development, 29 April 2020, 
 [pdf.usaid.gov/pdf_docs/PA00WRTP.pdf](https://pdf.usaid.gov/pdf_docs/PA00WRTP.pdf). PDF file. Accessed 1 Sept. 2021.
+
 
 * Scovetta, Michael, in collaboration with the Open Source Security Coalition. 
 *Threats, Risks, and Mitigations in the Open Source Ecosystem*, Open Source 
