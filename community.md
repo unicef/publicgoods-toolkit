@@ -620,7 +620,7 @@ the added concern of project overreliance on individual unpaid
 volunteers, who suffer high burnout rates.  Of course, commercial
 participation can bring its own issues as noted below, including the
 potential to being prone to changing priorities more quickly than
-non-commercial participants.  In fact, at least one open source
+non-commercial participants.  In fact, at least one open-source
 stewardship organization has a rule that it will only accept projects
 as members if there is a sufficient diversity of employers across the
 project's individual maintainers.  Their logic is that if most of the
