@@ -18,7 +18,7 @@ html: $(SOURCES)
 	@echo "HTML output is not yet implemented."
 
 # The version number is what follows the word "version" in the title.
-VERSION := "0.0"
+VERSION := "0.1.0"
 
 # The rule is "pdf-preamble" not "pdf-preamble.yaml" because we don't
 # want it to refuse to rebuild the .yaml file when that file appears
