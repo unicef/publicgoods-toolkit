@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Community And Ecosystem
 
 **KEY RECOMMENDATION**: Note how an open-source community generally follows a 

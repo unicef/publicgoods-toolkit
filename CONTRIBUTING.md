@@ -5,7 +5,7 @@ contributing, it may help to know a few things about how the
 [Markdown](https://daringfireball.net/projects/markdown/) source is
 arranged and how we generate the PDF output.
 
-For details about PDF generation, see the [Makefile](Makefile).
+For details about PDF generation, see the [Makefile](pdf/Makefile).
 
 In the Markdown source files, we observe the following conventions:
 
@@ -28,7 +28,7 @@ In the Markdown source files, we observe the following conventions:
   The filename portion is only there so that cross-file linking works
   correctly on sites (like GitHub) that automatically render Markdown
   files as HTML.  The filename portion is ignored in the PDF -- see
-  the [Makefile](Makefile) for details of how this is done -- since
+  the [Makefile](pdf/Makefile) for details of how this is done -- since
   the toolkit becomes a single PDF with no internal file boundaries.
 
   Remember that Markdown section names automatically produce

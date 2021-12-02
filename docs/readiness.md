@@ -1,3 +1,8 @@
+---
+sidebar_position: 5
+---
+
+
 # Open-Source Readiness
 
 **KEY RECOMMENDATION**: Evaluate teams against organizational open-source 

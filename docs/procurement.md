@@ -1,3 +1,7 @@
+---
+sidebar_position: 6
+---
+
 # Procurement
 
 **KEY RECOMMENDATION**: Use modular contracting to better connect

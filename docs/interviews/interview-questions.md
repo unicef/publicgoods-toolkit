@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Interview Questions
 
 This document contains default interview questions.  It is meant to

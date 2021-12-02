@@ -1,3 +1,7 @@
+---
+sidebar_position: 10
+---
+
 # Appendix: Examples
 
 This appendix provides brief summaries of a few open projects --

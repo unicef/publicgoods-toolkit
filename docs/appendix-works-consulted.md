@@ -1,3 +1,7 @@
+---
+sidebar_position: 12
+---
+
 # Appendix: Works Consulted
 
 This list uses a modified form of [MLA](https://www.mla.org/) citation

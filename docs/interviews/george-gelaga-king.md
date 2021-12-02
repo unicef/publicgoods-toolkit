@@ -1,3 +1,8 @@
+---
+sidebar_position: 2
+title: George Gelaga-King, DSTI
+---
+
 # Interview With George Gelaga-King
 
 Shane says he wouldn't add much. He left us with George, whom I don't
