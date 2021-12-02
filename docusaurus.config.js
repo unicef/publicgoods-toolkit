@@ -44,12 +44,11 @@ const config = {
         //   src: 'img/logo.svg',
         // },
         items: [
-          // {
-          //   type: 'doc',
-          //   docId: 'intro',
-          //   position: 'left',
-          //   label: 'Tutorial',
-          // },
+          {
+            position: 'left',
+            label: 'Download PDF',
+            href: 'https://github.com/unicef/publicgoods-toolkit/releases/download/v0.1.0/publicgoods-toolkit.pdf',
+          },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/unicef/publicgoods-toolkit',
@@ -88,12 +87,17 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Download',
             items: [
-              // {
-              //   label: 'Blog',
-              //   to: '/blog',
-              // },
+              {
+                label: 'Toolkit PDF',
+                href: 'https://github.com/unicef/publicgoods-toolkit/releases/download/v0.1.0/publicgoods-toolkit.pdf',
+              },
+            ],
+          },
+          {
+            title: 'Contribute',
+            items: [
               {
                 label: 'GitHub',
                 href: 'https://github.com/unicef/publicgoods-toolkit',
