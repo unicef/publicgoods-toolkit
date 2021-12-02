@@ -9,7 +9,7 @@ This list will surely be incomplete, as technology innovation is
 dynamic and open approaches are being refined in new DPG use cases.
 
 We look forward to [your
-recommendations](CONTRIBUTING.md#contributing-to-the-digital-public-goods-toolkit)
+recommendations](https://github.com/unicef/publicgoods-toolkit/blob/main/CONTRIBUTING.md)
 of new resources and tools you've found particularly useful in your
 DPG project!
 

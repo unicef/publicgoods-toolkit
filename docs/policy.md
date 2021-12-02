@@ -1049,7 +1049,7 @@ has received an enforcement notice or faced any penalties or
 investigations or if they've been involved in a data breach.  If the
 vendor is a leading contributor to an open-source project, you can
 also check out if that project follows the security items outlined in
-the [Adoptability](adoptabillity.md#adoptability-assessing-security)
+the [Adoptability](adoptability.md#adoptability-assessing-security)
 module and if they keep their own house in order.  See the [Appendix:
 Resources and
 Tools](appendix-resources-tools.md#appendix-resources-and-tools) for
