@@ -799,7 +799,7 @@ touch with the project's currents and to develop expertise that can be
 very useful to have in-house, even if you also have a support vendor.)
 
 **FUTURE WORK**: We were thinking of having a section "Internal
-Capacity Assessment" here.  To produrce it, one could start by
+Capacity Assessment" here.  To produce it, one could start by
 collecting relevant points from all the other sections, then examine
 what specific internal capacities would be needed to take advantage of
 or implement the advice given in those points.  It should be limited
