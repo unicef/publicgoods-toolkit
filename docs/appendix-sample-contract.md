@@ -1,3 +1,7 @@
+---
+sidebar_position: 11
+---
+
 # Appendix: Sample Contract Language 
 
 This appendix provides a sample statement of work around Open Source Quality Assurance practices

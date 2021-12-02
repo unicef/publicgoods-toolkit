@@ -1,3 +1,7 @@
+---
+sidebar_position: 7
+---
+
 # Adoptability Assessment
 
 **KEY RECOMMENDATION**: Review functionality, technical quality, and
@@ -858,7 +862,7 @@ Here is a map drawn to identify stakeholders in the [Arches
 Project](https://archesproject.org/). The original was hand-drawn,
 but we cleaned up a bit for publication:
 
-![Ecosystem map for the Arches Project (https://archesproject.org/).](images/example-ecosystem-map-768x550.png)
+![Ecosystem map for the Arches Project (https://archesproject.org/).](/img/example-ecosystem-map-768x550.png)
 
 Because we were interested in uncovering information about geographic
 distribution of support sources, this map includes regional groupings

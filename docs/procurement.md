@@ -1,3 +1,7 @@
+---
+sidebar_position: 6
+---
+
 # Procurement
 
 (TBD: The original title of this module -- that is, the title for its

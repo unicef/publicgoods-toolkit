@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # Policy
 
 **KEY RECOMMENDATION**: Use a well-known license as defined by the [Digital Public Good

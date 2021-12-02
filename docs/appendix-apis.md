@@ -1,3 +1,7 @@
+---
+sidebar_position: 8
+---
+
 # Appendix: Introduction to APIs for Non-Technical Readers
 
 An "Application Programming Interface" (API) is essentially a
