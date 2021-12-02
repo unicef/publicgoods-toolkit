@@ -804,8 +804,10 @@ collecting relevant points from all the other sections, then examine
 what specific internal capacities would be needed to take advantage of
 or implement the advice given in those points.  It should be limited
 to outlining what's most important and what's most often overlooked in
-thinking about internal capacity, for DPGs specifically; otherwise the
-topic could be too large and too general for this toolkit.
+thinking about internal capacity, for DPGs specifically, and ideally 
+come from talking through the toolkit with government agencies and 
+others involved with DPGs; otherwise the topic could be too large and 
+too general for this toolkit.  
 
 ## Ecosystem Mapping for Adoptability
 
