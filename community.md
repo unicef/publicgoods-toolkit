@@ -37,9 +37,7 @@ on Mifos.  Mifos has a lot of partners.  On an initial look we didn't
 find a lot of them showing up in the public repository -- maybe we
 didn't know the right places to look, though.  The development forum
 mailing list is pretty diverse, however, so on that basis it's fair to
-say the project has some diversity.  The Mifos web site also mentions
-a marketplace/app store but we couldn't find a link or other reference
-online.
+say the project has some diversity.  
 
 **KEY RECOMMENDATION**: Encourage commercial participation to improve a DPG's 
 adoption and sustainability, but take care to foster
