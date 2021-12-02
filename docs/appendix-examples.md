@@ -313,27 +313,3 @@ SORMAS [interoperates with District Health Information Software 2
 such as the electronic IDSR system and Epi
 Info](https://health.bmz.de/wp-content/uploads/studies/GHPC_SORMAS_full_version_final.pdf).
 It's also a Digital Square-approved global good.
-
-
-### Product: OpenHMIS
-
-(TBD: Karl and James to double-check this as an example product.)
-
-The United States' federal agency, Housing and Urban Development (HUD)
-operates a program called
-[HMIS](https://www.hudexchange.info/programs/hmis/), the Homeless
-Management Information System.  It is a data-collection effort used to
-inform policy at the state level.  States that receive federal support
-to address homelessness collect information to comply with funding
-program requirements.  The State of Georgia leads development of
-[OpenHMIS](http://openhmis.pcni.org/), an open-source package that
-helps states efficiently collect this information.
-
-**OpenHMIS is an example of where open source can play a lead role in
-making government operations more efficient**.  Because every state
-has to collect much the same data and submit it to HUD in much the
-same way, the software to support that data collection and submission
-has the same core requirements in every state.  Whenever that
-circumstance exists (and it exists quite often), there is an
-opportunity to develop an open-source approach that eases the path to
-compliance for all states.

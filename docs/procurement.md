@@ -4,13 +4,6 @@ sidebar_position: 6
 
 # Procurement
 
-(TBD: The original title of this module -- that is, the title for its
-main section, given above after the single "#" -- was as follows:
-"FOSS Procurement For Government Agencies {#procurement}".  Karl
-simplified it in order to match the relatively simple top-level names
-of the other modules, but he is open to feedback on that decision!)
-
-
 **KEY RECOMMENDATION**: Use modular contracting to better connect
 the right vendor to the right task, break vendor lock-in, and reduce
 risks associated with any one vendor. Modular contracting works best with an agile
@@ -595,19 +588,17 @@ experience. For a fuller description of what OSQA entails, please see
 a sample statement of work that includes OSQA in the 
 [Appendix: Sample Contract Language](appendix-sample-contract.md#open-source-quality-assurance).
 
-There are a variety of OSQA techniques one can introduce.  OSQA "sits
-on the tree" and enforces standards at the pull request stage.  This
-means OSQA approval is needed before source code changes can be
+There are a variety of OSQA techniques one can introduce.  OSQA can
+act as a gateway that enforces standards at the pull request stage.
+This means OSQA approval is needed before source code changes can be
 incorporated into the project.  Because incorporating changes to
 source code is a required deliverable for all software development
-vendors, when OSQA sits on the tree, it prevents vendors from
+vendors, this method prevents vendors from
 fulfilling contractual milestones unless they meet quality standards.
 Vendors soon realize they cannot invoice if they do not deliver
 approved code, which provides OSQA an entry point into a collaborative
 discussion about best practices that deliver high-quality code that
 passes approval standards quickly.
-
-(TODO: Find another term of describing "sit on the tree")
 
 OSQA enforces policies about testing, adherence to design
 guidelines, accessibility compliance, and communications (e.g. as
