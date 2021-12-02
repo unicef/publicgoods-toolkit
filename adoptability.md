@@ -798,18 +798,16 @@ technical way.  Presence in those forums is a good way to stay in
 touch with the project's currents and to develop expertise that can be
 very useful to have in-house, even if you also have a support vendor.)
 
-## Internal Capacity Assessment
-
-(TBD: Plan for this section is to collect the relevant points from all
-the other sections and examine what specific internal capacities would
-be needed to take advantage of or implement the advice given in those
-points.)
-
-[TODO from Susy: I think OTS's deep implementation experience is needed
-here to outline what's most important and what's often overlooked in
-thinking about internal capacity. I started to draft some categories
-for how I'd approach this, but I'm not sure I'm able to get to most
-salient and experiential-based insight.]  
+**FUTURE WORK**: We were thinking of having a section "Internal
+Capacity Assessment" here.  To produce it, one could start by
+collecting relevant points from all the other sections, then examine
+what specific internal capacities would be needed to take advantage of
+or implement the advice given in those points.  It should be limited
+to outlining what's most important and what's most often overlooked in
+thinking about internal capacity, for DPGs specifically, and ideally 
+come from talking through the toolkit with government agencies and 
+others involved with DPGs; otherwise the topic could be too large and 
+too general for this toolkit.  
 
 ## Ecosystem Mapping for Adoptability
 
@@ -911,11 +909,8 @@ gaps or useful opportunties?
 
 ## Evaluation Checklist
 
-TBD: This will be a summarized, curated checklist based on the
+(TODO: This will be a summarized, curated checklist based on the
 sections above, particularly the HOWTO items in them, and will refer
-back to them (note: we need a format that supports such references
-well; maybe Markdown does, but if not then Asciidoc or others should
-be considered).  Because this will be based on the material above,
-we'll wait until the module has been through some review and settles
-down a bit more before making this summarized checklist.  See also
-previous TBD note re "trawl mode".
+back to them.  Because this will be based on the material above, we'll
+wait until the module has been through some review and settles down a
+bit more before making this summarized checklist.)

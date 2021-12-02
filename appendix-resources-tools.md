@@ -14,20 +14,17 @@ DPG project!
 
 **Engaging Open Source Networks**
 
-(TODO: Sunita wanted to provide some thoughts on how to find
-associations or networks on OS + how to access global networks if
-local ones are not strong yet.  We're asking around for
-recommendations specific to Global South, hoping to find a
-recommendation that comes from experience.  There are so many
-resources out there... The Introduction currently notes to look at the
-Appendix for a few suggestions on this topic.)
-
-* Europe lists some, many useful globally too -- https://joinup.ec.europa.eu/collection/open-source-observatory-osor/about
-* Africa regions?
-* South America?
-* India?
-* SE Asia?
-
+**FUTURE WORK**: It would be great to offer some information here on
+how to find associations or networks for open source, and how to
+access global networks if local ones are not strong yet.  There are so
+many resources out there.  Note that in the
+[introduction](introduction.md#introduction), we already offer the
+advice to look in [Appendix: Resources and
+Tools](appendix-resources-tools.md#appendix-resources-and-tools) for
+some suggestions on this.  In Europe, there is the [Open Source
+Observatory](https://joinup.ec.europa.eu/collection/open-source-observatory-osor).
+But it would be good to present similar resources for Africa, South
+America, India, and Southeast Asia.
 
 You might also start by connecting with your local university,
 especially if there's a computer science or data science program.

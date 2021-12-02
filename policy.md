@@ -119,17 +119,6 @@ Government policies matter because they direct national attention and
 funding, set boundaries for private business and investment, and shape
 a narrative around what matters and why.
 
-(TBD: [@imahgoub
-says](https://github.com/unicef/publicgoods-toolkit/pull/24#discussion_r658086768):
-"I would recommend an overview of the role policy plays in regulating
-government software and creating (or not) an enabling environment for
-leveraging DPGs."  SUSY adds: leaving this comment here until we
-confirm this revision works.  There's a lot more that could be said
-here of course but I'm not sure it's useful to an operational focused
-toolkit.  Advocacy to create an appropriately integrated, supportive,
-self-reinforcing policy environment seems out of scope and these policy makers
-aren't the audience, as I understand it?)
-
 In this module, we narrow in on a few high-level policy considerations
 that DPGs are most likely to encounter and need to consider.  Many of
 these policy considerations flow from the legal structures within
@@ -353,10 +342,6 @@ using different words, your copyright monopoly cannot prevent that.
 (Monopoly on methods and mechanisms is instead the domain of patent
 law, which we discuss [elsewhere](#patent) in this module.)
 
-(TBD: Not sure whether it's worth mentioning the "droits moraux
-d'auteurs" aspect of copyright law that exists in some jurisdictions.
-That may or may not be a useful detail for DPG policy.)
-
 Thus open-source licenses are simply formal statements by the
 copyright holder, granting explicit permission to copy and share
 without limitation, including sharing modified versions.  open-source
@@ -568,7 +553,7 @@ of a DPG (or of some aspect of a DPG).  In some cases it may even be
 desirable: while a DPG can be "forked" -- that is, anyone can make a
 divergent version with their own changes, perhaps even with changes
 that the original authors disagree with (see the
-[Adoptability](adoptability.md#adoptability) module for more on this topic) -- it may be
+[Adoptability](adoptability.md#adoptability-assessment) module for more on this topic) -- it may be
 beneficial to the public to force the fork to distinguish itself
 clearly from the original, that is, to avoid being an impostor.
 Trademarks can be powerful tools for preventing abuse and thus
@@ -733,11 +718,12 @@ Development](https://digitalprinciples.org/principle/address-privacy-security/)
 that many mitigations can be phased, especially those you deem low
 risk and low probabilty.
 
-(TODO: I feel we need to make the above point re: low resource
-environments but I am not sure what else to add about possible
-resources or next steps.  UNICEF might know more about what
-coordination, capacity building and support might be going on this
-area? Or a program of their own that might be in the future?)
+**FUTURE WORK**: Having made the above point about low-resource
+environments, it would be good to also add some material about
+possible resources or next steps.  UNICEF might know more about what
+coordination, capacity building and support might be available for
+such environments?  Or perhaps might even have, or have in the future,
+a program of their own that might be suitable?
 
 **KEY RECOMMENDATION**: Do not rely on security through obscurity: secrecy doesn't 
 equal security. Open-source software provides the conditions for stronger security
@@ -902,7 +888,7 @@ identified security threats (which don't necessarily equate 1:1 with
 regulatory non-compliance).  Security risk assessments are geared to
 be more diagnostic and forward-looking and aim to help you in project
 planning, as opposed to the security audits we note in the
-[Adoptability](adoptability.md#adoptability) module, which analyze if
+[Adoptability](adoptability.md#adoptability-assessment) module, which analyze if
 security is meeting certain standards at a specific point in time.
 There are guides and models for doing security risk assessments, such
 as from the United States National Institute of Standards and
@@ -921,10 +907,6 @@ and the International Organization for Standardization (ISO), to
 create a [security
 assessment](https://www.measureevaluation.org/resources/publications/tr-20-413.html)
 that made more sense for on-the-ground circumstances.
-
-(TODO: any tools or templates that OTS has had experience with that
-we'd want to reference here? I'm unsure what a good right level one
-might be, esp one that has the right imprimatur)
 
 You'll also come up with potential treatments for each risk.  Remember
 to include "do nothing" along with proactive and reactive options, as
@@ -1047,14 +1029,11 @@ early in the design process so security, privacy, and
 rights-supporting decisions could be reflected in the product's
 architecture.  However, as legal frameworks and other needs differ
 across deployments, the team instituted an additional step of creating Data Protection Impact
-Assessments (see below) during the
+Assessments (see more about DPIAs under [GDPR](#gdpr)) during the
 design stage of deployment customization to be sure they were fully
 meeting the requirements of local regulation as well as of local aid
 workers, government agencies, and the vulnerable populations they
 serve.
-
-(TODO: Fix the above within-page internal reference to DPIAs if possible, I can't 
-figure it out)
 
 Data privacy also depends on thoughtful design matched with
 appropriate end-to-end security support.  The right privacy policies
@@ -1099,10 +1078,8 @@ related best practice recommendations around the various types of
 open data, from non-personally-identifiable but user-contributed data to sensor data?
 
 While this paper can't review the nuances and implications of all data
-privacy and protection laws, see the [GDPR](#GDPR) section below for
+privacy and protection laws, see the [GDPR](#gdpr) section below for
 practical advice that we feel is applicable to all projects.
-
-(TODO: fix above internal link)
 
 Data privacy regulations and laws are all based on the [OECD's Privacy
 Principles](http://oecdprivacy.org) from the 1970s.  In brief, they
@@ -1444,8 +1421,6 @@ critical to making software available to more diverse, global populations.
 The DPG OpenSRP project's list of [contribution
 types](https://smartregister.org/governance-structure/) gives you an
 idea of the possible breadth of community participation.
-
-(TODO: is "not yet published" above ok to cite?)
 
 **KEY RECOMMENDATION**: Think through your DPG's local ecosystem and
 consider opportunities for collaboration with academia, keeping in

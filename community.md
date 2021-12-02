@@ -32,12 +32,12 @@ provide a broad array of supporting services around the financial
 inclusion DPG [Mifos](https://mifos.org/), from custom development and
 hosting to business consulting and deployment support.
 
-(TODO: MIFOS has a lot of partners but I don't see a lot of them
-showing up in the public repo. I quickly looked at dev forum mailing
-list and it seems pretty diverse, so I think the above is fair enough
-to say. Not sure if an example comes to someone else's mind? Mifos web
-site also says they have a marketplace/app store but I couldn't find a
-link or other reference online...)
+**FUTURE WORK**: It would be useful to do some more in-depth research
+on Mifos.  Mifos has a lot of partners.  On an initial look we didn't
+find a lot of them showing up in the public repository -- maybe we
+didn't know the right places to look, though.  The development forum
+mailing list is pretty diverse, however, so on that basis it's fair to
+say the project has some diversity.  
 
 **KEY RECOMMENDATION**: Encourage commercial participation to improve a DPG's 
 adoption and sustainability, but take care to foster
