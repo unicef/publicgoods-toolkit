@@ -21,6 +21,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # Repository-specific files
+ublicgoods-toolkit.pdf
 publicgoods-toolkit-v*.pdf
 publicgoods-toolkit-v*.html
 .everything.md
