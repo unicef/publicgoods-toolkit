@@ -47,7 +47,7 @@ const config = {
           {
             position: 'left',
             label: 'Download PDF',
-            href: 'https://github.com/unicef/publicgoods-toolkit/releases/download/v0.1.0/publicgoods-toolkit.pdf',
+            href: 'https://github.com/unicef/publicgoods-toolkit/releases/latest/download/publicgoods-toolkit.pdf',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -91,7 +91,7 @@ const config = {
             items: [
               {
                 label: 'Toolkit PDF',
-                href: 'https://github.com/unicef/publicgoods-toolkit/releases/download/v0.1.0/publicgoods-toolkit.pdf',
+                href: 'https://github.com/unicef/publicgoods-toolkit/releases/latest/download/publicgoods-toolkit.pdf',
               },
             ],
           },
