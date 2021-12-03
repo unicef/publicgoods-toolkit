@@ -1,0 +1,43 @@
+name: release
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+jobs: 
+  build:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+      - name: Install dependencies
+        run: |
+          sudo apt-get install -y texlive-latex-base texlive-latex-recommended texlive-latex-extra;
+          wget https://github.com/jgm/pandoc/releases/download/2.16.2/pandoc-2.16.2-1-amd64.deb
+          sudo dpkg -i pandoc-2.16.2-1-amd64.deb
+      - name: Create release
+        id: release
+        uses: rymndhng/release-on-push-action@master
+        with:
+          bump_version_scheme: patch
+          tag_prefix: v
+      - name: Generate build artifacts
+        run: cd pdf && make
+        env:
+          PDF_VERSION: ${{ steps.release.outputs.tag_name }}
+      - name: Check Output Parameters
+        run: |
+          echo "Got tag name ${{ steps.release.outputs.tag_name }}"
+          echo "Got release version ${{ steps.release.outputs.version }}"
+      - name: Upload the artifacts to release
+        uses: svenstaro/upload-release-action@v2
+        with:
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          file: 'pdf/publicgoods-toolkit.pdf'
+          asset_name: 'publicgoods-toolkit.pdf'
+          overwrite: true
+          tag: ${{ steps.release.outputs.tag_name }}

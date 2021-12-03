@@ -18,7 +18,11 @@ html: $(SOURCES)
 	@echo "HTML output is not yet implemented."
 
 # The version number is what follows the word "version" in the title.
-VERSION := "0.1.0"
+# PDF_VERSION should be passed as an environment variable, but will
+# default to 0.1.0 if not present.
+# An easy way to specify it at runtime would be to run:
+# PDF_VERSION=v0.3.0 make
+PDF_VERSION ?= "0.1.0"
 
 # The rule is "pdf-preamble" not "pdf-preamble.yaml" because we don't
 # want it to refuse to rebuild the .yaml file when that file appears
@@ -27,7 +31,7 @@ VERSION := "0.1.0"
 # Also, yes, there is a 'sed' command in the 'sed' command below :-).
 pdf-preamble: pdf-preamble.yaml.in
 	@cat pdf-preamble.yaml.in  | sed -e "s/__DATE__/`date +'%d %B %Y' | sed -e 's/^0//g'`/" > pdf-preamble.yaml.tmp
-	@cat pdf-preamble.yaml.tmp | sed -e "s/__VERSION__/$(VERSION)/" > pdf-preamble.yaml
+	@cat pdf-preamble.yaml.tmp | sed -e "s/__VERSION__/$(PDF_VERSION)/" > pdf-preamble.yaml
 	@rm pdf-preamble.yaml.tmp
 
 # There are three ways we control the PDF output: 
@@ -101,5 +105,5 @@ pdf: pdf-preamble $(SOURCES)
                 --toc                                                     \
                 --toc-depth=5                                             \
                 --number-sections                                         \
-                -o publicgoods-toolkit-v$(VERSION).pdf                    \
+                -o publicgoods-toolkit.pdf                    \
                 .everything.md
