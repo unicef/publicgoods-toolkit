@@ -3,7 +3,7 @@
 [![CC BY-SA 4.0][cc-by-sa-shield]](LICENSE.md)
 
 
-The [UNICEF Office of Innovation](https://www.unicef.org/innovation/) will be working with a research consultancy firm to research and synthesize resources to produce an "Operational Toolkit" including detailed and evidence based recommendations for implementing [digital public goods](https://github.com/unicef/publicgoods-candidates) (DPGs) at the country level. 
+The [UNICEF Office of Innovation](https://www.unicef.org/innovation/) will be working with a research consultancy firm to research and synthesize resources to produce an "Operational Toolkit" including detailed and evidence based recommendations for implementing [digital public goods](https://github.com/DPGAlliance/publicgoods-candidates) (DPGs) at the country level. 
 
 The purpose of this toolkit is to provide country governments and UN-affiliated agencies with country and product specific best practices and frameworks for deploying DPGs, specifically on:  
 
