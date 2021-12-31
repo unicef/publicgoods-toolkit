@@ -24,6 +24,6 @@ cd pdf
 make
 ```
 
-which will output a file named `publicgoods-toolkit-{version}.pdf`.
+which will output a file named `publicgoods-toolkit.pdf`.
 
 Refer to the inline documentation in the [Makefile](Makefile) for the specific steps in preprocessing and correctly ordering the Markdown files, and [CONTRIBUTING](../CONTRIBUTING.md) for the conventions used throughout this project to maintain consistency.
