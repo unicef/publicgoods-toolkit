@@ -4,7 +4,7 @@ The contents of this folder are used towards the automated generation of a PDF o
 
 ## Requirements
 
-Generating a PDF, requires both `pandoc` (v2.9 or higher) and `TeX` to be installed in the system.
+Generating a PDF requires both `pandoc` (v2.9 or higher) and `TeX` to be installed in the system.
 
 * MacOS: Run the following commands to install the necessary dependencies
 
