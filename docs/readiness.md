@@ -78,10 +78,9 @@ organization that shapes their operational environment, and at some
 point the broader the organizational view matters.  When and under
 what conditions this occurs is very case dependent.
 
-There are several readiness models that go by various names.
-  We
-share a number of them here because it is often worth considering more
-than one when examining an organization or a particular team.
+There are several readiness models that go by various names.  We share
+a number of them here because it is often worth considering more than
+one when examining an organization or a particular team.
 
 * [Jeff McAffer's Engagement Model](https://mcaffer.com/2019/02/Open-source-engagement)
  

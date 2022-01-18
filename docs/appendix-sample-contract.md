@@ -17,14 +17,14 @@ Below is an example **Statement of Work** for an open-source project that includ
 
 Following the open-sourcing of Software, Vendor proposes to assist Client State to:
 
-   - Monitor and improve deployability: Monitor and advise on Software's deployability by other jurisdictions; improve Software's deployability as needed.
-  - Improve deployment process: Analyze, improve, and document Software's deployment process.
-  - Manage third-party contributions: Help manage code contributions and other contributions from third-party contributors.
+- Monitor and improve deployability: Monitor and advise on Software's deployability by other jurisdictions; improve Software's deployability as needed.
+- Improve deployment process: Analyze, improve, and document Software's deployment process.
+- Manage third-party contributions: Help manage code contributions and other contributions from third-party contributors.
 - Assist with public communications: Help inform governments and the civic technology community about Software's availability and capabilities.
- - Plan and advise on long-term maintenance: Help find or create an appropriate long-term home for the Software source code and related assets, to support long-term maintenance while also ensuring that State's needs with respect to Software continue to be met.  This involve forming or joining a consortium.
- - Develop open-source contracting and procurement language: See description below.
- - Advise on open source / open technology processes: See description below.
- - Hackathons / Events: Organize and/or assist in organizing hackathons and other events to promote actionable interest in Software.
+- Plan and advise on long-term maintenance: Help find or create an appropriate long-term home for the Software source code and related assets, to support long-term maintenance while also ensuring that State's needs with respect to Software continue to be met.  This involve forming or joining a consortium.
+- Develop open-source contracting and procurement language: See description below.
+- Advise on open source / open technology processes: See description below.
+- Hackathons / Events: Organize and/or assist in organizing hackathons and other events to promote actionable interest in Software.
 
 This proposed Statement of Work describes mainly ongoing processes. Although each process will likely have specific deliverables associated with it, not all of those deliverables can be predicted in advance. Therefore, this SOW proposes activities with time boundaries, not with the intention of ending the work when the time limit is reached, but to give State a scheduled checkpoint to assess the quality and direction of the work so far, with the option to extend and/or amend the contract if desired.
 
@@ -46,14 +46,14 @@ Manage third-party contributions
 
 Many aspects of managing incoming open-source contributions (core code, documentation, sample data, third-party deployment scripts, bug reports, etc) do not require deep technical expertise in the software.  Vendor proposes to handle, as an ongoing process, the parts of contribution management than can be separated from in-depth code review and technical decision-making.  State and Vendor would of course still make final decisions about what contributions to accept, and how, but Vendor would take care of the entry-level open-source project management bureaucracy as much as possible, including but not necessarily limited to:
 
- - Day-to-day communications with participants in the project's open-source forums;
- - First-pass review of contributions, to ensure proper formatting, description (log message), etc;
-  - First-pass review of public bug reports, to have initial dialogue with the reporter, resolve duplicates, make sure proper reproduction recipes are included, answer common questions, spot trends in the user community, etc.
- - Monitoring of the public discussion forums, to make sure the right parties are talking to each other, to help gather a formal knowledge base (e.g., FAQ) about the software, and to flag important items for State and/or Vendor's attention
- - Management of Contributor License Agreements, to make sure the project can legally and safely accept the contribution;
- - Management of contributors in GitHub;
+- Day-to-day communications with participants in the project's open-source forums;
+- First-pass review of contributions, to ensure proper formatting, description (log message), etc;
+- First-pass review of public bug reports, to have initial dialogue with the reporter, resolve duplicates, make sure proper reproduction recipes are included, answer common questions, spot trends in the user community, etc.
+- Monitoring of the public discussion forums, to make sure the right parties are talking to each other, to help gather a formal knowledge base (e.g., FAQ) about the software, and to flag important items for State and/or Vendor's attention
+- Management of Contributor License Agreements, to make sure the project can legally and safely accept the contribution;
+- Management of contributors in GitHub;
 - Management of public-facing documentation, to the extent that deep technical knowledge of Software is not required (which we anticipate being a fairly broad extent);
- - Coordinate with Vendor on contributions that are being accepted into the core code for general release, to make sure that the internal development process is plugged into the public forums in ways the community can use.
+- Coordinate with Vendor on contributions that are being accepted into the core code for general release, to make sure that the internal development process is plugged into the public forums in ways the community can use.
 
 We believe that this semi-separable part of contribution management is probably more than half of the typical public engagement overhead of running an open-source project – speaking roughly, somewhere between 70% and 75% of that overhead.  Having Vendor handle this portion would allow Vendor to concentrate on technical review and on just the communications that directly involve core code or State-desired features, and maximize the project's ability to get the full advantage of public engagement, which, if done right, far outweighs the overhead.  Vendor would of course remain free to become as involved with public technical engagement as they wish to be & have the bandwidth to be, and Vendor would fully support them in this.
 
@@ -489,6 +489,7 @@ shall cooperate fully with Customer in all reasonable and lawful efforts to
 prevent, mitigate or rectify such Data Breach. In addition to the notice requirement 
 contained herein, [Cloud Provider] will also immediately report any such Data 
 Breach to Customer's Legal Department at [insert telephone number or address]
+
 ___________________________________________
 
 **Insurance Clause for Cyber‐liability Insurance**.

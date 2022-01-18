@@ -1298,7 +1298,7 @@ Additional GDPR requirements include:
   audits](https://ico.org.uk/media/for-organisations/documents/2787/guide-to-data-protection-audits.pdf)
   are 'snapshot-in-time' checks into whether you have effective controls and 
   processes in place to fulfill 
-  your data protection obligations. They
+  your data protection obligations.  They
   should be performed on a regular basis.  How regular depends on the
   sensitivity of the data being processed and the threat assessment.
   A DPG that helps refugees find health services in a neighboring
