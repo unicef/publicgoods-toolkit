@@ -417,7 +417,7 @@ will often want to deploy their own copy of the system, using a
 deployment configuration that they are accustomed to, and move your
 data from the old system to the new system.  In order to better enforce this point 
 about data portability, agencies could consider adding a 
-contractural clause that a vendor is required to put in additional hours above
+contractual clause that a vendor is required to put in additional hours above
 a certain baseline to port data to a new vendor implementation, 
 should the need to switch vendor support arise at some future point. 
 
@@ -720,8 +720,8 @@ the trucks that will be coming to the market next year.  But with
 DPGs, that possibility very much exists, and this should be taken into
 account when evaluating both a particular DPG and your own current
 capacity for taking advantage of that opportunity (for more on the
-latter point, see the note about possible future work on assessing internal 
-capacity below).
+latter point, see the note later in this chapter about possible future
+work on assessing internal capacity).
 
 The evaluative question being asked here is: "What
 routes does the project have for us to convert our own usage, and
@@ -933,8 +933,9 @@ ways similar to your plans?
     and post- action cleaning and manipulation? 
 - Is the product extensible? 
     - Do many extensions exist, and are they being used? 
-    - If you are evaluating vendors to help you with an extensible product, has 
-    the vendor created successful extensions? 
+    - If you are evaluating a vendor to help you with an extensible
+      product, does the vendor have a history of creating successful
+      extensions for others?
  
 **Does the product meet your requirements for technical quality?** 
 - Is the product as secure as possible? 
@@ -942,8 +943,8 @@ ways similar to your plans?
     - Are there published security patch releases? Is there a published process 
     for publishing these patches? 
     - Are any third-party dependencies updated? 
-    - Does the project publish Common Vulnerability Exposure number(s)? (usually 
-    most relevant for more mature projects) 
+    - Does the project publish Common Vulnerability Exposure (CVE) number(s)? 
+      (usually most relevant for more mature projects) 
     - Does the project publish security audits? (usually most relevant for more 
     mature projects) 
 - Is the product stable and reliable? 
