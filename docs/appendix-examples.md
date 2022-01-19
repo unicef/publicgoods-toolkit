@@ -46,7 +46,7 @@ in response to Ebola outbreaks in multiple countries.
 
 ### Lutece
 
-This [https://www.lutece.paris.fr/](government services portal) was
+The [Lutece government services portal](https://www.lutece.paris.fr/) was
 developed by the city of Paris, France and has recently become the
 subject of international attention, as they make greater efforts to
 support multi-jurisdictional adoption.

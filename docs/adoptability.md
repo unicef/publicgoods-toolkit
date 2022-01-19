@@ -216,7 +216,7 @@ that distinction is important.
   very seriously and therefore obtains CVE numbers even for small,
   trivial security problems that don't really put user data at risk.
 
-**KEY RECOMMENDATION**: [Search the CVE
+  **KEY RECOMMENDATION**: [Search the CVE
   list](https://cve.mitre.org/find/search_tips.html) to see how
   well-represented the product you're considering is in the CVE
   database.
@@ -437,8 +437,12 @@ from/to it.
 
 It is unfortunate that such a key concept is hidden behind the
 technical acronym 'API.'  If you aren't already familiar with what
-APIs do, please take a moment to read the Introduction to APIs for
-Non-Technical Readers section in the [Appendix: APIs](appendix-apis.md#appendix-introduction-to-apis-for-non-technical-readers) as well as the example of Open Referral in the [Appendix: Examples](appendix-examples.md#appendix-examples), then come back here.
+APIs do, please take a moment to read the "Introduction to APIs for
+Non-Technical Readers" section in the [Appendix:
+APIs](appendix-apis.md#appendix-introduction-to-apis-for-non-technical-readers)
+as well as the example of Open Referral in the [Appendix:
+Examples](appendix-examples.md#appendix-examples), then come back
+here.
 
 Having a documented API as part of a service is very important.  APIs
 make many things possible. The read-only side of an API enables
@@ -860,9 +864,9 @@ should be messy and quick -- a year from now it will probably be out
 of date, and that's okay.  Just hand-draw it on paper or on a
 whiteboard.
 
-Here is a map drawn to identify stakeholders in the [Arches
-Project](https://archesproject.org/). The original was hand-drawn,
-but we cleaned up a bit for publication:
+The figure below is a map drawn to identify stakeholders in the
+[Arches Project](https://archesproject.org/).  The original was
+hand-drawn, but we cleaned up a bit for publication.
 
 ![Ecosystem map for the Arches Project (https://archesproject.org/).](/img/example-ecosystem-map-768x550.png)
 
@@ -923,14 +927,14 @@ simple, unprioritized checklist.
 **Does the product meet your functional requirements?**
  
 - Do the functional Application Programming Interfaces (APIs) you’ll need exist, 
-and are they well documented? Can you find examples of these APIs being used in 
-ways similar to your plans?
+  and are they well documented? Can you find examples of these APIs being used in 
+  ways similar to your plans?
 - Will your data be portable? 
     - Can you extract or import non-PII data in a non-proprietary format? (a 
-    requirement of the DPG standard!)
+      requirement of the DPG standard!)
     - Can you import and export data in the formats you expect to need? 
     - Can you generally import and export data with an acceptable level of pre- 
-    and post- action cleaning and manipulation? 
+      and post- action cleaning and manipulation? 
 - Is the product extensible? 
     - Do many extensions exist, and are they being used? 
     - If you are evaluating a vendor to help you with an extensible
@@ -938,75 +942,80 @@ ways similar to your plans?
       extensions for others?
  
 **Does the product meet your requirements for technical quality?** 
+
 - Is the product as secure as possible? 
     - Is there a documented process for reporting security vulnerabilities?
     - Are there published security patch releases? Is there a published process 
-    for publishing these patches? 
+      for publishing these patches? 
     - Are any third-party dependencies updated? 
     - Does the project publish Common Vulnerability Exposure (CVE) number(s)? 
       (usually most relevant for more mature projects) 
     - Does the project publish security audits? (usually most relevant for more 
-    mature projects) 
+      mature projects) 
 - Is the product stable and reliable? 
-   -  What’s your analysis based on bug reports? 
+    - What’s your analysis based on bug reports? 
     - What's your analysis of public conversations around the product? 
     - Do commercial vendors offer services around the product? 
 - Is the product scalable enough? 
     - First, do you understand the scale you’ll require from the product? 
     - Does the default product configuration meet your needs? 
     - If not, is there an indication -- through formal documentation, product 
-    reviews, conversations in user forums, etc. -- that the product can scale to 
-    your needs?
-     - Can you invest appropriately to deploy and support the DPG to meet your 
-     scalability requirements? 
-     - Again, do Application Programming Interfaces (APIs) exist and are they 
-     well documented? Can you find public examples of the product’s APIs being 
-     used for the level of scale you’ll need? 
+      reviews, conversations in user forums, etc. -- that the product can scale to 
+      your needs?
+    - Can you invest appropriately to deploy and support the DPG to meet your 
+      scalability requirements? 
+    - Again, do Application Programming Interfaces (APIs) exist and are they 
+      well documented? Can you find public examples of the product’s APIs being 
+      used for the level of scale you’ll need? 
  
 **Does the project seem to be sustainable?** 
+
 - Are there diverse, resource-committing participants?
-- Based on a rough idea of the project's archetype, do you see the predicted types 
-of participants?  
-- Are there commercial participants? 
+- Based on a rough idea of the project's archetype, do you see the predicted types
+  of participants?
+- Are there commercial participants?
 - What are the gaps and opportunities you see based on a project ecosystem map?  
-How might these impact sustainability?   
+  How might these impact sustainability?   
  
 **Does the project seem responsive to user needs?**
+
 - Are bug reports generally processed in a timely fashion? (note that not all 
-bugs can be fixed quickly, but the bug reporting system should still give you 
-a good indication of attention)
+  bugs can be fixed quickly, but the bug reporting system should still give you 
+  a good indication of attention)
 - Are contributions welcomed? 
 - Are there ways for participants to influence the roadmap? 
 - When security vulnerabilities arise, does the project handle them promptly and 
-competently? 
+  competently? 
 - Are there community participation guidelines, and are they enforced?
  
 **Will the project provide the level of support you require?**
+
 - Is the documentation around system installation and initial configuration of 
-high quality?
+  high quality?
 - Overall, is documentation clear and updated? 
 - Are there commercial support providers around the product?
 - If so, are they engaged in the project's development community?
 - Are there active user forums? (e.g. non-commercial support)
 
 
-**FUTURE WORK**: More in-depth evaluation templates might be useful to create 
-in the future as 
-this toolkit is further tested and revised. The first suggestion is 
-a scoring and ranking template to help agencies use the points outlined in this 
-section to more deeply assess open source products for adoption as a standalone 
-DPG or as components in a new DPG. The second is an internal capacity assessment 
-template aimed at 
-helping agencies evaluate their ability to leverage the toolkit’s broader set of 
-recommendations. These potential templates would be separate but equally important 
-tools for decision making and planning.  Such templates should start simply, but 
-we can imagine that different weighting prioritizations might eventually develop 
-depending on the application area, the desired social impact, or whether an agency 
-is adopting a product generally “as is” or using it as a component. For example, 
-an agency might place greater value on the implementation experience of a 
-contracting vendor with a specific open source product if that product will be 
-adopted wholesale versus as a component in a new DPG. The latter scenario might 
-place more weight on the agency’s internal capacity to manage various open source 
+**FUTURE WORK**: More in-depth evaluation templates might be useful to
+create in the future as this toolkit is further tested and
+revised. The first suggestion is a scoring and ranking template to
+help agencies use the points outlined in this section to more deeply
+assess open source products for adoption as a standalone DPG or as
+components in a new DPG. The second is an internal capacity assessment
+template aimed at helping agencies evaluate their ability to leverage
+the toolkit’s broader set of recommendations. These potential
+templates would be separate but equally important tools for decision
+making and planning.  Such templates should start simply, but we can
+imagine that different weighting prioritizations might eventually
+develop depending on the application area, the desired social impact,
+or whether an agency is adopting a product generally “as is” or using
+it as a component. For example, an agency might place greater value on
+the implementation experience of a contracting vendor with a specific
+open source product if that product will be adopted wholesale versus
+as a component in a new DPG. The latter scenario might place more
+weight on the agency’s internal capacity to manage various open source
 components.
 
 Lastly, there might be value in extending these templates to evaluate the 

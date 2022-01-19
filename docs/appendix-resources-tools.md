@@ -45,9 +45,8 @@ and helpful to you online.
 
 **Benefits of Open Source**
 
-* The World Bank report [Open Source for Global Public
-  Goods](https://openknowledge.worldbank.org/handle/10986/33401)
-  (2019) gives an overview of the benefits of open source, along with
+* The World Bank report [Open Source for Global Public Goods](https://openknowledge.worldbank.org/handle/10986/33401) (2019) 
+  gives an overview of the benefits of open source, along with
   sensible operational advice -- especially for those working in
   resource-constrained environments -- and a few case studies around
   Identification for Development (ID4D).  It reiterates many of the
@@ -225,7 +224,7 @@ manager](https://www.kobotoolbox.org/join-our-team/project-community-engagement-
 from the the team behind the Kobo Toolbox DPG (accessed Sept. 2021).
 
 **Clear guidance around *how* to contribute and what the project is looking 
-for with contributions** is as important as community governance and management.  
+for with contributions** is as important as community governance and management.
 The UNICEF Innovation team maintains a [public repository of best practices and 
 resources](https://github.com/unicef/inventory) around working 'openly' in creating 
 and managing digital public goods that includes some tips on how to write good 
