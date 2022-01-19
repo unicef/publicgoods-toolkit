@@ -20,20 +20,21 @@ The toolkit takes a topic-focused approach, presenting practical
 recommendations around guidelines, tools, and frameworks to
 help agencies create a successful DPG.  It does not cover software engineering 
 best practices or tips on specific technology choices, but rather focuses on 
-higher level 
-topics, including: 
-* Understanding the types
-and value of open-source communities and project lifecycles
-* National
-and agency-level policies that relate to Free and Open Source Software
-(FOSS), including intellectual property and FOSS licenses, data
-privacy, and security
-* How to plan for and build organizational
-readiness to capture the full value of your open-source DPG
-* Tips for improving
-procurement, including sample contract language
-* How to analyze an
-existing FOSS product for adoptability  
+higher level topics, including: 
+
+* Understanding the types and value of open-source communities and
+  project lifecycles
+
+* National and agency-level policies that relate to Free and Open
+  Source Software (FOSS), including intellectual property and FOSS
+  licenses, data privacy, and security
+
+* How to plan for and build organizational readiness to capture the
+  full value of your open-source DPG
+
+* Tips for improving procurement, including sample contract language
+
+* How to analyze an existing FOSS product for adoptability
 
 The toolkit can be read as a whole or by
 individual module and topic. Key recommendations are
@@ -244,7 +245,7 @@ on:
    freely shared and are trained on open data sets and
    based on algorithms implemented in open-source software.
 
-   ## DPGs Are About Collaboration, Not Licenses
+## DPGs Are About Collaboration, Not Licenses
 
 Any discussion of "open" technologies and DPGs will eventually include
 mention of licensing.  It is in many ways foundational.  It is also
