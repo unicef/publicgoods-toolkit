@@ -60,7 +60,7 @@ over by open-source offerings that crowd out once-dominant proprietary
 competitors.  It is fair to say that open source, once maligned by
 much of the commercial software world, has emerged victorious and is
 now a major component of every software effort of note today.
-fooo
+
 Relatedly, an agile, iterative, and continuous style of development
 has taken hold at the most successful technology companies.  Gmail,
 Facebook, and other online services are constantly
