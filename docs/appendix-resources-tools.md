@@ -235,7 +235,7 @@ another area for community contribution.
 
 **Regarding external financing, the [Guidelines for Funding Open
 Source Software
-Development](https://www.archesproject.org/wp-content/uploads/2018/01/guidelines_funding_OSS.pdf])
+Development](https://www.archesproject.org/wp-content/uploads/2018/01/guidelines_funding_OSS.pdf)
 was written with an audience of public and private foundations in
 mind** and will give you a good sense of what many funders are likely
 to look for in a proposal that includes open-source software
