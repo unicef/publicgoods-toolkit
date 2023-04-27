@@ -266,7 +266,7 @@ opportunities and is susceptible to improvement in open ways, we say
 it "behaves" in an open way.  That behavior is where the public
 benefits are.  It is where an agency's policy goals are met.  That
 behavior doesn't come from a license alone; see our description of Open Source
-Quality Assurance practices in the [Procurement](procurement.md#open-source-quality-assurance) moduler.
+Quality Assurance practices in the [Procurement](procurement.md#open-source-quality-assurance) module.
 
 As you consider these modules and apply them to your work, keep in
 mind what DPGs are best at: sharing costs, multiplying benefits,
